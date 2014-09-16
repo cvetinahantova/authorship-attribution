@@ -1,0 +1,25 @@
+{
+    "name": "authorship-attribution-node-api",
+    "description": "Authorship attribution API",
+    "main" : "servier.js",
+    "version": "0.0.1",
+    "private": true,
+    "dependencies": {
+        "express": "4.8.x",
+        "mongoose": "3.8.x",
+        "body-parser": "1.6.x",
+        "method-override" : "~2.0.2",
+        "natural": "latest"
+    },
+    "devDependencies": {
+        "grunt": "~0.4.4",
+        "grunt-contrib-jshint": "latest",
+        "jshint-stylish": "latest",
+        "grunt-contrib-uglify": "latest",
+        "grunt-contrib-less": "latest",
+        "grunt-contrib-cssmin": "latest",
+        "grunt-contrib-watch": "latest",
+        "grunt-nodemon": "~0.3.0",
+        "grunt-concurrent": "~0.5.0"
+    }
+}
