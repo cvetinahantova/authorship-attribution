@@ -1,4 +1,8 @@
 var fs = require("fs");
+var readline = require("readline");
+var stream = require("stream");
+
+var WordFrequency = require('../models/WordFrequency.js');
 
 module.exports.readFile = function(filename){
     fs.exists(filename, function(exists){
@@ -15,5 +19,29 @@ module.exports.readFile = function(filename){
                });
             });
         }
+    });
+}
+
+module.exports.saveFrequencyDictionary = function(filename)
+{
+    var wordFrequencies = new Array();
+    var wordFrequency = new WordFrequency();
+
+    var outstream = new stream;
+    var instream = fs.createReadStream(filename);
+
+    var readstream = readline.createInterface(instream, outstream);
+
+    readstream.on('line', function(line){
+        var splitLine = line.split(" ");
+
+        wordFrequency = new WordFrequency();
+        wordFrequency.frequency = splitLine[0];
+        wordFrequency.word = splitLine[1];
+        wordFrequency.pos = splitLine[2];
+        wordFrequency.filesNumber = splitLine[3]
+
+        WordFrequency.create(wordFrequency, function(err, word) {
+        });
     });
 }
