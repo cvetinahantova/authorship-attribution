@@ -9,7 +9,10 @@
         "mongoose": "3.8.x",
         "body-parser": "1.6.x",
         "method-override" : "~2.0.2",
-        "natural": "latest"
+        "humanize-duration" : "latest",
+        "natural": "latest",
+        "node-svm": "latest",
+        "stanford-corenlp": "latest"
     },
     "devDependencies": {
         "grunt": "~0.4.4",

@@ -1,5 +1,5 @@
 var WordFrequency = require('../models/WordFrequency.js');
-var Feature = require('../models/Feature.js');
+var Feature = require('../models/FeatureSet.js');
 
 var nlpAlg = require("./nlp-algorithms");
 var fs = require("fs");
@@ -35,31 +35,42 @@ var constructNaturalFrequencyArray = function(tokens, done)
 }
 
 var calculateOccurrenceDistanceExpectation = function(zoneWords){
-    return 1/zoneWords.length;
+
+    if(zoneWords){
+        return 1/zoneWords.length;
+    }
+    else{
+        return 0;
+    }
 }
 
 var calculateOccurrenceDistanceVariance = function(zoneWords, zoneWordsOccurrences){
 
-    var expectation = calculateOccurrenceDistanceExpectation(zoneWords);
-    var variance = 0;
+    if(zoneWords) {
+        var expectation = calculateOccurrenceDistanceExpectation(zoneWords);
+        var variance = 0;
 
-    for(var i=0; i<zoneWords.length;i++){
-        var distance = 0;
+        for (var i = 0; i < zoneWords.length; i++) {
+            var distance = 0;
 
-        if(i==0){
-            distance = zoneWordsOccurrences[i];
-        }
-        else if(i==(zoneWords.length - 1)){
-            distance = 1 - zoneWordsOccurrences[i-1];
-        }
-        else{
-            distance = Math.abs(zoneWordsOccurrences[i] - zoneWordsOccurrences[i-1]);
+            if (i == 0) {
+                distance = zoneWordsOccurrences[i];
+            }
+            else if (i == (zoneWords.length - 1)) {
+                distance = 1 - zoneWordsOccurrences[i - 1];
+            }
+            else {
+                distance = Math.abs(zoneWordsOccurrences[i] - zoneWordsOccurrences[i - 1]);
+            }
+
+            variance = variance + Math.pow(distance - expectation, 2);
         }
 
-        variance = variance + Math.pow(distance - expectation, 2);
+        return 1 / expectation * (Math.sqrt(variance / (zoneWords.length)));
     }
-
-    return 1/expectation*(Math.sqrt(variance/(zoneWords.length)));
+    else{
+        return 0;
+    }
 }
 
 // Partition functions
@@ -115,7 +126,7 @@ var NFZPartition = function(tokenizedText, wordFrequencies, partitionFunction){
 }
 
 module.exports.constructFeatureSet = function(filename, done){
-
+    console.log('constructFeatureSet ' + filename);
     fs.readFile(filename, "utf8", function(err, data){
 
         if(!err) {
@@ -133,20 +144,20 @@ module.exports.constructFeatureSet = function(filename, done){
 
                 // Text style computation
                 var textFeatures = [];
-                for(var zone in naturalFrequencyZones)
+
+                var featureCount = Math.max.apply(null, (Object.keys(naturalFrequencyZones)));
+                console.log(featureCount);
+                for(var i=0;i<featureCount; i++)
                 {
-                    if(naturalFrequencyZones.hasOwnProperty(zone)){
+                        var expectation = calculateOccurrenceDistanceExpectation(naturalFrequencyZones[i]);
+                        var variance = calculateOccurrenceDistanceVariance(naturalFrequencyZones[i], wordNormalizedOccurrences[i]);
 
-                        var expectation = calculateOccurrenceDistanceExpectation(naturalFrequencyZones[zone]);
-                        var variance = calculateOccurrenceDistanceVariance(naturalFrequencyZones[zone], wordNormalizedOccurrences[zone]);
+                        // push expectation
+                        textFeatures.push(expectation);
 
-                        var feature = new Feature();
-                        feature.nfZone = zone;
-                        feature.expectation = expectation;
-                        feature. variance = variance;
+                        // push variance
+                        textFeatures.push(variance);
 
-                        textFeatures.push(feature);
-                    }
                 }
                 done(null, textFeatures);
             });

@@ -1,0 +1,1929 @@
+{
+    "document": {
+        "sentences": {
+            "sentence": {
+                "$": {
+                    "id": "1"
+                },
+                "tokens": {
+                    "token": [
+                        {
+                            "$": {
+                                "id": "1"
+                            },
+                            "word": "One",
+                            "lemma": "one",
+                            "CharacterOffsetBegin": "0",
+                            "CharacterOffsetEnd": "3",
+                            "POS": "CD",
+                            "NER": "DURATION",
+                            "NormalizedNER": "P1D",
+                            "Timex": {
+                                "_": "P1D",
+                                "$": {
+                                    "tid": "t1",
+                                    "type": "DURATION"
+                                }
+                            }
+                        },
+                        {
+                            "$": {
+                                "id": "2"
+                            },
+                            "word": "day",
+                            "lemma": "day",
+                            "CharacterOffsetBegin": "4",
+                            "CharacterOffsetEnd": "7",
+                            "POS": "NN",
+                            "NER": "DURATION",
+                            "NormalizedNER": "P1D",
+                            "Timex": {
+                                "_": "P1D",
+                                "$": {
+                                    "tid": "t1",
+                                    "type": "DURATION"
+                                }
+                            }
+                        },
+                        {
+                            "$": {
+                                "id": "3"
+                            },
+                            "word": "I",
+                            "lemma": "i",
+                            "CharacterOffsetBegin": "8",
+                            "CharacterOffsetEnd": "9",
+                            "POS": "CD",
+                            "NER": "NUMBER",
+                            "NormalizedNER": "0.0"
+                        },
+                        {
+                            "$": {
+                                "id": "4"
+                            },
+                            "word": "will",
+                            "lemma": "will",
+                            "CharacterOffsetBegin": "10",
+                            "CharacterOffsetEnd": "14",
+                            "POS": "MD",
+                            "NER": "O"
+                        },
+                        {
+                            "$": {
+                                "id": "5"
+                            },
+                            "word": "be",
+                            "lemma": "be",
+                            "CharacterOffsetBegin": "15",
+                            "CharacterOffsetEnd": "17",
+                            "POS": "VB",
+                            "NER": "O"
+                        },
+                        {
+                            "$": {
+                                "id": "6"
+                            },
+                            "word": "ashamed",
+                            "lemma": "ashamed",
+                            "CharacterOffsetBegin": "18",
+                            "CharacterOffsetEnd": "25",
+                            "POS": "JJ",
+                            "NER": "O"
+                        },
+                        {
+                            "$": {
+                                "id": "7"
+                            },
+                            "word": "of",
+                            "lemma": "of",
+                            "CharacterOffsetBegin": "26",
+                            "CharacterOffsetEnd": "28",
+                            "POS": "IN",
+                            "NER": "O"
+                        },
+                        {
+                            "$": {
+                                "id": "8"
+                            },
+                            "word": "what",
+                            "lemma": "what",
+                            "CharacterOffsetBegin": "29",
+                            "CharacterOffsetEnd": "33",
+                            "POS": "WP",
+                            "NER": "O"
+                        },
+                        {
+                            "$": {
+                                "id": "9"
+                            },
+                            "word": "is",
+                            "lemma": "be",
+                            "CharacterOffsetBegin": "34",
+                            "CharacterOffsetEnd": "36",
+                            "POS": "VBZ",
+                            "NER": "O"
+                        },
+                        {
+                            "$": {
+                                "id": "10"
+                            },
+                            "word": "written",
+                            "lemma": "write",
+                            "CharacterOffsetBegin": "37",
+                            "CharacterOffsetEnd": "44",
+                            "POS": "VBN",
+                            "NER": "O"
+                        },
+                        {
+                            "$": {
+                                "id": "11"
+                            },
+                            "word": "here",
+                            "lemma": "here",
+                            "CharacterOffsetBegin": "45",
+                            "CharacterOffsetEnd": "49",
+                            "POS": "RB",
+                            "NER": "O"
+                        },
+                        {
+                            "$": {
+                                "id": "12"
+                            },
+                            "word": "but",
+                            "lemma": "but",
+                            "CharacterOffsetBegin": "50",
+                            "CharacterOffsetEnd": "53",
+                            "POS": "CC",
+                            "NER": "O"
+                        },
+                        {
+                            "$": {
+                                "id": "13"
+                            },
+                            "word": "I",
+                            "lemma": "I",
+                            "CharacterOffsetBegin": "54",
+                            "CharacterOffsetEnd": "55",
+                            "POS": "PRP",
+                            "NER": "O"
+                        },
+                        {
+                            "$": {
+                                "id": "14"
+                            },
+                            "word": "hope",
+                            "lemma": "hope",
+                            "CharacterOffsetBegin": "56",
+                            "CharacterOffsetEnd": "60",
+                            "POS": "VBP",
+                            "NER": "O"
+                        },
+                        {
+                            "$": {
+                                "id": "15"
+                            },
+                            "word": "that",
+                            "lemma": "that",
+                            "CharacterOffsetBegin": "61",
+                            "CharacterOffsetEnd": "65",
+                            "POS": "IN",
+                            "NER": "O"
+                        },
+                        {
+                            "$": {
+                                "id": "16"
+                            },
+                            "word": "regardless",
+                            "lemma": "regardless",
+                            "CharacterOffsetBegin": "66",
+                            "CharacterOffsetEnd": "76",
+                            "POS": "RB",
+                            "NER": "O"
+                        },
+                        {
+                            "$": {
+                                "id": "17"
+                            },
+                            "word": "of",
+                            "lemma": "of",
+                            "CharacterOffsetBegin": "77",
+                            "CharacterOffsetEnd": "79",
+                            "POS": "IN",
+                            "NER": "O"
+                        },
+                        {
+                            "$": {
+                                "id": "18"
+                            },
+                            "word": "all",
+                            "lemma": "all",
+                            "CharacterOffsetBegin": "80",
+                            "CharacterOffsetEnd": "83",
+                            "POS": "DT",
+                            "NER": "O"
+                        },
+                        {
+                            "$": {
+                                "id": "19"
+                            },
+                            "word": "it",
+                            "lemma": "it",
+                            "CharacterOffsetBegin": "84",
+                            "CharacterOffsetEnd": "86",
+                            "POS": "PRP",
+                            "NER": "O"
+                        },
+                        {
+                            "$": {
+                                "id": "20"
+                            },
+                            "word": "should",
+                            "lemma": "should",
+                            "CharacterOffsetBegin": "87",
+                            "CharacterOffsetEnd": "93",
+                            "POS": "MD",
+                            "NER": "O"
+                        },
+                        {
+                            "$": {
+                                "id": "21"
+                            },
+                            "word": "have",
+                            "lemma": "have",
+                            "CharacterOffsetBegin": "94",
+                            "CharacterOffsetEnd": "98",
+                            "POS": "VB",
+                            "NER": "O"
+                        },
+                        {
+                            "$": {
+                                "id": "22"
+                            },
+                            "word": "lead",
+                            "lemma": "lead",
+                            "CharacterOffsetBegin": "99",
+                            "CharacterOffsetEnd": "103",
+                            "POS": "VBN",
+                            "NER": "O"
+                        },
+                        {
+                            "$": {
+                                "id": "23"
+                            },
+                            "word": "to",
+                            "lemma": "to",
+                            "CharacterOffsetBegin": "104",
+                            "CharacterOffsetEnd": "106",
+                            "POS": "TO",
+                            "NER": "O"
+                        },
+                        {
+                            "$": {
+                                "id": "24"
+                            },
+                            "word": "something",
+                            "lemma": "something",
+                            "CharacterOffsetBegin": "107",
+                            "CharacterOffsetEnd": "116",
+                            "POS": "NN",
+                            "NER": "O"
+                        },
+                        {
+                            "$": {
+                                "id": "25"
+                            },
+                            "word": "good",
+                            "lemma": "good",
+                            "CharacterOffsetBegin": "117",
+                            "CharacterOffsetEnd": "121",
+                            "POS": "JJ",
+                            "NER": "O"
+                        },
+                        {
+                            "$": {
+                                "id": "26"
+                            },
+                            "word": "also",
+                            "lemma": "also",
+                            "CharacterOffsetBegin": "122",
+                            "CharacterOffsetEnd": "126",
+                            "POS": "RB",
+                            "NER": "O"
+                        },
+                        {
+                            "$": {
+                                "id": "27"
+                            },
+                            "word": ".",
+                            "lemma": ".",
+                            "CharacterOffsetBegin": "126",
+                            "CharacterOffsetEnd": "127",
+                            "POS": ".",
+                            "NER": "O"
+                        }
+                    ]
+                },
+                "parse": "(ROOT (S (S (NP-TMP (CD One) (NN day)) (NP (CD I)) (VP (MD will) (VP (VB be) (ADJP (JJ ashamed) (PP (IN of) (SBAR (WHNP (WP what)) (S (VP (VBZ is) (VP (VBN written) (ADVP (RB here))))))))))) (CC but) (S (NP (PRP I)) (VP (VBP hope) (SBAR (IN that) (S (ADVP (RB regardless) (PP (IN of) (NP (DT all)))) (NP (PRP it)) (VP (MD should) (VP (VB have) (VP (VBN lead) (PP (TO to) (NP (NN something) (JJ good))) (ADVP (RB also))))))))) (. .))) ",
+                "dependencies": [
+                    {
+                        "$": {
+                            "type": "basic-dependencies"
+                        },
+                        "dep": [
+                            {
+                                "$": {
+                                    "type": "root"
+                                },
+                                "governor": {
+                                    "_": "ROOT",
+                                    "$": {
+                                        "idx": "0"
+                                    }
+                                },
+                                "dependent": {
+                                    "_": "ashamed",
+                                    "$": {
+                                        "idx": "6"
+                                    }
+                                }
+                            },
+                            {
+                                "$": {
+                                    "type": "num"
+                                },
+                                "governor": {
+                                    "_": "day",
+                                    "$": {
+                                        "idx": "2"
+                                    }
+                                },
+                                "dependent": {
+                                    "_": "One",
+                                    "$": {
+                                        "idx": "1"
+                                    }
+                                }
+                            },
+                            {
+                                "$": {
+                                    "type": "tmod"
+                                },
+                                "governor": {
+                                    "_": "ashamed",
+                                    "$": {
+                                        "idx": "6"
+                                    }
+                                },
+                                "dependent": {
+                                    "_": "day",
+                                    "$": {
+                                        "idx": "2"
+                                    }
+                                }
+                            },
+                            {
+                                "$": {
+                                    "type": "nsubj"
+                                },
+                                "governor": {
+                                    "_": "ashamed",
+                                    "$": {
+                                        "idx": "6"
+                                    }
+                                },
+                                "dependent": {
+                                    "_": "I",
+                                    "$": {
+                                        "idx": "3"
+                                    }
+                                }
+                            },
+                            {
+                                "$": {
+                                    "type": "aux"
+                                },
+                                "governor": {
+                                    "_": "ashamed",
+                                    "$": {
+                                        "idx": "6"
+                                    }
+                                },
+                                "dependent": {
+                                    "_": "will",
+                                    "$": {
+                                        "idx": "4"
+                                    }
+                                }
+                            },
+                            {
+                                "$": {
+                                    "type": "cop"
+                                },
+                                "governor": {
+                                    "_": "ashamed",
+                                    "$": {
+                                        "idx": "6"
+                                    }
+                                },
+                                "dependent": {
+                                    "_": "be",
+                                    "$": {
+                                        "idx": "5"
+                                    }
+                                }
+                            },
+                            {
+                                "$": {
+                                    "type": "prep"
+                                },
+                                "governor": {
+                                    "_": "ashamed",
+                                    "$": {
+                                        "idx": "6"
+                                    }
+                                },
+                                "dependent": {
+                                    "_": "of",
+                                    "$": {
+                                        "idx": "7"
+                                    }
+                                }
+                            },
+                            {
+                                "$": {
+                                    "type": "nsubjpass"
+                                },
+                                "governor": {
+                                    "_": "written",
+                                    "$": {
+                                        "idx": "10"
+                                    }
+                                },
+                                "dependent": {
+                                    "_": "what",
+                                    "$": {
+                                        "idx": "8"
+                                    }
+                                }
+                            },
+                            {
+                                "$": {
+                                    "type": "auxpass"
+                                },
+                                "governor": {
+                                    "_": "written",
+                                    "$": {
+                                        "idx": "10"
+                                    }
+                                },
+                                "dependent": {
+                                    "_": "is",
+                                    "$": {
+                                        "idx": "9"
+                                    }
+                                }
+                            },
+                            {
+                                "$": {
+                                    "type": "pcomp"
+                                },
+                                "governor": {
+                                    "_": "of",
+                                    "$": {
+                                        "idx": "7"
+                                    }
+                                },
+                                "dependent": {
+                                    "_": "written",
+                                    "$": {
+                                        "idx": "10"
+                                    }
+                                }
+                            },
+                            {
+                                "$": {
+                                    "type": "advmod"
+                                },
+                                "governor": {
+                                    "_": "written",
+                                    "$": {
+                                        "idx": "10"
+                                    }
+                                },
+                                "dependent": {
+                                    "_": "here",
+                                    "$": {
+                                        "idx": "11"
+                                    }
+                                }
+                            },
+                            {
+                                "$": {
+                                    "type": "cc"
+                                },
+                                "governor": {
+                                    "_": "ashamed",
+                                    "$": {
+                                        "idx": "6"
+                                    }
+                                },
+                                "dependent": {
+                                    "_": "but",
+                                    "$": {
+                                        "idx": "12"
+                                    }
+                                }
+                            },
+                            {
+                                "$": {
+                                    "type": "nsubj"
+                                },
+                                "governor": {
+                                    "_": "hope",
+                                    "$": {
+                                        "idx": "14"
+                                    }
+                                },
+                                "dependent": {
+                                    "_": "I",
+                                    "$": {
+                                        "idx": "13"
+                                    }
+                                }
+                            },
+                            {
+                                "$": {
+                                    "type": "conj"
+                                },
+                                "governor": {
+                                    "_": "ashamed",
+                                    "$": {
+                                        "idx": "6"
+                                    }
+                                },
+                                "dependent": {
+                                    "_": "hope",
+                                    "$": {
+                                        "idx": "14"
+                                    }
+                                }
+                            },
+                            {
+                                "$": {
+                                    "type": "mark"
+                                },
+                                "governor": {
+                                    "_": "lead",
+                                    "$": {
+                                        "idx": "22"
+                                    }
+                                },
+                                "dependent": {
+                                    "_": "that",
+                                    "$": {
+                                        "idx": "15"
+                                    }
+                                }
+                            },
+                            {
+                                "$": {
+                                    "type": "advmod"
+                                },
+                                "governor": {
+                                    "_": "lead",
+                                    "$": {
+                                        "idx": "22"
+                                    }
+                                },
+                                "dependent": {
+                                    "_": "regardless",
+                                    "$": {
+                                        "idx": "16"
+                                    }
+                                }
+                            },
+                            {
+                                "$": {
+                                    "type": "prep"
+                                },
+                                "governor": {
+                                    "_": "regardless",
+                                    "$": {
+                                        "idx": "16"
+                                    }
+                                },
+                                "dependent": {
+                                    "_": "of",
+                                    "$": {
+                                        "idx": "17"
+                                    }
+                                }
+                            },
+                            {
+                                "$": {
+                                    "type": "pobj"
+                                },
+                                "governor": {
+                                    "_": "of",
+                                    "$": {
+                                        "idx": "17"
+                                    }
+                                },
+                                "dependent": {
+                                    "_": "all",
+                                    "$": {
+                                        "idx": "18"
+                                    }
+                                }
+                            },
+                            {
+                                "$": {
+                                    "type": "nsubj"
+                                },
+                                "governor": {
+                                    "_": "lead",
+                                    "$": {
+                                        "idx": "22"
+                                    }
+                                },
+                                "dependent": {
+                                    "_": "it",
+                                    "$": {
+                                        "idx": "19"
+                                    }
+                                }
+                            },
+                            {
+                                "$": {
+                                    "type": "aux"
+                                },
+                                "governor": {
+                                    "_": "lead",
+                                    "$": {
+                                        "idx": "22"
+                                    }
+                                },
+                                "dependent": {
+                                    "_": "should",
+                                    "$": {
+                                        "idx": "20"
+                                    }
+                                }
+                            },
+                            {
+                                "$": {
+                                    "type": "aux"
+                                },
+                                "governor": {
+                                    "_": "lead",
+                                    "$": {
+                                        "idx": "22"
+                                    }
+                                },
+                                "dependent": {
+                                    "_": "have",
+                                    "$": {
+                                        "idx": "21"
+                                    }
+                                }
+                            },
+                            {
+                                "$": {
+                                    "type": "ccomp"
+                                },
+                                "governor": {
+                                    "_": "hope",
+                                    "$": {
+                                        "idx": "14"
+                                    }
+                                },
+                                "dependent": {
+                                    "_": "lead",
+                                    "$": {
+                                        "idx": "22"
+                                    }
+                                }
+                            },
+                            {
+                                "$": {
+                                    "type": "prep"
+                                },
+                                "governor": {
+                                    "_": "lead",
+                                    "$": {
+                                        "idx": "22"
+                                    }
+                                },
+                                "dependent": {
+                                    "_": "to",
+                                    "$": {
+                                        "idx": "23"
+                                    }
+                                }
+                            },
+                            {
+                                "$": {
+                                    "type": "pobj"
+                                },
+                                "governor": {
+                                    "_": "to",
+                                    "$": {
+                                        "idx": "23"
+                                    }
+                                },
+                                "dependent": {
+                                    "_": "something",
+                                    "$": {
+                                        "idx": "24"
+                                    }
+                                }
+                            },
+                            {
+                                "$": {
+                                    "type": "amod"
+                                },
+                                "governor": {
+                                    "_": "something",
+                                    "$": {
+                                        "idx": "24"
+                                    }
+                                },
+                                "dependent": {
+                                    "_": "good",
+                                    "$": {
+                                        "idx": "25"
+                                    }
+                                }
+                            },
+                            {
+                                "$": {
+                                    "type": "advmod"
+                                },
+                                "governor": {
+                                    "_": "lead",
+                                    "$": {
+                                        "idx": "22"
+                                    }
+                                },
+                                "dependent": {
+                                    "_": "also",
+                                    "$": {
+                                        "idx": "26"
+                                    }
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "$": {
+                            "type": "collapsed-dependencies"
+                        },
+                        "dep": [
+                            {
+                                "$": {
+                                    "type": "root"
+                                },
+                                "governor": {
+                                    "_": "ROOT",
+                                    "$": {
+                                        "idx": "0"
+                                    }
+                                },
+                                "dependent": {
+                                    "_": "ashamed",
+                                    "$": {
+                                        "idx": "6"
+                                    }
+                                }
+                            },
+                            {
+                                "$": {
+                                    "type": "num"
+                                },
+                                "governor": {
+                                    "_": "day",
+                                    "$": {
+                                        "idx": "2"
+                                    }
+                                },
+                                "dependent": {
+                                    "_": "One",
+                                    "$": {
+                                        "idx": "1"
+                                    }
+                                }
+                            },
+                            {
+                                "$": {
+                                    "type": "tmod"
+                                },
+                                "governor": {
+                                    "_": "ashamed",
+                                    "$": {
+                                        "idx": "6"
+                                    }
+                                },
+                                "dependent": {
+                                    "_": "day",
+                                    "$": {
+                                        "idx": "2"
+                                    }
+                                }
+                            },
+                            {
+                                "$": {
+                                    "type": "nsubj"
+                                },
+                                "governor": {
+                                    "_": "ashamed",
+                                    "$": {
+                                        "idx": "6"
+                                    }
+                                },
+                                "dependent": {
+                                    "_": "I",
+                                    "$": {
+                                        "idx": "3"
+                                    }
+                                }
+                            },
+                            {
+                                "$": {
+                                    "type": "aux"
+                                },
+                                "governor": {
+                                    "_": "ashamed",
+                                    "$": {
+                                        "idx": "6"
+                                    }
+                                },
+                                "dependent": {
+                                    "_": "will",
+                                    "$": {
+                                        "idx": "4"
+                                    }
+                                }
+                            },
+                            {
+                                "$": {
+                                    "type": "cop"
+                                },
+                                "governor": {
+                                    "_": "ashamed",
+                                    "$": {
+                                        "idx": "6"
+                                    }
+                                },
+                                "dependent": {
+                                    "_": "be",
+                                    "$": {
+                                        "idx": "5"
+                                    }
+                                }
+                            },
+                            {
+                                "$": {
+                                    "type": "nsubjpass"
+                                },
+                                "governor": {
+                                    "_": "written",
+                                    "$": {
+                                        "idx": "10"
+                                    }
+                                },
+                                "dependent": {
+                                    "_": "what",
+                                    "$": {
+                                        "idx": "8"
+                                    }
+                                }
+                            },
+                            {
+                                "$": {
+                                    "type": "auxpass"
+                                },
+                                "governor": {
+                                    "_": "written",
+                                    "$": {
+                                        "idx": "10"
+                                    }
+                                },
+                                "dependent": {
+                                    "_": "is",
+                                    "$": {
+                                        "idx": "9"
+                                    }
+                                }
+                            },
+                            {
+                                "$": {
+                                    "type": "prepc_of"
+                                },
+                                "governor": {
+                                    "_": "ashamed",
+                                    "$": {
+                                        "idx": "6"
+                                    }
+                                },
+                                "dependent": {
+                                    "_": "written",
+                                    "$": {
+                                        "idx": "10"
+                                    }
+                                }
+                            },
+                            {
+                                "$": {
+                                    "type": "advmod"
+                                },
+                                "governor": {
+                                    "_": "written",
+                                    "$": {
+                                        "idx": "10"
+                                    }
+                                },
+                                "dependent": {
+                                    "_": "here",
+                                    "$": {
+                                        "idx": "11"
+                                    }
+                                }
+                            },
+                            {
+                                "$": {
+                                    "type": "nsubj"
+                                },
+                                "governor": {
+                                    "_": "hope",
+                                    "$": {
+                                        "idx": "14"
+                                    }
+                                },
+                                "dependent": {
+                                    "_": "I",
+                                    "$": {
+                                        "idx": "13"
+                                    }
+                                }
+                            },
+                            {
+                                "$": {
+                                    "type": "conj_but"
+                                },
+                                "governor": {
+                                    "_": "ashamed",
+                                    "$": {
+                                        "idx": "6"
+                                    }
+                                },
+                                "dependent": {
+                                    "_": "hope",
+                                    "$": {
+                                        "idx": "14"
+                                    }
+                                }
+                            },
+                            {
+                                "$": {
+                                    "type": "mark"
+                                },
+                                "governor": {
+                                    "_": "lead",
+                                    "$": {
+                                        "idx": "22"
+                                    }
+                                },
+                                "dependent": {
+                                    "_": "that",
+                                    "$": {
+                                        "idx": "15"
+                                    }
+                                }
+                            },
+                            {
+                                "$": {
+                                    "type": "prep_regardless_of"
+                                },
+                                "governor": {
+                                    "_": "lead",
+                                    "$": {
+                                        "idx": "22"
+                                    }
+                                },
+                                "dependent": {
+                                    "_": "all",
+                                    "$": {
+                                        "idx": "18"
+                                    }
+                                }
+                            },
+                            {
+                                "$": {
+                                    "type": "nsubj"
+                                },
+                                "governor": {
+                                    "_": "lead",
+                                    "$": {
+                                        "idx": "22"
+                                    }
+                                },
+                                "dependent": {
+                                    "_": "it",
+                                    "$": {
+                                        "idx": "19"
+                                    }
+                                }
+                            },
+                            {
+                                "$": {
+                                    "type": "aux"
+                                },
+                                "governor": {
+                                    "_": "lead",
+                                    "$": {
+                                        "idx": "22"
+                                    }
+                                },
+                                "dependent": {
+                                    "_": "should",
+                                    "$": {
+                                        "idx": "20"
+                                    }
+                                }
+                            },
+                            {
+                                "$": {
+                                    "type": "aux"
+                                },
+                                "governor": {
+                                    "_": "lead",
+                                    "$": {
+                                        "idx": "22"
+                                    }
+                                },
+                                "dependent": {
+                                    "_": "have",
+                                    "$": {
+                                        "idx": "21"
+                                    }
+                                }
+                            },
+                            {
+                                "$": {
+                                    "type": "ccomp"
+                                },
+                                "governor": {
+                                    "_": "hope",
+                                    "$": {
+                                        "idx": "14"
+                                    }
+                                },
+                                "dependent": {
+                                    "_": "lead",
+                                    "$": {
+                                        "idx": "22"
+                                    }
+                                }
+                            },
+                            {
+                                "$": {
+                                    "type": "prep_to"
+                                },
+                                "governor": {
+                                    "_": "lead",
+                                    "$": {
+                                        "idx": "22"
+                                    }
+                                },
+                                "dependent": {
+                                    "_": "something",
+                                    "$": {
+                                        "idx": "24"
+                                    }
+                                }
+                            },
+                            {
+                                "$": {
+                                    "type": "amod"
+                                },
+                                "governor": {
+                                    "_": "something",
+                                    "$": {
+                                        "idx": "24"
+                                    }
+                                },
+                                "dependent": {
+                                    "_": "good",
+                                    "$": {
+                                        "idx": "25"
+                                    }
+                                }
+                            },
+                            {
+                                "$": {
+                                    "type": "advmod"
+                                },
+                                "governor": {
+                                    "_": "lead",
+                                    "$": {
+                                        "idx": "22"
+                                    }
+                                },
+                                "dependent": {
+                                    "_": "also",
+                                    "$": {
+                                        "idx": "26"
+                                    }
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "$": {
+                            "type": "collapsed-ccprocessed-dependencies"
+                        },
+                        "dep": [
+                            {
+                                "$": {
+                                    "type": "root"
+                                },
+                                "governor": {
+                                    "_": "ROOT",
+                                    "$": {
+                                        "idx": "0"
+                                    }
+                                },
+                                "dependent": {
+                                    "_": "ashamed",
+                                    "$": {
+                                        "idx": "6"
+                                    }
+                                }
+                            },
+                            {
+                                "$": {
+                                    "type": "num"
+                                },
+                                "governor": {
+                                    "_": "day",
+                                    "$": {
+                                        "idx": "2"
+                                    }
+                                },
+                                "dependent": {
+                                    "_": "One",
+                                    "$": {
+                                        "idx": "1"
+                                    }
+                                }
+                            },
+                            {
+                                "$": {
+                                    "type": "tmod"
+                                },
+                                "governor": {
+                                    "_": "ashamed",
+                                    "$": {
+                                        "idx": "6"
+                                    }
+                                },
+                                "dependent": {
+                                    "_": "day",
+                                    "$": {
+                                        "idx": "2"
+                                    }
+                                }
+                            },
+                            {
+                                "$": {
+                                    "type": "nsubj"
+                                },
+                                "governor": {
+                                    "_": "ashamed",
+                                    "$": {
+                                        "idx": "6"
+                                    }
+                                },
+                                "dependent": {
+                                    "_": "I",
+                                    "$": {
+                                        "idx": "3"
+                                    }
+                                }
+                            },
+                            {
+                                "$": {
+                                    "type": "aux"
+                                },
+                                "governor": {
+                                    "_": "ashamed",
+                                    "$": {
+                                        "idx": "6"
+                                    }
+                                },
+                                "dependent": {
+                                    "_": "will",
+                                    "$": {
+                                        "idx": "4"
+                                    }
+                                }
+                            },
+                            {
+                                "$": {
+                                    "type": "cop"
+                                },
+                                "governor": {
+                                    "_": "ashamed",
+                                    "$": {
+                                        "idx": "6"
+                                    }
+                                },
+                                "dependent": {
+                                    "_": "be",
+                                    "$": {
+                                        "idx": "5"
+                                    }
+                                }
+                            },
+                            {
+                                "$": {
+                                    "type": "nsubjpass"
+                                },
+                                "governor": {
+                                    "_": "written",
+                                    "$": {
+                                        "idx": "10"
+                                    }
+                                },
+                                "dependent": {
+                                    "_": "what",
+                                    "$": {
+                                        "idx": "8"
+                                    }
+                                }
+                            },
+                            {
+                                "$": {
+                                    "type": "auxpass"
+                                },
+                                "governor": {
+                                    "_": "written",
+                                    "$": {
+                                        "idx": "10"
+                                    }
+                                },
+                                "dependent": {
+                                    "_": "is",
+                                    "$": {
+                                        "idx": "9"
+                                    }
+                                }
+                            },
+                            {
+                                "$": {
+                                    "type": "prepc_of"
+                                },
+                                "governor": {
+                                    "_": "ashamed",
+                                    "$": {
+                                        "idx": "6"
+                                    }
+                                },
+                                "dependent": {
+                                    "_": "written",
+                                    "$": {
+                                        "idx": "10"
+                                    }
+                                }
+                            },
+                            {
+                                "$": {
+                                    "type": "advmod"
+                                },
+                                "governor": {
+                                    "_": "written",
+                                    "$": {
+                                        "idx": "10"
+                                    }
+                                },
+                                "dependent": {
+                                    "_": "here",
+                                    "$": {
+                                        "idx": "11"
+                                    }
+                                }
+                            },
+                            {
+                                "$": {
+                                    "type": "nsubj"
+                                },
+                                "governor": {
+                                    "_": "hope",
+                                    "$": {
+                                        "idx": "14"
+                                    }
+                                },
+                                "dependent": {
+                                    "_": "I",
+                                    "$": {
+                                        "idx": "13"
+                                    }
+                                }
+                            },
+                            {
+                                "$": {
+                                    "type": "conj_but"
+                                },
+                                "governor": {
+                                    "_": "ashamed",
+                                    "$": {
+                                        "idx": "6"
+                                    }
+                                },
+                                "dependent": {
+                                    "_": "hope",
+                                    "$": {
+                                        "idx": "14"
+                                    }
+                                }
+                            },
+                            {
+                                "$": {
+                                    "type": "mark"
+                                },
+                                "governor": {
+                                    "_": "lead",
+                                    "$": {
+                                        "idx": "22"
+                                    }
+                                },
+                                "dependent": {
+                                    "_": "that",
+                                    "$": {
+                                        "idx": "15"
+                                    }
+                                }
+                            },
+                            {
+                                "$": {
+                                    "type": "prep_regardless_of"
+                                },
+                                "governor": {
+                                    "_": "lead",
+                                    "$": {
+                                        "idx": "22"
+                                    }
+                                },
+                                "dependent": {
+                                    "_": "all",
+                                    "$": {
+                                        "idx": "18"
+                                    }
+                                }
+                            },
+                            {
+                                "$": {
+                                    "type": "nsubj"
+                                },
+                                "governor": {
+                                    "_": "lead",
+                                    "$": {
+                                        "idx": "22"
+                                    }
+                                },
+                                "dependent": {
+                                    "_": "it",
+                                    "$": {
+                                        "idx": "19"
+                                    }
+                                }
+                            },
+                            {
+                                "$": {
+                                    "type": "aux"
+                                },
+                                "governor": {
+                                    "_": "lead",
+                                    "$": {
+                                        "idx": "22"
+                                    }
+                                },
+                                "dependent": {
+                                    "_": "should",
+                                    "$": {
+                                        "idx": "20"
+                                    }
+                                }
+                            },
+                            {
+                                "$": {
+                                    "type": "aux"
+                                },
+                                "governor": {
+                                    "_": "lead",
+                                    "$": {
+                                        "idx": "22"
+                                    }
+                                },
+                                "dependent": {
+                                    "_": "have",
+                                    "$": {
+                                        "idx": "21"
+                                    }
+                                }
+                            },
+                            {
+                                "$": {
+                                    "type": "ccomp"
+                                },
+                                "governor": {
+                                    "_": "hope",
+                                    "$": {
+                                        "idx": "14"
+                                    }
+                                },
+                                "dependent": {
+                                    "_": "lead",
+                                    "$": {
+                                        "idx": "22"
+                                    }
+                                }
+                            },
+                            {
+                                "$": {
+                                    "type": "prep_to"
+                                },
+                                "governor": {
+                                    "_": "lead",
+                                    "$": {
+                                        "idx": "22"
+                                    }
+                                },
+                                "dependent": {
+                                    "_": "something",
+                                    "$": {
+                                        "idx": "24"
+                                    }
+                                }
+                            },
+                            {
+                                "$": {
+                                    "type": "amod"
+                                },
+                                "governor": {
+                                    "_": "something",
+                                    "$": {
+                                        "idx": "24"
+                                    }
+                                },
+                                "dependent": {
+                                    "_": "good",
+                                    "$": {
+                                        "idx": "25"
+                                    }
+                                }
+                            },
+                            {
+                                "$": {
+                                    "type": "advmod"
+                                },
+                                "governor": {
+                                    "_": "lead",
+                                    "$": {
+                                        "idx": "22"
+                                    }
+                                },
+                                "dependent": {
+                                    "_": "also",
+                                    "$": {
+                                        "idx": "26"
+                                    }
+                                }
+                            }
+                        ]
+                    }
+                ],
+                "parsedTree": {
+                    "type": "ROOT",
+                    "children": [
+                        {
+                            "type": "S",
+                            "children": [
+                                {
+                                    "type": "S",
+                                    "children": [
+                                        {
+                                            "type": "NP-TMP",
+                                            "children": [
+                                                {
+                                                    "type": "CD",
+                                                    "children": [
+                                                        {
+                                                            "type": "CD",
+                                                            "word": "One",
+                                                            "id": 1
+                                                        }
+                                                    ]
+                                                },
+                                                {
+                                                    "type": "NN",
+                                                    "children": [
+                                                        {
+                                                            "type": "NN",
+                                                            "word": "day",
+                                                            "id": 2
+                                                        }
+                                                    ]
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "type": "NP",
+                                            "children": [
+                                                {
+                                                    "type": "CD",
+                                                    "children": [
+                                                        {
+                                                            "type": "CD",
+                                                            "word": "I",
+                                                            "id": 3
+                                                        }
+                                                    ]
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "type": "VP",
+                                            "children": [
+                                                {
+                                                    "type": "MD",
+                                                    "children": [
+                                                        {
+                                                            "type": "MD",
+                                                            "word": "will",
+                                                            "id": 4
+                                                        }
+                                                    ]
+                                                },
+                                                {
+                                                    "type": "VP",
+                                                    "children": [
+                                                        {
+                                                            "type": "VB",
+                                                            "children": [
+                                                                {
+                                                                    "type": "VB",
+                                                                    "word": "be",
+                                                                    "id": 5
+                                                                }
+                                                            ]
+                                                        },
+                                                        {
+                                                            "type": "ADJP",
+                                                            "children": [
+                                                                {
+                                                                    "type": "JJ",
+                                                                    "children": [
+                                                                        {
+                                                                            "type": "JJ",
+                                                                            "word": "ashamed",
+                                                                            "id": 6
+                                                                        }
+                                                                    ]
+                                                                },
+                                                                {
+                                                                    "type": "PP",
+                                                                    "children": [
+                                                                        {
+                                                                            "type": "IN",
+                                                                            "children": [
+                                                                                {
+                                                                                    "type": "IN",
+                                                                                    "word": "of",
+                                                                                    "id": 7
+                                                                                }
+                                                                            ]
+                                                                        },
+                                                                        {
+                                                                            "type": "SBAR",
+                                                                            "children": [
+                                                                                {
+                                                                                    "type": "WHNP",
+                                                                                    "children": [
+                                                                                        {
+                                                                                            "type": "WP",
+                                                                                            "children": [
+                                                                                                {
+                                                                                                    "type": "WP",
+                                                                                                    "word": "what",
+                                                                                                    "id": 8
+                                                                                                }
+                                                                                            ]
+                                                                                        }
+                                                                                    ]
+                                                                                },
+                                                                                {
+                                                                                    "type": "S",
+                                                                                    "children": [
+                                                                                        {
+                                                                                            "type": "VP",
+                                                                                            "children": [
+                                                                                                {
+                                                                                                    "type": "VBZ",
+                                                                                                    "children": [
+                                                                                                        {
+                                                                                                            "type": "VBZ",
+                                                                                                            "word": "is",
+                                                                                                            "id": 9
+                                                                                                        }
+                                                                                                    ]
+                                                                                                },
+                                                                                                {
+                                                                                                    "type": "VP",
+                                                                                                    "children": [
+                                                                                                        {
+                                                                                                            "type": "VBN",
+                                                                                                            "children": [
+                                                                                                                {
+                                                                                                                    "type": "VBN",
+                                                                                                                    "word": "written",
+                                                                                                                    "id": 10
+                                                                                                                }
+                                                                                                            ]
+                                                                                                        },
+                                                                                                        {
+                                                                                                            "type": "ADVP",
+                                                                                                            "children": [
+                                                                                                                {
+                                                                                                                    "type": "RB",
+                                                                                                                    "children": [
+                                                                                                                        {
+                                                                                                                            "type": "RB",
+                                                                                                                            "word": "here",
+                                                                                                                            "id": 11
+                                                                                                                        }
+                                                                                                                    ]
+                                                                                                                }
+                                                                                                            ]
+                                                                                                        }
+                                                                                                    ]
+                                                                                                }
+                                                                                            ]
+                                                                                        }
+                                                                                    ]
+                                                                                }
+                                                                            ]
+                                                                        }
+                                                                    ]
+                                                                }
+                                                            ]
+                                                        }
+                                                    ]
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "CC",
+                                    "children": [
+                                        {
+                                            "type": "CC",
+                                            "word": "but",
+                                            "id": 12
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "S",
+                                    "children": [
+                                        {
+                                            "type": "NP",
+                                            "children": [
+                                                {
+                                                    "type": "PRP",
+                                                    "children": [
+                                                        {
+                                                            "type": "PRP",
+                                                            "word": "I",
+                                                            "id": 13
+                                                        }
+                                                    ]
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "type": "VP",
+                                            "children": [
+                                                {
+                                                    "type": "VBP",
+                                                    "children": [
+                                                        {
+                                                            "type": "VBP",
+                                                            "word": "hope",
+                                                            "id": 14
+                                                        }
+                                                    ]
+                                                },
+                                                {
+                                                    "type": "SBAR",
+                                                    "children": [
+                                                        {
+                                                            "type": "IN",
+                                                            "children": [
+                                                                {
+                                                                    "type": "IN",
+                                                                    "word": "that",
+                                                                    "id": 15
+                                                                }
+                                                            ]
+                                                        },
+                                                        {
+                                                            "type": "S",
+                                                            "children": [
+                                                                {
+                                                                    "type": "ADVP",
+                                                                    "children": [
+                                                                        {
+                                                                            "type": "RB",
+                                                                            "children": [
+                                                                                {
+                                                                                    "type": "RB",
+                                                                                    "word": "regardless",
+                                                                                    "id": 16
+                                                                                }
+                                                                            ]
+                                                                        },
+                                                                        {
+                                                                            "type": "PP",
+                                                                            "children": [
+                                                                                {
+                                                                                    "type": "IN",
+                                                                                    "children": [
+                                                                                        {
+                                                                                            "type": "IN",
+                                                                                            "word": "of",
+                                                                                            "id": 17
+                                                                                        }
+                                                                                    ]
+                                                                                },
+                                                                                {
+                                                                                    "type": "NP",
+                                                                                    "children": [
+                                                                                        {
+                                                                                            "type": "DT",
+                                                                                            "children": [
+                                                                                                {
+                                                                                                    "type": "DT",
+                                                                                                    "word": "all",
+                                                                                                    "id": 18
+                                                                                                }
+                                                                                            ]
+                                                                                        }
+                                                                                    ]
+                                                                                }
+                                                                            ]
+                                                                        }
+                                                                    ]
+                                                                },
+                                                                {
+                                                                    "type": "NP",
+                                                                    "children": [
+                                                                        {
+                                                                            "type": "PRP",
+                                                                            "children": [
+                                                                                {
+                                                                                    "type": "PRP",
+                                                                                    "word": "it",
+                                                                                    "id": 19
+                                                                                }
+                                                                            ]
+                                                                        }
+                                                                    ]
+                                                                },
+                                                                {
+                                                                    "type": "VP",
+                                                                    "children": [
+                                                                        {
+                                                                            "type": "MD",
+                                                                            "children": [
+                                                                                {
+                                                                                    "type": "MD",
+                                                                                    "word": "should",
+                                                                                    "id": 20
+                                                                                }
+                                                                            ]
+                                                                        },
+                                                                        {
+                                                                            "type": "VP",
+                                                                            "children": [
+                                                                                {
+                                                                                    "type": "VB",
+                                                                                    "children": [
+                                                                                        {
+                                                                                            "type": "VB",
+                                                                                            "word": "have",
+                                                                                            "id": 21
+                                                                                        }
+                                                                                    ]
+                                                                                },
+                                                                                {
+                                                                                    "type": "VP",
+                                                                                    "children": [
+                                                                                        {
+                                                                                            "type": "VBN",
+                                                                                            "children": [
+                                                                                                {
+                                                                                                    "type": "VBN",
+                                                                                                    "word": "lead",
+                                                                                                    "id": 22
+                                                                                                }
+                                                                                            ]
+                                                                                        },
+                                                                                        {
+                                                                                            "type": "PP",
+                                                                                            "children": [
+                                                                                                {
+                                                                                                    "type": "TO",
+                                                                                                    "children": [
+                                                                                                        {
+                                                                                                            "type": "TO",
+                                                                                                            "word": "to",
+                                                                                                            "id": 23
+                                                                                                        }
+                                                                                                    ]
+                                                                                                },
+                                                                                                {
+                                                                                                    "type": "NP",
+                                                                                                    "children": [
+                                                                                                        {
+                                                                                                            "type": "NN",
+                                                                                                            "children": [
+                                                                                                                {
+                                                                                                                    "type": "NN",
+                                                                                                                    "word": "something",
+                                                                                                                    "id": 24
+                                                                                                                }
+                                                                                                            ]
+                                                                                                        },
+                                                                                                        {
+                                                                                                            "type": "JJ",
+                                                                                                            "children": [
+                                                                                                                {
+                                                                                                                    "type": "JJ",
+                                                                                                                    "word": "good",
+                                                                                                                    "id": 25
+                                                                                                                }
+                                                                                                            ]
+                                                                                                        }
+                                                                                                    ]
+                                                                                                }
+                                                                                            ]
+                                                                                        },
+                                                                                        {
+                                                                                            "type": "ADVP",
+                                                                                            "children": [
+                                                                                                {
+                                                                                                    "type": "RB",
+                                                                                                    "children": [
+                                                                                                        {
+                                                                                                            "type": "RB",
+                                                                                                            "word": "also",
+                                                                                                            "id": 26
+                                                                                                        }
+                                                                                                    ]
+                                                                                                }
+                                                                                            ]
+                                                                                        }
+                                                                                    ]
+                                                                                }
+                                                                            ]
+                                                                        }
+                                                                    ]
+                                                                }
+                                                            ]
+                                                        }
+                                                    ]
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": ".",
+                                    "children": [
+                                        {
+                                            "type": ".",
+                                            "word": ".",
+                                            "id": 27
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                }
+            }
+        }
+    }
+}

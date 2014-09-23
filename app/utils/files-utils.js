@@ -45,3 +45,25 @@ module.exports.saveFrequencyDictionary = function(filename)
         });
     });
 }
+
+module.exports.convertAuthorsFileToDictionary = function(filename, done){
+
+    console.log(filename);
+    var authors = {};
+
+    var outstream = new stream;
+    var instream = fs.createReadStream(filename);
+
+    var readstream = readline.createInterface(instream, outstream);
+
+    readstream
+        .on('line', function(line){
+        var splitLine = line.split(" ");
+
+        authors[splitLine[0]] = splitLine[1];
+        })
+        .on('close', function(){
+            console.log("close");
+            done(authors);
+        });
+}

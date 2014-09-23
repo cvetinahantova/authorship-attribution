@@ -11,7 +11,7 @@ var methodOverride = require('method-override');
 // configuration =====================
 var db = require('./config/db');
 
-var port = process.env.PORT || 4356;
+var port = process.env.PORT || 6788;
 mongoose.connect(db.url);
 
 // get all data/stuff of the body (POST) parameters
@@ -23,9 +23,9 @@ app.use(methodOverride('X-HTTP-Method-Override')); // override with the X-HTTP-M
 app.use(express.static(__dirname + '/public')); // set the static files location /public/img will be /img for users
 
 
-process.on('uncaughtException', function (err) {
-    console.log('Caught exception: ' + err);
-});
+//process.on('uncaughtException', function (err) {
+//    console.log('Caught exception: ' + err);
+//});
 
 // routes ===============
 require('./app/routes')(app); // configure the routes
