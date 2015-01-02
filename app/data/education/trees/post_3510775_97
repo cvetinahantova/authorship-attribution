@@ -1,0 +1,7 @@
+root(ROOT-0, caffeine-1)
+amod(fuel-4, key-2)
+nn(fuel-4, cleavage-3)
+dep(caffeine-1, fuel-4)
+nn(motor-6, mind-5)
+dep(caffeine-1, motor-6)
+

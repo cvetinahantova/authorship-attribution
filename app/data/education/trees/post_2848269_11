@@ -1,0 +1,10 @@
+discourse(post-7, Yeah-1)
+nsubj(post-7, this-3)
+cop(post-7, is-4)
+poss(post-7, my-5)
+amod(post-7, first-6)
+root(ROOT-0, post-7)
+
+nsubj(gives-2, What-1)
+root(ROOT-0, gives-2)
+

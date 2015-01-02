@@ -1,0 +1,11 @@
+root(ROOT-0, urlLink-1)
+dobj(urlLink-1, ActNow-2)
+
+nsubj(drive-5, More-1)
+prep(More-1, on-2)
+det(petition-4, the-3)
+pobj(on-2, petition-4)
+root(ROOT-0, drive-5)
+prep(drive-5, for-6)
+pobj(for-6, Sudan-7)
+

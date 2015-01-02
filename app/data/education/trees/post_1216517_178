@@ -1,0 +1,4 @@
+det(doesnt-2, this-1)
+nsubj(work-3, doesnt-2)
+root(ROOT-0, work-3)
+

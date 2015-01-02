@@ -1,0 +1,23 @@
+root(ROOT-0, urlLink-1)
+det(website-5, A-2)
+amod(website-5, new-3)
+nn(website-5, urlLink-4)
+dobj(urlLink-1, website-5)
+prep(urlLink-1, for-6)
+pobj(for-6, Duranies-7)
+
+det(pictures-2, These-1)
+nsubjpass(taken-4, pictures-2)
+auxpass(taken-4, were-3)
+root(ROOT-0, taken-4)
+acomp(taken-4, pre-fame-5)
+prep(taken-4, in-6)
+pobj(in-6, 1981-7)
+
+expl(are-2, There-1)
+root(ROOT-0, are-2)
+quantmod(10-4, about-3)
+num(screens-5, 10-4)
+npadvmod(worth-6, screens-5)
+acomp(are-2, worth-6)
+

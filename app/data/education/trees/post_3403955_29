@@ -1,0 +1,6 @@
+nn(Feit-2, urlLink-1)
+root(ROOT-0, Feit-2)
+det(urlLink-6, The-4)
+nn(urlLink-6, mobster-5)
+dep(Feit-2, urlLink-6)
+

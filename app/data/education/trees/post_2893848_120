@@ -1,0 +1,10 @@
+root(ROOT-0, urlLink-1)
+dobj(urlLink-1, Mojo-2)
+prep(Mojo-2, for-3)
+pobj(for-3, sale-4)
+prep(sale-4, on-5)
+pobj(on-5, eBay-6)
+nn(Fark-10, Via-8)
+nn(Fark-10, urlLink-9)
+appos(eBay-6, Fark-10)
+

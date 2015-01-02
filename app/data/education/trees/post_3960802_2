@@ -1,0 +1,16 @@
+nn(Charlie-2, urlLink-1)
+poss(deer-4, Charlie-2)
+possessive(Charlie-2, 's-3)
+root(ROOT-0, deer-4)
+prep(deer-4, on-5)
+pobj(on-5, Flickr-6)
+dep(deer-4, Photo-8)
+vmod(Photo-8, Sharing-9)
+
+nn(ta-2, Got-1)
+nsubj(try-3, ta-2)
+root(ROOT-0, try-3)
+det(button-5, this-4)
+dobj(try-3, button-5)
+prt(try-3, out-6)
+

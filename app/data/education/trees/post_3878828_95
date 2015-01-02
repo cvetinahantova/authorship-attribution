@@ -1,0 +1,12 @@
+amod(folks-2, Cleaning-1)
+root(ROOT-0, folks-2)
+prep(folks-2, in-3)
+det(center-6, the-4)
+nn(center-6, Education-5)
+pobj(in-3, center-6)
+prep(center-6, in-7)
+pobj(in-7, Niigata-8)
+
+nn(urlLink-2, urlLink-1)
+root(ROOT-0, urlLink-2)
+

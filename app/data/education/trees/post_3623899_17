@@ -1,0 +1,20 @@
+nn(da-2, Watched-1)
+nsubj(movie-3, da-2)
+root(ROOT-0, movie-3)
+nn(Sneakers-6, Red-5)
+dep(movie-3, Sneakers-6)
+
+root(ROOT-0, @-1)
+dep(@-1, Hallmark-2)
+amod(movie-5, Gr8-4)
+dep(Hallmark-2, movie-5)
+
+nn(!!-2, MAn-1)
+nsubj(feel-5, !!-2)
+advmod(feel-5, now-3)
+advmod(feel-5, i-4)
+root(ROOT-0, feel-5)
+prep(feel-5, like-6)
+nn(basketball-8, playin-7)
+pobj(like-6, basketball-8)
+

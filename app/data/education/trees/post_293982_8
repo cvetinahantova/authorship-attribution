@@ -1,0 +1,17 @@
+advmod(reading-5, Hey-1)
+aux(reading-5, are-3)
+nsubj(reading-5, you-4)
+root(ROOT-0, reading-5)
+poss(site-7, my-6)
+dobj(reading-5, site-7)
+
+mark(are-3, If-1)
+nsubj(are-3, you-2)
+advcl(comment-5, are-3)
+root(ROOT-0, comment-5)
+advmod(I-8, so-7)
+parataxis(comment-5, I-8)
+rcmod(I-8, know-9)
+poss(audience-11, my-10)
+dobj(know-9, audience-11)
+

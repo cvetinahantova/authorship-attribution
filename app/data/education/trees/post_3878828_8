@@ -1,0 +1,15 @@
+det(guy-2, This-1)
+nsubj(ii-5, guy-2)
+cop(ii-5, is-3)
+nn(ii-5, kakko-4)
+root(ROOT-0, ii-5)
+
+nsubj(spoke-2, He-1)
+root(ROOT-0, spoke-2)
+det(little-4, a-3)
+npadvmod(English-5, little-4)
+acomp(spoke-2, English-5)
+
+nn(urlLink-2, urlLink-1)
+root(ROOT-0, urlLink-2)
+

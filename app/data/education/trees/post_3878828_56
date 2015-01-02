@@ -1,0 +1,9 @@
+nsubj(wa-2, Tokyo-1)
+root(ROOT-0, wa-2)
+amod(ne-5, kireii-3)
+amod(ne-5, desu-4)
+dobj(wa-2, ne-5)
+
+nn(urlLink-2, urlLink-1)
+root(ROOT-0, urlLink-2)
+

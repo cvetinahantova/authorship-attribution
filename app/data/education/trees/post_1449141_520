@@ -1,0 +1,9 @@
+root(ROOT-0, urlLink-1)
+nn(Operation-6, CorpWatch.org-2)
+nn(Operation-6, Issues-3)
+nn(Operation-6, Sweatshops-4)
+nn(Operation-6, Articles-5)
+dobj(urlLink-1, Operation-6)
+nn(Iraq-8, Sweatshop-7)
+nsubj(urlLink-1, Iraq-8)
+

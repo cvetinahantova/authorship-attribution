@@ -1,0 +1,13 @@
+prep(looking-5, In-1)
+pobj(In-1, case-2)
+nsubj(looking-5, you-3)
+aux(looking-5, were-4)
+root(ROOT-0, looking-5)
+prep(looking-5, for-6)
+pobj(for-6, her-7)
+nsubj(hiding-10, she-8)
+aux(hiding-10, is-9)
+rcmod(her-7, hiding-10)
+prep(hiding-10, at-11)
+pobj(at-11, www.rejeanne.blogspot.com-12)
+

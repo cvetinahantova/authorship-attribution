@@ -1,0 +1,11 @@
+nsubj(faxed-4, hay-1)
+advmod(faxed-4, finally-3)
+root(ROOT-0, faxed-4)
+det(menu-7, the-5)
+amod(menu-7, final-6)
+dobj(faxed-4, menu-7)
+prep(faxed-4, to-8)
+nn(Skyline-10, Makati-9)
+pobj(to-8, Skyline-10)
+tmod(faxed-4, today-11)
+

@@ -1,0 +1,17 @@
+root(ROOT-0, urlLink-1)
+dobj(urlLink-1, Ok-2)
+dep(urlLink-1, so-4)
+nsubj(trainer-11, it-5)
+cop(trainer-11, is-6)
+det(trainer-11, a-7)
+number(545E-9, PRO-FORM-8)
+num(trainer-11, 545E-9)
+amod(trainer-11, elliptical-10)
+parataxis(urlLink-1, trainer-11)
+
+root(ROOT-0, LOL-1)
+aux(!!-5, Silly-3)
+nsubj(!!-5, me-4)
+dep(LOL-1, !!-5)
+dobj(!!-5, urlLink-6)
+

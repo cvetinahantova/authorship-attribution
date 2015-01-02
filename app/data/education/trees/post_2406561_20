@@ -1,0 +1,90 @@
+aux(stop-3, Ca-1)
+neg(stop-3, n't-2)
+root(ROOT-0, stop-3)
+xcomp(stop-3, fighting-4)
+det(feeling-6, the-5)
+dobj(fighting-4, feeling-6)
+
+advmod(mixed-2, So-1)
+root(ROOT-0, mixed-2)
+advmod(inside-4, up-3)
+dep(mixed-2, inside-4)
+
+root(ROOT-0, Why-1)
+
+root(ROOT-0, 1-1)
+
+nsubj(called-2, Francisco-1)
+root(ROOT-0, called-2)
+dobj(called-2, me-3)
+tmod(called-2, today-4)
+
+root(ROOT-0, 2-1)
+
+nsubj(told-2, George-1)
+root(ROOT-0, told-2)
+dobj(told-2, Guria-3)
+nsubj(thought-5, he-4)
+rcmod(Guria-3, thought-5)
+nsubj(hot-8, I-6)
+cop(hot-8, was-7)
+ccomp(thought-5, hot-8)
+
+root(ROOT-0, 3-1)
+
+nsubj(stop-4, I-1)
+aux(stop-4, ca-2)
+neg(stop-4, n't-3)
+root(ROOT-0, stop-4)
+xcomp(stop-4, picking-5)
+dobj(picking-5, fights-6)
+prep(picking-5, with-7)
+pobj(with-7, Efrain-8)
+
+root(ROOT-0, 4-1)
+
+nsubj(gives-2, Matt-1)
+root(ROOT-0, gives-2)
+iobj(gives-2, me-3)
+dobj(gives-2, leering-4)
+rcmod(leering-4, looks-5)
+predet(time-8, all-6)
+det(time-8, the-7)
+dobj(looks-5, time-8)
+prep(looks-5, in-9)
+pobj(in-9, French-10)
+cc(French-10, and-11)
+conj(French-10, Pre-Calculus-12)
+
+root(ROOT-0, 5-1)
+
+nsubj(want-2, I-1)
+root(ROOT-0, want-2)
+aux(flirt-4, to-3)
+xcomp(want-2, flirt-4)
+advmod(badly-6, so-5)
+advmod(flirt-4, badly-6)
+prep(flirt-4, with-7)
+pobj(with-7, Adrian-8)
+
+root(ROOT-0, 6-1)
+
+nsubj(goes-2, Same-1)
+root(ROOT-0, goes-2)
+prep(goes-2, for-3)
+pobj(for-3, Caleb-4)
+cc(goes-2, but-6)
+advmod(has-10, only-7)
+mark(has-10, because-8)
+nsubj(has-10, Diana-9)
+advcl(goes-2, has-10)
+det(thing-12, a-11)
+dobj(has-10, thing-12)
+prep(thing-12, for-13)
+pobj(for-13, him-14)
+
+root(ROOT-0, Die-1)
+dobj(Die-1, Cheermerlyn-2)
+
+root(ROOT-0, Die-1)
+

@@ -1,0 +1,16 @@
+nsubj(Check-2, urlLink-1)
+root(ROOT-0, Check-2)
+prt(Check-2, out-3)
+det(dragon-5, the-4)
+dobj(Check-2, dragon-5)
+prep(dragon-5, on-6)
+det(side-8, the-7)
+pobj(on-6, side-8)
+prep(side-8, of-9)
+det(temple-11, the-10)
+pobj(of-9, temple-11)
+
+amod(stuff-2, Cool-1)
+root(ROOT-0, stuff-2)
+appos(stuff-2, man-4)
+

@@ -1,0 +1,10 @@
+nn(AlterNet-2, urlLink-1)
+root(ROOT-0, AlterNet-2)
+dep(AlterNet-2, Doing-4)
+det(Bush-8, the-5)
+nn(Bush-8, New-6)
+nn(Bush-8, Math-7)
+poss(economics-10, Bush-8)
+possessive(Bush-8, 's-9)
+dobj(Doing-4, economics-10)
+

@@ -1,0 +1,15 @@
+det(sanctuary-2, A-1)
+root(ROOT-0, sanctuary-2)
+
+dep(what-4, Tell-1)
+dobj(Tell-1, me-2)
+root(ROOT-0, what-4)
+cop(what-4, am-5)
+nsubj(what-4, I-6)
+prep(what-4, to-7)
+pobj(to-7, you-8)
+
+root(ROOT-0, Holy-1)
+prep(Holy-1, of-2)
+pobj(of-2, holies-3)
+

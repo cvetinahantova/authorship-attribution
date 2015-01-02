@@ -1,0 +1,7 @@
+root(ROOT-0, urlLink-1)
+amod(pictures-5, more-2)
+nn(pictures-5, water-3)
+nn(pictures-5, fall-4)
+nsubj(urlLink-6, pictures-5)
+ccomp(urlLink-1, urlLink-6)
+

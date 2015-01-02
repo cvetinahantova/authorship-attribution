@@ -1,0 +1,9 @@
+root(ROOT-0, got-1)
+dobj(got-1, milk-2)
+
+nsubj(does-2, John-1)
+root(ROOT-0, does-2)
+
+nn(urlLink-2, urlLink-1)
+root(ROOT-0, urlLink-2)
+

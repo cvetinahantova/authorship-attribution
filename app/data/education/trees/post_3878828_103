@@ -1,0 +1,9 @@
+nsubj(loves-5, Mary-1)
+det(camera-4, the-3)
+appos(Mary-1, camera-4)
+root(ROOT-0, loves-5)
+dobj(loves-5, you-6)
+
+nn(urlLink-2, urlLink-1)
+root(ROOT-0, urlLink-2)
+

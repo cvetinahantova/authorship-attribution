@@ -1,0 +1,14 @@
+root(ROOT-0, urlLink-1)
+amod(duck-3, More-2)
+dobj(urlLink-1, duck-3)
+
+nsubj(guess-2, I-1)
+root(ROOT-0, guess-2)
+nsubjpass(called-6, it-3)
+aux(called-6, would-4)
+auxpass(called-6, be-5)
+ccomp(guess-2, called-6)
+xcomp(called-6, Peking-7)
+dobj(Peking-7, Duck-8)
+advmod(guess-2, huh-10)
+

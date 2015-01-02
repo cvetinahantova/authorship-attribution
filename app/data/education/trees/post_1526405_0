@@ -1,0 +1,7 @@
+nn(Okie-3, urlLink-1)
+nn(Okie-3, Presenting-2)
+root(ROOT-0, Okie-3)
+det(Cat-7, the-5)
+nn(Cat-7, Demon-6)
+appos(Okie-3, Cat-7)
+

@@ -1,0 +1,11 @@
+amod(site-2, Fave-1)
+root(ROOT-0, site-2)
+nn(Online-6, urlLink-4)
+nn(Online-6, E-5)
+dep(site-2, Online-6)
+
+nsubj(beats-2, Nothing-1)
+root(ROOT-0, beats-2)
+nn(news-4, Entertainment-3)
+dobj(beats-2, news-4)
+

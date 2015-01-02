@@ -1,0 +1,31 @@
+root(ROOT-0, Yay-1)
+
+det(blog-3, A-1)
+amod(blog-3, new-2)
+nsubjpass(created-6, blog-3)
+aux(created-6, has-4)
+auxpass(created-6, been-5)
+root(ROOT-0, created-6)
+
+cc(im-2, And-1)
+root(ROOT-0, im-2)
+prep(im-2, in-3)
+pobj(in-3, charge-4)
+
+dep(ha-12, oh-2)
+acomp(oh-2, dear-3)
+nsubj(happen-7, wat-5)
+aux(happen-7, will-6)
+parataxis(ha-12, happen-7)
+dobj(happen-7, ?!!!-8)
+nsubj(ha-12, Kim-10)
+root(ROOT-0, ha-12)
+nsubj(funny-15, ha-13)
+advmod(funny-15, very-14)
+xcomp(ha-12, funny-15)
+
+nsubj(stil-2, Im-1)
+root(ROOT-0, stil-2)
+prep(stil-2, in-3)
+pobj(in-3, charge-4)
+

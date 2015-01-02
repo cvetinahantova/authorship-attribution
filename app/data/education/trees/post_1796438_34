@@ -1,0 +1,18 @@
+nsubj(Helsing-7, Movies-1)
+cop(Helsing-7, are-2)
+advmod(good-4, so-3)
+advmod(Helsing-7, good-4)
+nn(Helsing-7, Stupid-5)
+nn(Helsing-7, Van-6)
+root(ROOT-0, Helsing-7)
+vmod(Helsing-7, ending-8)
+
+root(ROOT-0, What-1)
+prep(What-1, a-2)
+amod(ending-4, stupid-3)
+pobj(a-2, ending-4)
+
+root(ROOT-0, STUPID-1)
+
+root(ROOT-0, stupid-2)
+

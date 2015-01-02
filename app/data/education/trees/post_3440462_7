@@ -1,0 +1,24 @@
+nsubj(great-3, This-1)
+cop(great-3, is-2)
+root(ROOT-0, great-3)
+
+advmod(think-8, Thus-1)
+poss(deposit-5, my-3)
+amod(deposit-5, first-4)
+nsubj(think-8, deposit-5)
+dep(deposit-5, I-7)
+root(ROOT-0, think-8)
+nsubj(good-11, questions-9)
+cop(good-11, are-10)
+ccomp(think-8, good-11)
+
+root(ROOT-0, Hey-2)
+
+nsubj(do-2, What-1)
+root(ROOT-0, do-2)
+nsubj(expect-4, you-3)
+ccomp(do-2, expect-4)
+prep(expect-4, for-5)
+num(cents-7, two-6)
+pobj(for-5, cents-7)
+

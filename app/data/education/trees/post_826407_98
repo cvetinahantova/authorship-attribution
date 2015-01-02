@@ -1,0 +1,17 @@
+root(ROOT-0, Rejesus-1)
+nn(Puzzle-4, urlLink-3)
+dep(Rejesus-1, Puzzle-4)
+cc(Puzzle-4, and-5)
+nn(Carols-7, urlLink-6)
+conj(Puzzle-4, Carols-7)
+
+root(ROOT-0, Fish-1)
+nn(Daze-5, urlLink-3)
+num(Daze-5, 12-4)
+dep(Fish-1, Daze-5)
+prep(Daze-5, of-6)
+pobj(of-6, Christmas-7)
+cc(Christmas-7, and-8)
+nn(readings-10, urlLink-9)
+conj(Christmas-7, readings-10)
+

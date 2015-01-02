@@ -1,0 +1,13 @@
+advmod(urlLink-4, here-1)
+cop(urlLink-4, 's-2)
+det(urlLink-4, a-3)
+root(ROOT-0, urlLink-4)
+amod(article-6, funny-5)
+nsubj(urlLink-4, article-6)
+prep(article-6, with-7)
+poss(friend-10, our-8)
+amod(friend-10, favorite-9)
+pobj(with-7, friend-10)
+prep(friend-10, from-11)
+pobj(from-11, ohio-12)
+

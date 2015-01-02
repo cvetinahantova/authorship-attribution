@@ -1,0 +1,7 @@
+root(ROOT-0, going-1)
+prt(going-1, down-2)
+det(urlLink-6, the-3)
+nn(urlLink-6, street-4)
+nn(urlLink-6, urlLink-5)
+dobj(going-1, urlLink-6)
+

@@ -1,0 +1,7 @@
+root(ROOT-0, urlLink-1)
+nn(Temple-3, Todaiji-2)
+dobj(urlLink-1, Temple-3)
+prep(Temple-3, in-4)
+nn(urlLink-6, Nara-5)
+pobj(in-4, urlLink-6)
+

@@ -1,0 +1,13 @@
+nsubj(believe-2, i-1)
+root(ROOT-0, believe-2)
+prep(believe-2, in-3)
+pobj(in-3, you-4)
+
+root(ROOT-0, hear-1)
+dobj(hear-1, me-2)
+
+nsubj(believe-2, i-1)
+root(ROOT-0, believe-2)
+prep(believe-2, in-3)
+pobj(in-3, you-4)
+

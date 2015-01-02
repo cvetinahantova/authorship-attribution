@@ -1,0 +1,22 @@
+amod(TOMPAINE.com-2, urlLink-1)
+root(ROOT-0, TOMPAINE.com-2)
+dep(TOMPAINE.com-2, Remember-4)
+nn(WMD-6, Iraqi-5)
+dobj(Remember-4, WMD-6)
+possessive(WMD-6, 's-7)
+
+nn(NEO-2, Nothing-1)
+root(ROOT-0, NEO-2)
+prep(NEO-2, about-3)
+pobj(about-3, it-4)
+
+advmod(coming-5, Even-1)
+nn(Will-3, George-2)
+nsubj(coming-5, Will-3)
+aux(coming-5, is-4)
+root(ROOT-0, coming-5)
+prt(coming-5, out-6)
+prep(coming-5, against-7)
+det(administration-9, the-8)
+pobj(against-7, administration-9)
+

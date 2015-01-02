@@ -1,0 +1,13 @@
+dep(3-13, urlLink-1)
+nn(Astrology-4, Free-2)
+nn(Astrology-4, Will-3)
+dobj(urlLink-1, Astrology-4)
+nn(Detroit-8, Metro-6)
+nn(Detroit-8, Times-7)
+appos(Astrology-4, Detroit-8)
+npadvmod(down-11, 2-10)
+advmod(urlLink-1, down-11)
+root(ROOT-0, 3-13)
+aux(go-15, to-14)
+vmod(3-13, go-15)
+

@@ -1,0 +1,8 @@
+nn(Morris-2, Jon-1)
+nsubj(gives-3, Morris-2)
+root(ROOT-0, gives-3)
+det(urlLink-6, a-4)
+nn(urlLink-6, tour-5)
+iobj(gives-3, urlLink-6)
+dobj(gives-3, urlLink-7)
+

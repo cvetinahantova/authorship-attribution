@@ -1,0 +1,7 @@
+root(ROOT-0, Take-1)
+det(Quiz-6, the-2)
+num(Quiz-6, 100-3)
+nn(Quiz-6, Acre-4)
+nn(Quiz-6, Personality-5)
+dobj(Take-1, Quiz-6)
+

@@ -1,0 +1,13 @@
+root(ROOT-0, urlLink-1)
+xcomp(urlLink-1, Starting-2)
+prt(Starting-2, Out-3)
+prep(Starting-2, at-5)
+det(Bridge-9, the-6)
+nn(Bridge-9, Chief-7)
+nn(Bridge-9, Timothy-8)
+pobj(at-5, Bridge-9)
+prep(Bridge-9, in-10)
+nn(urlLink-13, Eastern-11)
+nn(urlLink-13, Washington-12)
+pobj(in-10, urlLink-13)
+

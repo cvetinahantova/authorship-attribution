@@ -1,0 +1,6 @@
+root(ROOT-0, urlLink-1)
+nsubj(urlLink-5, Gabe-2)
+cc(Gabe-2, and-3)
+conj(Gabe-2, Pet-4)
+ccomp(urlLink-1, urlLink-5)
+

@@ -1,0 +1,12 @@
+det(breeze-2, This-1)
+nsubj(nice-5, breeze-2)
+cop(nice-5, is-3)
+advmod(nice-5, so-4)
+ccomp(cool-10, nice-5)
+nsubj(cool-10, it-7)
+cop(cool-10, 's-8)
+advmod(cool-10, so-9)
+root(ROOT-0, cool-10)
+cc(cool-10, and-11)
+conj(cool-10, fresh-12)
+

@@ -1,0 +1,8 @@
+root(ROOT-0, urlLink-1)
+nn(Widening-5, U.S.-2)
+nn(Widening-5, Income-3)
+nn(Widening-5, Gap-4)
+nsubj(urlLink-1, Widening-5)
+appos(Widening-5, Study-7)
+dep(Study-7, Says-8)
+

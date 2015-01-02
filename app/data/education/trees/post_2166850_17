@@ -1,0 +1,12 @@
+root(ROOT-0, bleaughxz-1)
+nn(juz-4, haha-3)
+dep(bleaughxz-1, juz-4)
+vmod(juz-4, tryin-5)
+aux(get-7, to-6)
+xcomp(tryin-5, get-7)
+dobj(get-7, this-8)
+aux(work-10, to-9)
+xcomp(get-7, work-10)
+det(hehe-12, la-11)
+dobj(work-10, hehe-12)
+

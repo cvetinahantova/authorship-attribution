@@ -1,0 +1,13 @@
+nsubj(get-3, I-1)
+aux(get-3, 'll-2)
+root(ROOT-0, get-3)
+dobj(get-3, it-4)
+advmod(soon-6, back-5)
+advmod(get-3, soon-6)
+advmod(feeling-11, when-8)
+nsubj(feeling-11, I-9)
+aux(feeling-11, 'm-10)
+advcl(get-3, feeling-11)
+advmod(lazy-13, less-12)
+acomp(feeling-11, lazy-13)
+

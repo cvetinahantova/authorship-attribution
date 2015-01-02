@@ -1,0 +1,8 @@
+nsubj(lynch-2, Jessica-1)
+root(ROOT-0, lynch-2)
+nsubj(event-7, story-3)
+det(event-7, a-4)
+nn(event-7, stage-5)
+nn(event-7, media-6)
+xcomp(lynch-2, event-7)
+

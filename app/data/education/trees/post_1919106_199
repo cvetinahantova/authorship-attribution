@@ -1,0 +1,9 @@
+root(ROOT-0, urlLink-1)
+nn(urlLink-3, urlLink-2)
+dobj(urlLink-1, urlLink-3)
+vmod(urlLink-3, Taken-4)
+prep(Taken-4, while-5)
+pcomp(while-5, walking-6)
+nn(urlLink-8, home-7)
+dobj(walking-6, urlLink-8)
+

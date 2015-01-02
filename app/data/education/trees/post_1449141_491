@@ -1,0 +1,10 @@
+nn(AlterNet-2, urlLink-1)
+root(ROOT-0, AlterNet-2)
+det(Side-6, The-4)
+amod(Side-6, Dark-5)
+dep(AlterNet-2, Side-6)
+prep(Side-6, of-7)
+det(Revolution-10, the-8)
+nn(Revolution-10, Outsourcing-9)
+pobj(of-7, Revolution-10)
+

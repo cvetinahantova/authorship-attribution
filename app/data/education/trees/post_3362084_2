@@ -1,0 +1,8 @@
+root(ROOT-0, urlLink-1)
+dobj(urlLink-1, Me-2)
+num(years-5, two-4)
+npadvmod(ago-6, years-5)
+advmod(urlLink-1, ago-6)
+num(urlLink-8, !!!-7)
+nsubj(urlLink-1, urlLink-8)
+

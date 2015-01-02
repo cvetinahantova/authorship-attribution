@@ -1,0 +1,13 @@
+det(BBC-2, The-1)
+nsubj(says-3, BBC-2)
+root(ROOT-0, says-3)
+mark(tool-10, that-4)
+nsubj(tool-10, blogging-5)
+cop(tool-10, is-6)
+amod(tool-10, excellent-7)
+nn(tool-10, urlLink-8)
+amod(tool-10, educational-9)
+ccomp(says-3, tool-10)
+
+root(ROOT-0, Huzzah-1)
+

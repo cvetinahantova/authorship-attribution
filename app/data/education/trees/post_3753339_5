@@ -1,0 +1,13 @@
+nsubj(sucker-5, I-1)
+cop(sucker-5, 'm-2)
+predet(sucker-5, such-3)
+det(sucker-5, a-4)
+root(ROOT-0, sucker-5)
+prep(sucker-5, for-6)
+det(kind-8, this-7)
+pobj(for-6, kind-8)
+prep(kind-8, of-9)
+pobj(of-9, stuff-10)
+nsubj(self-13, Conscious-12)
+parataxis(sucker-5, self-13)
+

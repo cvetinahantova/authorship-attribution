@@ -1,0 +1,6 @@
+nsubj(you-5, urlLink-1)
+nsubj(smilie-3, which-2)
+rcmod(urlLink-1, smilie-3)
+cop(you-5, are-4)
+root(ROOT-0, you-5)
+

@@ -1,0 +1,16 @@
+det(posts-2, These-1)
+nsubj(getting-4, posts-2)
+aux(getting-4, are-3)
+root(ROOT-0, getting-4)
+advmod(getting-4, longer-5)
+cc(longer-5, and-6)
+conj(longer-5, longer-7)
+
+ccomp(hope-5, urlLink-1)
+dobj(urlLink-1, Ames-2)
+nsubj(hope-5, I-4)
+root(ROOT-0, hope-5)
+nsubj(happy-8, you-6)
+cop(happy-8, 're-7)
+ccomp(hope-5, happy-8)
+

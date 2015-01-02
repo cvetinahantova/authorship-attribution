@@ -1,0 +1,9 @@
+nn(Iri-2, urlLink-1)
+root(ROOT-0, Iri-2)
+amod(eyes-5, Blue-4)
+dep(Iri-2, eyes-5)
+amod(eyes-5, due-6)
+prep(due-6, to-7)
+nn(flash-9, camera-8)
+pobj(to-7, flash-9)
+

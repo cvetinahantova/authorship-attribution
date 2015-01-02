@@ -1,0 +1,11 @@
+nn(Sean-2, urlLink-1)
+root(ROOT-0, Sean-2)
+cc(Sean-2, and-3)
+conj(Sean-2, Jessica-4)
+aux(nicer-11, Could-6)
+num(people-8, two-7)
+nsubj(nicer-11, people-8)
+cop(nicer-11, be-9)
+advmod(nicer-11, any-10)
+dep(Sean-2, nicer-11)
+

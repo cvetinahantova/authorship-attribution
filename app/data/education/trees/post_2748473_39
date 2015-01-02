@@ -1,0 +1,12 @@
+aux(believe-3, Will-1)
+nsubj(believe-3, you-2)
+root(ROOT-0, believe-3)
+prep(believe-3, in-4)
+pobj(in-4, me-5)
+tmod(believe-3, tonight-6)
+
+csubj(hope-4, Trying-1)
+aux(grasp-3, to-2)
+xcomp(Trying-1, grasp-3)
+root(ROOT-0, hope-4)
+

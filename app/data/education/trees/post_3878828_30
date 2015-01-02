@@ -1,0 +1,11 @@
+root(ROOT-0, Taking-1)
+det(picture-3, a-2)
+dobj(Taking-1, picture-3)
+prep(picture-3, of-4)
+pobj(of-4, Brent-5)
+vmod(Brent-5, taking-6)
+det(urlLink-10, a-7)
+nn(urlLink-10, picture-8)
+nn(urlLink-10, urlLink-9)
+dobj(taking-6, urlLink-10)
+

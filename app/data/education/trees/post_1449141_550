@@ -1,0 +1,10 @@
+nn(Charges-2, urlLink-1)
+nsubj(dropped-3, Charges-2)
+root(ROOT-0, dropped-3)
+prep(dropped-3, against-4)
+amod(whistleblower-8, GCHQ-5)
+nn(whistleblower-8, translator-6)
+nn(whistleblower-8, GCHQ-7)
+pobj(against-4, whistleblower-8)
+vmod(whistleblower-8, cleared-9)
+

@@ -1,0 +1,10 @@
+root(ROOT-0, urlLink-1)
+nn(ADVISORY-4, FAIR-2)
+nn(ADVISORY-4, MEDIA-3)
+dep(urlLink-1, ADVISORY-4)
+dep(ADVISORY-4, Pundits-6)
+prep(Pundits-6, to-7)
+pobj(to-7, Kerry-8)
+nn(Right-11, Move-10)
+dep(ADVISORY-4, Right-11)
+

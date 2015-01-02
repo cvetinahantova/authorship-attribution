@@ -1,0 +1,8 @@
+nsubj(comment-4, Anyone-1)
+aux(comment-4, can-2)
+advmod(comment-4, now-3)
+root(ROOT-0, comment-4)
+advmod(comment-4, here-5)
+
+root(ROOT-0, Thanks-1)
+

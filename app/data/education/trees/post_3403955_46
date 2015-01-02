@@ -1,0 +1,9 @@
+root(ROOT-0, urlLink-1)
+discourse(!!-7, Oh-2)
+dep(Oh-2, no-3)
+nsubj(!!-7, you-4)
+aux(!!-7, did-5)
+neg(!!-7, n't-6)
+ccomp(urlLink-1, !!-7)
+dobj(!!-7, urlLink-8)
+

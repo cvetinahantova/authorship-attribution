@@ -1,0 +1,46 @@
+advmod(peeps-6, well-1)
+nn(bak-4, im-3)
+nsubj(peeps-6, bak-4)
+root(ROOT-0, peeps-6)
+
+dep(white-4, im-2)
+neg(white-4, not-3)
+dep(hooked-7, white-4)
+nsubj(hooked-7, liz-6)
+advcl(george-14, hooked-7)
+dobj(hooked-7, me-8)
+prep(hooked-7, up-9)
+pobj(up-9, wit-10)
+det(name-13, a-11)
+nn(name-13, guy-12)
+nsubj(george-14, name-13)
+root(ROOT-0, george-14)
+
+root(ROOT-0, oo-1)
+dobj(oo-1, joy-2)
+
+nsubj(n-3, me-1)
+advmod(n-3, liz-2)
+root(ROOT-0, n-3)
+amod(movie-8, issy-4)
+nn(movie-8, r-5)
+nn(movie-8, watchin-6)
+amod(movie-8, scary-7)
+dobj(n-3, movie-8)
+num(rite-10, 2-9)
+npadvmod(now-11, rite-10)
+advmod(n-3, now-11)
+
+nsubj(funnie-2, its-1)
+root(ROOT-0, funnie-2)
+
+root(ROOT-0, and-1)
+acomp(and-1, weird-2)
+
+advmod(weird-2, mostly-1)
+root(ROOT-0, weird-2)
+
+nn(kd-3, xo-1)
+nn(kd-3, ~-2)
+root(ROOT-0, kd-3)
+

@@ -1,0 +1,23 @@
+det(sign-3, A-1)
+amod(sign-3, painted-2)
+root(ROOT-0, sign-3)
+prep(sign-3, on-4)
+det(front-6, the-5)
+pobj(on-4, front-6)
+prep(front-6, of-7)
+det(building-9, a-8)
+pobj(of-7, building-9)
+prep(building-9, on-10)
+nn(Road-12, Hotaru-11)
+pobj(on-10, Road-12)
+
+aux(see-3, Do-1)
+nsubj(see-3, you-2)
+root(ROOT-0, see-3)
+det(hotaru-5, the-4)
+dep(s-7, hotaru-5)
+dep(see-3, s-7)
+
+nn(urlLink-2, urlLink-1)
+root(ROOT-0, urlLink-2)
+

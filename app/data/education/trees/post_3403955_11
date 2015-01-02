@@ -1,0 +1,10 @@
+root(ROOT-0, urlLink-1)
+nsubj(tunr-6, Christ-2)
+cc(Christ-2, and-3)
+conj(Christ-2, TJ-4)
+poss(tunr-6, your-5)
+xcomp(urlLink-1, tunr-6)
+aux(pose-8, to-7)
+vmod(tunr-6, pose-8)
+dobj(pose-8, urlLink-9)
+

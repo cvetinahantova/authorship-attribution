@@ -1,0 +1,17 @@
+root(ROOT-0, Indy-1)
+dep(Indy-1, Spoke-3)
+prep(Spoke-3, in-4)
+nn(INdiana-6, Southern-5)
+pobj(in-4, INdiana-6)
+tmod(INdiana-6, today-7)
+prep(INdiana-6, to-8)
+num(schools-12, two-9)
+amod(schools-12, great-10)
+amod(schools-12, middle-11)
+pobj(to-8, schools-12)
+
+nsubj(blast-4, It-1)
+cop(blast-4, was-2)
+det(blast-4, a-3)
+root(ROOT-0, blast-4)
+

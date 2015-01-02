@@ -1,0 +1,11 @@
+nsubj(has-2, today-1)
+root(ROOT-0, has-2)
+det(potential-4, the-3)
+dobj(has-2, potential-4)
+aux(day-10, to-5)
+cop(day-10, be-6)
+det(day-10, a-7)
+advmod(loooong-9, very-8)
+amod(day-10, loooong-9)
+vmod(potential-4, day-10)
+

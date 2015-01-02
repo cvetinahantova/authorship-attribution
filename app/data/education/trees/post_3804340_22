@@ -1,0 +1,9 @@
+root(ROOT-0, urlLink-1)
+poss(attempt-5, My-2)
+advmod(first-4, very-3)
+amod(attempt-5, first-4)
+dobj(urlLink-1, attempt-5)
+prep(attempt-5, in-6)
+amod(urlLink-8, culinery-7)
+pobj(in-6, urlLink-8)
+

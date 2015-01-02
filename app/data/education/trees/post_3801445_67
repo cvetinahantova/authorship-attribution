@@ -1,0 +1,20 @@
+root(ROOT-0, urlLink-1)
+dobj(urlLink-1, Crikey-2)
+
+root(ROOT-0, Look-1)
+prep(Look-1, at-2)
+det(shot-4, this-3)
+pobj(at-2, shot-4)
+prep(shot-4, of-5)
+det(Boobie-11, the-6)
+amod(Boobie-11, rare-7)
+cc(rare-7, and-8)
+conj(rare-7, elusive-9)
+amod(Boobie-11, Blue-10)
+pobj(of-5, Boobie-11)
+
+det(spectacular-2, A-1)
+nsubj(find-3, spectacular-2)
+root(ROOT-0, find-3)
+ccomp(find-3, mate-5)
+

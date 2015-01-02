@@ -1,0 +1,14 @@
+cc(guess-2, And-1)
+root(ROOT-0, guess-2)
+pobj(to-6, what-3)
+nsubj(amounts-5, that-4)
+ccomp(guess-2, amounts-5)
+prep(amounts-5, to-6)
+
+advmod(sex-5, Just-1)
+det(sex-5, another-2)
+amod(sex-5, urlLink-3)
+amod(sex-5, stupid-4)
+nsubj(question-6, sex-5)
+root(ROOT-0, question-6)
+

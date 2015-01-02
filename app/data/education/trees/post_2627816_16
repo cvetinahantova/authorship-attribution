@@ -1,0 +1,18 @@
+discourse(look-4, Made-1)
+poss(Made-1, my-2)
+dep(Made-1, Windows-3)
+root(ROOT-0, look-4)
+prep(look-4, like-5)
+det(Mac-7, a-6)
+pobj(like-5, Mac-7)
+
+nn(Yay-2, :D-1)
+root(ROOT-0, Yay-2)
+
+nsubj(lildude-3, Thanks-1)
+aux(lildude-3, to-2)
+root(ROOT-0, lildude-3)
+prep(lildude-3, for-4)
+pcomp(for-4, helping-5)
+dobj(helping-5, me-6)
+

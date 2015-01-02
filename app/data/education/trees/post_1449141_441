@@ -1,0 +1,24 @@
+root(ROOT-0, urlLink-1)
+dobj(urlLink-1, CorpWatch.org-2)
+
+
+root(ROOT-0, Issues-1)
+
+
+nn(Complex-3, Military-1)
+nn(Complex-3, Industrial-2)
+root(ROOT-0, Complex-3)
+
+
+root(ROOT-0, Articles-1)
+
+
+nn(Qasr-2, Umm-1)
+root(ROOT-0, Qasr-2)
+prep(Qasr-2, From-4)
+nn(Pride-6, National-5)
+pobj(From-4, Pride-6)
+prep(Pride-6, to-7)
+nn(Booty-9, War-8)
+pobj(to-7, Booty-9)
+

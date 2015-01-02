@@ -1,0 +1,13 @@
+det(Shinjuku-2, The-1)
+nsubj(post-3, Shinjuku-2)
+root(ROOT-0, post-3)
+dobj(post-3, office-4)
+
+nsubj(large-5, It-1)
+cop(large-5, s-3)
+advmod(large-5, quite-4)
+root(ROOT-0, large-5)
+
+nn(urlLink-2, urlLink-1)
+root(ROOT-0, urlLink-2)
+

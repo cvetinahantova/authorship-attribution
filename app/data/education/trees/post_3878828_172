@@ -1,0 +1,7 @@
+advmod(village-4, Gravestone-1)
+nsubj(village-4, Oshima-3)
+root(ROOT-0, village-4)
+
+nn(urlLink-2, urlLink-1)
+root(ROOT-0, urlLink-2)
+

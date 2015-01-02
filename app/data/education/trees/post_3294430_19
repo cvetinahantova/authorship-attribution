@@ -1,0 +1,7 @@
+root(ROOT-0, urlLink-1)
+acomp(urlLink-1, hajime-2)
+num(moritsugui-6, !!-3)
+nn(moritsugui-6, copyright-4)
+nn(moritsugui-6, @katsumoto-5)
+nsubj(urlLink-1, moritsugui-6)
+

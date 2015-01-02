@@ -1,0 +1,9 @@
+nsubj(am-2, I-1)
+dep(begins-8, am-2)
+advmod(am-2, here-3)
+advmod(am-2, now-4)
+det(part-7, the-5)
+amod(part-7, hard-6)
+nsubj(begins-8, part-7)
+root(ROOT-0, begins-8)
+

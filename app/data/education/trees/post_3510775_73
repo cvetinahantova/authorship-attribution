@@ -1,0 +1,18 @@
+advmod(more-2, Nothing-1)
+root(ROOT-0, more-2)
+aux(say-4, to-3)
+dep(more-2, say-4)
+
+aux(open-3, Ca-1)
+neg(open-3, n't-2)
+root(ROOT-0, open-3)
+poss(mouth-5, your-4)
+dobj(open-3, mouth-5)
+
+root(ROOT-0, Look-1)
+advmod(Look-1, there-2)
+
+nsubj(lilies-2, Day-1)
+root(ROOT-0, lilies-2)
+dobj(lilies-2, blooming-3)
+

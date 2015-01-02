@@ -1,0 +1,15 @@
+num(%-2, 47.3-1)
+nsubjpass(made-7, %-2)
+prep(%-2, of-3)
+det(statistics-5, all-4)
+pobj(of-3, statistics-5)
+auxpass(made-7, are-6)
+root(ROOT-0, made-7)
+prt(made-7, up-8)
+prep(made-7, on-9)
+det(spot-11, the-10)
+pobj(on-9, spot-11)
+
+nn(Wright-3, Steven-2)
+root(ROOT-0, Wright-3)
+

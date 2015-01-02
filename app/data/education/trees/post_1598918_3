@@ -1,0 +1,13 @@
+nn(Mail-4, VOICE-1)
+nn(Mail-4, MAIL-2)
+nn(Mail-4, Voice-3)
+nsubj(arrived-6, Mail-4)
+aux(arrived-6, has-5)
+root(ROOT-0, arrived-6)
+
+root(ROOT-0, Go-1)
+advmod(Go-1, forth-2)
+cc(Go-1, and-3)
+conj(Go-1, leave-4)
+dobj(leave-4, messages-5)
+

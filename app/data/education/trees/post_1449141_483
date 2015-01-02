@@ -1,0 +1,10 @@
+root(ROOT-0, urlLink-1)
+punct(urlLink-1, Has-2)
+amod(production-5, global-3)
+nn(production-5, oil-4)
+nsubj(peaked-6, production-5)
+dep(urlLink-1, peaked-6)
+
+nn(csmonitor.com-2, |-1)
+root(ROOT-0, csmonitor.com-2)
+

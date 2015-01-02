@@ -1,0 +1,28 @@
+root(ROOT-0, urlLink-1)
+nsubj(cool-5, This-2)
+cop(cool-5, is-3)
+advmod(cool-5, pretty-4)
+ccomp(urlLink-1, cool-5)
+
+root(ROOT-0, Check-1)
+dobj(Check-1, it-2)
+prt(Check-1, out-3)
+
+nsubj(al-3, It-1)
+cop(al-3, 's-2)
+root(ROOT-0, al-3)
+prep(al-3, about-4)
+nn(circles-6, Crop-5)
+pobj(about-4, circles-6)
+
+expl(are-2, There-1)
+root(ROOT-0, are-2)
+det(pictures-6, some-3)
+advmod(cool-5, really-4)
+amod(pictures-6, cool-5)
+nsubj(are-2, pictures-6)
+prep(pictures-6, on-7)
+det(site-9, the-8)
+pobj(on-7, site-9)
+dep(pictures-6, circlemakers.org-11)
+

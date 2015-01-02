@@ -1,0 +1,12 @@
+root(ROOT-0, Indy-1)
+dep(Indy-1, Going-3)
+prep(Going-3, to-4)
+det(JCC-6, the-5)
+pobj(to-4, JCC-6)
+prep(JCC-6, for-7)
+det(hour-10, a-8)
+amod(hour-10, great-9)
+pobj(for-7, hour-10)
+cc(hour-10, or-11)
+advmod(hour-10, so-12)
+

@@ -1,0 +1,10 @@
+root(ROOT-0, urlLink-1)
+dobj(urlLink-1, Strategies-2)
+prep(Strategies-2, for-3)
+amod(Treatment-6, Continued-4)
+amod(Treatment-6, Successful-5)
+pobj(for-3, Treatment-6)
+prep(Treatment-6, of-7)
+pobj(of-7, Alzheimer-8)
+possessive(Alzheimer-8, 's-9)
+

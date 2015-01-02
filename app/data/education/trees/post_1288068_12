@@ -1,0 +1,22 @@
+nsubj(picture-4, Here-1)
+cop(picture-4, is-2)
+det(picture-4, a-3)
+root(ROOT-0, picture-4)
+vmod(picture-4, taken-5)
+prep(taken-5, at-6)
+det(evening-8, this-7)
+poss(opening-11, evening-8)
+possessive(evening-8, 's-9)
+nn(opening-11, exhibition-10)
+pobj(at-6, opening-11)
+
+discourse(nipple-7, Yes-1)
+nsubj(nipple-7, that-3)
+cop(nipple-7, is-4)
+poss(nipple-7, Jon-5)
+possessive(Jon-5, 's-6)
+root(ROOT-0, nipple-7)
+
+nn(xx-2, Night-1)
+root(ROOT-0, xx-2)
+

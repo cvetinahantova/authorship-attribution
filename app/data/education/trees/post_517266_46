@@ -1,0 +1,14 @@
+root(ROOT-0, Indy-1)
+nn(Angelina-4, Celebrating-3)
+poss(birthday-6, Angelina-4)
+possessive(Angelina-4, 's-5)
+dep(Indy-1, birthday-6)
+prep(birthday-6, at-7)
+poss(school-9, her-8)
+pobj(at-7, school-9)
+
+amod(year-3, Happy-1)
+amod(year-3, 8th-2)
+root(ROOT-0, year-3)
+dep(year-3, pajamalina-4)
+

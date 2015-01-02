@@ -1,0 +1,12 @@
+nn(Food-3, Food-1)
+nn(Food-3, Glorious-2)
+root(ROOT-0, Food-3)
+dep(Food-3, eeekksss-5)
+amod(bet-8, dont-7)
+dep(eeekksss-5, bet-8)
+prep(bet-8, on-9)
+pobj(on-9, it-10)
+amod(urlLink-14, :P-12)
+nn(urlLink-14, urlLink-13)
+dep(Food-3, urlLink-14)
+

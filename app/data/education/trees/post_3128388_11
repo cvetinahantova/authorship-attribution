@@ -1,0 +1,13 @@
+nsubj(apologise-2, I-1)
+root(ROOT-0, apologise-2)
+prep(apologise-2, for-3)
+det(use-6, the-4)
+amod(use-6, atrocious-5)
+pobj(for-3, use-6)
+prep(use-6, of-7)
+pobj(of-7, language-8)
+prep(apologise-2, in-9)
+det(;-RRB--12, that-10)
+nn(;-RRB--12, message-11)
+pobj(in-9, ;-RRB--12)
+

@@ -1,0 +1,10 @@
+nn(bang-5, urlLink-1)
+nn(bang-5, Chiidy-2)
+nn(bang-5, chiddy-3)
+nn(bang-5, bing-4)
+nsubj(baby-6, bang-5)
+root(ROOT-0, baby-6)
+nsubj(got-8, she-7)
+ccomp(baby-6, got-8)
+dobj(got-8, everything-9)
+

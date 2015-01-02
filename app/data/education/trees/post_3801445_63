@@ -1,0 +1,13 @@
+root(ROOT-0, urlLink-1)
+nsubj(looking-3, Leslie-2)
+dep(urlLink-1, looking-3)
+advmod(looking-3, somewhat-4)
+mark(fell-8, like-5)
+nsubj(fell-8, she-6)
+advmod(fell-8, just-7)
+advcl(looking-3, fell-8)
+dep(fell-8, off-9)
+det(boat-11, the-10)
+pobj(off-9, boat-11)
+discourse(off-9, no-13)
+

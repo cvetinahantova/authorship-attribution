@@ -1,0 +1,18 @@
+nsubj(Francis-5, This-1)
+cop(Francis-5, is-2)
+poss(Francis-5, my-3)
+nn(Francis-5, brother-4)
+ccomp(tomorrow-10, Francis-5)
+nsubj(tomorrow-10, he-7)
+cop(tomorrow-10, is-8)
+num(tomorrow-10, 20-9)
+root(ROOT-0, tomorrow-10)
+appos(tomorrow-10, 27th-12)
+
+amod(Birthday-2, Happy-1)
+root(ROOT-0, Birthday-2)
+appos(Birthday-2, Francis-3)
+
+nn(urlLink-2, urlLink-1)
+root(ROOT-0, urlLink-2)
+

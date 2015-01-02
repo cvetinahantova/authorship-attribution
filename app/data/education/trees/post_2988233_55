@@ -1,0 +1,11 @@
+root(ROOT-0, Thanks-1)
+dep(Thanks-1, Shara-2)
+cc(Shara-2, and-3)
+conj(Shara-2, Dawn-4)
+
+root(ROOT-0, urlLink-1)
+det(color-3, what-2)
+dep(are-4, color-3)
+dep(urlLink-1, are-4)
+nsubj(are-4, you-5)
+

@@ -1,0 +1,7 @@
+root(ROOT-0, urlLink-1)
+det(entrance-3, The-2)
+dobj(urlLink-1, entrance-3)
+prep(urlLink-1, to-4)
+poss(classroom-6, my-5)
+pobj(to-4, classroom-6)
+

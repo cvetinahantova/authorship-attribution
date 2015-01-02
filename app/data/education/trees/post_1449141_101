@@ -1,0 +1,17 @@
+root(ROOT-0, urlLink-1)
+nsubj(urlLink-1, Entrez-PubMed-2)
+advmod(heritable-6, How-5)
+dep(is-7, heritable-6)
+dep(urlLink-1, is-7)
+poss(disease-10, Alzheimer-8)
+possessive(Alzheimer-8, 's-9)
+nsubj(is-7, disease-10)
+dep(in-12, late-11)
+prep(disease-10, in-12)
+pobj(in-12, life-13)
+
+root(ROOT-0, Findings-1)
+prep(Findings-1, from-2)
+amod(twins-4, Swedish-3)
+pobj(from-2, twins-4)
+

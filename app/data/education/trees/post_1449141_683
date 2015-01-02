@@ -1,0 +1,7 @@
+root(ROOT-0, urlLink-1)
+dobj(urlLink-1, faces-2)
+prep(faces-2, of-3)
+amod(exhibition-6, iraq-4)
+nn(exhibition-6, picture-5)
+pobj(of-3, exhibition-6)
+

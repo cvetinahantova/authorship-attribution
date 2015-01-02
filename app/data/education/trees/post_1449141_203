@@ -1,0 +1,9 @@
+root(ROOT-0, Try-1)
+det(urlLink-10, the-2)
+nn(urlLink-10, Trailers-4)
+prep(Trailers-4, of-5)
+nn(Distruction-7, Mass-6)
+pobj(of-5, Distruction-7)
+nn(urlLink-10, http://www.digitalmediatree.com/onelap/?22489-9)
+dobj(Try-1, urlLink-10)
+

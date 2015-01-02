@@ -1,0 +1,31 @@
+root(ROOT-0, go-1)
+dobj(go-1, urlLink-2)
+advmod(go-1, here-3)
+
+root(ROOT-0, no-1)
+dep(no-1, really-2)
+
+nsubj(cool-2, its-1)
+root(ROOT-0, cool-2)
+
+cc(like-6, and-1)
+mark(like-6, if-2)
+nsubj(like-6, you-3)
+aux(like-6, do-4)
+neg(like-6, n't-5)
+root(ROOT-0, like-6)
+dobj(like-6, it-7)
+
+aux(tell-3, do-1)
+neg(tell-3, n't-2)
+root(ROOT-0, tell-3)
+dobj(tell-3, me-4)
+
+mark(like-5, because-1)
+nsubj(like-5, i-2)
+aux(like-5, might-3)
+neg(like-5, not-4)
+root(ROOT-0, like-5)
+dobj(like-5, you-6)
+advmod(like-5, anymore-7)
+

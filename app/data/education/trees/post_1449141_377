@@ -1,0 +1,9 @@
+root(ROOT-0, urlLink-1)
+nn(Questions-6, New-2)
+nn(Questions-6, Information-3)
+nn(Questions-6, May-4)
+nn(Questions-6, Bolster-5)
+dobj(urlLink-1, Questions-6)
+prep(Questions-6, on-7)
+pobj(on-7, Halliburton-8)
+

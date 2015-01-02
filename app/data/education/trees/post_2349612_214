@@ -1,0 +1,20 @@
+root(ROOT-0, toledo-1)
+vmod(toledo-1, zoo-2)
+cc(zoo-2, and-3)
+conj(zoo-2, seeing-4)
+det(today-8, a-5)
+nn(today-8, baby-6)
+nn(today-8, elephant-7)
+tmod(zoo-2, today-8)
+
+aux(make-3, can-1)
+nsubj(make-3, someone-2)
+root(ROOT-0, make-3)
+det(rain-5, the-4)
+nsubj(go-6, rain-5)
+ccomp(make-3, go-6)
+prt(go-6, away-7)
+
+nn(P-2, =-1)
+root(ROOT-0, P-2)
+

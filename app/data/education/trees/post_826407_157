@@ -1,0 +1,13 @@
+poss(right-2, Your-1)
+nsubj(urlLink-3, right-2)
+ccomp(excited-10, urlLink-3)
+dobj(urlLink-3, Ruth-4)
+nsubj(excited-10, we-6)
+aux(excited-10, did-7)
+dep(excited-10, get-8)
+advmod(excited-10, quite-9)
+root(ROOT-0, excited-10)
+prep(excited-10, by-11)
+pobj(by-11, urlLink-12)
+dep(urlLink-12, this-13)
+

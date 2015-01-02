@@ -1,0 +1,20 @@
+root(ROOT-0, urlLink-1)
+det(Mountains-4, The-2)
+nn(Mountains-4, Snow-3)
+dep(urlLink-1, Mountains-4)
+
+advmod(west-2, just-1)
+nsubj(discovery-8, west-2)
+prep(west-2, of-3)
+pobj(of-3, Laramie-4)
+cop(discovery-8, were-6)
+det(discovery-8, a-7)
+root(ROOT-0, discovery-8)
+
+nsubj(tall-6, They-1)
+cop(tall-6, 're-2)
+quantmod(10,000-4, over-3)
+num(feet-5, 10,000-4)
+npadvmod(tall-6, feet-5)
+root(ROOT-0, tall-6)
+

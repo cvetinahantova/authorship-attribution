@@ -1,0 +1,12 @@
+root(ROOT-0, urlLink-1)
+amod(differences-4, Brain-2)
+amod(differences-4, metabolic-3)
+dobj(urlLink-1, differences-4)
+prep(differences-4, between-5)
+amod(Alzheimer-9, sporadic-6)
+cc(sporadic-6, and-7)
+conj(sporadic-6, familial-8)
+poss(disease-11, Alzheimer-9)
+possessive(Alzheimer-9, 's-10)
+pobj(between-5, disease-11)
+

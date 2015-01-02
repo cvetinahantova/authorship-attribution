@@ -1,0 +1,10 @@
+root(ROOT-0, urlLink-1)
+discourse(urlLink-1, Yeah-2)
+prep(urlLink-1, for-3)
+amod(guys-5, coll-4)
+pobj(for-3, guys-5)
+prep(guys-5, at-6)
+nn(urlLink-9, Krispy-7)
+nn(urlLink-9, Kreme-8)
+pobj(at-6, urlLink-9)
+

@@ -1,0 +1,12 @@
+poss(life-2, My-1)
+nsubjpass(rated-4, life-2)
+auxpass(rated-4, is-3)
+root(ROOT-0, rated-4)
+dobj(rated-4, PG-5)
+
+dobj(rated-5, What-1)
+auxpass(rated-5, is-2)
+poss(life-4, your-3)
+nsubjpass(rated-5, life-4)
+root(ROOT-0, rated-5)
+

@@ -1,0 +1,9 @@
+prep(loves-4, In-1)
+nn(everyone-3, P.E.-2)
+pobj(In-1, everyone-3)
+root(ROOT-0, loves-4)
+dobj(loves-4, everyone-5)
+num(urlLink-8, !!!-6)
+nn(urlLink-8, urlLink-7)
+nsubj(loves-4, urlLink-8)
+

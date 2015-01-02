@@ -1,0 +1,13 @@
+root(ROOT-0, urlLink-1)
+dobj(urlLink-1, I-2)
+dep(urlLink-1, smashed-3)
+det(sandwich-5, this-4)
+dobj(smashed-3, sandwich-5)
+prep(sandwich-5, in-6)
+advmod(seconds-9, about-7)
+num(seconds-9, thirty-8)
+pobj(in-6, seconds-9)
+advmod(urlLink-1, Off-11)
+prep(Off-11, to-12)
+pobj(to-12, work-13)
+

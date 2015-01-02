@@ -1,0 +1,10 @@
+advmod(found-3, Barrels-1)
+nsubj(found-3, I-2)
+root(ROOT-0, found-3)
+prep(found-3, behind-4)
+det(building-6, a-5)
+pobj(behind-4, building-6)
+
+nn(urlLink-2, urlLink-1)
+root(ROOT-0, urlLink-2)
+

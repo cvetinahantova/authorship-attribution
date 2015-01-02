@@ -1,0 +1,9 @@
+root(ROOT-0, urlLink-1)
+dep(urlLink-1, This-2)
+advmod(In-4, Just-3)
+dep(This-2, In-4)
+pcomp(In-4, |-5)
+det(magazine-8, The-6)
+amod(magazine-8, Progressive-7)
+dobj(|-5, magazine-8)
+

@@ -1,0 +1,15 @@
+nsubj(Always-2, urlLink-1)
+root(ROOT-0, Always-2)
+dobj(Always-2, fun-3)
+cc(fun-3, and-4)
+conj(fun-3, joking-5)
+cc(Always-2, or-6)
+cop(joghing-10, is-7)
+det(just-9, that-8)
+npadvmod(joghing-10, just-9)
+conj(Always-2, joghing-10)
+
+nn(hee-3, Hee-2)
+nsubj(urlLink-5, hee-3)
+root(ROOT-0, urlLink-5)
+

@@ -1,0 +1,8 @@
+root(ROOT-0, urlLink-1)
+nn(Inc.-3, Anti-Bush-2)
+nsubj(protest-4, Inc.-3)
+ccomp(urlLink-1, protest-4)
+prep(protest-4, in-5)
+nn(urlLink-7, Osaka-6)
+pobj(in-5, urlLink-7)
+

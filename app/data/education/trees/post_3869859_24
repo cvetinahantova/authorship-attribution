@@ -1,0 +1,10 @@
+root(ROOT-0, urlLink-1)
+dobj(urlLink-1, H2-2)
+cc(H2-2, and-3)
+conj(H2-2, I-4)
+prep(I-4, at-5)
+nn(July-8, Lassen-6)
+pobj(at-5, July-8)
+num(urlLink-10, 3-9)
+nsubj(urlLink-1, urlLink-10)
+

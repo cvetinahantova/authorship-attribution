@@ -1,0 +1,11 @@
+nsubj(guess-2, i-1)
+root(ROOT-0, guess-2)
+nsubj(is-4, jammi-3)
+ccomp(guess-2, is-4)
+advmod(is-4, really-5)
+prep(is-4, in-6)
+pobj(in-6, love-7)
+prep(love-7, with-8)
+pobj(with-8, me-9)
+dep(love-7, hihi-11)
+

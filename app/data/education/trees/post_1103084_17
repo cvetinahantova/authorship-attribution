@@ -1,0 +1,18 @@
+root(ROOT-0, Beware-1)
+
+nsubj(download-5, It-1)
+cop(download-5, 's-2)
+det(download-5, a-3)
+amod(download-5, long-4)
+root(ROOT-0, download-5)
+cc(download-5, but-7)
+dep(media-11, the-8)
+nn(media-11, urlLink-10)
+dep(worth-15, media-11)
+nn(chart-13, ownership-12)
+nsubj(worth-15, chart-13)
+cop(worth-15, is-14)
+conj(download-5, worth-15)
+xcomp(worth-15, checking-16)
+prt(checking-16, out-17)
+

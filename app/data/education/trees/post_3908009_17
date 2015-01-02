@@ -1,0 +1,47 @@
+nsubj(think-2, parents-1)
+root(ROOT-0, think-2)
+nsubj(kno-4, they-3)
+ccomp(think-2, kno-4)
+dobj(kno-4, everything-5)
+
+root(ROOT-0, geeze-1)
+
+neg(they-2, no-1)
+nsubj(dont-3, they-2)
+root(ROOT-0, dont-3)
+
+nsubj(dull-5, they-1)
+cop(dull-5, 're-2)
+advmod(dull-5, just-3)
+advmod(dull-5, as-4)
+root(ROOT-0, dull-5)
+mark(are-8, as-6)
+nsubj(are-8, we-7)
+dep(dull-5, are-8)
+
+root(ROOT-0, shoo-1)
+
+nsubj(wan-2, i-1)
+root(ROOT-0, wan-2)
+aux(oprphan-6, na-3)
+cop(oprphan-6, be-4)
+det(oprphan-6, an-5)
+xcomp(wan-2, oprphan-6)
+
+nn(THOUGHT-4, WHAT-1)
+nn(THOUGHT-4, A-2)
+nn(THOUGHT-4, TERRIBLE-3)
+root(ROOT-0, THOUGHT-4)
+
+root(ROOT-0, TASH-1)
+
+nn(BITCH-2, U-1)
+root(ROOT-0, BITCH-2)
+
+root(ROOT-0, TASH-1)
+prep(TASH-1, IN-2)
+advmod(CHEERS-5, later-3)
+amod(CHEERS-5, much-4)
+pobj(IN-2, CHEERS-5)
+appos(CHEERS-5, B-7)
+

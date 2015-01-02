@@ -1,0 +1,8 @@
+root(ROOT-0, urlLink-1)
+nn(Ellen-10, Carla-2)
+appos(Ellen-10, Karen-4)
+appos(Ellen-10, Lynn-6)
+appos(Ellen-10, Julia-8)
+dep(urlLink-1, Ellen-10)
+dep(urlLink-1, urlLink-11)
+

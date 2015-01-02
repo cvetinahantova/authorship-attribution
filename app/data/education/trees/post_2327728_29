@@ -1,0 +1,21 @@
+nsubj(hormone-5, Love-1)
+cop(hormone-5, is-2)
+det(hormone-5, the-3)
+amod(hormone-5, cognitive-4)
+root(ROOT-0, hormone-5)
+nsubj(regulates-7, that-6)
+rcmod(hormone-5, regulates-7)
+dobj(regulates-7, reproduction-8)
+cc(hormone-5, and-10)
+advmod(survival-12, hence-11)
+conj(hormone-5, survival-12)
+prep(survival-12, of-13)
+det(species-15, the-14)
+pobj(of-13, species-15)
+
+root(ROOT-0, Think-1)
+prep(Think-1, about-2)
+pobj(about-2, it-3)
+
+root(ROOT-0, |-2)
+

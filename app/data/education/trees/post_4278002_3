@@ -1,0 +1,10 @@
+nn(View-2, urlLink-1)
+nsubj(uploaded-6, View-2)
+prep(View-2, from-3)
+pobj(from-3, Maryknoll-4)
+advmod(uploaded-6, Originally-5)
+root(ROOT-0, uploaded-6)
+prep(uploaded-6, by-7)
+nn(Kimberlysooninchina-9, urlLink-8)
+pobj(by-7, Kimberlysooninchina-9)
+

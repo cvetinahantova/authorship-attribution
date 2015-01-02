@@ -1,0 +1,7 @@
+nn(urlLink-2, Bush-1)
+nsubj(speaks-3, urlLink-2)
+root(ROOT-0, speaks-3)
+advmod(speaks-3, truthfully-4)
+prep(speaks-3, for-5)
+pobj(for-5, once-6)
+

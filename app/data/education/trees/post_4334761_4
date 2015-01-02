@@ -1,0 +1,38 @@
+root(ROOT-0, helllllo-1)
+
+nsubj(feel-2, i-1)
+root(ROOT-0, feel-2)
+dep(feel-2, depressed-3)
+advmod(depressed-3, again-4)
+
+nsubj(does-3, pms-1)
+advmod(does-3, sure-2)
+root(ROOT-0, does-3)
+ccomp(does-3, suck-4)
+advmod(suck-4, UH-6)
+
+root(ROOT-0, entered-1)
+nn(contest-3, poerty.com-2)
+dobj(entered-1, contest-3)
+
+root(ROOT-0, again-1)
+
+nsubj(sucks-2, life-1)
+root(ROOT-0, sucks-2)
+
+root(ROOT-0, ahh-1)
+
+det(light-2, the-1)
+root(ROOT-0, light-2)
+
+advmod(get-3, well-1)
+root(ROOT-0, get-3)
+prt(get-3, back-4)
+number(ya-6, 2-5)
+num(l8er-7, ya-6)
+dobj(get-3, l8er-7)
+num(kd-11, ~-8)
+nn(kd-11, xo-9)
+nn(kd-11, ~-10)
+nsubj(get-3, kd-11)
+

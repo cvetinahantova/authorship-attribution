@@ -1,28 +1,41 @@
 {
-    "name": "authorship-attribution-node-api",
-    "description": "Authorship attribution API",
-    "main" : "servier.js",
-    "version": "0.0.1",
-    "private": true,
-    "dependencies": {
-        "express": "4.8.x",
-        "mongoose": "3.8.x",
-        "body-parser": "1.6.x",
-        "method-override" : "~2.0.2",
-        "humanize-duration" : "latest",
-        "natural": "latest",
-        "node-svm": "latest",
-        "stanford-corenlp": "latest"
-    },
-    "devDependencies": {
-        "grunt": "~0.4.4",
-        "grunt-contrib-jshint": "latest",
-        "jshint-stylish": "latest",
-        "grunt-contrib-uglify": "latest",
-        "grunt-contrib-less": "latest",
-        "grunt-contrib-cssmin": "latest",
-        "grunt-contrib-watch": "latest",
-        "grunt-nodemon": "~0.3.0",
-        "grunt-concurrent": "~0.5.0"
-    }
+  "name": "authorship-attribution-node-api",
+  "description": "Authorship attribution API",
+  "main": "servier.js",
+  "version": "1.0.0",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/cvetinahantova/authorship-attribution.git"
+  },
+  "author": {
+    "name": "Cvetina Hantova"
+  },
+  "dependencies": {
+    "async": "^0.9.0",
+    "body-parser": "^1.10.1",
+    "enum": "^0.2.6",
+    "express": "4.8.x",
+    "humanize-duration": "^2.2.1",
+    "java": "~0.2.4",
+    "method-override": "~2.0.2",
+    "mongoose": "3.8.x",
+    "natural": "^0.1.29",
+    "node-gyp": "~0.13.0",
+    "node-svm": "latest",
+    "node-uuid": "^1.4.2",
+    "stream": "0.0.2",
+    "underscore": "^1.7.0",
+    "xml2js": "^0.4.4"
+  },
+  "devDependencies": {
+    "grunt": "~0.4.4",
+    "grunt-contrib-jshint": "latest",
+    "jshint-stylish": "latest",
+    "grunt-contrib-uglify": "latest",
+    "grunt-contrib-less": "latest",
+    "grunt-contrib-cssmin": "latest",
+    "grunt-contrib-watch": "latest",
+    "grunt-nodemon": "~0.3.0",
+    "grunt-concurrent": "~0.5.0"
+  }
 }

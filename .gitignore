@@ -1,0 +1,10 @@
+node_modules/*
+
+app/data/blogs(OBSOLETE)
+app/svm-models
+app/algorithms/stanford-core-nlp
+
+public/libs
+public/dist
+
+.idea/workspace.xml

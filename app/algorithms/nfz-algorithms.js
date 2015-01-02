@@ -2,38 +2,63 @@ var WordFrequency = require('../models/WordFrequency.js');
 var FeatureSet = require('../models/FeatureSet.js');
 
 var nlpAlg = require("./nlp-algorithms");
+
 var fs = require("fs");
 var fileUtils = require('../utils/files-utils');
 
 var config = require('./config');
 
+var PartitionFunctions = {
+  LINEAR : 0,
+  RADIX : 1,
+  LOGARITHMIC : 2
+};
+module.exports.PartitionFunctions = PartitionFunctions;
+
+// Keeps the natural words frequencies
+var wordsDictionary;
+
+// Loads the natural words frequencies
+var getWordsFrequencies = function(done){
+        console.log("Loads natural words frequencies");
+
+        WordFrequency.aggregate([{
+                                $group : {_id : "$word", frequency : { $max : "$frequency"}, filesNumber : { $max : "$filesNumber"}}
+                            }])
+                      .exec(function(err, wordFrequencies){
+
+                            if(!err){
+                                var words = {};
+                                wordFrequencies.map(function(word){
+                                    return words[word._id] = word.frequency;
+                                });
+                                done(null, words);
+                            }
+                            else{
+                                done(err, null);
+                            }
+                       });
+
+};
+
+// Constructs the array of the natural frequencies of the tokens
 var constructNaturalFrequencyArray = function(tokens, done)
 {
     var wordFrequencies = [];
-    var count = 0;
 
-    tokens.forEach(function(value, index, array){
-        count++;
-        WordFrequency.find({'word': value.toLowerCase()}).sort({'frequency' : -1}).findOne(function(err, wordFrequency){
-            count--;
-            if(err)
-                res.send(err);
+    tokens.forEach(function(value, index){
 
-            if(wordFrequency) {
-                wordFrequencies[index] = wordFrequency.frequency;
-            }
-            else{
-                wordFrequencies[index] = 0;
-            }
+        var wordFrequency =  wordsDictionary[value.toLowerCase()];
 
-            if(count == 0)
-            {
-                done(wordFrequencies);
-            }
-        });
+        if(wordFrequency) {
+            wordFrequencies[index] = wordFrequency;
+        }
+        else{
+            wordFrequencies[index] = 0;
+        }
     });
-
-}
+    done(wordFrequencies);
+};
 
 var calculateOccurrenceDistanceExpectation = function(zoneWords){
 
@@ -43,7 +68,7 @@ var calculateOccurrenceDistanceExpectation = function(zoneWords){
     else{
         return 0;
     }
-}
+};
 
 var calculateOccurrenceDistanceVariance = function(zoneWords, zoneWordsOccurrences){
 
@@ -72,12 +97,12 @@ var calculateOccurrenceDistanceVariance = function(zoneWords, zoneWordsOccurrenc
     else{
         return 0;
     }
-}
+};
 
-// Partition functions
+// ======= Partition functions =======
 var linearPartition = function(frequency){
     return Math.floor(frequency/config.L);
-}
+};
 
 var radixPartition = function(frequency){
     var B = linearPartition(frequency);
@@ -90,7 +115,7 @@ var radixPartition = function(frequency){
         return (config.R - 1)*E + Math.floor(B/(Math.pow(config.R, E)));
     }
 
-}
+};
 
 var logarithmPartition = function(frequency){
     if(frequency == 0){
@@ -99,17 +124,51 @@ var logarithmPartition = function(frequency){
     else{
         return Math.floor(Math.log(frequency, config.r));
     }
-}
+};
 
+var getPartitionFunction = function(partition){
+
+    var partitionFunction;
+
+    if(partition === PartitionFunctions.LINEAR){
+        partitionFunction = linearPartition;
+    }
+    else if(partition === PartitionFunctions.RADIX){
+        partitionFunction = radixPartition;
+    }
+    else if(partition === PartitionFunctions.LOGARITHMIC){
+        partitionFunction = logarithmPartition;
+    }
+    return partitionFunction;
+};
+
+var partitionFunctionToString = function(partition){
+    var partitionFunctionString;
+
+    if(partition === PartitionFunctions.LINEAR){
+        partitionFunctionString = "LINEAR";
+    }
+    else if(partition === PartitionFunctions.RADIX){
+        partitionFunctionString = "RADIX";
+    }
+    else if(partition === PartitionFunctions.LOGARITHMIC){
+        partitionFunctionString = "LOGARITHMIC";
+    }
+    return partitionFunctionString;
+};
+module.exports.partitionFunctionToString = partitionFunctionToString;
+// ====================================
+
+// Represents the tokenized text with the arrays of natural frequency zones and the words occurrences
 var NFZPartition = function(tokenizedText, wordFrequencies, partitionFunction){
-    var naturalFrequencyZones = {};
-    var wordNormalizedOccurrences = {};
+
+    var naturalFrequencyZones = [];
+    var wordNormalizedOccurrences = [];
 
     // NFZ Partition
     for(var i=0; i<tokenizedText.length;i++){
         var currentWord = tokenizedText[i];
 
-        // linear partition
         var k = partitionFunction(wordFrequencies[i]);
 
         if(!naturalFrequencyZones[k]){
@@ -124,10 +183,12 @@ var NFZPartition = function(tokenizedText, wordFrequencies, partitionFunction){
     }
 
     return [naturalFrequencyZones, wordNormalizedOccurrences];
-}
+};
 
-var constructFeatureSet = function(filename, done){
-    console.log('constructFeatureSet ' + filename);
+var constructFeatureSet = function(filename, options, done){
+
+    var partitionFunction = getPartitionFunction(options['partitionFunction']);
+
     fs.readFile(filename, "utf8", function(err, data){
 
         if(!err) {
@@ -139,27 +200,22 @@ var constructFeatureSet = function(filename, done){
             constructNaturalFrequencyArray(tokenizedText, function(wordFrequencies){
 
                // NFZ partition
-               var partition = NFZPartition(tokenizedText, wordFrequencies, radixPartition);
+               var partition = NFZPartition(tokenizedText, wordFrequencies, partitionFunction);
                var naturalFrequencyZones = partition[0];
                var wordNormalizedOccurrences = partition[1];
 
                 // Text style computation
-                var textFeatures = [];
+                var textFeatures = {};
 
-                var featureCount = Math.max.apply(null, (Object.keys(naturalFrequencyZones)));
-                console.log(featureCount);
-                for(var i=0;i<featureCount; i++)
-                {
-                        var expectation = calculateOccurrenceDistanceExpectation(naturalFrequencyZones[i]);
-                        var variance = calculateOccurrenceDistanceVariance(naturalFrequencyZones[i], wordNormalizedOccurrences[i]);
-
-                        // push expectation
-                        textFeatures.push(expectation);
-
-                        // push variance
-                        textFeatures.push(variance);
-
+                for(var key in naturalFrequencyZones){
+                    if(naturalFrequencyZones.hasOwnProperty(key))
+                    {
+                        var expectation = calculateOccurrenceDistanceExpectation(naturalFrequencyZones[key]);
+                        var variance = calculateOccurrenceDistanceVariance(naturalFrequencyZones[key], wordNormalizedOccurrences[key]);
+                        textFeatures[key] = [expectation, variance];
+                    }
                 }
+
                 done(null, textFeatures);
             });
         }
@@ -167,35 +223,84 @@ var constructFeatureSet = function(filename, done){
             done(err, null);
         }
     });
-}
+};
 module.exports.constructFeatureSet = constructFeatureSet;
 
-module.exports.constructAllFeatureSets = function(directory, done){
-    var documents = [];
+module.exports.constructAllFeatureSets = function(directory, filesInventory,  authorsFile, options, done){
 
-    fileUtils.convertAuthorsFileToDictionary(directory + '/authors', function(authors){
+    // Load natural word frequencies
+    getWordsFrequencies(function(err, words){
+        if(!err){
 
-        fileUtils.traverse(directory, function(file, callback){
+            console.log("Frequency Dictionary Loaded");
+            wordsDictionary = words;
 
-            constructFeatureSet(directory + '/' + file, function(err, featureSet){
-                if(err){
-                    console.log(err);
-                }
-                else {
-                    var features = new FeatureSet();
-                    features._id = file;
-                    features.features = featureSet;
-                    features.author = authors[file];
+            // all texts' feature sets and their corresponding authors
+            var documents = [];
 
-                    FeatureSet.create(features);
+            var allNFZ = [];
 
-                    documents.push([featureSet, authors[file]]);
-                }
-                callback();
+            // Loads authors of the texts
+            fileUtils.convertAuthorsFileToDictionary(authorsFile, function(authors){
+                fs.readFile(filesInventory, 'utf8', function(err, data){
+                    if(!err) {
+                        var inventory = data.split('\n');
+
+                        console.log(directory);
+                        // Go through all files in the corpus and construct their feature sets
+                        fileUtils.traverse(directory, function (file, callback) {
+                            if(inventory.indexOf(file) > -1) {
+                                console.log(file);
+                                constructFeatureSet(directory + '/' + file, options, function (err, featureSet) {
+                                    if (err) {
+                                        console.log(err);
+                                    }
+                                    else {
+                                        var currentNaturalFrequencyZones = Object.keys(featureSet);
+                                        currentNaturalFrequencyZones.forEach(function (zone) {
+                                            if (allNFZ.indexOf(zone) == -1) {
+                                                allNFZ.push(zone);
+                                            }
+                                        });
+
+
+                                        documents.push([featureSet, authors[file]]);
+                                    }
+//                                    callback();
+                                });
+                            }
+                            callback();
+
+                        }, function () {
+
+                            //add missing zones
+                            allNFZ.forEach(function (zone) {
+                                documents.forEach(function (doc) {
+                                    if (!doc[0].hasOwnProperty(zone)) {
+                                        doc[0][zone] = [0, 0];
+                                    }
+                                });
+                            });
+
+                            //flatten the feature set
+                            var mappedDocs = documents.map(function (doc) {
+                                var features = [];
+                                for (var key in doc[0]) {
+                                    if (doc[0].hasOwnProperty(key)) {
+                                        features.push(doc[0][key][0]);
+                                        features.push(doc[0][key][1]);
+                                    }
+                                }
+                                return [features, doc[1]];
+                            });
+
+                            done(mappedDocs);
+                        });
+                    }});
             });
-
-        }, function(){
-                done(documents);
-        });
+        }
+        else{
+            console.log(err);
+        }
     });
-}
+};

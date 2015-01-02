@@ -1,0 +1,8 @@
+nn(Drifter-2, urlLink-1)
+nsubj(digging-4, Drifter-2)
+aux(digging-4, was-3)
+root(ROOT-0, digging-4)
+det(PB-6, the-5)
+dobj(digging-4, PB-6)
+advmod(digging-4, too-7)
+

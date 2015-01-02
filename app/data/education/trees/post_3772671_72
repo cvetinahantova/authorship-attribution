@@ -1,0 +1,9 @@
+root(ROOT-0, urlLink-1)
+nn(Springs-3, Hot-2)
+dobj(urlLink-1, Springs-3)
+advmod(of-5, off-4)
+prep(Springs-3, of-5)
+pobj(of-5, Route-6)
+num(urlLink-8, 12-7)
+nsubj(urlLink-1, urlLink-8)
+

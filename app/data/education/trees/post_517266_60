@@ -1,0 +1,15 @@
+root(ROOT-0, Indy-1)
+dep(Indy-1, Watching-3)
+det(Colts-5, the-4)
+nsubj(beat-6, Colts-5)
+ccomp(Watching-3, beat-6)
+det(Texans-8, the-7)
+dobj(beat-6, Texans-8)
+aux(clinch-10, to-9)
+xcomp(beat-6, clinch-10)
+det(division-12, the-11)
+dobj(clinch-10, division-12)
+
+nn(!!!!-2, Yeah-1)
+root(ROOT-0, !!!!-2)
+

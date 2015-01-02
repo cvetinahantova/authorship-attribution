@@ -1,0 +1,11 @@
+root(ROOT-0, urlLink-1)
+nsubj(showing-3, Chris-2)
+dep(urlLink-1, showing-3)
+prt(showing-3, off-4)
+dobj(learned-7, what-5)
+nsubj(learned-7, he-6)
+ccomp(showing-3, learned-7)
+prep(learned-7, in-8)
+nn(urlLink-10, Japan-9)
+pobj(in-8, urlLink-10)
+

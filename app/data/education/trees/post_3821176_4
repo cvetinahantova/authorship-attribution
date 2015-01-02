@@ -1,0 +1,12 @@
+root(ROOT-0, urlLink-1)
+dobj(urlLink-1, Suzanne-2)
+vmod(Suzanne-2, trying-3)
+aux(cool-5, to-4)
+xcomp(trying-3, cool-5)
+prt(cool-5, off-6)
+prep(cool-5, near-7)
+det(canal-9, a-8)
+pobj(near-7, canal-9)
+prep(canal-9, in-10)
+pobj(in-10, Venice-11)
+

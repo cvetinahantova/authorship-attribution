@@ -1,0 +1,38 @@
+discourse(fun-6, Yeah-1)
+nn(Visio-4, Microsoft-3)
+nsubj(fun-6, Visio-4)
+cop(fun-6, is-5)
+root(ROOT-0, fun-6)
+
+cc(that-4, And-1)
+nsubj(that-4, that-2)
+cop(that-4, 's-3)
+root(ROOT-0, that-4)
+
+advmod(awesome-6, Also-1)
+nsubj(awesome-6, Farenheit-3)
+num(Farenheit-3, 9/11-4)
+cop(awesome-6, is-5)
+root(ROOT-0, awesome-6)
+
+dep(yes-3, So-1)
+root(ROOT-0, yes-3)
+
+discourse(and-3, Oh-1)
+root(ROOT-0, and-3)
+nsubj(forgot-6, I-4)
+advmod(forgot-6, almost-5)
+xcomp(and-3, forgot-6)
+
+nsubj(weekend-4, It-1)
+cop(weekend-4, 's-2)
+det(weekend-4, the-3)
+root(ROOT-0, weekend-4)
+
+nn(Music-2, Current-1)
+root(ROOT-0, Music-2)
+amod(Doctors-5, Spin-4)
+dep(Music-2, Doctors-5)
+num(Princes-8, Two-7)
+dep(Doctors-5, Princes-8)
+

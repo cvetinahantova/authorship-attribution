@@ -1,0 +1,5 @@
+root(ROOT-0, check-1)
+det(out-3, this-2)
+dobj(check-1, out-3)
+amod(out-3, http://story.news.yahoo.com/news?tmpl=story&ncid=1756&e=1&u=/040428/481/fot10104280803-5)
+

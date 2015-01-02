@@ -1,0 +1,8 @@
+root(ROOT-0, urlLink-1)
+dobj(urlLink-1, Becca-2)
+dobj(say-8, what-4)
+aux(say-8, would-5)
+poss(mother-7, your-6)
+nsubj(say-8, mother-7)
+dep(Becca-2, say-8)
+

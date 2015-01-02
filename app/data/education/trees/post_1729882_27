@@ -1,0 +1,11 @@
+det(alternative-3, The-1)
+amod(alternative-3, only-2)
+nsubj(codestruction-7, alternative-3)
+prep(alternative-3, to-4)
+pobj(to-4, coexistence-5)
+cop(codestruction-7, is-6)
+root(ROOT-0, codestruction-7)
+
+nsubj(Nehru-3, Jawaharlal-2)
+root(ROOT-0, Nehru-3)
+

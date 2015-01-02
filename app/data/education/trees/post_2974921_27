@@ -1,0 +1,11 @@
+nsubj(wrong-3, something-1)
+cop(wrong-3, 's-2)
+root(ROOT-0, wrong-3)
+prep(wrong-3, with-4)
+poss(ym-6, my-5)
+pobj(with-4, ym-6)
+
+nsubj(worried-3, i-1)
+cop(worried-3, 'm-2)
+root(ROOT-0, worried-3)
+

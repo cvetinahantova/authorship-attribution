@@ -1,0 +1,12 @@
+nsubj(pictures-3, i-1)
+aux(pictures-3, have-2)
+root(ROOT-0, pictures-3)
+advmod(pictures-3, now-4)
+
+root(ROOT-0, boo-yah-1)
+
+root(ROOT-0, let-1)
+det(fun-3, the-2)
+nsubj(begin-4, fun-3)
+ccomp(let-1, begin-4)
+

@@ -1,0 +1,6 @@
+root(ROOT-0, urlLink-1)
+dobj(urlLink-1, urlLink-2)
+nn(Counters-5, Web-3)
+nn(Counters-5, Hit-4)
+nsubj(urlLink-1, Counters-5)
+

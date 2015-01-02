@@ -1,0 +1,9 @@
+root(ROOT-0, urlLink-1)
+dobj(urlLink-1, i-2)
+dep(urlLink-1, miss-3)
+poss(nikki-5, my-4)
+dobj(miss-3, nikki-5)
+dep(miss-3, sniff-7)
+nn(=-9, sniff-8)
+poss(-LRB--11, =-9)
+

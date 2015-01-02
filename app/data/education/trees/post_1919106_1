@@ -1,0 +1,17 @@
+nsubj(likes-5, Meat-1)
+nsubj(seems-3, It-2)
+rcmod(Meat-1, seems-3)
+xcomp(seems-3, everyone-4)
+root(ROOT-0, likes-5)
+aux(grab-7, to-6)
+xcomp(likes-5, grab-7)
+cc(grab-7, and-8)
+conj(grab-7, rub-9)
+poss(meat-11, my-10)
+dobj(grab-7, meat-11)
+
+nn(I-2, Damn-1)
+nsubj(irresistible-4, I-2)
+cop(irresistible-4, 'm-3)
+root(ROOT-0, irresistible-4)
+

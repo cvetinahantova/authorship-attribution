@@ -1,0 +1,16 @@
+nsubj(close-4, I-1)
+cop(close-4, was-2)
+advmod(close-4, really-3)
+root(ROOT-0, close-4)
+prep(close-4, to-5)
+pcomp(to-5, going-6)
+aux(work-8, to-7)
+xcomp(going-6, work-8)
+prt(work-8, out-9)
+tmod(going-6, today-10)
+
+cc(did-3, but-1)
+nsubj(did-3, i-2)
+root(ROOT-0, did-3)
+neg(did-3, n't-4)
+

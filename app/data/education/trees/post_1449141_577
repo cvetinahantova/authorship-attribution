@@ -1,0 +1,13 @@
+root(ROOT-0, urlLink-1)
+poss(struggle-4, Haiti-2)
+possessive(Haiti-2, 's-3)
+dobj(urlLink-1, struggle-4)
+prep(struggle-4, for-5)
+pobj(for-5, freedom-6)
+dep(freedom-6, continues-7)
+dep(struggle-4, News-9)
+cc(News-9, &-10)
+conj(News-9, Letters-11)
+appos(News-9, January-February-13)
+num(January-February-13, 2004-14)
+

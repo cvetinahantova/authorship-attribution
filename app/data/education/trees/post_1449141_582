@@ -1,0 +1,7 @@
+root(ROOT-0, urlLink-1)
+dobj(urlLink-1, Haiti-2)
+prep(urlLink-1, under-3)
+pobj(under-3, U.S.-4)
+nsubj(urlLink-1, domination-5)
+appos(domination-5, 1915-1956-7)
+

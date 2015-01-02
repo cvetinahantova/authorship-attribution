@@ -33,7 +33,7 @@ module.exports = function(grunt){
             },
             build: {
                 files: {
-                    'public/dist/css/styles.min.css' : 'public/src/css/style.css'
+                    'public/dist/css/styles.min.css' : 'public/src/css/styles.css'
                 }
             }
         },

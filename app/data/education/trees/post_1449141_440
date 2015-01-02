@@ -1,0 +1,11 @@
+root(ROOT-0, urlLink-1)
+nn(suppresses-5, US-2)
+nn(suppresses-5, occupation-3)
+nn(suppresses-5, authority-4)
+dobj(urlLink-1, suppresses-5)
+nsubj(urlLink-1, study-6)
+prep(study-6, of-7)
+amod(casualties-10, Iraqi-8)
+amod(casualties-10, civilian-9)
+pobj(of-7, casualties-10)
+

@@ -1,0 +1,10 @@
+root(ROOT-0, urlLink-1)
+nsubj(entered-4, Helen-2)
+aux(entered-4, has-3)
+ccomp(urlLink-1, entered-4)
+det(blogosphere-6, the-5)
+nsubj(urlLink-1, blogosphere-6)
+amod(H.-10, nice-8)
+tmod(nice-8, one-9)
+appos(blogosphere-6, H.-10)
+

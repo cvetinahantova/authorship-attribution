@@ -1,0 +1,8 @@
+root(ROOT-0, drink-1)
+advmod(much-3, too-2)
+advmod(drink-1, much-3)
+cc(drink-1, and-4)
+conj(drink-1, find-5)
+poss(mind-7, your-6)
+dobj(find-5, mind-7)
+

@@ -1,0 +1,1 @@
+I've written a function that will add acronym tags for any Alma College acronyms (which are stored in the 'acronyms' table in the catalog database) to any fields in any table in any database. The function and instructions on how to use it can be found in ~kevind/catlog_extra/acronym.php.

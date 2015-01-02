@@ -1,0 +1,11 @@
+root(ROOT-0, posted-1)
+prep(posted-1, by-2)
+pobj(by-2, lara-3)
+nsubj(posted-1, =-RRB--4)
+dep(urlLink-6, @-5)
+dep(analyze-9, urlLink-6)
+num(urlLink-6, 9:49-7)
+nsubj(analyze-9, PM-8)
+dep(posted-1, analyze-9)
+dobj(analyze-9, this-10)
+

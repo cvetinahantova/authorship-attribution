@@ -1,0 +1,33 @@
+nsubj(like-2, Looks-1)
+root(ROOT-0, like-2)
+dobj(like-2, it-3)
+
+nsubj(me-3, This-1)
+cop(me-3, is-2)
+root(ROOT-0, me-3)
+cc(me-3, and-4)
+conj(me-3, Antisana-5)
+
+root(ROOT-0, Hmm-1)
+dep(not-4, perhaps-3)
+dep(Hmm-1, not-4)
+
+nsubj(seems-2, It-1)
+root(ROOT-0, seems-2)
+aux(disappear-4, to-3)
+xcomp(seems-2, disappear-4)
+prep(disappear-4, after-5)
+det(while-7, a-6)
+pobj(after-5, while-7)
+
+advmod(like-5, Perhaps-1)
+nsubj(like-5, they-2)
+aux(like-5, do-3)
+neg(like-5, n't-4)
+root(ROOT-0, like-5)
+xcomp(like-5, hosting-6)
+dobj(hosting-6, images-7)
+prep(hosting-6, for-8)
+amod(sites-10, other-9)
+pobj(for-8, sites-10)
+

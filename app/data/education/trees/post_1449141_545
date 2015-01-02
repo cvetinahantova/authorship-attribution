@@ -1,0 +1,17 @@
+root(ROOT-0, urlLink-1)
+amod(while-3, Mean-2)
+dobj(urlLink-1, while-3)
+advmod(urlLink-1, Back-4)
+prep(Back-4, in-5)
+pobj(in-5, Kabul-6)
+
+det(vision-2, A-1)
+root(ROOT-0, vision-2)
+prep(vision-2, of-3)
+pobj(of-3, democracy-5)
+cc(vision-2, and-7)
+det(future-9, the-8)
+conj(vision-2, future-9)
+prep(future-9, in-10)
+pobj(in-10, Iraq-11)
+

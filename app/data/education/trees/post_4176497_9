@@ -1,0 +1,16 @@
+root(ROOT-0, urlLink-1)
+dobj(urlLink-1, Entrance-2)
+prep(urlLink-1, to-3)
+amod(shrine-5, inner-4)
+pobj(to-3, shrine-5)
+
+advmod(enter-6, Unfortunately-1)
+nsubj(enter-6, one-3)
+aux(enter-6, can-4)
+neg(enter-6, not-5)
+root(ROOT-0, enter-6)
+cc(enter-6, or-7)
+conj(enter-6, photograph-8)
+det(shrine-10, the-9)
+dobj(enter-6, shrine-10)
+

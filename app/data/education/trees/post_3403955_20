@@ -1,0 +1,8 @@
+root(ROOT-0, urlLink-1)
+nsubj(urlLink-7, Stephanie-2)
+det(urlLink-7, all-3)
+amod(urlLink-7, pretty-4)
+cc(pretty-4, and-5)
+conj(pretty-4, stuff-6)
+xcomp(urlLink-1, urlLink-7)
+

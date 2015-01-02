@@ -1,0 +1,13 @@
+root(ROOT-0, crimson-1)
+parataxis(crimson-1, biting-3)
+dobj(biting-3, lips-4)
+nsubj(press-6, I-5)
+rcmod(lips-4, press-6)
+prt(press-6, down-7)
+poss(back-10, your-8)
+amod(back-10, lower-9)
+dobj(press-6, back-10)
+rcmod(back-10, rose-11)
+dobj(rose-11, water-12)
+parataxis(crimson-1, panting-14)
+

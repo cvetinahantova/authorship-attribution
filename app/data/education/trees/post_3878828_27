@@ -1,0 +1,7 @@
+nsubj(says-2, Bethany-1)
+root(ROOT-0, says-2)
+dobj(says-2, hiiiiiii-3)
+
+nn(urlLink-2, urlLink-1)
+root(ROOT-0, urlLink-2)
+

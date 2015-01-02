@@ -1,0 +1,11 @@
+prep(read-5, For-1)
+pobj(For-1, those-2)
+ccomp(read-5, interested-3)
+root(ROOT-0, read-5)
+det(response-9, this-6)
+nn(response-9, urlLink-7)
+nn(response-9, Buddhist-8)
+dobj(read-5, response-9)
+prep(read-5, to-10)
+pobj(to-10, Bush-11)
+

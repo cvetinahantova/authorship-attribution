@@ -1,0 +1,13 @@
+root(ROOT-0, urlLink-1)
+nn(makers-4, U.S.-2)
+nn(makers-4, textile-3)
+nsubj(cut-5, makers-4)
+ccomp(urlLink-1, cut-5)
+nn(mills-9, jobs-6)
+amod(mills-9, close-8)
+dobj(cut-5, mills-9)
+mark(hopes-12, as-10)
+nsubj(hopes-12, NAFTA-11)
+advcl(cut-5, hopes-12)
+dobj(hopes-12, fray-13)
+

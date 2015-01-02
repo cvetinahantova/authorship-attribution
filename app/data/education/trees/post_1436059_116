@@ -1,0 +1,12 @@
+nsubj(number-4, I-1)
+cop(number-4, am-2)
+det(number-4, the-3)
+root(ROOT-0, number-4)
+num(number-4, 1-5)
+nsubj(_-11, I-6)
+cop(_-11, am-7)
+det(_-11, the-8)
+amod(_-11, loneliest-9)
+nn(_-11, number-10)
+rcmod(number-4, _-11)
+

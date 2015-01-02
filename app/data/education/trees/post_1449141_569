@@ -1,0 +1,13 @@
+nn(Controversy-3, urlLink-1)
+amod(Controversy-3, Growing-2)
+nsubj(questioned-12, Controversy-3)
+prep(Controversy-3, over-4)
+poss(Rebels-7, Haiti-5)
+possessive(Haiti-5, 's-6)
+pobj(over-4, Rebels-7)
+cc(Rebels-7, and-8)
+nn(Role-11, Refugees-9)
+nn(Role-11, US-10)
+conj(Rebels-7, Role-11)
+root(ROOT-0, questioned-12)
+

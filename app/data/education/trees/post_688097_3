@@ -1,0 +1,4 @@
+root(ROOT-0, urlLink-1)
+vmod(urlLink-1, INFOHUB-2)
+dep(urlLink-1, *-3)
+

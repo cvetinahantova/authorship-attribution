@@ -1,0 +1,12 @@
+root(ROOT-0, Been-1)
+nsubj(lazy-4, way-2)
+advmod(lazy-4, too-3)
+xcomp(Been-1, lazy-4)
+
+root(ROOT-0, Good-1)
+aux(write-3, to-2)
+dep(Good-1, write-3)
+dobj(write-3, something-4)
+amod(tonight-6, fresh-5)
+tmod(write-3, tonight-6)
+

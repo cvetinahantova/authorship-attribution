@@ -1,0 +1,14 @@
+dobj(thinking-5, what-1)
+nsubj(thinking-5, you-2)
+advmod(thinking-5, all-3)
+cop(thinking-5, are-4)
+root(ROOT-0, thinking-5)
+advmod(crazy-8, how-7)
+dep(is-9, crazy-8)
+dep(thinking-5, is-9)
+nsubj(is-9, she-10)
+
+poss(awnser-2, your-1)
+root(ROOT-0, awnser-2)
+dep(awnser-2, very-4)
+

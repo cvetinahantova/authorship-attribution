@@ -1,0 +1,13 @@
+nsubj(Impaired-2, urlLink-1)
+root(ROOT-0, Impaired-2)
+amod(abilities-4, financial-3)
+dobj(Impaired-2, abilities-4)
+prep(abilities-4, in-5)
+amod(impairment-8, mild-6)
+nn(impairment-8, cognitive-7)
+pobj(in-5, impairment-8)
+det(approach-13, a-10)
+amod(approach-13, direct-11)
+nn(approach-13, assessment-12)
+parataxis(Impaired-2, approach-13)
+

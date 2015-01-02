@@ -1,0 +1,10 @@
+advmod(work-5, How-1)
+aux(work-5, does-2)
+det(thing-4, this-3)
+nsubj(work-5, thing-4)
+root(ROOT-0, work-5)
+advmod(work-5, again-6)
+discourse(urlLink-9, oh-8)
+ccomp(work-5, urlLink-9)
+dobj(urlLink-9, urlLink-10)
+

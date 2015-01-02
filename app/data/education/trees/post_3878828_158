@@ -1,0 +1,10 @@
+amod(mountain-2, Beautiful-1)
+nsubj(view-3, mountain-2)
+root(ROOT-0, view-3)
+prep(view-3, on-4)
+poss(trek-6, my-5)
+pobj(on-4, trek-6)
+
+nn(urlLink-2, urlLink-1)
+root(ROOT-0, urlLink-2)
+

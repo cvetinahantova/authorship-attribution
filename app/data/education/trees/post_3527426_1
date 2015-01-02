@@ -1,0 +1,10 @@
+dep(Mina-6, urlLink-1)
+det(pic-4, Another-2)
+amod(pic-4, Drac-3)
+dobj(urlLink-1, pic-4)
+root(ROOT-0, Mina-6)
+aux(looking-8, 's-7)
+rcmod(Mina-6, looking-8)
+advmod(evil-10, mighty-9)
+acomp(looking-8, evil-10)
+

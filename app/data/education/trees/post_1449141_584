@@ -1,0 +1,10 @@
+root(ROOT-0, urlLink-1)
+det(Fire-3, The-2)
+dobj(urlLink-1, Fire-3)
+det(Time-5, This-4)
+nsubj(US-Fueled-9, Time-5)
+prep(Time-5, in-6)
+pobj(in-6, Haiti-7)
+cop(US-Fueled-9, was-8)
+rcmod(Fire-3, US-Fueled-9)
+

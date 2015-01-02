@@ -1,0 +1,17 @@
+root(ROOT-0, urlLink-1)
+dobj(urlLink-1, Kristina-2)
+prep(Kristina-2, over-3)
+amod(shoulder-5, right-4)
+pobj(over-3, shoulder-5)
+cc(Kristina-2, and-6)
+conj(Kristina-2, Justin-7)
+prep(Justin-7, over-8)
+amod(shoulder-10, left-9)
+pobj(over-8, shoulder-10)
+
+amod(picture-2, Webcam-1)
+nsubj(taken-3, picture-2)
+root(ROOT-0, taken-3)
+amod(night-5, last-4)
+tmod(taken-3, night-5)
+

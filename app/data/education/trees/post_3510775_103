@@ -1,0 +1,9 @@
+amod(leper-3, virgin-1)
+nn(leper-3, porcelain-2)
+root(ROOT-0, leper-3)
+amod(board-6, brown-4)
+nn(board-6, bulletin-5)
+dep(leper-3, board-6)
+amod(bathroom-8, Catholic-7)
+dep(leper-3, bathroom-8)
+

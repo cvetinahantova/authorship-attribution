@@ -1,0 +1,26 @@
+discourse(work-2, Yeah-1)
+root(ROOT-0, work-2)
+nsubj(me-4, it-3)
+xcomp(work-2, me-4)
+
+nsubj(got-4, I-1)
+advmod(got-4, ve-3)
+root(ROOT-0, got-4)
+nsubj(cool-6, those-5)
+ccomp(got-4, cool-6)
+xcomp(cool-6, sliding-7)
+nn(panels-9, paper-8)
+dobj(sliding-7, panels-9)
+prep(sliding-7, over-10)
+poss(windows-12, my-11)
+pobj(over-10, windows-12)
+
+root(ROOT-0, Like-1)
+poss(couch-5, my-2)
+amod(couch-5, hot-3)
+amod(couch-5, pink-4)
+pobj(Like-1, couch-5)
+
+nn(urlLink-2, urlLink-1)
+root(ROOT-0, urlLink-2)
+

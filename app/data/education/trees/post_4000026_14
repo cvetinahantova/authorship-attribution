@@ -1,0 +1,46 @@
+root(ROOT-0, Stressed-2)
+
+root(ROOT-0, Pressured-1)
+
+advmod(much-2, Too-1)
+dep(homework-3, much-2)
+root(ROOT-0, homework-3)
+
+advmod(little-2, Too-1)
+root(ROOT-0, little-2)
+dep(little-2, time-3)
+
+neg(time-2, No-1)
+root(ROOT-0, time-2)
+prep(time-2, to-3)
+pobj(to-3, rest-4)
+
+neg(time-2, No-1)
+root(ROOT-0, time-2)
+aux(eat-4, to-3)
+dep(time-2, eat-4)
+
+neg(time-2, No-1)
+root(ROOT-0, time-2)
+aux(sleep-4, to-3)
+dep(time-2, sleep-4)
+
+root(ROOT-0, Please-1)
+xcomp(Please-1, help-2)
+dobj(help-2, me-3)
+
+dep(Eric-6, Brought-1)
+prep(Brought-1, to-2)
+pobj(to-2, ya-3)
+prep(Brought-1, by-4)
+root(ROOT-0, Eric-6)
+poss(gon-8, whose-7)
+nsubj(giving-11, gon-8)
+aux(giving-11, na-9)
+aux(giving-11, be-10)
+rcmod(Eric-6, giving-11)
+advmod(sooner-13, up-12)
+advmod(giving-11, sooner-13)
+cc(sooner-13, or-14)
+conj(sooner-13, later-15)
+

@@ -1,0 +1,16 @@
+nsubj(love-2, I-1)
+root(ROOT-0, love-2)
+det(site-6, a-3)
+advmod(designed-5, well-4)
+amod(site-6, designed-5)
+dobj(love-2, site-6)
+
+root(ROOT-0, urlLink-1)
+det(guys-3, These-2)
+nsubj(know-4, guys-3)
+ccomp(urlLink-1, know-4)
+dobj(doing-8, what-5)
+nsubj(doing-8, they-6)
+aux(doing-8, 're-7)
+ccomp(know-4, doing-8)
+

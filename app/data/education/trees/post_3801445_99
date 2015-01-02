@@ -1,0 +1,11 @@
+root(ROOT-0, urlLink-1)
+dobj(urlLink-1, Charlie-2)
+det(teacher-6, a-4)
+amod(teacher-6, foreign-5)
+conj(Charlie-2, teacher-6)
+cc(Charlie-2, and-8)
+poss(girlfriend-11, his-9)
+amod(girlfriend-11, Korean-10)
+conj(Charlie-2, girlfriend-11)
+dep(urlLink-1, Daemi-13)
+

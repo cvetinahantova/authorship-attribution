@@ -1,0 +1,7 @@
+root(ROOT-0, urlLink-1)
+det(face-3, A-2)
+dobj(urlLink-1, face-3)
+mark(urlLink-6, like-4)
+nsubj(urlLink-6, me-5)
+advcl(urlLink-1, urlLink-6)
+

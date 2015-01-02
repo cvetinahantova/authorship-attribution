@@ -1,0 +1,16 @@
+nsubj(Check-2, urlLink-1)
+root(ROOT-0, Check-2)
+prt(Check-2, out-3)
+det(intricateness-5, the-4)
+dobj(Check-2, intricateness-5)
+prep(intricateness-5, of-6)
+det(painting-8, the-7)
+pobj(of-6, painting-8)
+prep(painting-8, on-9)
+det(wood-11, the-10)
+pobj(on-9, wood-11)
+
+nsubj(beautiful-3, It-1)
+cop(beautiful-3, was-2)
+root(ROOT-0, beautiful-3)
+

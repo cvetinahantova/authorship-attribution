@@ -1,0 +1,9 @@
+det(day-2, This-1)
+tmod(do-6, day-2)
+nsubj(do-6, I-3)
+aux(do-6, did-4)
+neg(do-6, not-5)
+root(ROOT-0, do-6)
+det(impossible-8, the-7)
+dobj(do-6, impossible-8)
+

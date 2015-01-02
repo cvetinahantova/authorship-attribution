@@ -1,0 +1,12 @@
+poss(taste-5, your-1)
+amod(taste-5, sweet-2)
+amod(taste-5, tongue-warm-4)
+root(ROOT-0, taste-5)
+dep(taste-5, juices-6)
+prep(juices-6, on-7)
+poss(fingertips-9, my-8)
+pobj(on-7, fingertips-9)
+amod(raspberries-13, red-10)
+amod(raspberries-13, red-12)
+dep(taste-5, raspberries-13)
+

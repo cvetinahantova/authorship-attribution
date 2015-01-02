@@ -1,0 +1,10 @@
+det(Tigers-2, The-1)
+nsubj(playing-4, Tigers-2)
+aux(playing-4, are-3)
+root(ROOT-0, playing-4)
+advmod(playing-4, superbly-5)
+
+nn(Tigres-3, Viva-1)
+nn(Tigres-3, Los-2)
+root(ROOT-0, Tigres-3)
+

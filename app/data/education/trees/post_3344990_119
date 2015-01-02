@@ -1,0 +1,11 @@
+nn(gang-2, Ok-1)
+nsubj(pictures-7, gang-2)
+advmod(pictures-7, here-4)
+cop(pictures-7, are-5)
+det(pictures-7, some-6)
+root(ROOT-0, pictures-7)
+prep(pictures-7, from-8)
+nn(Missouri-11, St.-9)
+nn(Missouri-11, Louis-10)
+pobj(from-8, Missouri-11)
+

@@ -1,0 +1,12 @@
+poss(lace-3, her-1)
+amod(lace-3, pink-2)
+root(ROOT-0, lace-3)
+amod(heaped-5, shawl-4)
+dep(lace-3, heaped-5)
+prep(heaped-5, on-6)
+det(ground-8, the-7)
+pobj(on-6, ground-8)
+poss(father-11, her-9)
+amod(father-11, angry-10)
+dep(lace-3, father-11)
+

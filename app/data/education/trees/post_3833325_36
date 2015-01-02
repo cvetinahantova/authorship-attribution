@@ -1,0 +1,12 @@
+det(blog-2, This-1)
+nsubj(dull-4, blog-2)
+cop(dull-4, is-3)
+root(ROOT-0, dull-4)
+nn(ne1-7, doesnt-6)
+nsubj(nethin-9, ne1-7)
+aux(nethin-9, have-8)
+parataxis(dull-4, nethin-9)
+nsubj(say-12, interestin-10)
+num(interestin-10, 2-11)
+ccomp(nethin-9, say-12)
+

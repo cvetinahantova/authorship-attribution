@@ -1,0 +1,11 @@
+root(ROOT-0, Listening-1)
+dep(Listening-1, to-2)
+dep(Listening-1, Lord-4)
+prep(Lord-4, of-5)
+det(boards-7, the-6)
+pobj(of-5, boards-7)
+nn(Mood-11, Guano-9)
+nn(Mood-11, Apes-10)
+dep(Lord-4, Mood-11)
+dep(Mood-11, Content-13)
+

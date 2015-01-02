@@ -1,0 +1,16 @@
+root(ROOT-0, urlLink-1)
+det(variant-4, A-2)
+amod(variant-4, visuospatial-3)
+dobj(urlLink-1, variant-4)
+prep(variant-4, of-5)
+amod(impairment-8, mild-6)
+nn(impairment-8, cognitive-7)
+pobj(of-5, impairment-8)
+auxpass(lost-11, getting-10)
+dep(impairment-8, lost-11)
+prep(lost-11, between-12)
+pobj(between-12, aging-13)
+cc(aging-13, and-14)
+conj(aging-13, AD-15)
+
+

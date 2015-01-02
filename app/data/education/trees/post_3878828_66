@@ -1,0 +1,9 @@
+root(ROOT-0, urlLink-1)
+dobj(urlLink-1, Me-2)
+prep(urlLink-1, in-3)
+det(Yukata-5, a-4)
+pobj(in-3, Yukata-5)
+prep(Yukata-5, at-6)
+nn(urlLink-8, Keio-7)
+pobj(at-6, urlLink-8)
+

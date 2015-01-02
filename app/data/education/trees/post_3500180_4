@@ -1,0 +1,17 @@
+nsubj(twins-6, Hikari-1)
+cc(Hikari-1, and-2)
+conj(Hikari-1, I-3)
+cop(twins-6, are-4)
+advmod(twins-6, definitely-5)
+root(ROOT-0, twins-6)
+
+nsubj(blogged-3, We-1)
+advmod(blogged-3, even-2)
+root(ROOT-0, blogged-3)
+prep(blogged-3, at-4)
+det(time-7, the-5)
+amod(time-7, same-6)
+pobj(at-4, time-7)
+
+root(ROOT-0, Yah-1)
+

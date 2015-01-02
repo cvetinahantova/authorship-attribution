@@ -1,0 +1,17 @@
+root(ROOT-0, urlLink-1)
+nn(Hear-3, Americans-2)
+dobj(urlLink-1, Hear-3)
+prep(urlLink-1, About-4)
+poss(Soldiers-8, their-5)
+num(Soldiers-8, 500-6)
+amod(Soldiers-8, Dead-7)
+pobj(About-4, Soldiers-8)
+
+root(ROOT-0, What-1)
+prep(What-1, About-2)
+det(Civilians-7, the-3)
+num(Civilians-7, 10,000-4)
+amod(Civilians-7, Dead-5)
+amod(Civilians-7, Iraqi-6)
+pobj(About-2, Civilians-7)
+

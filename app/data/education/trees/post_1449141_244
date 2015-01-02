@@ -1,0 +1,10 @@
+root(ROOT-0, urlLink-1)
+nn(Strangeloves-4, Dr-3)
+nsubj(Meet-6, Strangeloves-4)
+ccomp(urlLink-1, Meet-6)
+prep(Meet-6, to-7)
+nn(Era-11, Plan-8)
+nn(Era-11, New-9)
+nn(Era-11, Nuclear-10)
+pobj(to-7, Era-11)
+

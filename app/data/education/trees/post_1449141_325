@@ -1,0 +1,11 @@
+nn(Fire-3, urlLink-1)
+nn(Fire-3, Open-2)
+root(ROOT-0, Fire-3)
+cc(Fire-3, and-4)
+nn(Markets-6, Open-5)
+conj(Fire-3, Markets-6)
+dep(Fire-3, Strategy-8)
+prep(Strategy-8, of-9)
+det(Empire-11, an-10)
+pobj(of-9, Empire-11)
+

@@ -1,0 +1,11 @@
+advmod(becoming-7, Apparently-1)
+nn(bulls-3, urlLink-2)
+poss(balls-5, bulls-3)
+nsubj(becoming-7, balls-5)
+aux(becoming-7, are-6)
+root(ROOT-0, becoming-7)
+det(delicacy-9, a-8)
+xcomp(becoming-7, delicacy-9)
+prep(delicacy-9, in-10)
+pobj(in-10, Philadelphia-11)
+

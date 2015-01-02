@@ -1,0 +1,11 @@
+root(ROOT-0, urlLink-1)
+det(sign-3, A-2)
+dobj(urlLink-1, sign-3)
+prep(urlLink-1, on-4)
+det(washroom-7, a-5)
+amod(washroom-7, public-6)
+pobj(on-4, washroom-7)
+
+root(ROOT-0, Graphic-1)
+discourse(Graphic-1, no-3)
+

@@ -1,0 +1,22 @@
+nsubj(Eric-4, urlLink-1)
+advmod(Eric-4, Here-2)
+cop(Eric-4, 's-3)
+root(ROOT-0, Eric-4)
+mark(turns-7, as-5)
+nsubj(turns-7, he-6)
+dep(Eric-4, turns-7)
+num(Quarters-9, Three-8)
+dobj(turns-7, Quarters-9)
+
+nsubj(crawling-3, He-1)
+aux(crawling-3, 's-2)
+root(ROOT-0, crawling-3)
+
+nsubj(crawl-3, He-1)
+aux(crawl-3, can-2)
+root(ROOT-0, crawl-3)
+
+nsubj(cool-3, That-1)
+cop(cool-3, 's-2)
+root(ROOT-0, cool-3)
+

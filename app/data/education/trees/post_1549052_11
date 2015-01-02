@@ -1,0 +1,11 @@
+nn(Queen-2, Dairy-1)
+root(ROOT-0, Queen-2)
+prep(Queen-2, in-3)
+pobj(in-3, Belleville-4)
+
+nsubj(Side-3, East-2)
+root(ROOT-0, Side-3)
+
+nn(urlLink-2, urlLink-1)
+root(ROOT-0, urlLink-2)
+

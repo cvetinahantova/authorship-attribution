@@ -1,0 +1,13 @@
+dep(abnormalities-6, urlLink-1)
+dep(abnormalities-6, Entrez-PubMed-2)
+nn(abnormalities-6, Neuromotor-5)
+root(ROOT-0, abnormalities-6)
+cc(abnormalities-6, and-7)
+conj(abnormalities-6, risk-8)
+prep(abnormalities-6, for-9)
+pobj(for-9, psychosis-10)
+prep(psychosis-10, in-11)
+poss(disease-14, Alzheimer-12)
+possessive(Alzheimer-12, 's-13)
+pobj(in-11, disease-14)
+

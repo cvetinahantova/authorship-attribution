@@ -1,0 +1,8 @@
+root(ROOT-0, urlLink-1)
+nsubj(Muku-Muku-4, I-2)
+cop(Muku-Muku-4, am-3)
+ccomp(urlLink-1, Muku-Muku-4)
+det(warrior-8, the-6)
+nn(warrior-8, mud-7)
+dep(urlLink-1, warrior-8)
+

@@ -1,0 +1,18 @@
+nsubj(waste-6, It-1)
+aux(waste-6, may-2)
+cop(waste-6, be-3)
+advmod(waste-6, just-4)
+det(waste-6, a-5)
+root(ROOT-0, waste-6)
+prep(waste-6, of-7)
+pobj(of-7, time-8)
+cc(time-8, or-10)
+advmod(time-8, perhaps-11)
+det(file-15, an-12)
+amod(file-15, online-13)
+nn(file-15, bookmark-14)
+dep(time-8, file-15)
+
+nsubj(knows-2, Who-1)
+root(ROOT-0, knows-2)
+

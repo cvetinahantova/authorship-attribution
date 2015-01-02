@@ -1,0 +1,27 @@
+root(ROOT-0, awwww-1)
+amod(Donna-3, poor-2)
+dobj(awwww-1, Donna-3)
+
+nn(:--LRB--3, :--LRB--1)
+nn(:--LRB--3, :--LRB--2)
+root(ROOT-0, :--LRB--3)
+aux(worry-6, Do-4)
+neg(worry-6, n't-5)
+rcmod(:--LRB--3, worry-6)
+prep(worry-6, about-7)
+pobj(about-7, it-8)
+dep(:--LRB--3, happens-10)
+prep(happens-10, to-11)
+pobj(to-11, everybody-12)
+
+nsubj(work-3, Everything-1)
+aux(work-3, will-2)
+root(ROOT-0, work-3)
+prt(work-3, out-4)
+acomp(work-3, okay-5)
+
+nsubj(love-2, i-1)
+root(ROOT-0, love-2)
+dobj(love-2, you-3)
+
+

@@ -1,0 +1,18 @@
+nsubj(Kill-2, Saw-1)
+root(ROOT-0, Kill-2)
+dobj(Kill-2, Bill-3)
+num(Bill-3, 1-4)
+cc(Bill-3, AND-5)
+num(today-7, 2-6)
+conj(Bill-3, today-7)
+
+nsubj(have-2, I-1)
+root(ROOT-0, have-2)
+num(criticism-4, one-3)
+dobj(have-2, criticism-4)
+advmod(criticism-4, though-5)
+dep(criticism-4, Quentin-7)
+neg(enough-10, Not-9)
+dep(criticism-4, enough-10)
+dep(enough-10, blood-11)
+

@@ -1,0 +1,5 @@
+root(ROOT-0, urlLink-1)
+prep(urlLink-1, As-2)
+nsubj(blog-4, I-3)
+pcomp(As-2, blog-4)
+

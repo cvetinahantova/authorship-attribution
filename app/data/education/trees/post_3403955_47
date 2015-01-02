@@ -1,0 +1,14 @@
+root(ROOT-0, urlLink-1)
+dobj(urlLink-1, Slahti-2)
+prep(urlLink-1, on-3)
+det(phone-5, the-4)
+pobj(on-3, phone-5)
+prep(phone-5, in-6)
+pobj(in-6, BT-7)
+
+nsubj(hero-5, She-1)
+cop(hero-5, 's-2)
+poss(hero-5, my-3)
+nn(hero-5, tennis-4)
+root(ROOT-0, hero-5)
+

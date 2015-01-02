@@ -1,0 +1,15 @@
+root(ROOT-0, urlLink-1)
+advmod(many-3, How-2)
+dep(more-4, many-3)
+dep(urlLink-1, more-4)
+
+nn(packed-2, Schools-1)
+nsubj(limits-9, packed-2)
+appos(packed-2, debt-4)
+amod(debt-4, soaring-5)
+nn(debates-8, county-7)
+appos(debt-4, debates-8)
+root(ROOT-0, limits-9)
+prep(limits-9, to-10)
+pobj(to-10, growth-11)
+

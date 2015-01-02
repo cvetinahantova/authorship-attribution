@@ -1,0 +1,11 @@
+nn(W-2, urlLink-1)
+poss(prof-6, W-2)
+possessive(W-2, 's-3)
+nn(prof-6, college-4)
+nn(prof-6, economics-5)
+nsubj(remembers-7, prof-6)
+root(ROOT-0, remembers-7)
+dobj(remembers-7, W-8)
+prep(W-8, at-9)
+pobj(at-9, Harvard-10)
+

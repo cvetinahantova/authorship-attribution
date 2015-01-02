@@ -1,0 +1,7 @@
+root(ROOT-0, urlLink-1)
+det(geese-4, The-3)
+nsubj(grown-6, geese-4)
+aux(grown-6, have-5)
+dep(urlLink-1, grown-6)
+prt(grown-6, up-7)
+

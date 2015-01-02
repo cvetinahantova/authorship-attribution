@@ -1,0 +1,10 @@
+root(ROOT-0, urlLink-1)
+det(shot-4, Another-2)
+amod(shot-4, stingray-3)
+dobj(urlLink-1, shot-4)
+prep(urlLink-1, at-5)
+nn(Aquarium-8, Myrtle-6)
+nn(Aquarium-8, Beach-7)
+pobj(at-5, Aquarium-8)
+dep(urlLink-1, urlLink-10)
+

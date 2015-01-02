@@ -1,0 +1,8 @@
+root(ROOT-0, Statue-1)
+prep(Statue-1, in-2)
+det(park-4, the-3)
+pobj(in-2, park-4)
+
+nn(urlLink-2, urlLink-1)
+root(ROOT-0, urlLink-2)
+

@@ -1,0 +1,9 @@
+root(ROOT-0, urlLink-1)
+nsubj(goes-3, Bush-2)
+ccomp(urlLink-1, goes-3)
+dobj(goes-3, AWOL-4)
+advmod(soldiers-6, when-5)
+nsubj(need-7, soldiers-6)
+rcmod(AWOL-4, need-7)
+dobj(need-7, care-8)
+

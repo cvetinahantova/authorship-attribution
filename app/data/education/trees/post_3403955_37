@@ -1,0 +1,10 @@
+nn(Chilling-2, urlLink-1)
+dobj(better-9, Chilling-2)
+prep(Chilling-2, with-3)
+pobj(with-3, Charles-4)
+aux(better-9, could-5)
+nsubj(better-9, life-6)
+cop(better-9, be-7)
+advmod(better-9, any-8)
+root(ROOT-0, better-9)
+

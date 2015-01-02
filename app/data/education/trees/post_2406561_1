@@ -1,0 +1,33 @@
+poss(friends-2, My-1)
+nsubj(irritating-4, friends-2)
+aux(irritating-4, are-3)
+root(ROOT-0, irritating-4)
+dobj(irritating-4, me-5)
+prep(irritating-4, like-6)
+neg(other-8, no-7)
+pobj(like-6, other-8)
+
+cc(George-2, And-1)
+root(ROOT-0, George-2)
+amod(George-2, Secoff-3)
+dep(Secoff-3, sp-5)
+
+root(ROOT-0, please-1)
+xcomp(please-1, die-2)
+
+poss(head-2, My-1)
+nsubj(hurts-3, head-2)
+root(ROOT-0, hurts-3)
+cc(hurts-3, and-5)
+det(progress-8, a-6)
+amod(progress-8, slight-7)
+conj(hurts-3, progress-8)
+prep(progress-8, on-9)
+poss(paper-12, my-10)
+amod(paper-12, English-11)
+pobj(on-9, paper-12)
+
+amod(kids-2, Meow-1)
+root(ROOT-0, kids-2)
+appos(kids-2, meow-4)
+

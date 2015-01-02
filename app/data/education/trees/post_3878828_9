@@ -1,0 +1,7 @@
+nsubj(likes-2, Mary-1)
+root(ROOT-0, likes-2)
+det(expression-4, this-3)
+dobj(likes-2, expression-4)
+nsubj(urlLink-7, urlLink-6)
+parataxis(likes-2, urlLink-7)
+

@@ -1,0 +1,7 @@
+root(ROOT-0, urlLink-1)
+dobj(urlLink-1, Ryokan-2)
+nn(inn-5, country-4)
+appos(Ryokan-2, inn-5)
+nn(Japan-9, Dorogawa-8)
+dep(urlLink-1, Japan-9)
+

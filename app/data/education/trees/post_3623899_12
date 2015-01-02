@@ -1,0 +1,8 @@
+nn(OH-2, OH-1)
+nsubj(!!!-3, OH-2)
+root(ROOT-0, !!!-3)
+nsubj(7-7, It-4)
+cop(7-7, 's-5)
+advmod(7-7, already-6)
+ccomp(!!!-3, 7-7)
+

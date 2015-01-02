@@ -1,0 +1,8 @@
+det(blogger-2, A-1)
+nsubj(has-3, blogger-2)
+root(ROOT-0, has-3)
+det(sighting-7, an-4)
+amod(sighting-7, urlLink-5)
+nn(sighting-7, Esther-6)
+dobj(has-3, sighting-7)
+

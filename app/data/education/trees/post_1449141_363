@@ -1,0 +1,6 @@
+root(ROOT-0, urlLink-1)
+det(Bonanza-5, The-2)
+nn(Bonanza-5, Iraq-3)
+nn(Bonanza-5, Reconstruction-4)
+dobj(urlLink-1, Bonanza-5)
+

@@ -1,0 +1,18 @@
+nsubj(WOW-10, All-1)
+nsubj(manage-4, I-2)
+aux(manage-4, can-3)
+rcmod(All-1, manage-4)
+aux(say-6, to-5)
+xcomp(manage-4, say-6)
+advmod(now-8, right-7)
+advmod(say-6, now-8)
+cop(WOW-10, is-9)
+root(ROOT-0, WOW-10)
+
+det(Passion-2, The-1)
+nsubj(wow-7, Passion-2)
+prep(Passion-2, of-3)
+det(Christ-5, the-4)
+pobj(of-3, Christ-5)
+root(ROOT-0, wow-7)
+

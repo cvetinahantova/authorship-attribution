@@ -1,0 +1,6 @@
+root(ROOT-0, urlLink-1)
+nn(urlLink-5, Flower-2)
+nn(urlLink-5, power-3)
+nn(urlLink-5, James-4)
+nsubj(urlLink-1, urlLink-5)
+

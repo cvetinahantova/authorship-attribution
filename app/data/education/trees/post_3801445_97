@@ -1,0 +1,9 @@
+root(ROOT-0, urlLink-1)
+prep(urlLink-1, On-2)
+poss(way-4, our-3)
+pobj(On-2, way-4)
+prep(urlLink-1, to-5)
+det(festival-8, the-6)
+nn(festival-8, mud-7)
+pobj(to-5, festival-8)
+

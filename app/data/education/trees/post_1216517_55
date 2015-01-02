@@ -1,0 +1,10 @@
+root(ROOT-0, please-1)
+advmod(please-1, pray-2)
+prep(please-1, for-3)
+pobj(for-3, me-4)
+
+amod(things-2, exciting-1)
+nsubj(afoot-4, things-2)
+cop(afoot-4, are-3)
+root(ROOT-0, afoot-4)
+

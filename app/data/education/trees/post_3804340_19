@@ -1,0 +1,14 @@
+root(ROOT-0, What-1)
+prep(What-1, a-2)
+amod(night-6, wonderful-3)
+cc(wonderful-3, and-4)
+conj(wonderful-3, exciting-5)
+pobj(a-2, night-6)
+
+nsubj(must-2, A-1)
+root(ROOT-0, must-2)
+aux(write-4, to-3)
+xcomp(must-2, write-4)
+dobj(write-4, it-5)
+prt(write-4, down-6)
+

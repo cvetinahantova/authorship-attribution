@@ -1,0 +1,5 @@
+root(ROOT-0, urlLink-1)
+dobj(urlLink-1, urlLink-2)
+nn(Drunkard-4, 酔っ払いの方-3)
+nsubj(urlLink-1, Drunkard-4)
+

@@ -1,0 +1,92 @@
+amod(Rain-2, -----------------------------------------1)
+root(ROOT-0, Rain-2)
+
+root(ROOT-0, ----------------------1)
+dep(----------------------1, Gosh-2)
+
+nsubj(raining-3, it-1)
+aux(raining-3, was-2)
+root(ROOT-0, raining-3)
+advmod(raining-3, so-4)
+advmod(raining-3, heavily-5)
+dep(raining-3, 2dae-6)
+
+advmod(went-3, Luckily-1)
+nsubj(went-3, we-2)
+root(ROOT-0, went-3)
+dobj(went-3, jogging-4)
+prep(jogging-4, in-5)
+dep(in-5, e-6)
+tmod(went-3, morning-7)
+cc(went-3, or-8)
+nsubj(have-11, we-9)
+aux(have-11, 'd-10)
+conj(went-3, have-11)
+nsubj(cancel-13, 2-12)
+ccomp(have-11, cancel-13)
+dobj(cancel-13, it-14)
+
+root(ROOT-0, Well-1)
+
+nsubj(came-3, I-1)
+advmod(came-3, juz-2)
+root(ROOT-0, came-3)
+advmod(came-3, back-4)
+prep(came-3, from-5)
+pcomp(from-5, making-6)
+amod(contacts-8, e-7)
+dobj(making-6, contacts-8)
+
+nn(i-2, Den-1)
+nsubj(found-3, i-2)
+root(ROOT-0, found-3)
+amod(admirer-5, secret-4)
+dobj(found-3, admirer-5)
+prep(found-3, in-6)
+poss(tagboard-8, my-7)
+pobj(in-6, tagboard-8)
+
+cc(s-weet-2, and-1)
+root(ROOT-0, s-weet-2)
+
+root(ROOT-0, wah-1)
+
+npadvmod(much-2, 2-1)
+advmod(for-3, much-2)
+prep(handle-6, for-3)
+pobj(for-3, me-4)
+nsubj(handle-6, 2-5)
+root(ROOT-0, handle-6)
+
+nsubj(brings-2, kinda-1)
+root(ROOT-0, brings-2)
+poss(spirits-4, my-3)
+dobj(brings-2, spirits-4)
+advmod(though-6, up-5)
+advmod(brings-2, though-6)
+
+nsubj(k.-2, Thanks-1)
+root(ROOT-0, k.-2)
+
+root(ROOT-0, Ermm-1)
+
+cc(killing-3, but-1)
+poss(killing-3, its-2)
+root(ROOT-0, killing-3)
+nsubj(noe-7, me-4)
+npadvmod(not-6, 2-5)
+neg(noe-7, not-6)
+rcmod(killing-3, noe-7)
+nn(identity-9, ur-8)
+dobj(noe-7, identity-9)
+
+root(ROOT-0, haha-1)
+
+nsubj(k.-2, pls-1)
+root(ROOT-0, k.-2)
+
+root(ROOT-0, tell-1)
+dobj(tell-1, me-2)
+nn(Loose-5, Hang-4)
+dep(me-2, Loose-5)
+

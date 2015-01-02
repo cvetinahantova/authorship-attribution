@@ -1,0 +1,11 @@
+neg(surprise-3, No-1)
+amod(surprise-3, big-2)
+dep(is-8, surprise-3)
+poss(Bloginality-7, My-5)
+nn(Bloginality-7, urlLink-6)
+dep(surprise-3, Bloginality-7)
+root(ROOT-0, is-8)
+nn(!!!-11, urlLink-9)
+nn(!!!-11, INFP-10)
+nsubj(is-8, !!!-11)
+

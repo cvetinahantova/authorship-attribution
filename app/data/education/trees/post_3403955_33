@@ -1,0 +1,9 @@
+root(ROOT-0, urlLink-1)
+det(couple-4, The-2)
+amod(couple-4, married-3)
+dobj(urlLink-1, couple-4)
+nsubj(urlLink-9, Wade-6)
+cc(Wade-6, and-7)
+conj(Wade-6, Devin-8)
+parataxis(urlLink-1, urlLink-9)
+

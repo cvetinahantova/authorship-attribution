@@ -1,0 +1,7 @@
+root(ROOT-0, Brent-1)
+det(bandit-4, the-2)
+amod(bandit-4, red-3)
+dep(Brent-1, bandit-4)
+nn(urlLink-6, urlLink-5)
+dep(Brent-1, urlLink-6)
+

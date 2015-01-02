@@ -1,0 +1,7 @@
+root(ROOT-0, Read-1)
+det(interview-6, this-2)
+amod(urlLink-4, hilarious-3)
+amod(interview-6, urlLink-4)
+amod(interview-6, faux-5)
+dobj(Read-1, interview-6)
+

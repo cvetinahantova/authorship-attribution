@@ -1,0 +1,9 @@
+nsubj(bed-4, This-1)
+cop(bed-4, is-2)
+poss(bed-4, my-3)
+root(ROOT-0, bed-4)
+cc(bed-4, and-5)
+nn(urlLink-8, couch-6)
+nn(urlLink-8, urlLink-7)
+conj(bed-4, urlLink-8)
+

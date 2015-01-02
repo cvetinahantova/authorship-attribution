@@ -1,0 +1,11 @@
+nsubj(link-4, Here-1)
+cop(link-4, is-2)
+det(link-4, the-3)
+root(ROOT-0, link-4)
+prep(link-4, for-5)
+det(article-10, the-6)
+nn(article-10, urlLink-7)
+nn(article-10, Seymour-8)
+nn(article-10, Hersh-9)
+pobj(for-5, article-10)
+

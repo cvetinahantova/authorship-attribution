@@ -1,0 +1,39 @@
+root(ROOT-0, hey-1)
+
+root(ROOT-0, bak-1)
+
+dep(n-6, @-1)
+poss(rite-4, nikki-2)
+possessive(nikki-2, 's-3)
+nsubj(n-6, rite-4)
+advmod(n-6, now-5)
+root(ROOT-0, n-6)
+nsubj(went-9, we-7)
+advmod(went-9, jus-8)
+ccomp(n-6, went-9)
+dobj(went-9, swimmin-10)
+xcomp(went-9, @-11)
+det(jcc-13, the-12)
+dobj(@-11, jcc-13)
+
+nsubj(feel-2, i-1)
+root(ROOT-0, feel-2)
+advmod(depressed-4, almost-3)
+acomp(feel-2, depressed-4)
+num(reason-7, 4-5)
+nn(reason-7, sum-6)
+dep(feel-2, reason-7)
+
+root(ROOT-0, o-1)
+advmod(o-1, well-2)
+
+root(ROOT-0, get-1)
+number(2-3, bak-2)
+num(l8er-5, 2-3)
+nn(l8er-5, yas-4)
+dobj(get-1, l8er-5)
+
+nn(kd-3, xo-1)
+nn(kd-3, ~-2)
+root(ROOT-0, kd-3)
+

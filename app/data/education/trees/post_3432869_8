@@ -1,0 +1,7 @@
+root(ROOT-0, urlLink-1)
+nn(Man-4, Mullet-3)
+dobj(urlLink-1, Man-4)
+cc(Man-4, &-5)
+conj(Man-4, Muscles-6)
+nsubj(urlLink-1, urlLink-8)
+

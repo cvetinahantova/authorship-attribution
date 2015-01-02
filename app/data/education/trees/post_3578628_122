@@ -1,0 +1,6 @@
+root(ROOT-0, Take-1)
+poss(Quiz-3, my-2)
+dobj(Take-1, Quiz-3)
+prep(Take-1, on-4)
+pobj(on-4, QuizYourFriends.com-5)
+

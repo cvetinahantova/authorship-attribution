@@ -1,0 +1,62 @@
+root(ROOT-0, 1-1)
+
+advmod(people-2, Only-1)
+nsubj(developing-6, people-2)
+prep(people-2, from-3)
+pobj(from-3, NUS-4)
+aux(developing-6, are-5)
+root(ROOT-0, developing-6)
+dobj(developing-6, it-7)
+
+advmod(are-2, Where-1)
+root(ROOT-0, are-2)
+det(NTU-4, the-3)
+nsubj(are-2, NTU-4)
+cc(NTU-4, and-5)
+det(guys-8, the-6)
+amod(guys-8, polytechnic-7)
+conj(NTU-4, guys-8)
+
+root(ROOT-0, 2-1)
+
+advmod(many-2, Too-1)
+amod(things-3, many-2)
+nsubj(work-5, things-3)
+aux(work-5, must-4)
+root(ROOT-0, work-5)
+advmod(work-5, together-6)
+prep(work-5, for-7)
+pobj(for-7, it-8)
+aux(take-10, to-9)
+xcomp(work-5, take-10)
+prt(take-10, off-11)
+
+nsubj(can-2, It-1)
+root(ROOT-0, can-2)
+prep(can-2, given-4)
+pobj(given-4, time-5)
+
+root(ROOT-0, 3-1)
+
+advmod(get-4, Where-1)
+aux(get-4, do-2)
+nsubj(get-4, you-3)
+root(ROOT-0, get-4)
+det(hydrogen-6, the-5)
+dobj(get-4, hydrogen-6)
+
+root(ROOT-0, Electrolysis-1)
+
+advmod(get-4, Where-1)
+aux(get-4, do-2)
+nsubj(get-4, you-3)
+root(ROOT-0, get-4)
+dobj(get-4, electricity-5)
+prep(get-4, for-6)
+pobj(for-6, electrolysis-7)
+
+amod(articles-2, Full-1)
+nsubj(urlLink-3, articles-2)
+root(ROOT-0, urlLink-3)
+advmod(urlLink-3, here-4)
+

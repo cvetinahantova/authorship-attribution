@@ -1,0 +1,26 @@
+discourse(visit-2, Please-1)
+root(ROOT-0, visit-2)
+det(site-4, this-3)
+dobj(visit-2, site-4)
+dep(site-4, tcqcinterns.blogspot.com-6)
+advmod(of-8, instead-7)
+prep(tcqcinterns.blogspot.com-6, of-8)
+det(site-10, this-9)
+pobj(of-8, site-10)
+
+root(ROOT-0, thankyou-1)
+
+dep(please-4, for-1)
+det(suggestion-3, any-2)
+nsubj(please-4, suggestion-3)
+root(ROOT-0, please-4)
+xcomp(please-4, e-mail-5)
+dobj(e-mail-5, me-6)
+prep(e-mail-5, through-7)
+pobj(through-7, gbong19@yahoo.com-8)
+
+nn(Luck-2, Good-1)
+root(ROOT-0, Luck-2)
+prep(Luck-2, to-3)
+pobj(to-3, all-4)
+

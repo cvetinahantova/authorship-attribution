@@ -1,0 +1,10 @@
+nn(guys-4, urlLink-1)
+nn(guys-4, urlLink-2)
+nn(guys-4, galaxy-3)
+nsubj(uploaded-6, guys-4)
+advmod(uploaded-6, Originally-5)
+root(ROOT-0, uploaded-6)
+prep(uploaded-6, by-7)
+nn(cucsmom-9, urlLink-8)
+pobj(by-7, cucsmom-9)
+

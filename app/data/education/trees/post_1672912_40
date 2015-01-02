@@ -1,0 +1,7 @@
+tmod(die-5, Today-1)
+nsubj(die-5, I-2)
+aux(die-5, did-3)
+neg(die-5, not-4)
+root(ROOT-0, die-5)
+xcomp(die-5, trying-6)
+

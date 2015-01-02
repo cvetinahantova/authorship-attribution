@@ -1,0 +1,10 @@
+nn(Sting-2, urlLink-1)
+root(ROOT-0, Sting-2)
+prep(Sting-2, on-4)
+poss(visit-7, his-5)
+amod(visit-7, last-6)
+pobj(on-4, visit-7)
+prep(visit-7, to-8)
+poss(house-10, my-9)
+pobj(to-8, house-10)
+

@@ -1,0 +1,16 @@
+root(ROOT-0, To-1)
+pobj(To-1, Phil-2)
+cc(Phil-2, and-3)
+conj(Phil-2, Tessa-4)
+nsubjpass(married-7, who-5)
+auxpass(married-7, were-6)
+dep(To-1, married-7)
+prep(married-7, on-8)
+pobj(on-8, Friday-9)
+
+dep(guys-2, You-1)
+nsubj(cool-5, guys-2)
+cop(cool-5, are-3)
+advmod(cool-5, so-4)
+root(ROOT-0, cool-5)
+

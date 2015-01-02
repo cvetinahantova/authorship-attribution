@@ -1,0 +1,9 @@
+nsubj(Spid-Imax-2, urlLink-1)
+root(ROOT-0, Spid-Imax-2)
+advmod(Spid-Imax-2, Spid-Imax-4)
+dobj(Spid-Imax-2, Ugh-6)
+amod(Ugh-6, sorry-8)
+nsubj(bad-12, that-10)
+cop(bad-12, was-11)
+rcmod(Ugh-6, bad-12)
+

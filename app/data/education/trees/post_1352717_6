@@ -1,0 +1,14 @@
+nsubj(grow-3, Renmund-1)
+aux(grow-3, might-2)
+root(ROOT-0, grow-3)
+prt(grow-3, up-4)
+xcomp(grow-3, looking-5)
+prep(looking-5, like-6)
+pobj(like-6, Dave-7)
+
+root(ROOT-0, urlLink-1)
+dep(urlLink-1, Posted-2)
+prep(Posted-2, by-3)
+nn(Hello-5, urlLink-4)
+pobj(by-3, Hello-5)
+

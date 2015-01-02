@@ -1,0 +1,8 @@
+amod(stats-7, urlLink-1)
+tmod(urlLink-1, August-2)
+num(August-2, 4th-3)
+num(August-2, 2004-5)
+nn(stats-7, run-6)
+nsubj(urlLink-8, stats-7)
+root(ROOT-0, urlLink-8)
+

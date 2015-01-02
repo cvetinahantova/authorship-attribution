@@ -1,0 +1,18 @@
+nsubj(urlLink-2, loves-1)
+root(ROOT-0, urlLink-2)
+nn(Hahaha-6, DotG-3)
+nn(Hahaha-6, Random-4)
+nn(Hahaha-6, Hookups-5)
+dobj(urlLink-2, Hahaha-6)
+
+advmod(felt-2, Just-1)
+root(ROOT-0, felt-2)
+prep(felt-2, like-3)
+pcomp(like-3, posting-4)
+dobj(posting-4, that-5)
+
+nsubj(love-2, I-1)
+root(ROOT-0, love-2)
+det(fuzzies-4, the-3)
+dobj(love-2, fuzzies-4)
+

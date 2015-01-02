@@ -1,0 +1,16 @@
+dobj(say-4, What-1)
+aux(say-4, did-2)
+nsubj(say-4, you-3)
+root(ROOT-0, say-4)
+
+det(article-4, An-1)
+amod(article-4, urlLink-2)
+amod(article-4, interesting-3)
+root(ROOT-0, article-4)
+prep(article-4, on-5)
+pcomp(on-5, /-6)
+
+root(ROOT-0, Mkaes-1)
+nsubj(wdnoer-3, you-2)
+xcomp(Mkaes-1, wdnoer-3)
+

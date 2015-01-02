@@ -1,0 +1,11 @@
+root(ROOT-0, urlLink-1)
+neg(Doubts-3, No-2)
+dobj(urlLink-1, Doubts-3)
+nn(Real-7, Global-4)
+nn(Real-7, Warming-5)
+nn(Real-7, Is-6)
+nsubj(urlLink-1, Real-7)
+nn(Say-11, US-9)
+nn(Say-11, Experts-10)
+appos(Real-7, Say-11)
+

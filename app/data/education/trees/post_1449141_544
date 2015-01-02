@@ -1,0 +1,12 @@
+nsubj(offset-4, urlLink-1)
+aux(offset-4, Can-2)
+advmod(offset-4, retraining-3)
+root(ROOT-0, offset-4)
+dobj(offset-4, rush-5)
+prep(rush-5, of-6)
+pobj(of-6, jobs-7)
+advmod(offset-4, offshore-8)
+
+nn(csmonitor.com-2, |-1)
+root(ROOT-0, csmonitor.com-2)
+

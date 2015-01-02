@@ -1,0 +1,12 @@
+root(ROOT-0, urlLink-1)
+nn(Graduate-7, Jeremy-2)
+nn(Graduate-7, Moffitt-3)
+nn(Graduate-7, Terry-4)
+nn(Graduate-7, High-5)
+nn(Graduate-7, School-6)
+dep(urlLink-1, Graduate-7)
+tmod(Graduate-7, May-8)
+num(May-8, 27-9)
+num(May-8, 2004-11)
+dep(urlLink-1, urlLink-12)
+

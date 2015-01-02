@@ -1,0 +1,24 @@
+nsubj(entry-6, Here-1)
+cop(entry-6, is-2)
+poss(entry-6, my-3)
+amod(entry-6, first-4)
+amod(entry-6, blog-5)
+root(ROOT-0, entry-6)
+
+nsubj(have-5, I-3)
+aux(have-5, will-4)
+dep(-LRB--1, have-5)
+dobj(have-5, much-6)
+advmod(later-8, more-7)
+advmod(have-5, later-8)
+
+nsubj(initial-5, This-1)
+cop(initial-5, is-2)
+advmod(initial-5, just-3)
+det(initial-5, the-4)
+root(ROOT-0, initial-5)
+vmod(initial-5, set-6)
+prt(set-6, up-7)
+
+root(ROOT-0, o-2)
+

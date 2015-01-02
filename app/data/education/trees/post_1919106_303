@@ -1,0 +1,37 @@
+advmod(saw-2, Just-1)
+root(ROOT-0, saw-2)
+det(pilot-4, the-3)
+dobj(saw-2, pilot-4)
+prep(saw-2, for-5)
+pobj(for-5, urlLink-6)
+nn(Dad-8, American-7)
+nsubj(saw-2, Dad-8)
+
+root(ROOT-0, Hehehe-1)
+
+nsubj(funny-2, Pretty-1)
+root(ROOT-0, funny-2)
+nsubj(is-4, it-3)
+ccomp(funny-2, is-4)
+
+prep(see-7, Oh-2)
+pobj(Oh-2, Francine-3)
+nsubj(see-7, I-5)
+aux(see-7, can-6)
+root(ROOT-0, see-7)
+dobj(see-7, your-8)
+dep(*-13, *-11)
+nsubj(*-13, ahem-12)
+parataxis(see-7, *-13)
+
+advmod(see-5, Err-1)
+nsubj(see-5, you-3)
+advmod(see-5, better-4)
+root(ROOT-0, see-5)
+prep(see-5, for-6)
+pobj(for-6, yourself-7)
+
+nsubj(urlLink-2, Right-1)
+root(ROOT-0, urlLink-2)
+advmod(urlLink-2, here-3)
+

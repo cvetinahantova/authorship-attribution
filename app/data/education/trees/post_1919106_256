@@ -1,0 +1,17 @@
+nn(Originally-4, urlLink-1)
+nn(Originally-4, urlLink-2)
+nn(Originally-4, Megagoose-3)
+nsubj(uploaded-5, Originally-4)
+root(ROOT-0, uploaded-5)
+prep(uploaded-5, by-6)
+nn(DocBoobenstein-8, urlLink-7)
+pobj(by-6, DocBoobenstein-8)
+
+nsubj(leader-4, Megagoose-1)
+cop(leader-4, is-2)
+det(leader-4, the-3)
+root(ROOT-0, leader-4)
+prep(leader-4, of-5)
+det(Goosticons-7, the-6)
+pobj(of-5, Goosticons-7)
+

@@ -1,0 +1,6 @@
+root(ROOT-0, urlLink-1)
+det(test-7, The-2)
+amod(test-7, Rorschach-3)
+dep(test-7, inkblot-5)
+dobj(urlLink-1, test-7)
+

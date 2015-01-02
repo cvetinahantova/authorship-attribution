@@ -1,0 +1,12 @@
+nsubj(has-2, Ako-1)
+root(ROOT-0, has-2)
+dobj(has-2, noodles-3)
+prep(noodles-3, for-4)
+pobj(for-4, lunch-5)
+appos(lunch-5, ramen-7)
+nsubj(think-9, I-8)
+rcmod(ramen-7, think-9)
+
+nn(urlLink-2, urlLink-1)
+root(ROOT-0, urlLink-2)
+

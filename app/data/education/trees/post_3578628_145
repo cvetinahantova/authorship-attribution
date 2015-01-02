@@ -1,0 +1,12 @@
+det(one-2, This-1)
+nsubj(tougher-4, one-2)
+cop(tougher-4, 's-3)
+root(ROOT-0, tougher-4)
+cc(tougher-4, but-6)
+conj(tougher-4, try-7)
+dobj(try-7, it-8)
+prt(try-7, out-9)
+
+root(ROOT-0, urlLink-1)
+acomp(urlLink-1, http://www.quizyourfriends.com/yourquiz.php?quizname=040721222755-CUBS~p21&email=wolf7s@aol.com-2)
+

@@ -1,0 +1,10 @@
+nsubj(got-2, I-1)
+root(ROOT-0, got-2)
+det(job-5, a-3)
+amod(job-5, real-4)
+dobj(got-2, job-5)
+dep(got-2, start-7)
+prep(start-7, in-8)
+det(week-10, a-9)
+pobj(in-8, week-10)
+

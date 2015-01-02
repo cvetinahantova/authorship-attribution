@@ -1,5 +1,5 @@
-module.exports.L = 1000;
+module.exports.L = 10;
 
-module.exports.R = 100;
+module.exports.R = 10000;
 
-module.exports.r = 1.1;
+module.exports.r = 1.000001;

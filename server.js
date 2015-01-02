@@ -11,7 +11,7 @@ var methodOverride = require('method-override');
 // configuration =====================
 var db = require('./config/db');
 
-var port = process.env.PORT || 6788;
+var port = process.env.PORT || 5555;
 mongoose.connect(db.url);
 
 // get all data/stuff of the body (POST) parameters

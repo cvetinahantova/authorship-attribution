@@ -1,0 +1,12 @@
+dep(gravestones-3, Very-1)
+amod(gravestones-3, small-2)
+root(ROOT-0, gravestones-3)
+
+root(ROOT-0, Probably-1)
+advmod(old-3, pretty-2)
+dep(Probably-1, old-3)
+dep(Probably-1, too-4)
+
+nn(urlLink-2, urlLink-1)
+root(ROOT-0, urlLink-2)
+

@@ -1,0 +1,12 @@
+root(ROOT-0, urlLink-1)
+nsubj(told-3, Blair-2)
+ccomp(urlLink-1, told-3)
+nsubj(targeting-6, US-4)
+aux(targeting-6, was-5)
+ccomp(told-3, targeting-6)
+vmod(targeting-6, Saddam-7)
+advmod(days-10, just-9)
+dobj(Saddam-7, days-10)
+prep(days-10, after-11)
+pobj(after-11, 9/11-12)
+

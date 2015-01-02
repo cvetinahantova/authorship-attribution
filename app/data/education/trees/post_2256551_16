@@ -1,0 +1,21 @@
+root(ROOT-0, Not-1)
+prep(Not-1, much-2)
+npadvmod(on-4, going-3)
+dep(much-2, on-4)
+
+nsubjpass(bored-5, I-1)
+auxpass(bored-5, am-2)
+advmod(bored-5, really-3)
+advmod(bored-5, really-4)
+root(ROOT-0, bored-5)
+discourse(feel-10, Yeah-8)
+nsubj(feel-10, I-9)
+parataxis(bored-5, feel-10)
+amod(Buh-14, very-11)
+nn(Buh-14, Hyper-12)
+nn(Buh-14, !!-13)
+dobj(feel-10, Buh-14)
+
+root(ROOT-0, Bye-1)
+advmod(Bye-1, Now-2)
+

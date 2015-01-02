@@ -1,0 +1,11 @@
+root(ROOT-0, urlLink-1)
+nn(Owl-3, Burrowing-2)
+dobj(urlLink-1, Owl-3)
+prep(Owl-3, at-4)
+det(Baylands-8, the-5)
+nn(Baylands-8, Palo-6)
+nn(Baylands-8, Alto-7)
+pobj(at-4, Baylands-8)
+num(urlLink-10, 8/8/04-9)
+nsubj(urlLink-1, urlLink-10)
+

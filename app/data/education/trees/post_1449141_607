@@ -1,0 +1,10 @@
+amod(report-3, urlLink-1)
+nn(report-3, House-2)
+root(ROOT-0, report-3)
+nsubj(lies-6, 237-5)
+dep(report-3, lies-6)
+prep(lies-6, from-7)
+nn(237-10, White-8)
+nn(237-10, house-9)
+pobj(from-7, 237-10)
+

@@ -1,0 +1,12 @@
+poss(group-4, My-1)
+dep(group-4, First-2)
+dep(First-2, ever-3)
+nsubj(taken-5, group-4)
+root(ROOT-0, taken-5)
+prep(taken-5, as-6)
+det(instructor-9, a-7)
+nn(instructor-9, camp-8)
+pobj(as-6, instructor-9)
+nsubj(urlLink-12, urlLink-11)
+parataxis(taken-5, urlLink-12)
+

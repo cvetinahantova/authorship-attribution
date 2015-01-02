@@ -1,0 +1,11 @@
+root(ROOT-0, urlLink-1)
+num(factor-3, One-2)
+dobj(urlLink-1, factor-3)
+det(Fed-5, the-4)
+nsubj(ignores-6, Fed-5)
+rcmod(factor-3, ignores-6)
+nsubj(hope-9, we-8)
+ccomp(ignores-6, hope-9)
+amod(csmonitor.com-11, |-10)
+dobj(hope-9, csmonitor.com-11)
+

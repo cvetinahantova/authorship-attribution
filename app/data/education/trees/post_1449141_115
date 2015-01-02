@@ -1,0 +1,12 @@
+nn(PubMed-3, urlLink-1)
+nn(PubMed-3, Entrez-2)
+root(ROOT-0, PubMed-3)
+amod(projections-7, State-specific-6)
+dep(PubMed-3, projections-7)
+prep(projections-7, through-8)
+pobj(through-8, 2025-9)
+prep(2025-9, of-10)
+nn(prevalence-13, Alzheimer-11)
+nn(prevalence-13, disease-12)
+pobj(of-10, prevalence-13)
+

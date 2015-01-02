@@ -1,0 +1,13 @@
+nsubj(sensitive-3, I-1)
+cop(sensitive-3, am-2)
+root(ROOT-0, sensitive-3)
+nsubj(take-5, I-4)
+ccomp(sensitive-3, take-5)
+dobj(take-5, things-6)
+advmod(take-5, seriously-7)
+nsubj(afraid-10, I-8)
+cop(afraid-10, 'm-9)
+dep(take-5, afraid-10)
+prep(afraid-10, of-11)
+pobj(of-11, cows-12)
+

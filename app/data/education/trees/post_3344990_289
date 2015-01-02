@@ -1,0 +1,11 @@
+root(ROOT-0, urlLink-1)
+advmod(picture-4, Yet-2)
+det(picture-4, another-3)
+dobj(urlLink-1, picture-4)
+prep(picture-4, of-5)
+det(Skyline-9, the-6)
+nn(Skyline-9, Houston-7)
+nn(Skyline-9, Texas-8)
+pobj(of-5, Skyline-9)
+dep(picture-4, urlLink-11)
+

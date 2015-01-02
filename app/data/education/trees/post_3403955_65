@@ -1,0 +1,11 @@
+nsubj(Katie-2, urlLink-1)
+root(ROOT-0, Katie-2)
+prep(Katie-2, at-3)
+nn(Park-5, Kerry-4)
+pobj(at-3, Park-5)
+prep(Katie-2, with-7)
+poss(Starbucks-9, her-8)
+pobj(with-7, Starbucks-9)
+prep(Starbucks-9, of-10)
+pobj(of-10, course-11)
+

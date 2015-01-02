@@ -1,0 +1,10 @@
+root(ROOT-0, urlLink-1)
+det(link-5, A-2)
+advmod(funny-4, very-3)
+amod(link-5, funny-4)
+dobj(urlLink-1, link-5)
+nsubj(urlLink-7, that-6)
+rcmod(link-5, urlLink-7)
+nsubj(found-9, Ruth-8)
+ccomp(urlLink-7, found-9)
+

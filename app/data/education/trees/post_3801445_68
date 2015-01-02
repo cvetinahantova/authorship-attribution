@@ -1,0 +1,10 @@
+root(ROOT-0, urlLink-1)
+dobj(urlLink-1, Christina-2)
+prep(Christina-2, with-3)
+det(convention-6, a-4)
+amod(convention-6, whole-5)
+pobj(with-3, convention-6)
+prep(convention-6, of-7)
+pobj(of-7, lifeguards-8)
+dep(urlLink-1, urlLink-10)
+

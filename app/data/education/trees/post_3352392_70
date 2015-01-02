@@ -1,0 +1,7 @@
+root(ROOT-0, urlLink-1)
+dobj(urlLink-1, Standing-2)
+prep(Standing-2, in-3)
+det(urlLink-6, the-4)
+nn(urlLink-6, sky-5)
+pobj(in-3, urlLink-6)
+

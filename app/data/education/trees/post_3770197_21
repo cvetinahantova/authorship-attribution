@@ -1,0 +1,9 @@
+root(ROOT-0, Well-1)
+amod(fucking-4, happy-3)
+amod(stars-5, fucking-4)
+dep(Well-1, stars-5)
+cc(stars-5, and-6)
+conj(stars-5, stripes-7)
+dep(guys-9, you-8)
+dep(stars-5, guys-9)
+

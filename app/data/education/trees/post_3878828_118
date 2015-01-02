@@ -1,0 +1,11 @@
+root(ROOT-0, Wearing-1)
+dobj(Wearing-1, one-2)
+prep(one-2, of-3)
+poss(shirts-7, my-4)
+amod(shirts-7, new-5)
+nn(shirts-7, Engrish-6)
+pobj(of-3, shirts-7)
+
+nn(urlLink-2, urlLink-1)
+root(ROOT-0, urlLink-2)
+

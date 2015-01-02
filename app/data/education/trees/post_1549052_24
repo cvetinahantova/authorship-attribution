@@ -1,0 +1,6 @@
+nsubj(urlLink-4, Chris-1)
+cc(Chris-1, and-2)
+conj(Chris-1, Kerstin-3)
+root(ROOT-0, urlLink-4)
+dobj(urlLink-4, urlLink-5)
+

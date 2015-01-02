@@ -1,0 +1,23 @@
+root(ROOT-0, Indy-1)
+amod(day-4, Great-3)
+dep(Indy-1, day-4)
+prep(day-4, at-5)
+pobj(at-5, home-6)
+
+csubj(done-3, Getting-1)
+dobj(Getting-1, stuff-2)
+root(ROOT-0, done-3)
+ccomp(done-3, spending-5)
+dobj(spending-5, time-6)
+prep(spending-5, with-7)
+det(girls-9, the-8)
+pobj(with-7, girls-9)
+dep(spending-5, having-11)
+nn(night-13, taco-12)
+tmod(having-11, night-13)
+
+root(ROOT-0, Enjoying-1)
+det(!!!-4, the-2)
+nn(!!!-4, day-3)
+dobj(Enjoying-1, !!!-4)
+

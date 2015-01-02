@@ -1,0 +1,9 @@
+nsubj(have-3, i-1)
+advmod(have-3, now-2)
+root(ROOT-0, have-3)
+poss(permit-6, my-4)
+nn(permit-6, motorcycle-5)
+dobj(have-3, permit-6)
+
+root(ROOT-0, Vroom-1)
+

@@ -1,0 +1,15 @@
+nsubj(down-3, Yahoo-1)
+cop(down-3, is-2)
+root(ROOT-0, down-3)
+cc(down-3, and-4)
+nsubj(get-8, I-5)
+aux(get-8, ca-6)
+neg(get-8, n't-7)
+conj(down-3, get-8)
+poss(mail-10, my-9)
+dobj(get-8, mail-10)
+
+nn(Poor-2, :-LRB--1)
+root(ROOT-0, Poor-2)
+dep(Poor-2, me-3)
+

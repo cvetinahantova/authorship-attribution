@@ -1,0 +1,8 @@
+root(ROOT-0, urlLink-1)
+det(Tetons-4, The-2)
+nn(Tetons-4, Grand-3)
+dobj(urlLink-1, Tetons-4)
+prep(urlLink-1, from-5)
+det(West-7, the-6)
+pobj(from-5, West-7)
+

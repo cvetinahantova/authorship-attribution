@@ -1,0 +1,30 @@
+amod(style-2, Japanese-1)
+root(ROOT-0, style-2)
+dep(style-2, toilet-3)
+
+nsubj(style-5, It-1)
+cop(style-5, s-3)
+nn(style-5, squatter-4)
+root(ROOT-0, style-5)
+
+advmod(more-2, Really-1)
+amod(cause-4, more-2)
+amod(cause-4, sanitary-3)
+nsubj(sit-8, cause-4)
+nsubj(do-6, you-5)
+rcmod(cause-4, do-6)
+dobj(do-6, n`t-7)
+root(ROOT-0, sit-8)
+prt(sit-8, down-9)
+
+nsubj(toire-4, This-1)
+cop(toire-4, is-2)
+det(toire-4, the-3)
+root(ROOT-0, toire-4)
+prep(toire-4, in-5)
+det(outhouse-7, the-6)
+pobj(in-5, outhouse-7)
+
+nn(urlLink-2, urlLink-1)
+root(ROOT-0, urlLink-2)
+

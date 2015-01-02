@@ -1,0 +1,6 @@
+root(ROOT-0, urlLink-1)
+det(translations-3, Some-2)
+nsubj(hilarious-5, translations-3)
+cop(hilarious-5, are-4)
+ccomp(urlLink-1, hilarious-5)
+

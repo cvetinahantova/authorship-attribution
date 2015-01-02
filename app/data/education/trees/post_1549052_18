@@ -1,0 +1,18 @@
+amod(exposure-2, Long-1)
+nsubj(shot-3, exposure-2)
+root(ROOT-0, shot-3)
+prep(shot-3, of-4)
+det(Memorial-7, the-5)
+nn(Memorial-7, WWII-6)
+pobj(of-4, Memorial-7)
+quantmod(1-10, about-9)
+num(second-11, 1-10)
+dobj(shot-3, second-11)
+
+root(ROOT-0, Edited-2)
+prep(Edited-2, in-3)
+pobj(in-3, Picasa-4)
+
+nn(urlLink-2, urlLink-1)
+root(ROOT-0, urlLink-2)
+

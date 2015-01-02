@@ -1,0 +1,44 @@
+nn(Night-2, Good-1)
+nsubj(last-3, Night-2)
+root(ROOT-0, last-3)
+tmod(last-3, night-4)
+
+root(ROOT-0, Painted-1)
+det(house-3, the-2)
+nsubj(some-4, house-3)
+xcomp(Painted-1, some-4)
+
+root(ROOT-0, Cooked-1)
+dobj(Cooked-1, dinner-2)
+
+root(ROOT-0, Put-1)
+det(Dictator-3, the-2)
+dobj(Put-1, Dictator-3)
+prep(Put-1, to-4)
+pobj(to-4, Bed-5)
+
+root(ROOT-0, Fell-1)
+acomp(Fell-1, asleep-2)
+prep(Fell-1, in-3)
+det(arms-5, the-4)
+pobj(in-3, arms-5)
+prep(arms-5, of-6)
+det(man-8, the-7)
+pobj(of-6, man-8)
+nsubj(love-10, I-9)
+rcmod(man-8, love-10)
+
+nn(Day-2, Good-1)
+root(ROOT-0, Day-2)
+det(morning-4, this-3)
+dep(Day-2, morning-4)
+
+root(ROOT-0, Found-1)
+det(dentist-3, a-2)
+dobj(Found-1, dentist-3)
+
+csubj(done-4, Got-1)
+poss(work-3, my-2)
+dobj(Got-1, work-3)
+root(ROOT-0, done-4)
+

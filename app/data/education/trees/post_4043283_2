@@ -1,0 +1,16 @@
+root(ROOT-0, Countdown-1)
+amod(days-4, 309-3)
+dep(Countdown-1, days-4)
+det(Iulia-7, The-5)
+nn(Iulia-7, necklace-6)
+nsubj(gave-8, Iulia-7)
+rcmod(days-4, gave-8)
+nsubj(broke-10, me-9)
+ccomp(gave-8, broke-10)
+
+OpenJDK 64-Bit Server VM warning: INFO: os::commit_memory(0x000000078d1ac000, 739786752, 0) failed; error='Cannot allocate memory' (errno=12)
+#
+# There is insufficient memory for the Java Runtime Environment to continue.
+# Native memory allocation (malloc) failed to allocate 739786752 bytes for committing reserved memory.
+# An error report file with more information is saved as:
+# /home/cvetina/stanford-parser-full-2014-08-27/scripts/education/hs_err_pid14939.log

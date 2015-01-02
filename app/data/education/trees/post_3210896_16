@@ -1,0 +1,15 @@
+root(ROOT-0, Knock-1)
+dobj(Knock-1, yourself-2)
+prt(Knock-1, out-3)
+
+nsubj(Try-2, urlLink-1)
+root(ROOT-0, Try-2)
+cc(Try-2, and-3)
+conj(Try-2, click-4)
+prep(Try-2, on-5)
+det(ball-7, the-6)
+pobj(on-5, ball-7)
+prep(Try-2, on-8)
+det(string-10, the-9)
+pobj(on-8, string-10)
+

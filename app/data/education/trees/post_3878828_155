@@ -1,0 +1,10 @@
+det(view-2, A-1)
+root(ROOT-0, view-2)
+prep(view-2, of-3)
+pobj(of-3, garden-4)
+cc(garden-4, and-5)
+conj(garden-4, landscape-6)
+
+nn(urlLink-2, urlLink-1)
+root(ROOT-0, urlLink-2)
+

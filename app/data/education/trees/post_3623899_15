@@ -1,0 +1,32 @@
+aux(receive-3, Did-1)
+neg(receive-3, n't-2)
+root(ROOT-0, receive-3)
+det(call-5, a-4)
+dobj(receive-3, call-5)
+dep(receive-3, from-6)
+pobj(from-6, anyone-7)
+
+root(ROOT-0, nobody-1)
+
+amod(nobody-2, just-1)
+root(ROOT-0, nobody-2)
+
+dep(sighs-2, *-1)
+root(ROOT-0, sighs-2)
+dep(sighs-2, *-3)
+dobj(*-3, I-4)
+advmod(miss-6, really-5)
+dep(*-3, miss-6)
+dobj(miss-6, usin-7)
+det(phone-9, the-8)
+nsubj(*-3, phone-9)
+prep(phone-9, for-10)
+amod(hours-13, long-11)
+amod(hours-13, long-12)
+pobj(for-10, hours-13)
+
+nsubj(miss-2, I-1)
+root(ROOT-0, miss-2)
+poss(-LRB--6, my-3)
+nn(-LRB--6, rabbit-4)
+

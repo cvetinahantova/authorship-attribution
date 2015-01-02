@@ -1,0 +1,1 @@
+It seems clicking "cancel" in the CMS simply loads the previous page, including any POSTDATA sent with it. This has caused problems for me, because when I upload an image, view a different one and then hit cancel, the image is uploaded a second time, creating multiple, duplicate entries in the CMS.

@@ -1,0 +1,8 @@
+nsubj('m-2, I-1)
+root(ROOT-0, 'm-2)
+advmod('m-2, back-3)
+prep('m-2, in-4)
+pobj(in-4, Bemidji-5)
+
+root(ROOT-0, Goddamnit-1)
+

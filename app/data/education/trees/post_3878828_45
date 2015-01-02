@@ -1,0 +1,7 @@
+nsubj(like-2, I-1)
+root(ROOT-0, like-2)
+det(urlLink-6, this-3)
+num(urlLink-6, one-4)
+nn(urlLink-6, urlLink-5)
+dobj(like-2, urlLink-6)
+

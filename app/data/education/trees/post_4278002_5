@@ -1,0 +1,10 @@
+nn(Victoria-2, urlLink-1)
+poss(Peak-4, Victoria-2)
+possessive(Victoria-2, 's-3)
+nsubj(uploaded-6, Peak-4)
+advmod(uploaded-6, Originally-5)
+root(ROOT-0, uploaded-6)
+prep(uploaded-6, by-7)
+nn(Kimberlysooninchina-9, urlLink-8)
+pobj(by-7, Kimberlysooninchina-9)
+

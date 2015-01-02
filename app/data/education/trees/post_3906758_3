@@ -1,0 +1,36 @@
+dep(-RRB--3, 1-1)
+
+aux(change-3, Will-1)
+nsubj(change-3, college-2)
+root(ROOT-0, change-3)
+poss(life-5, my-4)
+dobj(change-3, life-5)
+
+dep(-RRB--3, 2-1)
+
+advmod(get-4, How-1)
+aux(get-4, will-2)
+nsubj(get-4, I-3)
+root(ROOT-0, get-4)
+det(chance-6, the-5)
+dobj(get-4, chance-6)
+aux(go-8, to-7)
+vmod(chance-6, go-8)
+prep(go-8, into-9)
+det(college-12, a-10)
+amod(college-12, good-11)
+pobj(into-9, college-12)
+
+dep(-RRB--3, 3-1)
+
+aux(get-3, Will-1)
+nsubj(get-3, I-2)
+root(ROOT-0, get-3)
+det(job-6, a-4)
+amod(job-6, good-5)
+dobj(get-3, job-6)
+prep(get-3, by-7)
+pcomp(by-7, going-8)
+prep(going-8, to-9)
+pobj(to-9, college-10)
+

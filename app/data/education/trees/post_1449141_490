@@ -1,0 +1,8 @@
+root(ROOT-0, urlLink-1)
+det(Nation-3, The-2)
+dobj(urlLink-1, Nation-3)
+
+root(ROOT-0, Oligarchs-1)
+prep(Oligarchs-1, for-2)
+pobj(for-2, Bush-3)
+

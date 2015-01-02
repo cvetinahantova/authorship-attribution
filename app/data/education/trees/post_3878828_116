@@ -1,0 +1,10 @@
+root(ROOT-0, Flowers-1)
+prep(Flowers-1, in-2)
+det(hall-6, the-3)
+nn(hall-6, BOE-4)
+nn(hall-6, entrance-5)
+pobj(in-2, hall-6)
+
+nn(urlLink-2, urlLink-1)
+root(ROOT-0, urlLink-2)
+

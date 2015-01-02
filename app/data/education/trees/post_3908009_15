@@ -1,0 +1,22 @@
+root(ROOT-0, *-1)
+punct(*-1, sigh-2)
+dep(*-1, *-3)
+prep(*-3, times-4)
+det(billion-6, a-5)
+pobj(times-4, billion-6)
+dep(*-3, hmm-8)
+
+advmod(blog-4, yet-1)
+det(blog-4, another-2)
+amod(blog-4, pointless-3)
+root(ROOT-0, blog-4)
+
+root(ROOT-0, shoo-1)
+
+root(ROOT-0, TASH-1)
+prep(TASH-1, IN-2)
+advmod(CHEERS-5, later-3)
+amod(CHEERS-5, much-4)
+pobj(IN-2, CHEERS-5)
+appos(CHEERS-5, B-7)
+

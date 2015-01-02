@@ -1,0 +1,21 @@
+advmod(fell-4, OK-1)
+nsubj(fell-4, I-2)
+aux(fell-4, have-3)
+root(ROOT-0, fell-4)
+dobj(fell-4, victim-5)
+prep(fell-4, to-6)
+det(things-9, these-7)
+nn(things-9, quiz-8)
+pobj(to-6, things-9)
+nn(DAMN-13, THERE-11)
+nn(DAMN-13, SO-12)
+nsubj(ADDICTIVE-14, DAMN-13)
+parataxis(fell-4, ADDICTIVE-14)
+
+nsubj(take-2, Ok-1)
+root(ROOT-0, take-2)
+dobj(take-2, mine-3)
+
+root(ROOT-0, urlLink-1)
+acomp(urlLink-1, http://www02.quizyourfriends.com/scoreboard.php?quizname=040721231855-Barbies~p20WickedAwsomeSpankinMangolicous~p20Quiz&c=1&a=18-2)
+

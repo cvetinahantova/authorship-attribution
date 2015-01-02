@@ -1,0 +1,18 @@
+det(letter-2, This-1)
+nsubj(is-3, letter-2)
+root(ROOT-0, is-3)
+prep(is-3, from-4)
+nn(Waxman-6, Rep.-5)
+pobj(from-4, Waxman-6)
+prep(Waxman-6, in-7)
+pobj(in-7, reference-8)
+prep(is-3, to-9)
+det(flap-12, the-10)
+nn(flap-12, Cheney/Halliburton-11)
+pobj(to-9, flap-12)
+
+root(ROOT-0, urlLink-1)
+det(link-4, An-2)
+amod(link-4, interesting-3)
+dobj(urlLink-1, link-4)
+

@@ -1,0 +1,13 @@
+amod(run-3, busy-1)
+nn(run-3, run-2)
+nsubj(run-4, run-3)
+root(ROOT-0, run-4)
+xcomp(run-4, run-5)
+amod(run-12, busy-6)
+amod(run-12, busy-7)
+amod(busy-9, busy-8)
+amod(run-12, busy-9)
+nn(run-12, run-10)
+nn(run-12, run-11)
+dobj(run-5, run-12)
+

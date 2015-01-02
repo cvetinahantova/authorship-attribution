@@ -1,0 +1,18 @@
+nn(Links-3, urlLink-1)
+nn(Links-3, RSS-2)
+nsubj(appears-5, Links-3)
+dep(Links-3, This-4)
+root(ROOT-0, appears-5)
+aux(page-13, to-6)
+cop(page-13, be-7)
+det(page-13, a-8)
+advmod(NICE-10, very-9)
+amod(page-13, NICE-10)
+nn(page-13, RSS-11)
+nn(page-13, resource-12)
+xcomp(appears-5, page-13)
+
+root(ROOT-0, Check-1)
+dobj(Check-1, it-2)
+prt(Check-1, out-3)
+

@@ -1,0 +1,8 @@
+advmod('s-3, now-1)
+nsubj('s-3, it-2)
+root(ROOT-0, 's-3)
+prep('s-3, on-4)
+pcomp(on-4, like-5)
+det(gong-7, a-6)
+pobj(like-5, gong-7)
+

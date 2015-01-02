@@ -1,0 +1,13 @@
+nsubj(professor-4, I-1)
+cop(professor-4, am-2)
+det(professor-4, a-3)
+root(ROOT-0, professor-4)
+
+nsubj(teach-3, I-1)
+aux(teach-3, will-2)
+root(ROOT-0, teach-3)
+dobj(teach-3, Dalí-4)
+dobj(knew-7, whatever-5)
+nsubj(knew-7, he-6)
+rcmod(Dalí-4, knew-7)
+

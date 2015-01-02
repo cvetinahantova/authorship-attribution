@@ -1,0 +1,9 @@
+root(ROOT-0, urlLink-1)
+discourse(urlLink-1, Yeah-2)
+prep(urlLink-1, for-3)
+amod(days-5, gorgoues-4)
+pobj(for-3, days-5)
+prep(days-5, with-6)
+amod(friends-8, awesome-7)
+pobj(with-6, friends-8)
+

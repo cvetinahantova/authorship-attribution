@@ -1,0 +1,8 @@
+nsubj(day-5, Today-1)
+cop(day-5, is-2)
+det(day-5, the-3)
+amod(day-5, first-4)
+root(ROOT-0, day-5)
+prep(day-5, of-6)
+pcomp(of-6, posting-7)
+

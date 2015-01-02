@@ -1,0 +1,8 @@
+nsubj(urlLink-5, Tired-1)
+prep(Tired-1, of-2)
+nn(Explorer-4, Internet-3)
+pobj(of-2, Explorer-4)
+root(ROOT-0, urlLink-5)
+xcomp(urlLink-5, Try-6)
+dobj(Try-6, Mozilla-7)
+

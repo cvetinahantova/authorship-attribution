@@ -1,0 +1,10 @@
+root(ROOT-0, urlLink-1)
+nn(deaths-3, US-2)
+nsubj(rise-4, deaths-3)
+ccomp(urlLink-1, rise-4)
+prep(rise-4, in-5)
+pobj(in-5, wake-6)
+prep(wake-6, of-7)
+nn(capture-9, Saddam-8)
+pobj(of-7, capture-9)
+

@@ -1,0 +1,5 @@
+root(ROOT-0, urlLink-1)
+nn(Lights-4, Ugly-2)
+nn(Lights-4, Christmas-3)
+dobj(urlLink-1, Lights-4)
+

@@ -1,0 +1,11 @@
+root(ROOT-0, urlLink-1)
+dobj(urlLink-1, Christina-2)
+prep(Christina-2, on-3)
+det(right-5, the-4)
+pobj(on-3, right-5)
+cc(Christina-2, and-6)
+conj(Christina-2, Kelly-7)
+prep(Kelly-7, on-8)
+det(left-10, the-9)
+pobj(on-8, left-10)
+

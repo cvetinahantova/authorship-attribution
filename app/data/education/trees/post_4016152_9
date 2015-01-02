@@ -1,0 +1,6 @@
+root(ROOT-0, urlLink-1)
+xcomp(urlLink-1, Sizing-2)
+dobj(Sizing-2, him-3)
+prep(Sizing-2, up-4)
+pobj(up-4, urlLink-5)
+

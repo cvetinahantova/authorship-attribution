@@ -1,0 +1,17 @@
+advmod(seen-11, Perhaps-1)
+nsubj(seen-11, one-2)
+prep(one-2, of-3)
+det(events-7, the-4)
+amod(events-7, most-5)
+nn(events-7, fun-6)
+pobj(of-3, events-7)
+det(town-9, this-8)
+dep(events-7, town-9)
+aux(seen-11, has-10)
+root(ROOT-0, seen-11)
+
+root(ROOT-0, Congratulations-1)
+dep(Congratulations-1, Sarah-2)
+cc(Sarah-2, and-3)
+conj(Sarah-2, Keith-4)
+

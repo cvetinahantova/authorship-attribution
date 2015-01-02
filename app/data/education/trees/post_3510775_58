@@ -1,0 +1,10 @@
+root(ROOT-0, sluice-1)
+det(word-4, the-2)
+amod(word-4, liquid-3)
+dobj(sluice-1, word-4)
+num(churning-9, turbulent-5)
+amod(churning-9, mental-6)
+amod(churning-9, current-7)
+nn(churning-9, infinite-8)
+nsubj(sluice-1, churning-9)
+

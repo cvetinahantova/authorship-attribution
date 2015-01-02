@@ -1,0 +1,10 @@
+nsubj(suck-2, I-1)
+root(ROOT-0, suck-2)
+prep(suck-2, at-3)
+pcomp(at-3, blogging-4)
+
+root(ROOT-0, So-1)
+dep(So-1, there-2)
+
+root(ROOT-0, P-2)
+

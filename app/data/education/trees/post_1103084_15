@@ -1,0 +1,17 @@
+
+root(ROOT-0, Want-1)
+aux(learn-3, to-2)
+xcomp(Want-1, learn-3)
+dobj(learn-3, more-4)
+prep(learn-3, about-5)
+nn(McLuhan-7, Marshall-6)
+pobj(about-5, McLuhan-7)
+
+root(ROOT-0, Click-1)
+prep(Click-1, on-2)
+det(Probes-6, the-3)
+nn(Probes-6, urlLink-4)
+nn(Probes-6, McLuhan-5)
+pobj(on-2, Probes-6)
+
+

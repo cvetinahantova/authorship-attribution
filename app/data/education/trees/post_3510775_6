@@ -1,0 +1,21 @@
+nn(ta-2, Got-1)
+nsubj(love-3, ta-2)
+root(ROOT-0, love-3)
+dobj(love-3, it-4)
+
+amod(vacation-2, Spending-1)
+nsubj(assignments-8, vacation-2)
+vmod(vacation-2, doing-3)
+poss(homework-7, my-4)
+amod(homework-7, own-5)
+amod(homework-7, overdue-6)
+dobj(doing-3, homework-7)
+root(ROOT-0, assignments-8)
+prep(assignments-8, for-9)
+poss(program-13, my-10)
+nn(program-13, Alternative-11)
+nn(program-13, Certification-12)
+pobj(for-9, program-13)
+
+root(ROOT-0, Ugh-1)
+

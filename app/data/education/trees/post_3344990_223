@@ -1,0 +1,9 @@
+root(ROOT-0, urlLink-1)
+nn(Matthew-3, Justin-2)
+nsubj(getting-4, Matthew-3)
+dep(urlLink-1, getting-4)
+dobj(getting-4, award-5)
+prep(getting-4, at-6)
+nn(urlLink-8, school-7)
+pobj(at-6, urlLink-8)
+

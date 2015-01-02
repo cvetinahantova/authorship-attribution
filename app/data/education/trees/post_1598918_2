@@ -1,0 +1,10 @@
+nn(CRUISES-2, GEEK-1)
+nsubj(urlLink-3, CRUISES-2)
+root(ROOT-0, urlLink-3)
+nn(CRUISES-5, GEEK-4)
+dobj(urlLink-3, CRUISES-5)
+
+root(ROOT-0, Sign-1)
+dobj(Sign-1, me-2)
+prt(Sign-1, up-3)
+

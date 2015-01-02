@@ -1,0 +1,12 @@
+nn(Christmas-2, Merry-1)
+root(ROOT-0, Christmas-2)
+prep(Christmas-2, to-3)
+pobj(to-3, all-4)
+
+nsubj(said-3, Nuff-2)
+root(ROOT-0, said-3)
+dobj(said-3, methinks-4)
+
+root(ROOT-0, Take-1)
+dobj(Take-1, care-2)
+

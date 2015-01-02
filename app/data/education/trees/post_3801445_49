@@ -1,0 +1,21 @@
+root(ROOT-0, urlLink-1)
+det(shot-4, A-2)
+nn(shot-4, profile-3)
+dobj(urlLink-1, shot-4)
+prep(shot-4, of-5)
+det(spike-7, the-6)
+pobj(of-5, spike-7)
+
+discourse(looks-4, Oh-1)
+nsubj(looks-4, the-3)
+root(ROOT-0, looks-4)
+nsubj(got-6, I-5)
+ccomp(looks-4, got-6)
+
+nsubj(was-2, It-1)
+root(ROOT-0, was-2)
+mark(superstars-6, like-3)
+nsubj(superstars-6, we-4)
+cop(superstars-6, were-5)
+advcl(was-2, superstars-6)
+

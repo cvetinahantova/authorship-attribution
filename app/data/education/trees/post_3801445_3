@@ -1,0 +1,16 @@
+root(ROOT-0, urlLink-1)
+nsubj(reminds-3, This-2)
+ccomp(urlLink-1, reminds-3)
+dobj(reminds-3, me-4)
+prep(me-4, of-5)
+det(poem-7, a-6)
+pobj(of-5, poem-7)
+
+nsubj(remember-4, I-1)
+aux(remember-4, ca-2)
+neg(remember-4, n't-3)
+root(ROOT-0, remember-4)
+dobj(urlLink-8, which-5)
+nsubj(urlLink-8, one-6)
+ccomp(remember-4, urlLink-8)
+

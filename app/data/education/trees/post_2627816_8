@@ -1,0 +1,13 @@
+nsubj(is-2, GovGaming-1)
+root(ROOT-0, is-2)
+advmod(now-4, up-3)
+advmod(is-2, now-4)
+
+root(ROOT-0, Yay-1)
+
+poss(obsession-2, My-1)
+nsubj(continue-4, obsession-2)
+aux(continue-4, can-3)
+root(ROOT-0, continue-4)
+
+

@@ -1,0 +1,28 @@
+root(ROOT-0, urlLink-1)
+advmod(urlLink-1, edstrong.blog-city-2)
+
+root(ROOT-0, com-1)
+cop(com-1, Is-2)
+nn(Heading-4, Iraq-3)
+nsubj(com-1, Heading-4)
+prep(Heading-4, for-5)
+nn(War-7, Civil-6)
+pobj(for-5, War-7)
+
+nn(Iraq-4, Is-3)
+nsubj(Heading-5, Iraq-4)
+root(ROOT-0, Heading-5)
+prep(Heading-5, for-6)
+nn(War-8, Civil-7)
+pobj(for-6, War-8)
+
+nsubj(warning-3, CIA-1)
+aux(warning-3, is-2)
+root(ROOT-0, warning-3)
+prep(warning-3, of-4)
+pcomp(of-4, coming-5)
+nn(War-7, Civil-6)
+dobj(coming-5, War-7)
+prep(War-7, in-8)
+pobj(in-8, Iraq-9)
+

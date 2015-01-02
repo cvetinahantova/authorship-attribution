@@ -1,0 +1,5 @@
+amod(d-day-2, Happy-1)
+nsubj(blogging-3, d-day-2)
+root(ROOT-0, blogging-3)
+dobj(blogging-3, everyone-4)
+

@@ -1,0 +1,32 @@
+prep(theme-17, From-1)
+det(time-4, the-2)
+amod(time-4, first-3)
+pobj(From-1, time-4)
+nsubj(heard-6, I-5)
+parataxis(theme-17, heard-6)
+det(song-8, this-7)
+dobj(heard-6, song-8)
+nsubj(loved-11, I-10)
+dep(heard-6, loved-11)
+dobj(loved-11, it-12)
+nsubj(theme-17, it-14)
+cop(theme-17, is-15)
+poss(theme-17, my-16)
+root(ROOT-0, theme-17)
+
+dep(is-4, So-1)
+advmod(is-4, here-2)
+nsubj(is-4, it-3)
+root(ROOT-0, is-4)
+dep(is-4, on-6)
+pobj(on-6, my-7)
+amod(my-7, blog-8)
+
+root(ROOT-0, YeeeeeeeeHaaaaaaawwwwww-1)
+
+OpenJDK 64-Bit Server VM warning: INFO: os::commit_memory(0x000000078837e000, 685142016, 0) failed; error='Cannot allocate memory' (errno=12)
+#
+# There is insufficient memory for the Java Runtime Environment to continue.
+# Native memory allocation (malloc) failed to allocate 685142016 bytes for committing reserved memory.
+# An error report file with more information is saved as:
+# /home/cvetina/stanford-parser-full-2014-08-27/scripts/education/hs_err_pid26181.log

@@ -1,0 +1,11 @@
+nsubj(Observe-2, urlLink-1)
+root(ROOT-0, Observe-2)
+det(golem-6, the-3)
+amod(golem-6, spectacular-4)
+nn(golem-6, Mud-5)
+dobj(Observe-2, golem-6)
+prep(golem-6, in-7)
+poss(habitat-10, its-8)
+amod(habitat-10, natural-9)
+pobj(in-7, habitat-10)
+

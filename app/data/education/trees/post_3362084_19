@@ -1,0 +1,8 @@
+root(ROOT-0, urlLink-1)
+nsubj(practicing-5, Jen-2)
+cc(Jen-2, &-3)
+conj(Jen-2, Matt-4)
+dep(urlLink-1, practicing-5)
+amod(urlLink-7, kanji-6)
+dobj(practicing-5, urlLink-7)
+

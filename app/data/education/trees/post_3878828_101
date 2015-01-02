@@ -1,0 +1,16 @@
+amod(machine-2, Vending-1)
+nsubj(center-6, machine-2)
+prep(machine-2, at-3)
+det(education-5, the-4)
+pobj(at-3, education-5)
+root(ROOT-0, center-6)
+advmod(stayed-9, where-7)
+nsubj(stayed-9, I-8)
+advcl(center-6, stayed-9)
+prep(stayed-9, in-10)
+nn(City-12, Niigata-11)
+pobj(in-10, City-12)
+
+nn(urlLink-2, urlLink-1)
+root(ROOT-0, urlLink-2)
+

@@ -1,0 +1,12 @@
+root(ROOT-0, urlLink-1)
+det(Club-4, The-2)
+nn(Club-4, Sky-3)
+nsubj(is-5, Club-4)
+ccomp(urlLink-1, is-5)
+prep(is-5, on-6)
+pobj(on-6, top-7)
+prep(top-7, of-8)
+det(Building-11, the-9)
+nn(Building-11, MetLife-10)
+pobj(of-8, Building-11)
+

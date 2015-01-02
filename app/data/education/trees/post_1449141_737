@@ -1,0 +1,11 @@
+root(ROOT-0, urlLink-1)
+nn(PAC-3, MoveOn-2)
+dobj(urlLink-1, PAC-3)
+nsubj(Make-7, Help-6)
+dep(PAC-3, Make-7)
+number(9/11-9, Fahrenheit-8)
+num(Huge-11, 9/11-9)
+det(Huge-11, a-10)
+nsubj(Hit-12, Huge-11)
+ccomp(Make-7, Hit-12)
+

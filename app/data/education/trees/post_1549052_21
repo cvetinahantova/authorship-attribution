@@ -1,0 +1,22 @@
+root(ROOT-0, Stephanie-1)
+conj(Stephanie-1, Grace-3)
+conj(Stephanie-1, Catherine-5)
+cc(Stephanie-1, and-7)
+poss(roomates-10, my-8)
+num(roomates-10, two-9)
+conj(Stephanie-1, roomates-10)
+prep(roomates-10, from-11)
+pobj(from-11, CA-12)
+
+det(one-3, The-2)
+nsubj(asshole-9, one-3)
+prep(one-3, on-4)
+det(left-6, the-5)
+pobj(on-4, left-6)
+cop(asshole-9, is-7)
+det(asshole-9, an-8)
+root(ROOT-0, asshole-9)
+
+nn(urlLink-2, urlLink-1)
+root(ROOT-0, urlLink-2)
+

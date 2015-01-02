@@ -1,0 +1,11 @@
+root(ROOT-0, urlLink-1)
+nsubj(like-6, They-2)
+dep(like-6, both-3)
+aux(like-6, do-4)
+neg(like-6, not-5)
+ccomp(urlLink-1, like-6)
+aux(pooped-9, to-7)
+auxpass(pooped-9, get-8)
+xcomp(like-6, pooped-9)
+prt(pooped-9, on-10)
+

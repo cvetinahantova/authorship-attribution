@@ -1,0 +1,33 @@
+nsubj('m-2, I-1)
+root(ROOT-0, 'm-2)
+advmod('m-2, Back-3)
+
+nsubj('m-2, I-1)
+root(ROOT-0, 'm-2)
+advmod('m-2, back-3)
+prep('m-2, in-4)
+pobj(in-4, Bemidji-5)
+
+root(ROOT-0, Hooray-1)
+
+det(atmosphere-2, The-1)
+nsubj(seems-6, atmosphere-2)
+prep(atmosphere-2, of-3)
+det(town-5, the-4)
+pobj(of-3, town-5)
+root(ROOT-0, seems-6)
+advmod(different-8, somewhat-7)
+acomp(seems-6, different-8)
+mark(have-12, although-10)
+nsubj(have-12, I-11)
+advcl(seems-6, have-12)
+neg(idea-14, no-13)
+dobj(have-12, idea-14)
+dep(idea-14, why-15)
+
+nsubj(hope-2, I-1)
+root(ROOT-0, hope-2)
+nsubj(wrong-5, I-3)
+cop(wrong-5, 'm-4)
+ccomp(hope-2, wrong-5)
+

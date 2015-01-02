@@ -1,0 +1,10 @@
+root(ROOT-0, urlLink-1)
+det(analysis-5, The-2)
+amod(analysis-5, Consortiumnews.com-3)
+amod(analysis-5, More-4)
+dobj(urlLink-1, analysis-5)
+prep(analysis-5, of-6)
+poss(lies-9, Condi-7)
+possessive(Condi-7, 's-8)
+pobj(of-6, lies-9)
+

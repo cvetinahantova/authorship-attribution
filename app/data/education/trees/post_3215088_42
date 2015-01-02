@@ -1,0 +1,8 @@
+root(ROOT-0, Woah-1)
+xcomp(Woah-1, !!!-2)
+poss(urlLink-7, My-3)
+nn(urlLink-7, HERO-4)
+nn(urlLink-7, !!!-5)
+nn(urlLink-7, urlLink-6)
+dobj(!!!-2, urlLink-7)
+

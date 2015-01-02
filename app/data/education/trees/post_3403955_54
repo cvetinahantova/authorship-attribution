@@ -1,0 +1,9 @@
+root(ROOT-0, urlLink-1)
+nsubj(hanging-3, Ben-2)
+dep(urlLink-1, hanging-3)
+prt(hanging-3, out-4)
+prep(hanging-3, in-5)
+det(urlLink-8, the-6)
+nn(urlLink-8, hood-7)
+pobj(in-5, urlLink-8)
+

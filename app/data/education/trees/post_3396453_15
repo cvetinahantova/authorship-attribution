@@ -1,0 +1,394 @@
+root(ROOT-0, 1-1)
+
+root(ROOT-0, Falling-1)
+prep(Falling-1, in-2)
+pobj(in-2, love-3)
+
+root(ROOT-0, 2-1)
+
+dep(hurts-6, Laughing-1)
+advmod(hard-3, so-2)
+acomp(Laughing-1, hard-3)
+poss(face-5, your-4)
+nsubj(hurts-6, face-5)
+root(ROOT-0, hurts-6)
+
+root(ROOT-0, 3-1)
+
+det(shower-3, A-1)
+amod(shower-3, hot-2)
+root(ROOT-0, shower-3)
+
+root(ROOT-0, 4-1)
+
+neg(lines-2, No-1)
+root(ROOT-0, lines-2)
+prep(lines-2, at-3)
+det(supermarket-5, the-4)
+pobj(at-3, supermarket-5)
+num(supermarket-5, 5-6)
+
+det(glance-3, A-1)
+amod(glance-3, special-2)
+root(ROOT-0, glance-3)
+
+root(ROOT-0, 6-1)
+
+root(ROOT-0, Getting-1)
+dobj(Getting-1, mails-2)
+
+root(ROOT-0, 7-1)
+
+root(ROOT-0, Taking-1)
+det(drive-3, a-2)
+dobj(Taking-1, drive-3)
+prep(Taking-1, on-4)
+det(road-7, a-5)
+amod(road-7, pretty-6)
+pobj(on-4, road-7)
+
+root(ROOT-0, 8-1)
+
+root(ROOT-0, Hearing-1)
+poss(song-4, your-2)
+amod(song-4, favorite-3)
+dobj(Hearing-1, song-4)
+prep(Hearing-1, on-5)
+det(radio-7, the-6)
+pobj(on-5, radio-7)
+
+root(ROOT-0, 9-1)
+
+root(ROOT-0, Lying-1)
+prep(Lying-1, in-2)
+pobj(in-2, bed-3)
+vmod(bed-3, listening-4)
+prep(listening-4, to-5)
+det(outside-8, the-6)
+nn(outside-8, rain-7)
+pobj(to-5, outside-8)
+
+root(ROOT-0, 10-1)
+
+amod(towels-2, Hot-1)
+nsubj(fresh-3, towels-2)
+root(ROOT-0, fresh-3)
+prt(fresh-3, out-4)
+prep(fresh-3, of-5)
+det(dryer-7, the-6)
+pobj(of-5, dryer-7)
+
+root(ROOT-0, 11-1)
+
+nsubj(milkshake-2, Chocolate-1)
+root(ROOT-0, milkshake-2)
+
+root(ROOT-0, or-2)
+dep(or-2, vanilla-3)
+cc(vanilla-3, or-4)
+conj(vanilla-3, strawberry-5)
+
+root(ROOT-0, 12-1)
+
+det(bubble-2, A-1)
+nsubj(bath-3, bubble-2)
+root(ROOT-0, bath-3)
+
+root(ROOT-0, 13-1)
+
+root(ROOT-0, Giggling-1)
+
+root(ROOT-0, 14-1)
+
+det(conversation-3, A-1)
+amod(conversation-3, good-2)
+root(ROOT-0, conversation-3)
+
+root(ROOT-0, 15-1)
+
+det(beach-2, The-1)
+root(ROOT-0, beach-2)
+
+root(ROOT-0, 16-1)
+
+root(ROOT-0, Finding-1)
+det(bucks-4, a-2)
+num(bucks-4, 500-3)
+dobj(Finding-1, bucks-4)
+prep(bucks-4, in-5)
+poss(bag-8, your-6)
+amod(bag-8, old-7)
+pobj(in-5, bag-8)
+
+root(ROOT-0, 17-1)
+
+root(ROOT-0, Laughing-1)
+prep(Laughing-1, at-2)
+pobj(at-2, yourself-3)
+
+root(ROOT-0, 19-1)
+
+nn(phone-2, Midnight-1)
+nsubj(calls-3, phone-2)
+root(ROOT-0, calls-3)
+det(last-5, that-4)
+dobj(calls-3, last-5)
+prep(last-5, for-6)
+pobj(for-6, hours-7)
+
+root(ROOT-0, 20-1)
+
+root(ROOT-0, Running-1)
+prep(Running-1, through-2)
+pobj(through-2, sprinklers-3)
+
+root(ROOT-0, 21-1)
+
+root(ROOT-0, Laughing-1)
+prep(Laughing-1, for-2)
+advmod(reason-5, absolutely-3)
+neg(reason-5, no-4)
+pobj(for-2, reason-5)
+advmod(reason-5, at-6)
+pobj(at-6, all-7)
+
+root(ROOT-0, 22-1)
+
+csubj(tell-3, Having-1)
+dobj(Having-1, someone-2)
+root(ROOT-0, tell-3)
+dobj(tell-3, you-4)
+mark(beautiful-8, that-5)
+nsubj(beautiful-8, you-6)
+cop(beautiful-8, 're-7)
+ccomp(tell-3, beautiful-8)
+
+root(ROOT-0, 23-1)
+
+root(ROOT-0, Laughing-1)
+prep(Laughing-1, at-2)
+det(joke-5, an-3)
+amod(joke-5, inside-4)
+pobj(at-2, joke-5)
+
+root(ROOT-0, 24-1)
+
+root(ROOT-0, Friends-1)
+
+root(ROOT-0, 25-1)
+
+advmod(overhearing-2, Accidentally-1)
+amod(someone-3, overhearing-2)
+nsubj(say-4, someone-3)
+root(ROOT-0, say-4)
+nsubj(nice-6, something-5)
+xcomp(say-4, nice-6)
+prep(nice-6, about-7)
+pobj(about-7, you-8)
+
+root(ROOT-0, 26-1)
+
+csubj(left-11, Waking-1)
+prt(Waking-1, up-2)
+cc(Waking-1, and-3)
+conj(Waking-1, realizing-4)
+dobj(realizing-4, you-5)
+advmod(realizing-4, still-6)
+aux(left-11, have-7)
+det(hours-10, a-8)
+amod(hours-10, few-9)
+dobj(left-11, hours-10)
+root(ROOT-0, left-11)
+aux(sleep-13, to-12)
+xcomp(left-11, sleep-13)
+
+root(ROOT-0, 27-1)
+
+poss(kiss-3, Your-1)
+amod(kiss-3, first-2)
+root(ROOT-0, kiss-3)
+
+root(ROOT-0, 28-1)
+
+root(ROOT-0, Making-1)
+amod(friends-3, new-2)
+dobj(Making-1, friends-3)
+cc(Making-1, or-4)
+conj(Making-1, spending-5)
+dobj(spending-5, time-6)
+prep(spending-5, with-7)
+amod(ones-9, old-8)
+pobj(with-7, ones-9)
+
+root(ROOT-0, 29-1)
+
+root(ROOT-0, Playing-1)
+prep(Playing-1, with-2)
+det(puppy-5, a-3)
+amod(puppy-5, new-4)
+pobj(with-2, puppy-5)
+
+root(ROOT-0, 30-1)
+
+csubj(play-3, Having-1)
+dobj(Having-1, someone-2)
+root(ROOT-0, play-3)
+prep(play-3, with-4)
+poss(hair-6, your-5)
+pobj(with-4, hair-6)
+
+root(ROOT-0, 31-1)
+
+nsubj(dreams-2, Sweet-1)
+root(ROOT-0, dreams-2)
+
+root(ROOT-0, 32-1)
+
+amod(chocolate-2, Hot-1)
+root(ROOT-0, chocolate-2)
+
+root(ROOT-0, 33-1)
+
+nsubj(trips-2, Road-1)
+root(ROOT-0, trips-2)
+prep(trips-2, with-3)
+pobj(with-3, friends-4)
+
+root(ROOT-0, 34-1)
+
+root(ROOT-0, Swinging-1)
+prep(Swinging-1, on-2)
+pobj(on-2, swings-3)
+
+root(ROOT-0, 35-1)
+
+root(ROOT-0, Making-1)
+nn(contact-3, eye-2)
+dobj(Making-1, contact-3)
+prep(Making-1, with-4)
+det(stranger-7, a-5)
+amod(stranger-7, cute-6)
+pobj(with-4, stranger-7)
+
+root(ROOT-0, 36-1)
+
+root(ROOT-0, Making-1)
+nn(cookies-4, chocolate-2)
+nn(cookies-4, chip-3)
+dobj(Making-1, cookies-4)
+
+root(ROOT-0, 37-1)
+
+root(ROOT-0, Having-1)
+poss(friends-3, your-2)
+nsubj(send-4, friends-3)
+ccomp(Having-1, send-4)
+iobj(send-4, you-5)
+amod(cookies-7, homemade-6)
+dobj(send-4, cookies-7)
+
+root(ROOT-0, 38-1)
+
+dep(care-6, Holding-1)
+dobj(Holding-1, hands-2)
+prep(Holding-1, with-3)
+pobj(with-3, someone-4)
+nsubj(care-6, you-5)
+root(ROOT-0, care-6)
+prt(care-6, about-7)
+
+root(ROOT-0, 39-1)
+
+root(ROOT-0, Running-1)
+prep(Running-1, into-2)
+det(friend-5, an-3)
+amod(friend-5, old-4)
+pobj(into-2, friend-5)
+cc(Running-1, and-6)
+conj(Running-1, realizing-7)
+mark(change-17, that-8)
+det(things-10, some-9)
+nsubj(change-17, things-10)
+dep(things-10, good-12)
+cc(good-12, or-13)
+conj(good-12, bad-14)
+neg(change-17, never-16)
+ccomp(realizing-7, change-17)
+
+root(ROOT-0, 40-1)
+
+csubj(face-7, Watching-1)
+det(expression-3, the-2)
+dobj(Watching-1, expression-3)
+prep(Watching-1, on-4)
+pobj(on-4, someone-5)
+possessive(someone-5, 's-6)
+root(ROOT-0, face-7)
+mark(open-10, as-8)
+nsubj(open-10, they-9)
+advcl(face-7, open-10)
+det(present-14, a-11)
+advmod(desired-13, much-12)
+amod(present-14, desired-13)
+dobj(open-10, present-14)
+prep(present-14, from-15)
+pobj(from-15, you-16)
+
+root(ROOT-0, 41-1)
+
+root(ROOT-0, Watching-1)
+det(sunrise-3, the-2)
+dobj(Watching-1, sunrise-3)
+
+root(ROOT-0, 42-1)
+
+root(ROOT-0, Getting-1)
+prt(Getting-1, out-2)
+prep(Getting-1, of-3)
+pobj(of-3, bed-4)
+det(morning-6, every-5)
+tmod(Getting-1, morning-6)
+cc(Getting-1, and-7)
+cop(grateful-9, being-8)
+conj(Getting-1, grateful-9)
+prep(grateful-9, for-10)
+det(day-13, another-11)
+amod(day-13, beautiful-12)
+pobj(for-10, day-13)
+
+root(ROOT-0, 43-1)
+
+csubj(misses-4, Knowing-1)
+det(somebody-3, that-2)
+dobj(Knowing-1, somebody-3)
+root(ROOT-0, misses-4)
+dobj(misses-4, you-5)
+
+root(ROOT-0, 44-1)
+
+dep(care-7, Getting-1)
+det(hug-3, a-2)
+dobj(Getting-1, hug-3)
+prep(Getting-1, from-4)
+pobj(from-4, someone-5)
+nsubj(care-7, you-6)
+root(ROOT-0, care-7)
+advmod(deeply-9, about-8)
+advmod(care-7, deeply-9)
+
+root(ROOT-0, 45-1)
+
+root(ROOT-0, Knowing-1)
+dobj(Knowing-1, you-2)
+aux(done-4, 've-3)
+dep(Knowing-1, done-4)
+det(thing-7, the-5)
+amod(thing-7, right-6)
+nsubj(Knowing-1, thing-7)
+neg(matter-10, no-9)
+appos(thing-7, matter-10)
+dobj(think-14, what-11)
+amod(people-13, other-12)
+nsubj(think-14, people-13)
+rcmod(matter-10, think-14)
+

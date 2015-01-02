@@ -1,0 +1,10 @@
+root(ROOT-0, urlLink-1)
+nn(Group-5, Los-2)
+nn(Group-5, Alamos-3)
+nn(Group-5, Study-4)
+nsubj(Look-6, Group-5)
+ccomp(urlLink-1, Look-6)
+prep(Look-6, at-7)
+det(billboards-9, these-8)
+pobj(at-7, billboards-9)
+

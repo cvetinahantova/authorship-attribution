@@ -1,0 +1,13 @@
+nsubj(asking-3, Brent-1)
+aux(asking-3, is-2)
+root(ROOT-0, asking-3)
+det(question-5, a-4)
+dobj(asking-3, question-5)
+cc(asking-3, or-7)
+conj(asking-3, whistling-8)
+det(tune-10, a-9)
+dobj(whistling-8, tune-10)
+advmod(whistling-8, maybe-11)
+nsubj(urlLink-14, urlLink-13)
+parataxis(asking-3, urlLink-14)
+

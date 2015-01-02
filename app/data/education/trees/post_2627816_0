@@ -1,0 +1,22 @@
+nsubj(Admin-5, I-1)
+cop(Admin-5, am-2)
+advmod(Admin-5, now-3)
+det(Admin-5, an-4)
+root(ROOT-0, Admin-5)
+prep(Admin-5, at-6)
+pobj(at-6, GovGaming-7)
+
+nsubj(!!!-2, Yay-1)
+root(ROOT-0, !!!-2)
+advmod(!!!-2, Now-3)
+nsubj(know-7, I-4)
+aux(know-7, do-5)
+neg(know-7, n't-6)
+ccomp(!!!-2, know-7)
+det(site-9, what-8)
+dobj(like-11, site-9)
+nsubj(like-11, I-10)
+ccomp(know-7, like-11)
+advmod(like-11, better-12)
+
+

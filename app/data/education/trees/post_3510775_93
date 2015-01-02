@@ -1,0 +1,11 @@
+amod(soda-3, green-1)
+nn(soda-3, apple-2)
+root(ROOT-0, soda-3)
+amod(coffee-7, nutty-4)
+nn(coffee-7, ice-5)
+nn(coffee-7, cream-6)
+dep(soda-3, coffee-7)
+poss(belthole-10, her-8)
+amod(belthole-10, last-9)
+dep(soda-3, belthole-10)
+

@@ -1,0 +1,10 @@
+root(ROOT-0, Okay-1)
+det(pic-4, a-2)
+amod(pic-4, better-3)
+dobj(Okay-1, pic-4)
+
+root(ROOT-0, Hopefully-1)
+
+nn(urlLink-2, urlLink-1)
+root(ROOT-0, urlLink-2)
+

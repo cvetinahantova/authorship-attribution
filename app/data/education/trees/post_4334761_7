@@ -1,0 +1,13 @@
+nsubj(wish-2, i-1)
+root(ROOT-0, wish-2)
+iobj(wish-2, i-3)
+dobj(wish-2, hadnt-4)
+vmod(hadnt-4, done-5)
+xcomp(done-5, sumthing-6)
+
+root(ROOT-0, im-1)
+neg(person-5, not-2)
+det(person-5, a-3)
+amod(person-5, good-4)
+dobj(im-1, person-5)
+

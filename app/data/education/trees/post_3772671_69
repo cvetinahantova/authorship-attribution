@@ -1,0 +1,11 @@
+root(ROOT-0, urlLink-1)
+nsubj(stumbled-3, We-2)
+dep(urlLink-1, stumbled-3)
+prep(stumbled-3, on-4)
+det(dunes-7, the-5)
+nn(dunes-7, sand-6)
+pobj(on-4, dunes-7)
+prep(dunes-7, of-8)
+amod(Idaho-10, eastern-9)
+pobj(of-8, Idaho-10)
+

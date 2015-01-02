@@ -1,0 +1,8 @@
+root(ROOT-0, urlLink-1)
+dobj(urlLink-1, Check-2)
+prep(urlLink-1, out-3)
+det(hotties-5, the-4)
+pobj(out-3, hotties-5)
+num(urlLink-7, !!-6)
+nsubj(urlLink-1, urlLink-7)
+

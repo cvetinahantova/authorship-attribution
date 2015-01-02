@@ -1,0 +1,13 @@
+root(ROOT-0, urlLink-1)
+nsubj(Bomb-3, We-2)
+xcomp(urlLink-1, Bomb-3)
+
+nsubj(suffer-2, They-1)
+root(ROOT-0, suffer-2)
+
+nsubj(protests-5, Join-1)
+det(day-4, the-2)
+nn(day-4, tax-3)
+tmod(protests-5, day-4)
+root(ROOT-0, protests-5)
+

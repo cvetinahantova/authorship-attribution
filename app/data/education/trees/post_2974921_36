@@ -1,0 +1,9 @@
+root(ROOT-0, jammi-1)
+
+advmod(?!-6, where-1)
+det(hell-3, the-2)
+dep(where-1, hell-3)
+cop(?!-6, are-4)
+nsubj(?!-6, you-5)
+root(ROOT-0, ?!-6)
+

@@ -1,0 +1,9 @@
+root(ROOT-0, urlLink-1)
+det(week-3, This-2)
+poss(sign-5, week-3)
+possessive(week-3, 's-4)
+dobj(urlLink-1, sign-5)
+prep(sign-5, of-6)
+det(Apocalypse-8, the-7)
+pobj(of-6, Apocalypse-8)
+

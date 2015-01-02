@@ -1,0 +1,13 @@
+nsubj(Betsy-2, urlLink-1)
+dep(say-6, Betsy-2)
+cc(Betsy-2, or-3)
+conj(Betsy-2, should-4)
+nsubj(say-6, I-5)
+root(ROOT-0, say-6)
+nn(President-8, Madame-7)
+dobj(say-6, President-8)
+
+nsubj(go-2, You-1)
+root(ROOT-0, go-2)
+dobj(go-2, Girl-3)
+

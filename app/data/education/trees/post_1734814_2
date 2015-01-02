@@ -1,0 +1,13 @@
+dep(is-6, What-1)
+mark(is-6, if-2)
+det(Pokey-5, the-3)
+nn(Pokey-5, Hokey-4)
+nsubj(is-6, Pokey-5)
+root(ROOT-0, is-6)
+advmod(is-6, really-7)
+dobj(about-12, what-8)
+nsubj(about-12, it-9)
+cop(about-12, 's-10)
+advmod(about-12, all-11)
+ccomp(is-6, about-12)
+

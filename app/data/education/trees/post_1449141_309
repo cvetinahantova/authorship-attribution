@@ -1,0 +1,10 @@
+root(ROOT-0, urlLink-1)
+nn(Shaping-5, GAO-2)
+nn(Shaping-5, Cites-3)
+nn(Shaping-5, Corporate-4)
+dobj(urlLink-1, Shaping-5)
+prep(Shaping-5, of-6)
+nn(Plan-8, Energy-7)
+pobj(of-6, Plan-8)
+appos(Plan-8, washingtonpost.com-10)
+

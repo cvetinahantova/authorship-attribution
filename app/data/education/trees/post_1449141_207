@@ -1,0 +1,19 @@
+auxpass(Counted-2, Be-1)
+root(ROOT-0, Counted-2)
+
+root(ROOT-0, Vote-1)
+
+prep(urlLink-10, in-1)
+det(Primary-5, the-2)
+nn(Primary-5, MoveOn.org-3)
+nn(Primary-5, Presidential-4)
+pobj(in-1, Primary-5)
+tmod(urlLink-10, June-6)
+num(June-6, 24-25-7)
+nsubj(urlLink-10, 2003-9)
+root(ROOT-0, urlLink-10)
+dobj(urlLink-10, Register-11)
+aux(Vote-13, to-12)
+xcomp(urlLink-10, Vote-13)
+advmod(Vote-13, here-14)
+

@@ -1,0 +1,28 @@
+ccomp(Krispies-10, Look-1)
+dep(ll-4, ya-2)
+dep(Look-1, ll-4)
+nsubj(Krispies-10, it-6)
+cop(Krispies-10, s-8)
+nn(Krispies-10, Cocoa-9)
+root(ROOT-0, Krispies-10)
+prep(Krispies-10, in-11)
+pobj(in-11, Japan-12)
+
+advmod(says-3, Actually-1)
+nsubj(says-3, it-2)
+root(ROOT-0, says-3)
+nn(Kurisupi-5, Choko-4)
+dobj(says-3, Kurisupi-5)
+
+nsubj(bought-2, I-1)
+root(ROOT-0, bought-2)
+nsubj(day-6, them-3)
+poss(day-6, my-4)
+amod(day-6, first-5)
+xcomp(bought-2, day-6)
+prep(day-6, in-7)
+pobj(in-7, Oshima-8)
+
+nn(urlLink-2, urlLink-1)
+root(ROOT-0, urlLink-2)
+

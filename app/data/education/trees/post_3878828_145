@@ -1,0 +1,9 @@
+nsubj(has-2, Keiko-san-1)
+root(ROOT-0, has-2)
+det(bento-4, a-3)
+dobj(has-2, bento-4)
+advmod(has-2, too-5)
+
+nn(urlLink-2, urlLink-1)
+root(ROOT-0, urlLink-2)
+

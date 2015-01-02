@@ -1,0 +1,41 @@
+nsubj(urlLink-3, check-1)
+advmod(urlLink-3, out-2)
+root(ROOT-0, urlLink-3)
+det(porch-6, the-4)
+amod(porch-6, virtual-5)
+dobj(urlLink-3, porch-6)
+
+nsubj(write-2, i-1)
+root(ROOT-0, write-2)
+advmod(along-5, there-3)
+advmod(along-5, too-4)
+advmod(write-2, along-5)
+prep(write-2, with-6)
+poss(amigos-8, my-7)
+pobj(with-6, amigos-8)
+
+nsubj(hot-3, it-1)
+cop(hot-3, is-2)
+root(ROOT-0, hot-3)
+
+dep(hot-2, sooooo-1)
+root(ROOT-0, hot-2)
+
+nsubj(going-3, i-1)
+aux(going-3, 'm-2)
+root(ROOT-0, going-3)
+aux(get-5, to-4)
+xcomp(going-3, get-5)
+det(cone-9, an-6)
+nn(cone-9, ice-7)
+nn(cone-9, cream-8)
+dobj(get-5, cone-9)
+prep(get-5, from-10)
+nn(aid-12, rite-11)
+pobj(from-10, aid-12)
+
+nsubj('s-2, thrifty-1)
+root(ROOT-0, 's-2)
+
+root(ROOT-0, yum-1)
+

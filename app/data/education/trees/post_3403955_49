@@ -1,0 +1,10 @@
+root(ROOT-0, urlLink-1)
+poss(makers-4, My-2)
+nn(makers-4, trouble-3)
+dobj(urlLink-1, makers-4)
+dep(urlLink-1, early-6)
+prep(early-6, in-7)
+det(urlLink-10, the-8)
+nn(urlLink-10, morning-9)
+pobj(in-7, urlLink-10)
+

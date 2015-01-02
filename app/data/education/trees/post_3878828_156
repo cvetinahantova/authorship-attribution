@@ -1,0 +1,22 @@
+root(ROOT-0, Flowers-1)
+prep(Flowers-1, on-2)
+poss(journey-4, my-3)
+pobj(on-2, journey-4)
+
+nsubj(grow-2, Many-1)
+root(ROOT-0, grow-2)
+advmod(grow-2, wild-3)
+prep(grow-2, off-4)
+det(road-6, the-5)
+pobj(off-4, road-6)
+cc(grow-2, and-8)
+amod(gardens-10, many-9)
+nsubj(have-11, gardens-10)
+conj(grow-2, have-11)
+dobj(have-11, flowers-12)
+prep(flowers-12, in-13)
+pobj(in-13, them-14)
+
+nn(urlLink-2, urlLink-1)
+root(ROOT-0, urlLink-2)
+

@@ -1,0 +1,10 @@
+root(ROOT-0, Christ-1)
+
+nsubj(Jesus-4, It-1)
+cop(Jesus-4, 's-2)
+nn(Jesus-4, Buddy-3)
+root(ROOT-0, Jesus-4)
+
+nn(urlLink-2, urlLink-1)
+root(ROOT-0, urlLink-2)
+

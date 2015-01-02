@@ -1,0 +1,12 @@
+nn(w-4, urlLink-1)
+nn(w-4, urlLink-2)
+nn(w-4, trouble-3)
+root(ROOT-0, w-4)
+punct(w-4, /-5)
+nsubj(uploaded-8, tissue-6)
+advmod(uploaded-8, Originally-7)
+dep(w-4, uploaded-8)
+prep(uploaded-8, by-9)
+nn(cucsmom-11, urlLink-10)
+pobj(by-9, cucsmom-11)
+

@@ -1,0 +1,7 @@
+root(ROOT-0, urlLink-1)
+poss(morning-6, Our-2)
+nn(morning-6, backyard-3)
+nn(morning-6, view-4)
+nn(morning-6, yesterday-5)
+tmod(urlLink-1, morning-6)
+

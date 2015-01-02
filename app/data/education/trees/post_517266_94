@@ -1,0 +1,18 @@
+root(ROOT-0, Indy-1)
+dep(Indy-1, Had-3)
+det(celebration-9, the-4)
+amod(celebration-9, annual-5)
+poss(celebration-9, Valentine-6)
+possessive(Valentine-6, 's-7)
+nn(celebration-9, Day-8)
+dobj(Had-3, celebration-9)
+prep(celebration-9, with-10)
+det(group-13, a-11)
+amod(group-13, great-12)
+pobj(with-10, group-13)
+prep(group-13, of-14)
+pobj(of-14, friends-15)
+
+amod(family-2, Amazing-1)
+root(ROOT-0, family-2)
+

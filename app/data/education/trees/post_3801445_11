@@ -1,0 +1,11 @@
+root(ROOT-0, urlLink-1)
+det(mushroom-4, A-2)
+amod(mushroom-4, nifty-3)
+dobj(urlLink-1, mushroom-4)
+prep(urlLink-1, on-5)
+poss(hike-8, my-6)
+amod(hike-8, solitary-7)
+pobj(on-5, hike-8)
+prep(hike-8, on-9)
+pobj(on-9, Wednesday-10)
+

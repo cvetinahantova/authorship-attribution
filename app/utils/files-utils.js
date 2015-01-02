@@ -1,6 +1,5 @@
 var fs = require("fs");
-var readline = require("readline");
-var stream = require("stream");
+var transform = require('../utils/liner');
 
 var WordFrequency = require('../models/WordFrequency.js');
 
@@ -20,50 +19,96 @@ module.exports.readFile = function(filename){
             });
         }
     });
-}
+};
 
 module.exports.saveFrequencyDictionary = function(filename)
 {
-    var wordFrequencies = new Array();
     var wordFrequency = new WordFrequency();
 
-    var outstream = new stream;
-    var instream = fs.createReadStream(filename);
+    var liner = transform.createTransform();
 
-    var readstream = readline.createInterface(instream, outstream);
+    var source = fs.createReadStream(filename);
 
-    readstream.on('line', function(line){
-        var splitLine = line.split(" ");
+    source.pipe(liner)
+        .on('finish', function(){
 
-        wordFrequency = new WordFrequency();
-        wordFrequency.frequency = splitLine[0];
-        wordFrequency.word = splitLine[1];
-        wordFrequency.pos = splitLine[2];
-        wordFrequency.filesNumber = splitLine[3]
-
-        WordFrequency.create(wordFrequency, function(err, word) {
         });
+
+    liner.on('readable', function () {
+
+        var line;
+        while (line = liner.read()) {
+            var splitLine = line.split(" ");
+
+            wordFrequency = new WordFrequency();
+            wordFrequency.frequency = splitLine[0];
+            wordFrequency.word = splitLine[1];
+            wordFrequency.pos = splitLine[2];
+            wordFrequency.filesNumber = splitLine[3];
+
+            WordFrequency.create(wordFrequency, function (err, word) {
+            });
+        }
     });
-}
+};
 
 module.exports.convertAuthorsFileToDictionary = function(filename, done){
-
-    console.log(filename);
     var authors = {};
 
-    var outstream = new stream;
-    var instream = fs.createReadStream(filename);
+    var liner = transform.createTransform();
 
-    var readstream = readline.createInterface(instream, outstream);
+    var source = fs.createReadStream(filename);
 
-    readstream
-        .on('line', function(line){
-        var splitLine = line.split(" ");
-
-        authors[splitLine[0]] = splitLine[1];
-        })
-        .on('close', function(){
-            console.log("close");
+    source.pipe(liner)
+        .on('finish', function(){
             done(authors);
         });
-}
+
+    liner.on('readable', function (){
+        var line;
+        while (line = liner.read()) {
+            var splitLine = line.split(/[\s\r\n]/).filter(function(e){return e;});
+            authors[splitLine[0]] = Number(splitLine[1]);
+        }
+        });
+};
+
+//Go through all files in the folder
+var traverse = function (dir, action, done) {
+
+    fs.readdir(dir, function (error, list) {
+        if (error) {
+            return done(error);
+        }
+
+        var i = 0;
+
+        (function next () {
+            var file = list[i++];
+
+            if (!file) {
+                return done();
+            }
+
+            var filename = file;
+            file = dir + '/' + file;
+            //console.log(file);
+            fs.stat(file, function (error, stat) {
+
+                if (stat && stat.isDirectory()) {
+                    //traverse inner directories
+                    //traverse(file, function (error) {
+                    next();
+                //});
+                } else {
+                    //console.log(filename);
+                    // Open file, construct feature set
+                    action(filename, function(){
+                        next();
+                    });
+                }
+            });
+        })();
+    });
+};
+module.exports.traverse = traverse;

@@ -1,0 +1,13 @@
+nsubj(stick-3, I-1)
+aux(stick-3, 'd-2)
+root(ROOT-0, stick-3)
+poss(tongue-5, my-4)
+dobj(stick-3, tongue-5)
+advmod(stick-3, out-6)
+cc(full-11, but-7)
+poss(mouth-9, my-8)
+nsubj(full-11, mouth-9)
+cop(full-11, is-10)
+dep(stick-3, full-11)
+advmod(stick-3, P-13)
+

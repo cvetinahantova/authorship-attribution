@@ -1,0 +1,11 @@
+root(ROOT-0, urlLink-1)
+nsubj(seems-3, Bryan-2)
+rcmod(urlLink-1, seems-3)
+det(little-5, a-4)
+xcomp(seems-3, little-5)
+dep(urlLink-1, yeah-7)
+advmod(urlLink-11, just-8)
+det(little-10, a-9)
+dep(just-8, little-10)
+dep(urlLink-1, urlLink-11)
+

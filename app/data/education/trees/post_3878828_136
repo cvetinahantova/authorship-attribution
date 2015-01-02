@@ -1,0 +1,12 @@
+root(ROOT-0, Milk-1)
+prep(Milk-1, in-2)
+pobj(in-2, Japan-3)
+
+root(ROOT-0, Yay-1)
+prep(Yay-1, for-2)
+amod(milk-4, bilingual-3)
+pobj(for-2, milk-4)
+
+nn(urlLink-2, urlLink-1)
+root(ROOT-0, urlLink-2)
+

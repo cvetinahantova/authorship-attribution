@@ -1,0 +1,11 @@
+advmod(much-2, So-1)
+root(ROOT-0, much-2)
+aux(read-4, to-3)
+dep(much-2, read-4)
+cc(read-4, and-5)
+advmod(read-4, all-6)
+prep(read-4, in-7)
+amod(urlLink-10, Japanese-8)
+nn(urlLink-10, urlLink-9)
+pobj(in-7, urlLink-10)
+

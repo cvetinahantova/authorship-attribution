@@ -1,0 +1,22 @@
+det(quickie-2, A-1)
+root(ROOT-0, quickie-2)
+prep(quickie-2, before-3)
+pcomp(before-3, going-4)
+aux(bed-6, to-5)
+xcomp(going-4, bed-6)
+discourse(not-9, No-7)
+dep(bed-6, not-9)
+dep(not-9, that-10)
+
+root(ROOT-0, Pervert-1)
+
+nsubj(mean-2, I-1)
+root(ROOT-0, mean-2)
+nn(THIS-4, urlLink-3)
+dobj(mean-2, THIS-4)
+
+nsubj(live-2, Long-1)
+root(ROOT-0, live-2)
+det(Cookie-Monster-4, the-3)
+dobj(live-2, Cookie-Monster-4)
+

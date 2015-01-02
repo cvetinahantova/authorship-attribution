@@ -1,0 +1,12 @@
+nn(beliefnet-2, urlLink-1)
+root(ROOT-0, beliefnet-2)
+nn(Hanh-6, Thich-4)
+nn(Hanh-6, Nhat-5)
+dep(beliefnet-2, Hanh-6)
+prep(Hanh-6, on-7)
+det(scandal-12, the-8)
+nn(scandal-12, Iraq-9)
+nn(scandal-12, prison-10)
+nn(scandal-12, abuse-11)
+pobj(on-7, scandal-12)
+

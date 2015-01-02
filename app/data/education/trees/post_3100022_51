@@ -1,0 +1,9 @@
+root(ROOT-0, 36-3-1)
+dep(36-3-1, GO-2)
+det(AB-4, THE-3)
+poss(!!!-8, AB-4)
+possessive(AB-4, 's-5)
+nn(!!!-8, !!!!!!-6)
+nn(!!!-8, Woohoo-7)
+dep(GO-2, !!!-8)
+

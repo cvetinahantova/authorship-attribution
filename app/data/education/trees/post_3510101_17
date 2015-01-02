@@ -1,0 +1,10 @@
+cc(Brad-2, And-1)
+root(ROOT-0, Brad-2)
+vmod(Brad-2, gettin-4)
+acomp(gettin-4, lucky-5)
+prep(gettin-4, with-6)
+pobj(with-6, Jacky-7)
+
+nn(urlLink-2, urlLink-1)
+root(ROOT-0, urlLink-2)
+

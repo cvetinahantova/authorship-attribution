@@ -1,0 +1,10 @@
+root(ROOT-0, urlLink-1)
+det(one-3, this-2)
+nsubj(one-5, one-3)
+cop(one-5, is-4)
+ccomp(urlLink-1, one-5)
+prep(one-5, of-6)
+poss(urlLink-9, my-7)
+nn(urlLink-9, favorites-8)
+pobj(of-6, urlLink-9)
+

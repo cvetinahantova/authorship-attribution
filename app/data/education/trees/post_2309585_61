@@ -1,0 +1,17 @@
+advmod(saying-4, Now-1)
+nsubj(saying-4, they-2)
+aux(saying-4, 're-3)
+root(ROOT-0, saying-4)
+amod(grades-6, final-5)
+nsubjpass(posted-10, grades-6)
+aux(posted-10, wo-7)
+neg(posted-10, n't-8)
+auxpass(posted-10, be-9)
+ccomp(saying-4, posted-10)
+prep(posted-10, until-11)
+pobj(until-11, tomorrow-12)
+prep(posted-10, at-13)
+pobj(at-13, 9-14)
+
+nn(:-4, sigh-3)
+

@@ -1,0 +1,8 @@
+root(ROOT-0, urlLink-1)
+dep(urlLink-1, Yes-2)
+
+nsubjpass(accomplished-4, It-1)
+aux(accomplished-4, has-2)
+auxpass(accomplished-4, been-3)
+root(ROOT-0, accomplished-4)
+

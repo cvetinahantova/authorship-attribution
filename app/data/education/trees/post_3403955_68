@@ -1,0 +1,15 @@
+root(ROOT-0, urlLink-1)
+dobj(urlLink-1, Katie-2)
+cc(Katie-2, and-3)
+conj(Katie-2, Autumn-4)
+prep(urlLink-1, outside-5)
+nn(Robin-7, Red-6)
+pobj(outside-5, Robin-7)
+
+root(ROOT-0, Stay-1)
+amod(boys-3, clear-2)
+nsubj(Stay-1, boys-3)
+expl(Stay-1, there-4)
+nsubj(taken-6, both-5)
+dep(Stay-1, taken-6)
+

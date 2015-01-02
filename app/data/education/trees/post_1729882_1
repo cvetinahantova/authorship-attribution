@@ -1,0 +1,11 @@
+root(ROOT-0, urlLink-1)
+num(urlLink-1, Two-2)
+prep(urlLink-1, of-3)
+poss(things-6, my-4)
+amod(things-6, favorite-5)
+pobj(of-3, things-6)
+dep(urlLink-1, baseball-8)
+cc(baseball-8, &-9)
+nn(urlLink-11, food-10)
+conj(baseball-8, urlLink-11)
+

@@ -1,0 +1,15 @@
+nn(juz-2, i-1)
+nsubj(love-3, juz-2)
+root(ROOT-0, love-3)
+poss(actin-5, her-4)
+dobj(love-3, actin-5)
+
+root(ROOT-0, keep-1)
+dobj(keep-1, it-2)
+prep(keep-1, up-3)
+nn(urlLink-8, Neve-4)
+nn(urlLink-8, Campbell-5)
+nn(urlLink-8, !!!-6)
+nn(urlLink-8, :-RRB--7)
+pobj(up-3, urlLink-8)
+

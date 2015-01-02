@@ -1,0 +1,21 @@
+nsubj('m-2, I-1)
+root(ROOT-0, 'm-2)
+advmod('m-2, back-3)
+
+nn(devil-2, da-1)
+nsubj(back-4, devil-2)
+possessive(devil-2, 's-3)
+root(ROOT-0, back-4)
+dep(back-4, had-6)
+det(weekend-9, a-7)
+nn(weekend-9, borin-8)
+dobj(had-6, weekend-9)
+
+advmod(tho-7, well-1)
+nsubj(tho-7, it-2)
+cop(tho-7, was-3)
+neg(tho-7, n't-4)
+det(tho-7, that-5)
+amod(tho-7, bad-6)
+root(ROOT-0, tho-7)
+

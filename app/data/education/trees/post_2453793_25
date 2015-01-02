@@ -1,0 +1,11 @@
+cop(someone-2, is-1)
+root(ROOT-0, someone-2)
+nsubj(misses-4, who-3)
+rcmod(someone-2, misses-4)
+dobj(misses-4, me-5)
+advmod('m-8, when-6)
+nsubj('m-8, i-7)
+advcl(misses-4, 'm-8)
+neg('m-8, not-9)
+advmod('m-8, around-10)
+

@@ -1,0 +1,16 @@
+root(ROOT-0, urlLink-1)
+nsubj(few-5, These-2)
+cop(few-5, are-3)
+det(few-5, a-4)
+ccomp(urlLink-1, few-5)
+prep(few-5, of-6)
+poss(pieces-9, my-7)
+nn(pieces-9, art-8)
+pobj(of-6, pieces-9)
+
+nsubj(hope-2, I-1)
+root(ROOT-0, hope-2)
+dobj(hope-2, you-3)
+prep(hope-2, like-4)
+pobj(like-4, them-5)
+

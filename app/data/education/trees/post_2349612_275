@@ -1,0 +1,8 @@
+nsubj(gimp-4, scott-1)
+cop(gimp-4, is-2)
+det(gimp-4, a-3)
+root(ROOT-0, gimp-4)
+
+nsubj(said-2, enough-1)
+root(ROOT-0, said-2)
+

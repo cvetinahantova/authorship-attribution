@@ -1,0 +1,17 @@
+nn(Autumn-2, urlLink-1)
+nsubj(posing-3, Autumn-2)
+root(ROOT-0, posing-3)
+parataxis(posing-3, careful-5)
+nsubj(break-8, she-6)
+aux(break-8, could-7)
+ccomp(careful-5, break-8)
+det(heart-11, a-9)
+nn(heart-11, guys-10)
+dobj(break-8, heart-11)
+
+nsubj(wonderful-5, She-1)
+cop(wonderful-5, is-2)
+advmod(wonderful-5, just-3)
+advmod(wonderful-5, too-4)
+root(ROOT-0, wonderful-5)
+

@@ -1,0 +1,9 @@
+root(ROOT-0, urlLink-1)
+nn(Squads-6, Israel-2)
+nn(Squads-6, Trains-3)
+nn(Squads-6, US-4)
+nn(Squads-6, Assassination-5)
+dobj(urlLink-1, Squads-6)
+prep(urlLink-1, in-7)
+pobj(in-7, Iraq-8)
+

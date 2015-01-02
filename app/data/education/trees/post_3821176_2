@@ -1,0 +1,12 @@
+nsubj(Lunch-2, urlLink-1)
+root(ROOT-0, Lunch-2)
+prep(Lunch-2, at-3)
+det(Hofbrauhaus-5, the-4)
+pobj(at-3, Hofbrauhaus-5)
+prep(Lunch-2, in-6)
+pobj(in-6, Munich-7)
+
+root(ROOT-0, Beer-1)
+cc(Beer-1, and-2)
+conj(Beer-1, horseradish-3)
+

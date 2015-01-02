@@ -1,0 +1,11 @@
+root(ROOT-0, urlLink-1)
+amod(singapore-3, 10th-2)
+dobj(urlLink-1, singapore-3)
+advmod(urlLink-1, east-4)
+dep(east-4, west-5)
+nn(moritsugui-10, kendo-6)
+nn(moritsugui-10, chanpionship-7)
+nn(moritsugui-10, copyright-8)
+nn(moritsugui-10, @katsumoto-9)
+nsubj(urlLink-1, moritsugui-10)
+

@@ -1,0 +1,8 @@
+nn(Everything-2, urlLink-1)
+nsubj(right-6, Everything-2)
+cop(right-6, is-3)
+advmod(right-6, so-4)
+amod(right-6, lush-5)
+root(ROOT-0, right-6)
+advmod(right-6, now-7)
+

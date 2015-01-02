@@ -1,0 +1,12 @@
+nn(Wilbur-2, Kirby-1)
+root(ROOT-0, Wilbur-2)
+cc(Wilbur-2, and-3)
+conj(Wilbur-2, me-4)
+
+root(ROOT-0, Picture-2)
+prep(Picture-2, by-3)
+nn(urlLink-7, Rebecca-4)
+nn(urlLink-7, B.-5)
+pobj(by-3, urlLink-7)
+dep(urlLink-7, urlLink-8)
+

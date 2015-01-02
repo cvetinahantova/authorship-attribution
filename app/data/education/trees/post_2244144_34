@@ -1,0 +1,10 @@
+root(ROOT-0, urlLink-1)
+nsubj(have-3, You-2)
+ccomp(urlLink-1, have-3)
+aux(see-5, to-4)
+xcomp(have-3, see-5)
+dobj(see-5, it-6)
+aux(believe-8, to-7)
+xcomp(see-5, believe-8)
+dobj(believe-8, it-9)
+

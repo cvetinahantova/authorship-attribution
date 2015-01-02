@@ -1,0 +1,6 @@
+root(ROOT-0, urlLink-1)
+det(urlLink-5, The-2)
+amod(urlLink-5, onion-3)
+nn(urlLink-5, volcano-4)
+dobj(urlLink-1, urlLink-5)
+

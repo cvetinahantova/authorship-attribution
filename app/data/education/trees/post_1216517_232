@@ -1,0 +1,21 @@
+nsubj(was-2, i-1)
+root(ROOT-0, was-2)
+prep(was-2, on-3)
+det(boat-5, a-4)
+pobj(on-3, boat-5)
+
+nsubj(house-4, it-1)
+cop(house-4, was-2)
+det(house-4, a-3)
+root(ROOT-0, house-4)
+cc(house-4, and-5)
+det(boat-7, a-6)
+conj(house-4, boat-7)
+
+nsubjpass(amazed-3, i-1)
+auxpass(amazed-3, 'm-2)
+root(ROOT-0, amazed-3)
+prep(amazed-3, at-4)
+det(combination-6, the-5)
+pobj(at-4, combination-6)
+

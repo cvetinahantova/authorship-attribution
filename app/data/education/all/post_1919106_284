@@ -1,0 +1,1 @@
+Q: Why is the page size a power of 2?  Wrong A: Because computers work with bits (or variants) Wrong A: Because pages store code, and code is binary. Wrong A: Because it is nice for computers. Wrong A: Because the OS uses bits, and there are only two bits: 0 and 1.   How did these people get past their first year courses?

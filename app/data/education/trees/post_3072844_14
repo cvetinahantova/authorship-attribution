@@ -1,0 +1,15 @@
+nsubj(say-3, Ummm-1)
+advmod(say-3, just-2)
+root(ROOT-0, say-3)
+dobj(say-3, no-4)
+
+dep(think-5, b-1)
+amod(i-3, honest-2)
+nsubj(think-5, i-3)
+aux(think-5, should-4)
+root(ROOT-0, think-5)
+mark(work-9, that-6)
+nsubj(work-9, that-7)
+aux(work-9, would-8)
+ccomp(think-5, work-9)
+

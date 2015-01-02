@@ -1,0 +1,10 @@
+root(ROOT-0, urlLink-1)
+nsubj(is-3, This-2)
+ccomp(urlLink-1, is-3)
+pobj(like-9, what-4)
+det(duck-7, a-5)
+amod(duck-7, Korean-6)
+nsubj(looks-8, duck-7)
+ccomp(is-3, looks-8)
+prep(looks-8, like-9)
+

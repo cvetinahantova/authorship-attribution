@@ -1,0 +1,17 @@
+advmod(got-2, Just-1)
+root(ROOT-0, got-2)
+nn(photos-4, urlLink-3)
+nsubj(got-2, photos-4)
+prep(photos-4, from-5)
+pobj(from-5, Emma-6)
+cc(photos-4, and-7)
+poss(wedding-10, Stu-8)
+possessive(Stu-8, 's-9)
+conj(photos-4, wedding-10)
+amod(week-12, last-11)
+tmod(wedding-10, week-12)
+
+nsubj(one-3, Here-1)
+cop(one-3, 's-2)
+root(ROOT-0, one-3)
+

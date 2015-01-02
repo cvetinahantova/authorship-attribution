@@ -1,0 +1,13 @@
+nsubj(temples-9, urlLink-1)
+prep(temples-9, In-2)
+pobj(In-2, front-3)
+prep(front-3, of-4)
+pobj(of-4, one-5)
+prep(one-5, of-6)
+det(Buddhist-8, the-7)
+pobj(of-6, Buddhist-8)
+root(ROOT-0, temples-9)
+prep(temples-9, at-10)
+pcomp(at-10, Namhansansong-11)
+dobj(Namhansansong-11, park-12)
+

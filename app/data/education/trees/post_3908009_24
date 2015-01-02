@@ -1,0 +1,30 @@
+root(ROOT-0, urlLink-1)
+dobj(urlLink-1, MOFO-2)
+
+nsubj(MOMOA-4, this-1)
+cop(MOMOA-4, is-2)
+nn(MOMOA-4, JASON-3)
+root(ROOT-0, MOMOA-4)
+
+det(guy-2, the-1)
+nsubj(has-10, guy-2)
+mark(dating-7, that-3)
+nsubj(dating-7, i-4)
+aux(dating-7, 'm-5)
+dep(guy-2, dating-7)
+dobj(dating-7, that-9)
+root(ROOT-0, has-10)
+neg(idea-12, no-11)
+dobj(has-10, idea-12)
+prep(idea-12, of-13)
+det(fact-15, the-14)
+pobj(of-13, fact-15)
+
+root(ROOT-0, lol-1)
+
+root(ROOT-0, ISNT-1)
+nsubj(SEXY-3, HE-2)
+xcomp(ISNT-1, SEXY-3)
+num(urlLink-5, ?!?!-4)
+nsubj(ISNT-1, urlLink-5)
+

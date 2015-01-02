@@ -1,0 +1,7 @@
+root(ROOT-0, urlLink-1)
+det(Graduate-3, The-2)
+nsubj(urlLink-6, Graduate-3)
+cc(Graduate-3, and-4)
+conj(Graduate-3, Family-5)
+ccomp(urlLink-1, urlLink-6)
+

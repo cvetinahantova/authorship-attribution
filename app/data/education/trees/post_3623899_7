@@ -1,0 +1,12 @@
+advmod(look-4, Why-1)
+aux(look-4, do-2)
+nsubj(look-4, you-3)
+root(ROOT-0, look-4)
+prep(look-4, like-5)
+det(urlLink-11, a-6)
+amod(urlLink-11, DRACULA-7)
+prep(DRACULA-7, to-8)
+pobj(to-8, me-9)
+nn(urlLink-11, ??-10)
+pobj(like-5, urlLink-11)
+

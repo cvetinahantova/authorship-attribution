@@ -1,0 +1,12 @@
+det(life-2, This-1)
+nsubj(righteousness-9, life-2)
+advmod(righteousness-9, therefore-4)
+advmod(righteousness-9, i-6)
+cop(righteousness-9, s-7)
+neg(righteousness-9, not-8)
+root(ROOT-0, righteousness-9)
+cc(righteousness-9, but-10)
+conj(righteousness-9, growth-11)
+prep(righteousness-9, in-12)
+pobj(in-12, righteousness-13)
+

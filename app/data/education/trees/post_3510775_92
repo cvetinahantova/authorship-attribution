@@ -1,0 +1,9 @@
+nn(crops-2, solemn-1)
+nsubj(grow-3, crops-2)
+root(ROOT-0, grow-3)
+prep(grow-3, from-4)
+det(women-8, these-5)
+amod(women-8, fertile-6)
+amod(women-8, earthy-7)
+pobj(from-4, women-8)
+

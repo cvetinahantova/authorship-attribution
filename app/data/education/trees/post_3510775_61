@@ -1,0 +1,30 @@
+advmod(tastes-4, Ooh-1)
+nsubj(tastes-4, this-3)
+root(ROOT-0, tastes-4)
+advmod(good-6, so-5)
+acomp(tastes-4, good-6)
+
+det(crumb-2, A-1)
+root(ROOT-0, crumb-2)
+prep(crumb-2, of-3)
+pobj(of-3, enlightenment-4)
+appos(crumb-2, spoonful-6)
+prep(spoonful-6, of-7)
+pobj(of-7, buddha-8)
+
+prep('s-6, Pass-1)
+det(hammer-3, the-2)
+pobj(Pass-1, hammer-3)
+advmod('s-6, where-5)
+root(ROOT-0, 's-6)
+det(cow-9, the-7)
+nn(cow-9, urlLink-8)
+nsubj('s-6, cow-9)
+
+root(ROOT-0, Fuck-1)
+nsubj(running-3, me-2)
+dep(Fuck-1, running-3)
+
+nsubj(sense-2, Perfect-1)
+root(ROOT-0, sense-2)
+

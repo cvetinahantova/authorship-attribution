@@ -1,0 +1,54 @@
+amod(guys-2, Hey-1)
+root(ROOT-0, guys-2)
+
+root(ROOT-0, haha-1)
+
+poss(com-2, my-1)
+nsubj(kinda-4, com-2)
+cop(kinda-4, is-3)
+root(ROOT-0, kinda-4)
+vmod(kinda-4, busted-5)
+
+nn(i-2, n-1)
+nsubj(check-5, i-2)
+aux(check-5, ca-3)
+neg(check-5, n't-4)
+root(ROOT-0, check-5)
+poss(blog-7, my-6)
+dobj(check-5, blog-7)
+
+poss(life-2, my-1)
+nsubjpass(ok-5, life-2)
+auxpass(ok-5, 's-3)
+auxpass(ok-5, been-4)
+root(ROOT-0, ok-5)
+
+root(ROOT-0, getting-1)
+dobj(getting-1, braces-2)
+dep(braces-2, soon-3)
+
+amod(huh-2, kewl-1)
+root(ROOT-0, huh-2)
+
+root(ROOT-0, well-1)
+
+nsubj(bz-2, Been-1)
+root(ROOT-0, bz-2)
+advmod(bz-2, lately-3)
+
+nsubj(blog-3, i-1)
+aux(blog-3, 'll-2)
+root(ROOT-0, blog-3)
+mark(e-7, once-4)
+nsubj(e-7, i-5)
+aux(e-7, have-6)
+advcl(blog-3, e-7)
+dobj(e-7, time-8)
+advmod(e-7, again-9)
+
+root(ROOT-0, meanwhile-1)
+dep(meanwhile-1, keep-3)
+xcomp(keep-3, checking-4)
+poss(blog-6, my-5)
+dobj(checking-4, blog-6)
+

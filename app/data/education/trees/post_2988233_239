@@ -1,0 +1,14 @@
+root(ROOT-0, urlLink-1)
+dep(urlLink-1, Take-2)
+det(urlLink-4, the-3)
+dobj(Take-2, urlLink-4)
+det(Fruit-6, What-5)
+dep(Are-7, Fruit-6)
+parataxis(Take-2, Are-7)
+nsubj(Are-7, You-8)
+
+root(ROOT-0, test-1)
+prep(test-1, by-2)
+nn(Ellen-4, urlLink-3)
+pobj(by-2, Ellen-4)
+

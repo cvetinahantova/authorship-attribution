@@ -1,0 +1,13 @@
+nn(treatment-3, urlLink-1)
+nn(treatment-3, DHEA-2)
+root(ROOT-0, treatment-3)
+prep(treatment-3, of-4)
+poss(disease-7, Alzheimer-5)
+possessive(Alzheimer-5, 's-6)
+pobj(of-4, disease-7)
+det(trial-15, A-9)
+amod(trial-15, randomized-10)
+amod(trial-15, double-blind-12)
+amod(trial-15, placebo-controlled-14)
+dep(treatment-3, trial-15)
+

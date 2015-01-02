@@ -1,0 +1,23 @@
+nsubj(http://www.webpost.com/kylene/saraandme/-2, urlLink-1)
+root(ROOT-0, http://www.webpost.com/kylene/saraandme/-2)
+discourse(http://www.webpost.com/kylene/saraandme/-2, Well-3)
+
+mark(know-8, If-1)
+nsubj(know-8, any-2)
+prep(any-2, of-3)
+poss(readers-7, my-4)
+advmod(inclined-6, technologially-5)
+amod(readers-7, inclined-6)
+pobj(of-3, readers-7)
+advcl(let-14, know-8)
+advmod(do-11, how-9)
+aux(do-11, to-10)
+ccomp(know-8, do-11)
+dobj(do-11, it-12)
+root(ROOT-0, let-14)
+nsubj(know-16, me-15)
+ccomp(let-14, know-16)
+dep(let-14, okay-18)
+
+root(ROOT-0, Thanks-1)
+

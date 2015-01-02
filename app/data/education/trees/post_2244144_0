@@ -1,0 +1,13 @@
+prep(got-5, Because-1)
+pobj(Because-1, urlLink-2)
+det(dumbass-4, some-3)
+nsubj(got-5, dumbass-4)
+root(ROOT-0, got-5)
+prep(got-5, in-6)
+det(pool-8, the-7)
+pobj(in-6, pool-8)
+mark(had-11, while-9)
+nsubj(had-11, they-10)
+advcl(got-5, had-11)
+dobj(had-11, diarrhea-12)
+

@@ -1,0 +1,14 @@
+csubj(crossed-4, Keep-1)
+poss(fingers-3, my-2)
+dobj(Keep-1, fingers-3)
+root(ROOT-0, crossed-4)
+
+root(ROOT-0, Almost-1)
+prep(Almost-1, through-2)
+pobj(through-2, July-3)
+
+aux(jinx-3, Ca-1)
+neg(jinx-3, n't-2)
+root(ROOT-0, jinx-3)
+dobj(jinx-3, them-4)
+

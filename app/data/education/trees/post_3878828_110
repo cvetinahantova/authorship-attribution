@@ -1,0 +1,6 @@
+root(ROOT-0, Parking-1)
+dobj(Parking-1, garage-2)
+
+nn(urlLink-2, urlLink-1)
+root(ROOT-0, urlLink-2)
+

@@ -1,0 +1,7 @@
+nn(Keio-3, Self-1)
+nn(Keio-3, Portrait-2)
+root(ROOT-0, Keio-3)
+nn(urlLink-6, bathroom-4)
+nn(urlLink-6, urlLink-5)
+dep(Keio-3, urlLink-6)
+

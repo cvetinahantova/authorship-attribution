@@ -1,0 +1,15 @@
+nsubj(unequivocally-7, Today-1)
+aux(unequivocally-7, has-2)
+cop(unequivocally-7, been-3)
+dep(unequivocally-7, officially-5)
+root(ROOT-0, unequivocally-7)
+advmod(shit-12, undeniably-9)
+advmod(shit-12, just-11)
+amod(unequivocally-7, shit-12)
+
+aux(have-3, Can-1)
+nsubj(have-3, we-2)
+root(ROOT-0, have-3)
+tmod(have-3, tomorrow-4)
+advmod(have-3, now-5)
+

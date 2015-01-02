@@ -1,0 +1,9 @@
+nsubj(aka-4, Me-1)
+cc(Me-1, and-2)
+conj(Me-1, Sunny-3)
+root(ROOT-0, aka-4)
+dobj(aka-4, Cloudy-5)
+
+nn(urlLink-2, urlLink-1)
+root(ROOT-0, urlLink-2)
+

@@ -1,0 +1,11 @@
+root(ROOT-0, If-1)
+dep(If-1, nothing-2)
+advmod(nothing-2, else-3)
+dep(If-1, BELIEVE-5)
+prep(BELIEVE-5, IN-6)
+nn(!!!-11, GOD-7)
+nn(!!!-11, TO-8)
+nn(!!!-11, BE-9)
+nn(!!!-11, HUGE-10)
+pobj(IN-6, !!!-11)
+

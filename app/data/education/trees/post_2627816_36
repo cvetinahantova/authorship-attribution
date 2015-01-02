@@ -1,0 +1,19 @@
+tmod(got-3, Gmail-1)
+nsubj(got-3, I-2)
+root(ROOT-0, got-3)
+det(account-6, a-4)
+nn(account-6, Gmail-5)
+dobj(got-3, account-6)
+
+root(ROOT-0, Yay-1)
+
+mark(want-3, If-1)
+nsubj(want-3, you-2)
+advcl(email-7, want-3)
+nsubj(email-7, you-5)
+aux(email-7, can-6)
+root(ROOT-0, email-7)
+dobj(email-7, me-8)
+prep(email-7, at-9)
+pobj(at-9, toxic03@gmail.com-10)
+

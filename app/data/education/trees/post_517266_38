@@ -1,0 +1,9 @@
+det(website-3, The-1)
+amod(website-3, new-2)
+nsubj(LIVE-5, website-3)
+cop(LIVE-5, is-4)
+root(ROOT-0, LIVE-5)
+
+nn(!!!-2, Yeah-1)
+root(ROOT-0, !!!-2)
+

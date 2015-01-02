@@ -1,0 +1,12 @@
+root(ROOT-0, urlLink-1)
+det(truckload-3, A-2)
+dobj(urlLink-1, truckload-3)
+prep(truckload-3, of-4)
+amod(infantry-6, Korean-5)
+pobj(of-4, infantry-6)
+vmod(infantry-6, holding-7)
+prt(holding-7, down-8)
+det(urlLink-12, the-9)
+nn(urlLink-12, fort-10)
+dobj(holding-7, urlLink-12)
+

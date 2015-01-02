@@ -1,0 +1,9 @@
+root(ROOT-0, urlLink-1)
+det(angel-3, The-2)
+dep(urlLink-1, angel-3)
+nsubj(fell-5, that-4)
+rcmod(angel-3, fell-5)
+prep(fell-5, on-6)
+poss(head-8, my-7)
+pobj(on-6, head-8)
+

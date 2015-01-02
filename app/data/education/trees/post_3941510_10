@@ -1,0 +1,16 @@
+root(ROOT-0, urlLink-1)
+num(stats-4, 8/9/04-2)
+nn(stats-4, Run-3)
+dobj(urlLink-1, stats-4)
+
+root(ROOT-0, Ran-1)
+prep(Ran-1, past-2)
+det(mark-6, the-3)
+num(mark-6, 4-4)
+nn(mark-6, mile-5)
+pobj(past-2, mark-6)
+prep(mark-6, for-7)
+det(time-10, the-8)
+amod(time-10, first-9)
+pobj(for-7, time-10)
+

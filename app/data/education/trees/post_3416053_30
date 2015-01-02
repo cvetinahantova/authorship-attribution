@@ -1,0 +1,18 @@
+nsubj(interesting-3, This-1)
+cop(interesting-3, is-2)
+root(ROOT-0, interesting-3)
+prep(interesting-3, in-4)
+det(sort-7, a-5)
+amod(sort-7, newsy-6)
+pobj(in-4, sort-7)
+prep(sort-7, of-8)
+pobj(of-8, way-9)
+
+neg(surprising-2, Not-1)
+amod(A-8, surprising-2)
+cc(surprising-2, but-4)
+conj(surprising-2, interesting-5)
+nn(A-8, urlLink-7)
+nsubj(link-9, A-8)
+root(ROOT-0, link-9)
+

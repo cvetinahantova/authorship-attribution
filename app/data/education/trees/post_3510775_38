@@ -1,0 +1,17 @@
+advmod(feel-4, Thanks-1)
+nsubj(feel-4, I-3)
+root(ROOT-0, feel-4)
+nsubj(stupid-7, god-5)
+advmod(stupid-7, damn-6)
+xcomp(feel-4, stupid-7)
+advmod(stupid-7, now-8)
+
+root(ROOT-0, Maybe-1)
+mark(do-5, if-2)
+nsubj(do-5, you-3)
+aux(do-5, could-4)
+dep(Maybe-1, do-5)
+det(bit-7, a-6)
+dep(more-8, bit-7)
+dobj(do-5, more-8)
+

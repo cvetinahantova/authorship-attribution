@@ -1,0 +1,8 @@
+root(ROOT-0, urlLink-1)
+amod(Documentary-7, Magnetic-2)
+nn(Documentary-7, North-3)
+nn(Documentary-7, urlLink-4)
+nn(Documentary-7, Cheap-5)
+nn(Documentary-7, Space-6)
+nsubj(urlLink-1, Documentary-7)
+

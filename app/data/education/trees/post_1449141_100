@@ -1,0 +1,13 @@
+nn(Newsday.com-2, urlLink-1)
+root(ROOT-0, Newsday.com-2)
+nn(Health-7, U.S.-4)
+nn(Health-7, Report-5)
+nn(Health-7, Downplayed-6)
+nsubj(Problems-8, Health-7)
+dep(Newsday.com-2, Problems-8)
+nn(Problems-15, U.S.-11)
+nn(Problems-15, Report-12)
+nn(Problems-15, Downplayed-13)
+nn(Problems-15, Health-14)
+dobj(Problems-8, Problems-15)
+

@@ -1,0 +1,11 @@
+root(ROOT-0, urlLink-1)
+nn(Appears-4, Gene-2)
+nn(Appears-4, Therapy-3)
+dobj(urlLink-1, Appears-4)
+prep(Appears-4, to-5)
+nn(Alzheimer-7, Slow-6)
+pobj(to-5, Alzheimer-7)
+possessive(Alzheimer-7, 's-8)
+nn(Finds-11, Research-10)
+appos(Alzheimer-7, Finds-11)
+

@@ -1,0 +1,8 @@
+nn(James-2, urlLink-1)
+nsubj(loves-3, James-2)
+root(ROOT-0, loves-3)
+poss(cookies-7, his-4)
+nn(cookies-7, peanut-5)
+nn(cookies-7, butter-6)
+dobj(loves-3, cookies-7)
+

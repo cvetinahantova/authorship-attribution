@@ -1,0 +1,28 @@
+csubj(huh-6, Blog-1)
+prep(Blog-1, like-2)
+advmod(popular-4, very-3)
+pobj(like-2, popular-4)
+advmod(huh-6, nowadays-5)
+root(ROOT-0, huh-6)
+
+root(ROOT-0, hehe-1)
+
+nsubj(cum-3, me-1)
+advmod(cum-3, also-2)
+root(ROOT-0, cum-3)
+cc(cum-3, and-4)
+conj(cum-3, get-5)
+det(leg-7, a-6)
+dobj(cum-3, leg-7)
+prep(cum-3, in-8)
+pobj(in-8, it-9)
+
+root(ROOT-0, haha-1)
+dep(haha-1, Let-3)
+nsubj(see-5, 's-4)
+ccomp(Let-3, see-5)
+advmod(i-7, how-6)
+ccomp(see-5, i-7)
+acomp(i-7, fair-8)
+advmod(see-5, p-10)
+

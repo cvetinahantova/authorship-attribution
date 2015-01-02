@@ -1,0 +1,16 @@
+dep(finished-3, so-1)
+nsubj(finished-3, i-2)
+root(ROOT-0, finished-3)
+xcomp(finished-3, posting-4)
+dobj(posting-4, pictures-5)
+cc(finished-3, and-6)
+conj(finished-3, landed-7)
+prep(landed-7, on-8)
+pobj(on-8, vh1-9)
+
+OpenJDK 64-Bit Server VM warning: INFO: os::commit_memory(0x000000078d92f000, 745099264, 0) failed; error='Cannot allocate memory' (errno=12)
+#
+# There is insufficient memory for the Java Runtime Environment to continue.
+# Native memory allocation (malloc) failed to allocate 745099264 bytes for committing reserved memory.
+# An error report file with more information is saved as:
+# /home/cvetina/stanford-parser-full-2014-08-27/scripts/education/hs_err_pid32551.log

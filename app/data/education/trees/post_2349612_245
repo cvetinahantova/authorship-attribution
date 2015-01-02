@@ -1,0 +1,18 @@
+advmod(finished-2, just-1)
+root(ROOT-0, finished-2)
+poss(groups-5, my-3)
+nn(groups-5, lie-4)
+dobj(finished-2, groups-5)
+nsubj(finished-2, final-6)
+nsubj('s-9, that-8)
+rcmod(final-6, 's-9)
+num(class-11, one-10)
+npadvmod(down-12, class-11)
+advmod('s-9, down-12)
+dobj('s-9, 3-14)
+aux(go-16, to-15)
+xcomp('s-9, go-16)
+
+nn(P-2, =-1)
+root(ROOT-0, P-2)
+

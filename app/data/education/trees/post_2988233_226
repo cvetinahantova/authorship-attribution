@@ -1,0 +1,8 @@
+poss(boy-3, My-1)
+nn(boy-3, baby-2)
+poss(birthday-6, boy-3)
+possessive(boy-3, 's-4)
+amod(birthday-6, 6th-5)
+nsubj(urlLink-7, birthday-6)
+root(ROOT-0, urlLink-7)
+

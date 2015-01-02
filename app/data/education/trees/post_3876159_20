@@ -1,0 +1,7 @@
+root(ROOT-0, urlLink-1)
+prep(urlLink-1, Inside-2)
+pobj(Inside-2, Colosseum-3)
+prep(Colosseum-3, in-4)
+nn(urlLink-6, Rome-5)
+pobj(in-4, urlLink-6)
+

@@ -1,0 +1,18 @@
+prep(olvidaremos-14, To-1)
+det(people-3, the-2)
+pobj(To-1, people-3)
+prep(people-3, of-4)
+pobj(of-4, Spain-5)
+num(afligimos-8, nos-7)
+npadvmod(con-9, afligimos-8)
+advmod(Spain-5, con-9)
+amod(y-11, usted-10)
+dep(Spain-5, y-11)
+neg(os-13, no-12)
+nsubj(olvidaremos-14, os-13)
+root(ROOT-0, olvidaremos-14)
+
+poss(postCount-7, urlLink-1)
+num(postCount-7, >-6)
+root(ROOT-0, postCount-7)
+

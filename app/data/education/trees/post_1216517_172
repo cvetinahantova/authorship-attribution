@@ -1,0 +1,24 @@
+nsubj(had-2, I-1)
+root(ROOT-0, had-2)
+poss(today-7, my-3)
+amod(today-7, first-4)
+nn(today-7, fire-5)
+nn(today-7, drill-6)
+tmod(had-2, today-7)
+
+nsubjpass(freaked-3, I-1)
+auxpass(freaked-3, was-2)
+root(ROOT-0, freaked-3)
+prt(freaked-3, out-4)
+
+det(kids-2, The-1)
+nsubj(fine-4, kids-2)
+cop(fine-4, were-3)
+root(ROOT-0, fine-4)
+dep(fine-4, calm-6)
+
+cc(freaked-4, But-1)
+nsubjpass(freaked-4, I-2)
+auxpass(freaked-4, was-3)
+root(ROOT-0, freaked-4)
+

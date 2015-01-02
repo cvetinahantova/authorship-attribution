@@ -1,0 +1,22 @@
+nsubj(girl-6, You-1)
+cop(girl-6, are-2)
+det(girl-6, a-3)
+amod(girl-6, true-4)
+nn(girl-6, nature-5)
+root(ROOT-0, girl-6)
+
+root(ROOT-0, urlLink-1)
+dobj(You-7, Which-2)
+nn(Woman-5, Ultimate-3)
+nn(Woman-5, Beautiful-4)
+nsubj(You-7, Woman-5)
+cop(You-7, are-6)
+ccomp(urlLink-1, You-7)
+
+root(ROOT-0, brought-1)
+prep(brought-1, to-2)
+pobj(to-2, you-3)
+prep(brought-1, by-4)
+pobj(by-4, urlLink-5)
+nsubj(brought-1, Quizilla-6)
+

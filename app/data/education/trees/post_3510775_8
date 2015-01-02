@@ -1,0 +1,8 @@
+root(ROOT-0, urlLink-1)
+dobj(urlLink-1, HEY-2)
+
+aux(question-3, Did-1)
+nsubj(question-3, they-2)
+root(ROOT-0, question-3)
+dobj(question-3, Picasso-4)
+

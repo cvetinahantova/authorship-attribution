@@ -1,0 +1,9 @@
+nn(Bob-2, urlLink-1)
+nsubj(cute-8, Bob-2)
+cc(Bob-2, and-3)
+conj(Bob-2, Robbie-4)
+cop(cute-8, are-5)
+neg(cute-8, n't-6)
+npadvmod(cute-8, they-7)
+root(ROOT-0, cute-8)
+

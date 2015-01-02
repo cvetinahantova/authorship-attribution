@@ -1,0 +1,17 @@
+nsubj(pigged-3, I-1)
+aux(pigged-3, 've-2)
+root(ROOT-0, pigged-3)
+prt(pigged-3, out-4)
+tmod(pigged-3, today-5)
+
+root(ROOT-0, sigh-1)
+
+nsubj(have-4, I-1)
+advmod(have-4, really-2)
+aux(have-4, must-3)
+root(ROOT-0, have-4)
+amod(control-6, more-5)
+dobj(have-4, control-6)
+
+root(ROOT-0, sigh-1)
+

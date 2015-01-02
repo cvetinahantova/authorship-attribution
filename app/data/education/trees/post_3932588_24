@@ -1,0 +1,11 @@
+nsubj(urlLink-2, urlLink-1)
+root(ROOT-0, urlLink-2)
+det(pack-5, The-3)
+amod(pack-5, front-4)
+dobj(urlLink-2, pack-5)
+advmod(uploaded-7, Originally-6)
+vmod(pack-5, uploaded-7)
+prep(uploaded-7, by-8)
+nn(StepupMaryKay-10, urlLink-9)
+pobj(by-8, StepupMaryKay-10)
+

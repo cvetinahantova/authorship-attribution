@@ -1,0 +1,13 @@
+amod(Kay-4, urlLink-1)
+nn(Kay-4, USATODAY.com-2)
+root(ROOT-0, Kay-4)
+nsubj(picked-9, Bush-6)
+aux(picked-9, may-7)
+aux(picked-9, have-8)
+dep(Kay-4, picked-9)
+dep(picked-9, chosen-11)
+dobj(picked-9, facts-12)
+prep(picked-9, in-13)
+pcomp(in-13, justifying-14)
+dobj(justifying-14, war-15)
+

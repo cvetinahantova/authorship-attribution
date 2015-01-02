@@ -1,0 +1,11 @@
+root(ROOT-0, urlLink-1)
+det(windmills-3, These-2)
+nsubj(loomed-5, windmills-3)
+advmod(loomed-5, suddenly-4)
+ccomp(urlLink-1, loomed-5)
+mark(drove-8, as-6)
+nsubj(drove-8, we-7)
+advcl(loomed-5, drove-8)
+prep(drove-8, through-9)
+pobj(through-9, Maryland-10)
+

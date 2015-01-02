@@ -1,0 +1,9 @@
+dep(tool-5, Meet-1)
+amod(tool-5, stalkers-2)
+amod(tool-5, new-3)
+amod(tool-5, favorite-4)
+ccomp(IM-8, tool-5)
+nsubj(IM-8, urlLink-7)
+root(ROOT-0, IM-8)
+xcomp(IM-8, Watching-9)
+

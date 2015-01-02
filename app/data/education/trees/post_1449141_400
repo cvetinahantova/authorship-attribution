@@ -1,0 +1,9 @@
+root(ROOT-0, urlLink-1)
+prep(urlLink-1, Over-2)
+pobj(Over-2, 100,000-3)
+tmod(100,000-3, March-4)
+prep(urlLink-1, Against-5)
+pobj(Against-5, Bush-6)
+prep(Bush-6, in-7)
+pobj(in-7, London-8)
+

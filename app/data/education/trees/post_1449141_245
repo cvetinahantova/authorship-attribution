@@ -1,0 +1,10 @@
+root(ROOT-0, urlLink-1)
+nn(Billboards-6, Los-2)
+nn(Billboards-6, Alamos-3)
+nn(Billboards-6, Study-4)
+nn(Billboards-6, Group-5)
+dep(urlLink-1, Billboards-6)
+amod(billboards-9, More-7)
+nn(billboards-9, protest-8)
+dep(urlLink-1, billboards-9)
+

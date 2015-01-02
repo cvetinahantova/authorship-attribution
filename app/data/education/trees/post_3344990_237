@@ -1,0 +1,18 @@
+root(ROOT-0, urlLink-1)
+amod(picture-3, Awesome-2)
+dobj(urlLink-1, picture-3)
+prep(picture-3, of-4)
+pobj(of-4, Jeremy-5)
+prep(urlLink-1, at-6)
+num(Prom-8, 2004-7)
+pobj(at-6, Prom-8)
+
+root(ROOT-0, Gosh-1)
+nsubj(good-5, he-3)
+cop(good-5, IS-4)
+ccomp(Gosh-1, good-5)
+xcomp(good-5, looking-6)
+amod(urlLink-9, aye-7)
+amod(urlLink-9, ??-8)
+dobj(looking-6, urlLink-9)
+

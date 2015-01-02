@@ -1,0 +1,6 @@
+root(ROOT-0, urlLink-1)
+xcomp(urlLink-1, Click-2)
+advmod(Click-2, here-3)
+prep(Click-2, for-4)
+pobj(for-4, direction-5)
+

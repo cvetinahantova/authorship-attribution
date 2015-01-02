@@ -1,0 +1,8 @@
+root(ROOT-0, urlLink-1)
+nn(Hiroshima-3, Leaving-2)
+dobj(urlLink-1, Hiroshima-3)
+prep(Hiroshima-3, on-4)
+det(urlLink-7, the-5)
+nn(urlLink-7, Shinkansen-6)
+pobj(on-4, urlLink-7)
+

@@ -1,0 +1,6 @@
+root(ROOT-0, urlLink-1)
+dobj(urlLink-1, Yahoo-2)
+
+root(ROOT-0, Mail-1)
+dep(Mail-1, artslawyers@yahoo.com-3)
+

@@ -1,0 +1,7 @@
+root(ROOT-0, urlLink-1)
+xcomp(urlLink-1, Going-2)
+prt(Going-2, away-3)
+dobj(Going-2, party-4)
+prep(Going-2, at-5)
+pobj(at-5, Dragonfly-6)
+

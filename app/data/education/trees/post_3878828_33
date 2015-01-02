@@ -1,0 +1,5 @@
+amod(color-2, more-1)
+nsubj(urlLink-3, color-2)
+root(ROOT-0, urlLink-3)
+dobj(urlLink-3, urlLink-4)
+

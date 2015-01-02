@@ -1,0 +1,6 @@
+root(ROOT-0, urlLink-1)
+det(urlLink-5, a-2)
+nn(urlLink-5, garden-3)
+nn(urlLink-5, shower-4)
+dobj(urlLink-1, urlLink-5)
+

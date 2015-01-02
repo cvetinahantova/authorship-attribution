@@ -1,0 +1,9 @@
+det(Tokyo-4, A-1)
+amod(Tokyo-4, big-2)
+nn(Tokyo-4, ALT-3)
+root(ROOT-0, Tokyo-4)
+nn(urlLink-8, street-5)
+nn(urlLink-8, party-6)
+nn(urlLink-8, urlLink-7)
+dep(Tokyo-4, urlLink-8)
+

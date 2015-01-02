@@ -1,0 +1,9 @@
+root(ROOT-0, urlLink-1)
+nsubj(helping-3, Will-2)
+dep(urlLink-1, helping-3)
+prt(helping-3, out-4)
+prep(helping-3, at-5)
+nn(urlLink-8, reality-6)
+nn(urlLink-8, Check-7)
+pobj(at-5, urlLink-8)
+

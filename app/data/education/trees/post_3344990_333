@@ -1,0 +1,11 @@
+root(ROOT-0, urlLink-1)
+nsubj(urlLink-1, James-2)
+cc(James-2, &-3)
+conj(James-2, Katy-4)
+appos(James-2, picture-6)
+vmod(picture-6, taken-7)
+prep(taken-7, in-8)
+nn(urlLink-11, Bluffton-9)
+nn(urlLink-11, SC-10)
+pobj(in-8, urlLink-11)
+

@@ -1,0 +1,6 @@
+amod(hell-2, Complete-1)
+nsubj(becomes-3, hell-2)
+root(ROOT-0, becomes-3)
+advmod(tolerable-5, almost-4)
+acomp(becomes-3, tolerable-5)
+

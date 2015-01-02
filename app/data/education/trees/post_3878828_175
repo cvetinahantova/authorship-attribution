@@ -1,0 +1,8 @@
+nn(cups-2, Tea-1)
+nsubj(upstairs-3, cups-2)
+root(ROOT-0, upstairs-3)
+dobj(upstairs-3, kitchen-4)
+
+nn(urlLink-2, urlLink-1)
+root(ROOT-0, urlLink-2)
+

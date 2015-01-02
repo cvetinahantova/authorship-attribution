@@ -1,0 +1,17 @@
+root(ROOT-0, Tastes-1)
+num(Tastes-1, Ok-2)
+
+root(ROOT-0, Kind-1)
+prep(Kind-1, of-2)
+pobj(of-2, Filling-3)
+
+advmod(like-4, So-1)
+advmod(like-4, that-2)
+cop(like-4, 's-3)
+root(ROOT-0, like-4)
+nsubj(urlLink-8, what-6)
+ccomp(like-4, urlLink-8)
+num(dollars-10, twenty-9)
+npadvmod(worth-11, dollars-10)
+acomp(urlLink-8, worth-11)
+

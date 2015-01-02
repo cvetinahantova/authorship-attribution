@@ -1,0 +1,10 @@
+nsubj(Beware-2, urlLink-1)
+advcl(speak-8, Beware-2)
+det(Bushwomen-4, the-3)
+dobj(Beware-2, Bushwomen-4)
+det(feminist-7, the-5)
+nn(feminist-7, anti-6)
+nsubj(speak-8, feminist-7)
+root(ROOT-0, speak-8)
+prt(speak-8, out-9)
+

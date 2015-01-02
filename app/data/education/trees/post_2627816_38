@@ -1,0 +1,22 @@
+advmod(made-3, GameFAQs-1)
+nsubj(made-3, I-2)
+root(ROOT-0, made-3)
+poss(contribution-6, my-4)
+amod(contribution-6, first-5)
+dobj(made-3, contribution-6)
+prep(made-3, to-7)
+pobj(to-7, GameFAQs-8)
+det(review-11, a-10)
+appos(GameFAQs-8, review-11)
+prep(made-3, for-12)
+pobj(for-12, TimeSplitters-13)
+num(TimeSplitters-13, 2-14)
+
+discourse(check-2, Please-1)
+root(ROOT-0, check-2)
+dobj(check-2, it-3)
+prt(check-2, out-4)
+
+nn(http://www.gamefaqs.com/console/ps2/review/R74082.html-2, :-RRB--1)
+root(ROOT-0, http://www.gamefaqs.com/console/ps2/review/R74082.html-2)
+

@@ -1,0 +1,9 @@
+nsubj(guess-3, whitehousewest.com-1)
+advmod(whitehousewest.com-1, no-2)
+root(ROOT-0, guess-3)
+dep(way-5, which-4)
+advmod(voting-8, way-5)
+nsubj(voting-8, I-6)
+aux(voting-8, am-7)
+dep(guess-3, voting-8)
+

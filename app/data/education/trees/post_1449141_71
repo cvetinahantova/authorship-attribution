@@ -1,0 +1,10 @@
+root(ROOT-0, urlLink-1)
+det(Scapegoat-6, The-2)
+nn(Scapegoat-6, Onion-3)
+nn(Scapegoat-6, |-4)
+nn(Scapegoat-6, CIA-Leak-5)
+dep(urlLink-1, Scapegoat-6)
+advmod(Scapegoat-6, Still-7)
+dep(Scapegoat-6, At-8)
+pobj(At-8, Large-9)
+

@@ -1,0 +1,10 @@
+root(ROOT-0, Humm-1)
+advmod(what-4, just-3)
+nsubj(Andrea-6, what-4)
+cop(Andrea-6, is-5)
+dep(Humm-1, Andrea-6)
+vmod(Andrea-6, thinking-7)
+
+nn(urlLink-2, urlLink-1)
+root(ROOT-0, urlLink-2)
+

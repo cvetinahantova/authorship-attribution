@@ -1,0 +1,18 @@
+nsubj(day-5, Today-1)
+cop(day-5, is-2)
+det(day-5, a-3)
+amod(day-5, rainy-4)
+root(ROOT-0, day-5)
+
+det(flower-2, A-1)
+root(ROOT-0, flower-2)
+prep(flower-2, on-3)
+det(way-5, the-4)
+pobj(on-3, way-5)
+prep(flower-2, to-6)
+det(office-8, the-7)
+pobj(to-6, office-8)
+
+nn(urlLink-2, urlLink-1)
+root(ROOT-0, urlLink-2)
+

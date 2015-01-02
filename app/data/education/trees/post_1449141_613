@@ -1,0 +1,11 @@
+root(ROOT-0, urlLink-1)
+det(Backfires-4, The-2)
+nn(Backfires-4, Empire-3)
+nsubj(Getting-5, Backfires-4)
+dep(urlLink-1, Getting-5)
+nsubj(ready-7, us-6)
+xcomp(Getting-5, ready-7)
+prep(ready-7, for-8)
+nn(20th-10, Saturday-9)
+pobj(for-8, 20th-10)
+

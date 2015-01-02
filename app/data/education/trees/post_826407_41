@@ -1,0 +1,16 @@
+advmod(gone-5, Why-1)
+aux(gone-5, has-2)
+poss(writing-4, my-3)
+nsubj(gone-5, writing-4)
+root(ROOT-0, gone-5)
+det(big-7, all-6)
+dobj(gone-5, big-7)
+
+nsubj(sure-4, I-1)
+cop(sure-4, 'm-2)
+neg(sure-4, not-3)
+root(ROOT-0, sure-4)
+nsubj(like-6, I-5)
+ccomp(sure-4, like-6)
+dobj(like-6, this-7)
+

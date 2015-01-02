@@ -1,0 +1,8 @@
+det(grave-4, A-1)
+advmod(humble-3, very-2)
+amod(grave-4, humble-3)
+root(ROOT-0, grave-4)
+
+nn(urlLink-2, urlLink-1)
+root(ROOT-0, urlLink-2)
+

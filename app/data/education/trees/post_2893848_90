@@ -1,0 +1,13 @@
+det(Installment-2, Another-1)
+root(ROOT-0, Installment-2)
+prep(Installment-2, of-3)
+nn(Shit-7, urlLink-4)
+nn(Shit-7, Inexplicable-5)
+nn(Shit-7, Crazy-6)
+pobj(of-3, Shit-7)
+
+nsubj(urlLink-3, Via-2)
+root(ROOT-0, urlLink-3)
+det(Presurfer-5, The-4)
+dobj(urlLink-3, Presurfer-5)
+

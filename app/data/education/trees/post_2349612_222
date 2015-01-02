@@ -1,0 +1,13 @@
+nsubj(care-4, i-1)
+aux(care-4, do-2)
+neg(care-4, n't-3)
+root(ROOT-0, care-4)
+advmod(care-4, anymore-5)
+
+nsubj(want-3, i-1)
+advmod(want-3, just-2)
+root(ROOT-0, want-3)
+aux(done-6, to-4)
+auxpass(done-6, be-5)
+xcomp(want-3, done-6)
+

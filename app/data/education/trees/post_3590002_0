@@ -1,0 +1,6 @@
+root(ROOT-0, urlLink-1)
+nsubj(urlLink-5, James-2)
+cc(James-2, and-3)
+conj(James-2, I-4)
+ccomp(urlLink-1, urlLink-5)
+

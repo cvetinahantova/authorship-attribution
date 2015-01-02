@@ -1,0 +1,12 @@
+root(ROOT-0, urlLink-1)
+nn(Lynn-3, Kristina-2)
+dobj(urlLink-1, Lynn-3)
+prep(Lynn-3, with-4)
+pobj(with-4, one-5)
+prep(Lynn-3, of-6)
+poss(awards-9, her-7)
+nn(awards-9, Awanna-8)
+pobj(of-6, awards-9)
+num(urlLink-11, 2004-10)
+nsubj(urlLink-1, urlLink-11)
+

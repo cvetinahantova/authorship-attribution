@@ -1,0 +1,10 @@
+root(ROOT-0, pencil-1)
+cc(pencil-1, and-2)
+conj(pencil-1, paper-3)
+dep(pencil-1, mirror-5)
+appos(mirror-5, brush-7)
+num(block-12, one-9)
+nn(block-12, ton-10)
+nn(block-12, ice-11)
+appos(mirror-5, block-12)
+

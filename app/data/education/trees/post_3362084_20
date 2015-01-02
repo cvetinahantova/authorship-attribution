@@ -1,0 +1,8 @@
+nn(Marisa-4, urlLink-1)
+nn(Marisa-4, Pizza-2)
+nn(Marisa-4, @-3)
+root(ROOT-0, Marisa-4)
+num(urlLink-8, 1600-6)
+nn(urlLink-8, Yen-7)
+dep(Marisa-4, urlLink-8)
+

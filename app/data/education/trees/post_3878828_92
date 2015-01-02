@@ -1,0 +1,23 @@
+nn(Bubble-2, Mr.-1)
+root(ROOT-0, Bubble-2)
+det(addition-6, the-4)
+amod(addition-6, newest-5)
+appos(Bubble-2, addition-6)
+prep(addition-6, to-7)
+poss(home-10, my-8)
+amod(home-10, happy-9)
+pobj(to-7, home-10)
+
+nsubj(turn-5, I-1)
+advmod(turn-5, just-2)
+aux(turn-5, ca-3)
+advmod(turn-5, n`t-4)
+root(ROOT-0, turn-5)
+prt(turn-5, down-6)
+det(elephant-9, a-7)
+amod(elephant-9, cute-8)
+dobj(turn-5, elephant-9)
+
+nn(urlLink-2, urlLink-1)
+root(ROOT-0, urlLink-2)
+

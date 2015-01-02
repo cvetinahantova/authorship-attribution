@@ -1,0 +1,12 @@
+root(ROOT-0, urlLink-1)
+dobj(urlLink-1, Montana-2)
+cc(Montana-2, and-3)
+conj(Montana-2, McGonagall-4)
+xcomp(urlLink-1, hanging-5)
+prt(hanging-5, out-6)
+dobj(hanging-5, in/on-7)
+poss(urlLink-11, their-8)
+amod(urlLink-11, kitty-9)
+nn(urlLink-11, box-10)
+nsubj(urlLink-1, urlLink-11)
+

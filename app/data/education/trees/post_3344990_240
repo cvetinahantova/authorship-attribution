@@ -1,0 +1,11 @@
+root(ROOT-0, urlLink-1)
+nn(urlLink-10, Jeremy-2)
+nn(urlLink-10, Graduation-3)
+nn(urlLink-10, picture-4)
+nn(urlLink-10, Terry-5)
+nn(urlLink-10, High-6)
+nn(urlLink-10, School-7)
+nn(urlLink-10, Richmond-8)
+nn(urlLink-10, Texas-9)
+nsubj(urlLink-1, urlLink-10)
+

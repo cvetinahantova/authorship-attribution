@@ -1,0 +1,10 @@
+det(Building-4, The-1)
+nn(Building-4, US-2)
+nn(Building-4, Capital-3)
+root(ROOT-0, Building-4)
+prep(Building-4, on-5)
+pobj(on-5, 7/17/2004-6)
+
+nn(urlLink-2, urlLink-1)
+root(ROOT-0, urlLink-2)
+

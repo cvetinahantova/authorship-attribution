@@ -1,0 +1,15 @@
+det(view-2, A-1)
+npadvmod(down-3, view-2)
+advmod(walked-7, down-3)
+det(street-5, a-4)
+pobj(down-3, street-5)
+nsubj(walked-7, I-6)
+root(ROOT-0, walked-7)
+prep(walked-7, by-8)
+pcomp(by-8, in-9)
+nn(city-11, Niigata-10)
+pobj(in-9, city-11)
+
+nn(urlLink-2, urlLink-1)
+root(ROOT-0, urlLink-2)
+

@@ -1,0 +1,16 @@
+root(ROOT-0, urlLink-1)
+dobj(urlLink-1, Want-2)
+aux(read-4, to-3)
+xcomp(urlLink-1, read-4)
+poss(memo-9, Bush-5)
+possessive(Bush-5, 's-6)
+amod(memo-9, impeachable-7)
+nn(memo-9, torture-8)
+dobj(read-4, memo-9)
+
+root(ROOT-0, Link-1)
+aux(torture-3, to-2)
+xcomp(Link-1, torture-3)
+dobj(torture-3, memo-4)
+dep(Link-1, http://www.washingtonpost.com/wp-dyn/articles/A38894-2004Jun13.html-6)
+

@@ -1,0 +1,8 @@
+dep(urlLink-4, For-1)
+advmod(urlLink-4, all-2)
+nsubj(urlLink-4, you-3)
+root(ROOT-0, urlLink-4)
+nn(Fans-7, Johnny-5)
+nn(Fans-7, Christ-6)
+dobj(urlLink-4, Fans-7)
+

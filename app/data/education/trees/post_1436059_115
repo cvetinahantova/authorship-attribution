@@ -1,0 +1,59 @@
+root(ROOT-0, Eeeeeee-1)
+
+nsubj(got-3, I-1)
+advmod(got-3, actually-2)
+root(ROOT-0, got-3)
+det(stuff-5, some-4)
+dobj(got-3, stuff-5)
+vmod(stuff-5, done-6)
+tmod(done-6, today-7)
+
+cc(talked-3, But-1)
+nsubj(talked-3, I-2)
+root(ROOT-0, talked-3)
+prep(talked-3, to-4)
+pobj(to-4, Johnen-5)
+
+root(ROOT-0, Yay-1)
+
+root(ROOT-0, Yay-1)
+
+nsubj(happy-4, I-1)
+cop(happy-4, 'm-2)
+advmod(happy-4, so-3)
+root(ROOT-0, happy-4)
+cc(happy-4, and-5)
+conj(happy-4, cheerful-6)
+
+root(ROOT-0, Teeheeeeee-1)
+
+nsubj(weird-4, It-1)
+cop(weird-4, 's-2)
+advmod(weird-4, so-3)
+root(ROOT-0, weird-4)
+
+root(ROOT-0, Happyhappyhappyhappyhappyhappyhappy-1)
+
+advmod(wan-3, Makes-1)
+nsubj(wan-3, me-2)
+root(ROOT-0, wan-3)
+aux(jump-5, na-4)
+xcomp(wan-3, jump-5)
+prt(jump-5, up-6)
+cc(jump-5, and-7)
+conj(jump-5, say-8)
+discourse(say-8, hi-9)
+prep(say-8, for-10)
+neg(reason-12, no-11)
+pobj(for-10, reason-12)
+advmod(reason-12, whatsoever-13)
+cc(for-10, and-14)
+conj(for-10, to-15)
+neg(one-17, no-16)
+pobj(to-15, one-17)
+prep(one-17, in-18)
+pobj(in-18, particular-19)
+
+nn(!!!!!!!!!-2, Happyhappy-1)
+root(ROOT-0, !!!!!!!!!-2)
+

@@ -1,0 +1,7 @@
+nsubj(Rice-4, It-1)
+cop(Rice-4, s-3)
+root(ROOT-0, Rice-4)
+
+nn(urlLink-2, urlLink-1)
+root(ROOT-0, urlLink-2)
+

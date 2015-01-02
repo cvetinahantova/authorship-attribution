@@ -1,0 +1,12 @@
+root(ROOT-0, Harlock-1)
+
+root(ROOT-0, Harlock-1)
+
+discourse(got-4, Yeah-1)
+nsubj(got-4, I-3)
+root(ROOT-0, got-4)
+det(dvd-6, the-5)
+dobj(got-4, dvd-6)
+
+root(ROOT-0, Yay-1)
+

@@ -1,0 +1,16 @@
+nsubj(going-3, I-1)
+aux(going-3, 'm-2)
+root(ROOT-0, going-3)
+prep(going-3, on-4)
+det(trip-8, a-5)
+nn(trip-8, urlLink-6)
+nn(trip-8, bus-7)
+pobj(on-4, trip-8)
+
+nsubj(cheap-5, It-1)
+cop(cheap-5, 's-2)
+advmod(cheap-5, pretty-3)
+advmod(cheap-5, urlLink-4)
+root(ROOT-0, cheap-5)
+advmod(cheap-5, too-6)
+

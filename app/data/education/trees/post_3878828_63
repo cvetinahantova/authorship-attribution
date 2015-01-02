@@ -1,0 +1,9 @@
+nn(Tokyo-5, Mary-1)
+cc(Mary-1, and-2)
+conj(Mary-1, Me-3)
+root(ROOT-0, Tokyo-5)
+nn(bathroom-7, restaurant-6)
+dep(Tokyo-5, bathroom-7)
+nn(urlLink-9, urlLink-8)
+dep(Tokyo-5, urlLink-9)
+

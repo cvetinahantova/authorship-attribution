@@ -1,0 +1,9 @@
+root(ROOT-0, urlLink-1)
+det(church-4, The-2)
+amod(church-4, smallest-3)
+dobj(urlLink-1, church-4)
+prep(church-4, in-5)
+det(urlLink-8, the-6)
+nn(urlLink-8, U.S.-7)
+pobj(in-5, urlLink-8)
+

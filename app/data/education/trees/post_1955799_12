@@ -1,0 +1,16 @@
+advmod(witht-6, So-1)
+advmod(So-1, far-2)
+advmod(good-5, so-4)
+nsubj(witht-6, good-5)
+root(ROOT-0, witht-6)
+det(ideas-8, the-7)
+dobj(witht-6, ideas-8)
+prep(ideas-8, for-9)
+poss(novel-11, my-10)
+pobj(for-9, novel-11)
+
+advmod(working-2, Still-1)
+root(ROOT-0, working-2)
+prt(working-2, on-3)
+dobj(working-2, it-4)
+

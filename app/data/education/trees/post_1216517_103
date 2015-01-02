@@ -1,0 +1,9 @@
+nsubj(picture-4, here-1)
+cop(picture-4, 's-2)
+det(picture-4, a-3)
+root(ROOT-0, picture-4)
+prep(picture-4, of-5)
+pobj(of-5, me-6)
+prep(picture-4, at-7)
+pobj(at-7, work-8)
+

@@ -1,0 +1,12 @@
+nsubj(like-2, I-1)
+root(ROOT-0, like-2)
+nn(Simpson-4, Ashlee-3)
+dobj(like-2, Simpson-4)
+advmod(well-6, as-5)
+cc(Simpson-4, well-6)
+mwe(well-6, as-7)
+poss(Jessica-11, her-8)
+amod(Jessica-11, older-9)
+nn(Jessica-11, sis-10)
+conj(Simpson-4, Jessica-11)
+

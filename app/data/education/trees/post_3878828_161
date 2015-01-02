@@ -1,0 +1,10 @@
+amod(grass-2, Tall-1)
+root(ROOT-0, grass-2)
+prep(grass-2, on-3)
+poss(pilgrimage-6, my-4)
+nn(pilgrimage-6, photo-5)
+pobj(on-3, pilgrimage-6)
+
+nn(urlLink-2, urlLink-1)
+root(ROOT-0, urlLink-2)
+

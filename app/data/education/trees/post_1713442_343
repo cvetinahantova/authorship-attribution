@@ -1,0 +1,21 @@
+nsubj(am-2, I-1)
+root(ROOT-0, am-2)
+prep(am-2, on-3)
+pobj(on-3, vacation-4)
+det(week-6, this-5)
+dep(vacation-4, week-6)
+
+nsubj(be-3, I-1)
+aux(be-3, should-2)
+root(ROOT-0, be-3)
+advmod(be-3, back-4)
+prep(back-4, to-5)
+pcomp(to-5, posting-6)
+amod(Monday-8, next-7)
+tmod(posting-6, Monday-8)
+
+amod(wishes-2, Best-1)
+root(ROOT-0, wishes-2)
+nn(Lorenzen-5, Michael-4)
+appos(wishes-2, Lorenzen-5)
+

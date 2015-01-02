@@ -1,0 +1,12 @@
+root(ROOT-0, urlLink-1)
+dobj(urlLink-1, Me-2)
+prep(urlLink-1, in-3)
+det(jersey-6, the-4)
+nn(jersey-6, Flames-5)
+nsubj(adjusting-7, jersey-6)
+pcomp(in-3, adjusting-7)
+poss(cup-9, my-8)
+dobj(adjusting-7, cup-9)
+nn(^-11, ^-10)
+nsubj(urlLink-1, ^-11)
+

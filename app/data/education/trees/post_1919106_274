@@ -1,0 +1,19 @@
+root(ROOT-0, Martial-2)
+dobj(Martial-2, arts-3)
+cc(arts-3, and-4)
+conj(arts-3, robots-5)
+
+root(ROOT-0, urlLink-1)
+dobj(urlLink-1, Samurai-2)
+num(Samurai-2, 7-3)
+
+root(ROOT-0, Now-1)
+mark(were-5, if-2)
+expl(were-5, there-3)
+advmod(were-5, only-4)
+dep(Now-1, were-5)
+nsubj(were-5, boobies-6)
+prep(boobies-6, in-7)
+pobj(in-7, it-8)
+advmod(were-5, too-9)
+

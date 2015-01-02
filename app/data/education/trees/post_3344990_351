@@ -1,0 +1,12 @@
+root(ROOT-0, urlLink-1)
+nn(Moffitt-3, Katy-2)
+dobj(urlLink-1, Moffitt-3)
+prep(Moffitt-3, at-4)
+nn(School-7, Sangaree-5)
+nn(School-7, Middle-6)
+pobj(at-4, School-7)
+prep(School-7, in-8)
+poss(classroom-11, her-9)
+amod(classroom-11, new-10)
+pobj(in-8, classroom-11)
+

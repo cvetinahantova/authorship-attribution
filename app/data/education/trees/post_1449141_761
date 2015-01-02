@@ -1,0 +1,12 @@
+nn(commercialappeal.com-2, urlLink-1)
+root(ROOT-0, commercialappeal.com-2)
+nn(TN-6, Memphis-4)
+nsubj(seeks-10, TN-6)
+nn(Wharton-9, Local-8)
+dep(TN-6, Wharton-9)
+dep(commercialappeal.com-2, seeks-10)
+amod(sources-12, alternative-11)
+dobj(seeks-10, sources-12)
+prep(sources-12, of-13)
+pobj(of-13, revenue-14)
+

@@ -1,0 +1,10 @@
+root(ROOT-0, urlLink-1)
+nn(May-4, Super-2)
+nn(May-4, Stars-3)
+tmod(urlLink-1, May-4)
+num(urlLink-9, 2004-5)
+amod(urlLink-9, Sedgefield-6)
+nn(urlLink-9, Intermediate-7)
+nn(urlLink-9, School-8)
+nsubj(urlLink-1, urlLink-9)
+

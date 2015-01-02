@@ -1,0 +1,16 @@
+root(ROOT-0, urlLink-1)
+dobj(urlLink-1, Tammykins-2)
+conj(Tammykins-2, Steph-4)
+cc(Tammykins-2, and-5)
+conj(Tammykins-2, Katie-6)
+prep(urlLink-1, in-7)
+pobj(in-7, front-8)
+prep(front-8, of-9)
+nn(bay-11, Bellingham-10)
+pobj(of-9, bay-11)
+
+root(ROOT-0, Talk-1)
+prep(Talk-1, about-2)
+amod(friends-4, great-3)
+pobj(about-2, friends-4)
+

@@ -1,0 +1,18 @@
+nn(heres-2, urlLink-1)
+root(ROOT-0, heres-2)
+det(kinda-4, a-3)
+dep(heres-2, kinda-4)
+advmod(recent-7, somewhat-6)
+amod(picture-8, recent-7)
+dep(heres-2, picture-8)
+prep(picture-8, of-9)
+pobj(of-9, me-10)
+
+nsubj(is-2, it-1)
+root(ROOT-0, is-2)
+mark(died-5, before-3)
+nsubj(died-5, I-4)
+advcl(is-2, died-5)
+poss(hair-7, my-6)
+dobj(died-5, hair-7)
+

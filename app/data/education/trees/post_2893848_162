@@ -1,0 +1,13 @@
+root(ROOT-0, Indiana-1)
+
+advmod('s-3, Now-1)
+expl('s-3, there-2)
+root(ROOT-0, 's-3)
+det(robocop-6, a-4)
+nn(robocop-6, urlLink-5)
+nsubj('s-3, robocop-6)
+nsubj(get-9, I-7)
+aux(get-9, can-8)
+rcmod(robocop-6, get-9)
+prt(get-9, behind-10)
+

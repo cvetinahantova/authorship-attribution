@@ -1,0 +1,18 @@
+nsubj(preordered-2, I-1)
+root(ROOT-0, preordered-2)
+det(Sims-4, The-3)
+dobj(preordered-2, Sims-4)
+num(Sims-4, 2-5)
+
+nn(Yay-2, :-RRB--1)
+nsubj(!!!-3, Yay-2)
+root(ROOT-0, !!!-3)
+nsubj(wait-7, I-4)
+aux(wait-7, ca-5)
+neg(wait-7, n't-6)
+ccomp(!!!-3, wait-7)
+mark(comes-10, till-8)
+nsubj(comes-10, it-9)
+advcl(wait-7, comes-10)
+prt(comes-10, out-11)
+

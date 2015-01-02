@@ -1,0 +1,19 @@
+nsubj(hot-3, i-1)
+cop(hot-3, was-2)
+root(ROOT-0, hot-3)
+
+nsubj(took-2, i-1)
+root(ROOT-0, took-2)
+det(shower-4, a-3)
+dobj(took-2, shower-4)
+
+nsubj(bought-2, i-1)
+root(ROOT-0, bought-2)
+nsubj('s-4, cd-3)
+ccomp(bought-2, 's-4)
+
+nsubj('s-2, that-1)
+root(ROOT-0, 's-2)
+prep('s-2, about-3)
+pobj(about-3, it-4)
+

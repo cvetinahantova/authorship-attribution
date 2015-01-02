@@ -1,0 +1,11 @@
+nsubj(coming-10, more-3)
+cc(more-3, and-4)
+conj(more-3, more-5)
+prep(more-3, of-6)
+poss(imports-8, our-7)
+pobj(of-6, imports-8)
+aux(coming-10, are-9)
+root(ROOT-0, coming-10)
+prep(coming-10, from-11)
+pobj(from-11, overseas-12)
+

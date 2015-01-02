@@ -1,0 +1,7 @@
+det(urlLink-5, A-1)
+advmod(zen-3, very-2)
+amod(urlLink-5, zen-3)
+nn(urlLink-5, room-4)
+nsubj(urlLink-6, urlLink-5)
+root(ROOT-0, urlLink-6)
+

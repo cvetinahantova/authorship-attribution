@@ -1,0 +1,9 @@
+nn(thug-3, urlLink-1)
+nn(thug-3, World-2)
+root(ROOT-0, thug-3)
+det(A-Z-6, an-5)
+dep(thug-3, A-Z-6)
+prep(A-Z-6, of-7)
+nn(aggression-9, US-8)
+pobj(of-7, aggression-9)
+

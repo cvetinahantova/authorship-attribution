@@ -1,0 +1,4 @@
+root(ROOT-0, urlLink-1)
+nn(Threatened-3, Environment-2)
+nsubj(urlLink-1, Threatened-3)
+

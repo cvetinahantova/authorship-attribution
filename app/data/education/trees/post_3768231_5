@@ -1,0 +1,10 @@
+nn(Crooke-2, Ray-1)
+poss(portrait-4, Crooke-2)
+possessive(Crooke-2, 's-3)
+nsubj(c.-9, portrait-4)
+prep(portrait-4, of-5)
+nn(Johnston-7, George-6)
+pobj(of-5, Johnston-7)
+root(ROOT-0, c.-9)
+dobj(c.-9, 1969-10)
+

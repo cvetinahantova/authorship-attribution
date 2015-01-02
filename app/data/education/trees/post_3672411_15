@@ -1,0 +1,7 @@
+advmod(waiting-2, Still-1)
+root(ROOT-0, waiting-2)
+prep(waiting-2, for-3)
+poss(visa-6, my-4)
+nn(visa-6, work-5)
+pobj(for-3, visa-6)
+

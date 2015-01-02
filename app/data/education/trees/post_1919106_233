@@ -1,0 +1,23 @@
+root(ROOT-0, Mwe-1)
+dep(Mwe-1, hehehehe-3)
+nn(heee-6, urlLink-5)
+dep(hehehehe-3, heee-6)
+
+csubj(paid-7, Having-1)
+aux(suffer-3, to-2)
+xcomp(Having-1, suffer-3)
+prep(suffer-3, through-4)
+pobj(through-4, Algorithms-5)
+advmod(paid-7, finally-6)
+root(ROOT-0, paid-7)
+prt(paid-7, off-8)
+
+nsubj(NP-3, P-1)
+dep(NP-3, =-2)
+root(ROOT-0, NP-3)
+
+root(ROOT-0, Man-1)
+appos(Man-1, what-3)
+det(crack-5, a-4)
+dep(what-3, crack-5)
+

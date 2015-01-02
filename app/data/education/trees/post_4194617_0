@@ -1,0 +1,8 @@
+nn(Oregon-2, urlLink-1)
+nsubj(gets-3, Oregon-2)
+root(ROOT-0, gets-3)
+det(swashbuckler-7, a-4)
+amod(swashbuckler-7, golden-5)
+nn(swashbuckler-7, girl-6)
+dobj(gets-3, swashbuckler-7)
+

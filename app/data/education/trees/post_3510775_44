@@ -1,0 +1,13 @@
+poss(path-2, your-1)
+root(ROOT-0, path-2)
+cc(path-2, and-3)
+poss(path-5, my-4)
+conj(path-2, path-5)
+det(crossroads-9, the-6)
+amod(crossroads-9, bright-7)
+amod(crossroads-9, bodily-8)
+dep(path-2, crossroads-9)
+dep(crossroads-9, tables-10)
+advmod(crossroads-9, counter-12)
+pobj(counter-12, tops-13)
+

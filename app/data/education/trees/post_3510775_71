@@ -1,0 +1,11 @@
+root(ROOT-0, Tumultuous-1)
+nsubj(Tumultuous-1, spin-2)
+det(tornado-5, a-4)
+appos(spin-2, tornado-5)
+prep(tornado-5, of-6)
+num(winds-8, two-7)
+pobj(of-6, winds-8)
+nsubj(mating-12, houseflies-10)
+cop(mating-12, are-11)
+dep(Tumultuous-1, mating-12)
+

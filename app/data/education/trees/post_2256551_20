@@ -1,0 +1,17 @@
+advmod(mad-5, Oh-1)
+nsubj(mad-5, I-2)
+cop(mad-5, am-3)
+advmod(mad-5, so-4)
+root(ROOT-0, mad-5)
+
+nsubj(let-5, I-1)
+advmod(let-5, just-2)
+aux(let-5, ca-3)
+neg(let-5, n't-4)
+root(ROOT-0, let-5)
+nsubj(go-7, it-6)
+ccomp(let-5, go-7)
+
+nn(!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!-2, GOD-1)
+root(ROOT-0, !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!-2)
+

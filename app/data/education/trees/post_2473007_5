@@ -1,0 +1,20 @@
+prep(finds-10, Beneath-1)
+det(earth-5, The-2)
+amod(earth-5, moist-3)
+amod(earth-5, warm-4)
+pobj(Beneath-1, earth-5)
+det(thing-9, The-7)
+amod(thing-9, lazy-8)
+nsubj(finds-10, thing-9)
+root(ROOT-0, finds-10)
+dobj(finds-10, rest-11)
+
+det(worm-2, A-1)
+nsubj(life-4, worm-2)
+cop(life-4, 's-3)
+root(ROOT-0, life-4)
+advmod(uneventful-7, so-6)
+amod(life-4, uneventful-7)
+
+root(ROOT-0, Robin-1)
+

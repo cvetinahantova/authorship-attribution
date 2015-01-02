@@ -1,0 +1,17 @@
+nn(Look-2, urlLink-1)
+nsubj(looking-6, Look-2)
+prep(Look-2, at-3)
+pobj(at-3, them-4)
+root(ROOT-0, looking-6)
+advmod(looking-6, smugly-7)
+prep(looking-6, at-8)
+det(camera-10, the-9)
+pobj(at-8, camera-10)
+
+nsubj(plotting-4, They-1)
+aux(plotting-4, 're-2)
+advmod(plotting-4, probably-3)
+root(ROOT-0, plotting-4)
+nn(evil-6, something-5)
+dobj(plotting-4, evil-6)
+

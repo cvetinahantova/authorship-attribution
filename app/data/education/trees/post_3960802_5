@@ -1,0 +1,11 @@
+root(ROOT-0, urlLink-1)
+nsubj(discussing-6, Tim-2)
+cc(Tim-2, and-3)
+poss(dad-5, his-4)
+conj(Tim-2, dad-5)
+dep(urlLink-1, discussing-6)
+poss(toy-10, Tim-7)
+possessive(Tim-7, 's-8)
+amod(toy-10, new-9)
+dobj(discussing-6, toy-10)
+

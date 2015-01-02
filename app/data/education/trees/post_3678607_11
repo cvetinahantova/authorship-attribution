@@ -1,0 +1,12 @@
+num(-RRB--2, 12-1)
+num(-RRB--2, 13-3)
+vmod(-RRB--2, Going-4)
+prep(Going-4, on-5)
+pobj(on-5, 30-6)
+discourse(love-10, Wow-7)
+nsubj(love-10, I-9)
+rcmod(30-6, love-10)
+det(theatre-13, that-11)
+nn(theatre-13, Dollar-12)
+dobj(love-10, theatre-13)
+

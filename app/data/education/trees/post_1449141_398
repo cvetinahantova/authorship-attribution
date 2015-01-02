@@ -1,0 +1,11 @@
+nn(Rage-2, urlLink-1)
+nsubj(erupts-3, Rage-2)
+root(ROOT-0, erupts-3)
+prep(erupts-3, over-4)
+pcomp(over-4, profiteering-5)
+nsubj(=-10, clause-6)
+dep(=-10, =-7)
+det(=-10, The-8)
+nn(=-10, Hill.com-9)
+ccomp(profiteering-5, =-10)
+

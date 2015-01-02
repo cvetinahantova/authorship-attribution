@@ -1,0 +1,31 @@
+root(ROOT-0, Us-1)
+prep(Us-1, in-2)
+pobj(in-2, P.E.-3)
+advmod(Us-1, again-4)
+
+root(ROOT-0, With-1)
+num(guys-3, two-2)
+pobj(With-1, guys-3)
+vmod(guys-3, trying-4)
+aux(girls-7, to-5)
+cop(girls-7, be-6)
+xcomp(trying-4, girls-7)
+
+nsubj(wait-2, O-1)
+root(ROOT-0, wait-2)
+nsubj(are-4, they-3)
+ccomp(wait-2, are-4)
+
+nn(SORRY-4, O-1)
+nn(SORRY-4, BURN-2)
+nn(SORRY-4, !!!-3)
+nsubj(know-9, SORRY-4)
+aux(know-9, do-6)
+neg(know-9, n't-7)
+advmod(know-9, even-8)
+root(ROOT-0, know-9)
+dobj(know-9, them-10)
+
+nn(urlLink-2, urlLink-1)
+root(ROOT-0, urlLink-2)
+

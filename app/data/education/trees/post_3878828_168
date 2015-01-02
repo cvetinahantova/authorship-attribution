@@ -1,0 +1,8 @@
+det(stone-4, An-1)
+amod(stone-4, organic-2)
+amod(stone-4, shaped-3)
+root(ROOT-0, stone-4)
+
+nn(urlLink-2, urlLink-1)
+root(ROOT-0, urlLink-2)
+

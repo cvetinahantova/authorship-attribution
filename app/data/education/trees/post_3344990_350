@@ -1,0 +1,10 @@
+ccomp(smiles-6, urlLink-1)
+nn(Moffitt-3, Katy-2)
+dobj(urlLink-1, Moffitt-3)
+nsubj(smiles-6, all-5)
+root(ROOT-0, smiles-6)
+prep(smiles-6, in-7)
+poss(classroom-10, her-8)
+amod(classroom-10, new-9)
+pobj(in-7, classroom-10)
+

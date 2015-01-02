@@ -1,0 +1,11 @@
+nn(Clinton-2, urlLink-1)
+root(ROOT-0, Clinton-2)
+amod(urlLink-11, happy-4)
+mark(is-7, because-5)
+nsubj(is-7, he-6)
+ccomp(happy-4, is-7)
+prep(is-7, on-8)
+poss(computer-10, his-9)
+pobj(on-8, computer-10)
+dep(Clinton-2, urlLink-11)
+

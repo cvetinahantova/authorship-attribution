@@ -1,0 +1,13 @@
+root(ROOT-0, Welcome-1)
+
+nsubj(hope-2, I-1)
+root(ROOT-0, hope-2)
+dobj(find-5, what-3)
+nsubj(find-5, you-4)
+ccomp(hope-2, find-5)
+nsubj(useful-8, here-6)
+cop(useful-8, is-7)
+ccomp(find-5, useful-8)
+cc(useful-8, and-9)
+conj(useful-8, informative-10)
+

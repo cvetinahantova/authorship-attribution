@@ -1,0 +1,184 @@
+root(ROOT-0, 45-1)
+
+nsubj(44-3, Act-1)
+advmod(44-3, naturally-2)
+root(ROOT-0, 44-3)
+
+root(ROOT-0, Found-1)
+xcomp(Found-1, missing-2)
+dobj(missing-2, 43-3)
+
+root(ROOT-0, Resident-1)
+acomp(Resident-1, alien-2)
+tmod(alien-2, 42-3)
+
+nn(BASIC-2, Advanced-1)
+root(ROOT-0, BASIC-2)
+dep(BASIC-2, 41-3)
+
+root(ROOT-0, Genuine-1)
+num(Genuine-1, imitation-2)
+num(Genuine-1, 40-3)
+
+root(ROOT-0, Airline-1)
+dep(Airline-1, food-2)
+num(food-2, 39-3)
+
+discourse(38-3, Good-1)
+dep(Good-1, grief-2)
+root(ROOT-0, 38-3)
+
+amod(difference-2, Same-1)
+root(ROOT-0, difference-2)
+dep(difference-2, 37-3)
+
+advmod(exactly-2, Almost-1)
+root(ROOT-0, exactly-2)
+dep(exactly-2, 36-3)
+
+nn(organization-2, Government-1)
+root(ROOT-0, organization-2)
+dep(organization-2, 35-3)
+
+dep(landfill-2, Sanitary-1)
+root(ROOT-0, landfill-2)
+num(landfill-2, 34-3)
+
+root(ROOT-0, Alone-1)
+prt(Alone-1, together-2)
+dobj(Alone-1, 33-3)
+
+dep(32-3, Legally-1)
+num(32-3, drunk-2)
+root(ROOT-0, 32-3)
+
+nsubj(scream-2, Silent-1)
+root(ROOT-0, scream-2)
+dobj(scream-2, 31-3)
+
+root(ROOT-0, Living-1)
+prt(Living-1, dead-2)
+dobj(Living-1, 30-3)
+
+nsubj(crowd-2, Small-1)
+root(ROOT-0, crowd-2)
+dobj(crowd-2, 29-3)
+
+nn(ethics-2, Business-1)
+root(ROOT-0, ethics-2)
+dep(ethics-2, 28-3)
+
+root(ROOT-0, Soft-1)
+dobj(Soft-1, rock-2)
+num(rock-2, 27-3)
+
+root(ROOT-0, Butt-1)
+dobj(Butt-1, Head-2)
+num(Head-2, 26-3)
+
+nn(Intelligence-2, Military-1)
+root(ROOT-0, Intelligence-2)
+dep(Intelligence-2, 25-3)
+
+nsubj(documentation-2, Software-1)
+root(ROOT-0, documentation-2)
+dobj(documentation-2, 24-3)
+
+nsubj(classic-2, New-1)
+root(ROOT-0, classic-2)
+dobj(classic-2, 23-3)
+
+nsubj(sorrow-2, Sweet-1)
+root(ROOT-0, sorrow-2)
+dobj(sorrow-2, 22-3)
+
+root(ROOT-0, Childproof-1)
+num(Childproof-1, 21-2)
+
+discourse(then-4, Now-2)
+dep(20-7, then-4)
+root(ROOT-0, 20-7)
+
+amod(gas-3, Synthetic-1)
+amod(gas-3, natural-2)
+root(ROOT-0, gas-3)
+dep(gas-3, 19-4)
+
+nsubj(aggression-2, Passive-1)
+root(ROOT-0, aggression-2)
+dobj(aggression-2, 18-3)
+
+nsubj(live-2, Taped-1)
+root(ROOT-0, live-2)
+dobj(live-2, 17-3)
+
+dep(16-3, Clearly-1)
+num(16-3, misunderstood-2)
+root(ROOT-0, 16-3)
+
+nsubj(force-2, Peace-1)
+root(ROOT-0, force-2)
+dobj(force-2, 15-3)
+
+root(ROOT-0, Extinct-1)
+dobj(Extinct-1, Life-2)
+num(Life-2, 14-3)
+
+amod(tax-2, Temporary-1)
+nsubj(increase-3, tax-2)
+root(ROOT-0, increase-3)
+dobj(increase-3, 13-4)
+
+nsubj(jock-2, Computer-1)
+root(ROOT-0, jock-2)
+dobj(jock-2, 12-3)
+
+nsubj(glasses-2, Plastic-1)
+root(ROOT-0, glasses-2)
+dobj(glasses-2, 11-3)
+
+nsubj(pleased-2, Terribly-1)
+root(ROOT-0, pleased-2)
+dobj(pleased-2, 10-3)
+
+root(ROOT-0, Computer-1)
+dep(Computer-1, security-2)
+num(security-2, 9-3)
+
+root(ROOT-0, Political-1)
+number(8-3, science-2)
+num(Political-1, 8-3)
+
+amod(slacks-2, Tight-1)
+root(ROOT-0, slacks-2)
+dep(slacks-2, 7-3)
+
+root(ROOT-0, Definite-1)
+advmod(Definite-1, maybe-2)
+pobj(maybe-2, 6-3)
+
+nsubj(ugly-2, Pretty-1)
+root(ROOT-0, ugly-2)
+dobj(ugly-2, 5-3)
+
+amod(pound-2, Twelve-ounce-1)
+root(ROOT-0, pound-2)
+number(4-4, cake-3)
+num(pound-2, 4-4)
+
+nn(ice-2, Diet-1)
+nsubj(cream-3, ice-2)
+root(ROOT-0, cream-3)
+dobj(cream-3, 3-4)
+
+nsubj(vacation-2, Working-1)
+root(ROOT-0, vacation-2)
+dobj(vacation-2, 2-3)
+
+nsubj(estimate-2, Exact-1)
+root(ROOT-0, estimate-2)
+dobj(estimate-2, 1-3)
+
+nn(Works-2, Microsoft-1)
+root(ROOT-0, Works-2)
+

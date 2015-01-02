@@ -1,0 +1,86 @@
+amod(week-2, past-1)
+nsubj(studying-7, week-2)
+aux(studying-7, has-3)
+neg(studying-7, not-4)
+advmod(studying-7, really-5)
+aux(studying-7, been-6)
+root(ROOT-0, studying-7)
+advmod(studying-7, well-8)
+
+nsubj(studied-3, today-1)
+advmod(studied-3, really-2)
+root(ROOT-0, studied-3)
+
+root(ROOT-0, think-1)
+dobj(think-1, bt-2)
+num(hours-4, 5-7-3)
+tmod(think-1, hours-4)
+
+root(ROOT-0, haha-1)
+
+root(ROOT-0, got-1)
+dobj(got-1, me-2)
+conj(me-2, kelvin-4)
+conj(me-2, meiying-6)
+cc(me-2, and-7)
+conj(me-2, clarresa-8)
+
+root(ROOT-0, at-1)
+nn(Mcdonald-5, Woodlands-2)
+poss(Mcdonald-5, Mart-3)
+possessive(Mcdonald-5, 's-4)
+pobj(at-1, Mcdonald-5)
+
+root(ROOT-0, studied-1)
+nsubj(studied-1, maths-2)
+cc(maths-2, and-3)
+det(page-6, a-4)
+amod(page-6, few-5)
+conj(maths-2, page-6)
+prep(page-6, of-7)
+pobj(of-7, chemistry-8)
+dep(chemistry-8, 2-3-10)
+
+root(ROOT-0, haha-1)
+
+advmod(maths-2, mostly-1)
+root(ROOT-0, maths-2)
+
+root(ROOT-0, APGP-1)
+
+amod(inequalities-2, abit-1)
+root(ROOT-0, inequalities-2)
+
+nsubj(stuff-2, and-1)
+root(ROOT-0, stuff-2)
+
+root(ROOT-0, then-1)
+mark(went-4, after-2)
+nsubj(went-4, that-3)
+dep(then-1, went-4)
+aux(tiong-6, to-5)
+xcomp(went-4, tiong-6)
+acomp(tiong-6, bahru-7)
+prep(bahru-7, with-8)
+pobj(with-8, kelvin-9)
+aux(do-11, to-10)
+xcomp(tiong-6, do-11)
+dobj(do-11, something-12)
+
+amod(home-2, then-1)
+root(ROOT-0, home-2)
+amod(home-4, sweet-3)
+dep(home-2, home-4)
+
+root(ROOT-0, haha-1)
+
+dep(today-3, quite-1)
+amod(today-3, sian-2)
+root(ROOT-0, today-3)
+
+cc(done-3, but-1)
+advmod(done-3, stuff-2)
+root(ROOT-0, done-3)
+
+root(ROOT-0, haha-1)
+

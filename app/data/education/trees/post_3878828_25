@@ -1,0 +1,9 @@
+nsubj(has-2, Brent-1)
+root(ROOT-0, has-2)
+dobj(has-2, pigtails-3)
+
+root(ROOT-0, Kawaii-1)
+
+nn(urlLink-2, urlLink-1)
+root(ROOT-0, urlLink-2)
+

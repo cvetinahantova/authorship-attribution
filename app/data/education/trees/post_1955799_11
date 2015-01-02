@@ -1,0 +1,11 @@
+nsubj(looking-3, Ideas-1)
+aux(looking-3, are-2)
+root(ROOT-0, looking-3)
+amod(!!!!!!-5, good-4)
+dobj(looking-3, !!!!!!-5)
+num(work-7, Will-6)
+npadvmod(more-8, work-7)
+advmod(on-9, more-8)
+prep(looking-3, on-9)
+pobj(on-9, them-10)
+

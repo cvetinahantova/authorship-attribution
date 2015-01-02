@@ -1,0 +1,18 @@
+poss(coffee-3, My-1)
+nn(coffee-3, pre-2)
+nsubj(question-4, coffee-3)
+root(ROOT-0, question-4)
+
+cop(crazy-3, Are-1)
+nsubj(crazy-3, you-2)
+root(ROOT-0, crazy-3)
+
+advmod(can-3, How-2)
+advcl(think-5, can-3)
+nsubj(think-5, I-4)
+root(ROOT-0, think-5)
+prep(think-5, of-6)
+pobj(of-6, questions-7)
+prep(think-5, before-8)
+pobj(before-8, coffee-9)
+

@@ -1,0 +1,4 @@
+nsubj(urlLink-2, John-1)
+root(ROOT-0, urlLink-2)
+dobj(urlLink-2, urlLink-3)
+

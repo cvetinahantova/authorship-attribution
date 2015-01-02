@@ -1,0 +1,15 @@
+poss(kitchen-2, My-1)
+root(ROOT-0, kitchen-2)
+
+discourse(need-6, yes-1)
+dep(yes-1, yes-3)
+nsubj(need-6, I-5)
+root(ROOT-0, need-6)
+aux(do-8, to-7)
+xcomp(need-6, do-8)
+det(dishes-10, those-9)
+dobj(do-8, dishes-10)
+
+nn(urlLink-2, urlLink-1)
+root(ROOT-0, urlLink-2)
+

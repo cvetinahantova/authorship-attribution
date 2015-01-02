@@ -1,0 +1,8 @@
+root(ROOT-0, urlLink-1)
+amod(geese-3, Same-2)
+dep(urlLink-1, geese-3)
+advmod(hour-7, just-5)
+det(hour-7, an-6)
+npadvmod(ago-8, hour-7)
+advmod(geese-3, ago-8)
+

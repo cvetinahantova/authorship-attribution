@@ -1,0 +1,11 @@
+nn(Genetic-2, urlLink-1)
+nsubj(influences-3, Genetic-2)
+root(ROOT-0, influences-3)
+prep(influences-3, on-4)
+nn(performance-6, memory-5)
+pobj(on-4, performance-6)
+prep(performance-6, in-7)
+amod(disease-10, familial-8)
+nn(disease-10, Alzheimer-9)
+pobj(in-7, disease-10)
+

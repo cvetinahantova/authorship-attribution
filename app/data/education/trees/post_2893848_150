@@ -1,0 +1,6 @@
+nn(Crackhead-2, Hey-1)
+nsubj(urlLink-3, Crackhead-2)
+root(ROOT-0, urlLink-3)
+discourse(you-6, Yeah-4)
+dep(urlLink-3, you-6)
+

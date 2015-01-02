@@ -1,0 +1,11 @@
+nn(Leah-2, urlLink-1)
+nsubj(Check-7, Leah-2)
+vmod(Leah-2, getting-3)
+prt(getting-3, off-4)
+nn(!!!-6, work-5)
+dobj(getting-3, !!!-6)
+root(ROOT-0, Check-7)
+prt(Check-7, out-8)
+det(hottie-10, that-9)
+dobj(Check-7, hottie-10)
+

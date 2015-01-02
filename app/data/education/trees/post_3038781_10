@@ -1,0 +1,19 @@
+nsubj(whale-2, Had-1)
+root(ROOT-0, whale-2)
+tmod(whale-2, today-3)
+
+nsubj(urlLink-2, check-1)
+root(ROOT-0, urlLink-2)
+dobj(urlLink-2, this-3)
+prt(urlLink-2, out-4)
+dep(weird-8, Talk-6)
+advmod(weird-8, about-7)
+parataxis(urlLink-2, weird-8)
+
+advmod(change-2, Just-1)
+root(ROOT-0, change-2)
+det(name-4, the-3)
+dobj(change-2, name-4)
+prep(change-2, to-5)
+pobj(to-5, Whale-mart-6)
+

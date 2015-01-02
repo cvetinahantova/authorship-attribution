@@ -1,0 +1,22 @@
+poss(inkan-2, My-1)
+root(ROOT-0, inkan-2)
+
+nsubj(stamp-5, It-1)
+cop(stamp-5, s-3)
+det(stamp-5, a-4)
+root(ROOT-0, stamp-5)
+prep(stamp-5, of-6)
+poss(name-8, your-7)
+pobj(of-6, name-8)
+mark(use-11, that-9)
+nsubj(use-11, you-10)
+ccomp(stamp-5, use-11)
+aux(sign-13, to-12)
+xcomp(use-11, sign-13)
+amod(documents-15, official-14)
+dobj(sign-13, documents-15)
+prep(sign-13, with-16)
+
+nn(urlLink-2, urlLink-1)
+root(ROOT-0, urlLink-2)
+

@@ -1,0 +1,12 @@
+nn(Fark-2, urlLink-1)
+nsubj(has-3, Fark-2)
+root(ROOT-0, has-3)
+det(contest-5, a-4)
+dobj(has-3, contest-5)
+aux(urlLink-7, to-6)
+vmod(contest-5, urlLink-7)
+xcomp(urlLink-7, design-8)
+det(quarter-11, the-9)
+nn(quarter-11, Iowa-10)
+dobj(design-8, quarter-11)
+

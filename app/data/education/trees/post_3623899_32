@@ -1,0 +1,11 @@
+nn(Case-4, LUv-1)
+nn(Case-4, u-2)
+nn(Case-4, Mental-3)
+root(ROOT-0, Case-4)
+nn(case-7, nut-6)
+appos(Case-4, case-7)
+nn(hole-10, ass-9)
+appos(Case-4, hole-10)
+appos(Case-4, idiot-12)
+dep(Case-4, hahahah-14)
+

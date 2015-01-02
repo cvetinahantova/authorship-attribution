@@ -1,0 +1,11 @@
+nsubj(wan-2, I-1)
+root(ROOT-0, wan-2)
+aux(weight-5, na-3)
+advmod(weight-5, loose-4)
+xcomp(wan-2, weight-5)
+cc(weight-5, and-6)
+conj(weight-5, grow-7)
+dobj(weight-5, taller-8)
+advmod(bad-10, so-9)
+amod(taller-8, bad-10)
+

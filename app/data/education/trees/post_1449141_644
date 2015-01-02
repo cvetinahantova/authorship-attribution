@@ -1,0 +1,13 @@
+nn(Panel-2, urlLink-1)
+nsubj(Says-3, Panel-2)
+root(ROOT-0, Says-3)
+nn(Warnings-7, Bush-4)
+nn(Warnings-7, Saw-5)
+nn(Warnings-7, Repeated-6)
+nsubj(Front-11, Warnings-7)
+appos(Warnings-7, washingtonpost.com-9)
+dep(Says-3, Front-11)
+nn(coverage-13, page-12)
+dobj(Front-11, coverage-13)
+advmod(Front-11, finallly-14)
+

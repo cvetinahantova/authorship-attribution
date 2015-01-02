@@ -1,0 +1,10 @@
+amod(literature-2, Mathematical-1)
+root(ROOT-0, literature-2)
+det(lines-6, these-4)
+num(lines-6, three-5)
+dep(literature-2, lines-6)
+appos(lines-6, sex-8)
+prep(sex-8, with-9)
+amod(numbers-11, prime-10)
+pobj(with-9, numbers-11)
+

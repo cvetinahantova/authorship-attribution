@@ -1,0 +1,8 @@
+nn(Junior-2, urlLink-1)
+root(ROOT-0, Junior-2)
+cc(Junior-2, and-3)
+conj(Junior-2, ingridito-4)
+prep(Junior-2, in-5)
+det(union-7, the-6)
+pobj(in-5, union-7)
+

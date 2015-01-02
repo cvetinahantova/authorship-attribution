@@ -1,0 +1,9 @@
+root(ROOT-0, urlLink-1)
+dobj(urlLink-1, Role-2)
+prep(Role-2, in-3)
+nn(Backfiring-6, Haiti-4)
+nn(Backfiring-6, Events-5)
+pobj(in-3, Backfiring-6)
+prep(Backfiring-6, on-7)
+pobj(on-7, Washington-8)
+

@@ -1,0 +1,10 @@
+root(ROOT-0, urlLink-1)
+dobj(urlLink-1, Center-2)
+prep(Center-2, for-3)
+nn(Page-11, American-4)
+nn(Page-11, Progress-5)
+dep(Page-11, Progressivism-7)
+prep(Progressivism-7, in-8)
+pobj(in-8, 2004-9)
+pobj(for-3, Page-11)
+

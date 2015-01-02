@@ -1,0 +1,11 @@
+det(bathroom-3, The-1)
+nn(bathroom-3, urlLink-2)
+nsubjpass(done-5, bathroom-3)
+auxpass(done-5, is-4)
+root(ROOT-0, done-5)
+
+nn(Toby-2, Kudos-1)
+root(ROOT-0, Toby-2)
+cc(Toby-2, &-3)
+conj(Toby-2, Mark-4)
+

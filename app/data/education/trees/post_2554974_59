@@ -1,0 +1,29 @@
+advmod(guys-2, Sorry-1)
+root(ROOT-0, guys-2)
+
+aux(blog-3, ca-1)
+neg(blog-3, n't-2)
+root(ROOT-0, blog-3)
+advmod(often-5, so-4)
+dep(blog-3, often-5)
+
+poss(pc-2, my-1)
+nsubj(rosak-3, pc-2)
+root(ROOT-0, rosak-3)
+dobj(rosak-3, ah-4)
+
+nsubj(wan-2, I-1)
+root(ROOT-0, wan-2)
+aux(repair-4, na-3)
+xcomp(wan-2, repair-4)
+dep(repair-4, first-5)
+
+aux(asap-3, will-1)
+nsubj(asap-3, blog-2)
+root(ROOT-0, asap-3)
+
+nsubj(btw-4, Work-1)
+cop(btw-4, was-2)
+nn(btw-4, fun-3)
+root(ROOT-0, btw-4)
+

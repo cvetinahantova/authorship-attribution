@@ -1,0 +1,9 @@
+root(ROOT-0, yeah-1)
+mark(is-7, so-3)
+det(blog-6, the-4)
+amod(blog-6, new-5)
+nsubj(is-7, blog-6)
+advcl(yeah-1, is-7)
+advmod(is-7, at-8)
+dep(is-7, http://www.livejournal.com/users/kerrybird/-10)
+

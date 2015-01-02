@@ -1,0 +1,18 @@
+advmod(are-4, Perhaps-1)
+nn(farmers-3, urlLink-2)
+nsubj(are-4, farmers-3)
+root(ROOT-0, are-4)
+aux(blame-6, to-5)
+xcomp(are-4, blame-6)
+prep(blame-6, for-7)
+amod(bites-10, increased-8)
+nn(bites-10, shark-9)
+pobj(for-7, bites-10)
+
+neg(word-2, No-1)
+root(ROOT-0, word-2)
+prep(word-2, on-3)
+poss(injuries-7, fricken-4)
+nn(injuries-7, laser-6)
+pobj(on-3, injuries-7)
+

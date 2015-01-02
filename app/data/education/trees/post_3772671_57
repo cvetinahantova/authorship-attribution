@@ -1,0 +1,7 @@
+root(ROOT-0, urlLink-1)
+dobj(urlLink-1, Gaylord-2)
+prep(urlLink-1, from-3)
+det(side-6, the-4)
+amod(side-6, other-5)
+pobj(from-3, side-6)
+

@@ -1,0 +1,13 @@
+nn(NathanNewman.org-2, urlLink-1)
+root(ROOT-0, NathanNewman.org-2)
+nsubj(Problem-14, News-4)
+cc(News-4, and-5)
+conj(News-4, Views-6)
+poss(Problem-11, China-8)
+possessive(China-8, 's-9)
+nn(Problem-11, Job-10)
+dep(Views-6, Problem-11)
+cop(Problem-14, is-12)
+poss(Problem-14, Our-13)
+dep(NathanNewman.org-2, Problem-14)
+

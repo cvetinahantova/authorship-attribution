@@ -1,0 +1,17 @@
+nsubj(rules-4, urlLink-1)
+cop(rules-4, Are-2)
+det(rules-4, the-3)
+root(ROOT-0, rules-4)
+prep(rules-4, for-5)
+pobj(for-5, research-6)
+prep(research-6, with-7)
+pobj(with-7, subjects-8)
+prep(subjects-8, with-9)
+pobj(with-9, dementia-10)
+amod(dementia-10, changing-11)
+
+root(ROOT-0, views-2)
+prep(views-2, from-3)
+det(field-5, the-4)
+pobj(from-3, field-5)
+

@@ -1,0 +1,12 @@
+nn(Heres-2, urlLink-1)
+root(ROOT-0, Heres-2)
+det(pic-4, a-3)
+dep(Heres-2, pic-4)
+prep(pic-4, of-5)
+det(hands-7, the-6)
+pobj(of-5, hands-7)
+prep(hands-7, for-8)
+det(urlLink-11, the-9)
+nn(urlLink-11, witch-10)
+pobj(for-8, urlLink-11)
+

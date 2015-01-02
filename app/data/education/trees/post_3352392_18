@@ -1,0 +1,5 @@
+root(ROOT-0, urlLink-1)
+nn(Blog-3, Adamette-2)
+nsubj(urlLink-4, Blog-3)
+ccomp(urlLink-1, urlLink-4)
+

@@ -1,0 +1,8 @@
+nn(Dscn0862-2, urlLink-1)
+nsubj(uploaded-4, Dscn0862-2)
+advmod(uploaded-4, Originally-3)
+root(ROOT-0, uploaded-4)
+prep(uploaded-4, by-5)
+nn(Kimberlysooninchina-7, urlLink-6)
+pobj(by-5, Kimberlysooninchina-7)
+

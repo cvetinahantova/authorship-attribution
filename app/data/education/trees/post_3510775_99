@@ -1,0 +1,6 @@
+nn(umbrella-2, beer-1)
+root(ROOT-0, umbrella-2)
+dep(umbrella-2, these-3)
+poss(loincloths-6, our-5)
+appos(these-3, loincloths-6)
+

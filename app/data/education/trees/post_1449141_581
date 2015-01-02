@@ -1,0 +1,11 @@
+root(ROOT-0, urlLink-1)
+nn(Haiti-6, ZNet-2)
+nn(Haiti-6, |-3)
+nn(Haiti-6, Africa-4)
+nn(Haiti-6, |-5)
+dobj(urlLink-1, Haiti-6)
+cc(Haiti-6, and-7)
+det(Game-10, the-8)
+nn(Game-10, US-9)
+conj(Haiti-6, Game-10)
+

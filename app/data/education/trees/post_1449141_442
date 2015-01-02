@@ -1,0 +1,11 @@
+root(ROOT-0, urlLink-1)
+nn(Case-5, Cheney-2)
+nn(Case-5, Energy-3)
+nn(Case-5, Group-4)
+dobj(urlLink-1, Case-5)
+aux(Get-7, to-6)
+xcomp(urlLink-1, Get-7)
+nn(Court-9, High-8)
+dobj(Get-7, Court-9)
+vmod(Court-9, Hearing-10)
+

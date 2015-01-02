@@ -1,0 +1,9 @@
+det(milk-2, This-1)
+nsubj(makes-3, milk-2)
+root(ROOT-0, makes-3)
+nsubj(giddy-5, you-4)
+xcomp(makes-3, giddy-5)
+
+nn(urlLink-2, urlLink-1)
+root(ROOT-0, urlLink-2)
+

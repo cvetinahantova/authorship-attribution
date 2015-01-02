@@ -1,0 +1,31 @@
+nsubj(doo-6, this-1)
+cop(doo-6, is-2)
+advmod(fabber-4, so-3)
+amod(doo-6, fabber-4)
+nn(doo-6, dabber-5)
+root(ROOT-0, doo-6)
+
+nsubj(mean-2, i-1)
+root(ROOT-0, mean-2)
+nsubj(cool-6, its-4)
+advmod(cool-6, so-5)
+xcomp(mean-2, cool-6)
+
+root(ROOT-0, yeah-1)
+dobj(yeah-1, man-2)
+
+root(ROOT-0, cool-1)
+acomp(cool-1, dude-2)
+
+advmod(calling-6, anyway-1)
+poss(life-4, my-3)
+nsubj(calling-6, life-4)
+aux(calling-6, is-5)
+root(ROOT-0, calling-6)
+advmod(post-9, so-8)
+ccomp(calling-6, post-9)
+det(later-11, another-10)
+dobj(post-9, later-11)
+advmod(revoir-14, au-13)
+parataxis(calling-6, revoir-14)
+

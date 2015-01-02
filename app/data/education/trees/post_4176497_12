@@ -1,0 +1,6 @@
+root(ROOT-0, urlLink-1)
+dobj(urlLink-1, Entrance-2)
+prep(urlLink-1, to-3)
+nn(Shrine-5, Ise-4)
+pobj(to-3, Shrine-5)
+

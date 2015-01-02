@@ -1,0 +1,10 @@
+root(ROOT-0, urlLink-1)
+dobj(urlLink-1, Nothing-2)
+amod(Nothing-2, special-3)
+cc(special-3, but-4)
+conj(special-3, better-5)
+prep(urlLink-1, than-6)
+poss(place-9, my-7)
+amod(place-9, first-8)
+pobj(than-6, place-9)
+

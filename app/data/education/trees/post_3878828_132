@@ -1,0 +1,23 @@
+poss(elephant-3, My-1)
+amod(elephant-3, stuffed-2)
+root(ROOT-0, elephant-3)
+appos(elephant-3, Bernie-5)
+
+nsubj(bought-2, I-1)
+root(ROOT-0, bought-2)
+dobj(bought-2, him-3)
+prep(bought-2, at-4)
+det(Matsuri-8, the-5)
+nn(Matsuri-8, Oshima-6)
+nn(Matsuri-8, Natsu-7)
+pobj(at-4, Matsuri-8)
+
+nsubj(lives-2, He-1)
+root(ROOT-0, lives-2)
+prep(lives-2, on-3)
+poss(couch-5, my-4)
+pobj(on-3, couch-5)
+
+nn(urlLink-2, urlLink-1)
+root(ROOT-0, urlLink-2)
+

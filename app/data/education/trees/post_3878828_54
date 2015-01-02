@@ -1,0 +1,12 @@
+det(girl-2, The-1)
+nsubj(gaijins-3, girl-2)
+root(ROOT-0, gaijins-3)
+prep(gaijins-3, of-4)
+pobj(of-4, Tokyo-5)
+
+root(ROOT-0, Go-1)
+dobj(Go-1, girljins-2)
+
+nn(urlLink-2, urlLink-1)
+root(ROOT-0, urlLink-2)
+

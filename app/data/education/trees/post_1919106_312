@@ -1,0 +1,12 @@
+nn(Racecourse-4, urlLink-1)
+nn(Racecourse-4, urlLink-2)
+nn(Racecourse-4, Lebong-3)
+nsubj(uploaded-8, Racecourse-4)
+prep(uploaded-8, Under-5)
+pobj(Under-5, Clouds-6)
+advmod(uploaded-8, Originally-7)
+root(ROOT-0, uploaded-8)
+prep(uploaded-8, by-9)
+nn(Ehtesham-11, urlLink-10)
+pobj(by-9, Ehtesham-11)
+

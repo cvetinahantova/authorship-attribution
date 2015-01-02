@@ -1,0 +1,12 @@
+root(ROOT-0, Thats-1)
+advmod(feel-4, how-2)
+nsubj(feel-4, i-3)
+dep(Thats-1, feel-4)
+advmod(now-6, right-5)
+advmod(feel-4, now-6)
+advmod(of-8, because-7)
+prep(feel-4, of-8)
+poss(music-11, my-9)
+amod(music-11, new-10)
+pobj(of-8, music-11)
+

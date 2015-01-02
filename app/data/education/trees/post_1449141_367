@@ -1,0 +1,7 @@
+root(ROOT-0, urlLink-1)
+nn(|-3, MotherJones.com-2)
+nsubj(Losing-4, |-3)
+dep(urlLink-1, Losing-4)
+det(Troops-6, the-5)
+dobj(Losing-4, Troops-6)
+

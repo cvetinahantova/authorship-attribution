@@ -1,0 +1,13 @@
+nn(YEAH-2, OH-1)
+nsubj(LOST-5, YEAH-2)
+nsubj(LOST-5, I-4)
+root(ROOT-0, LOST-5)
+nn(VOICE-7, MY-6)
+dobj(LOST-5, VOICE-7)
+
+root(ROOT-0, AND-1)
+nsubj(AND-1, I-2)
+nn(LOCK-5, LOVE-3)
+nn(LOCK-5, CAPS-4)
+dep(AND-1, LOCK-5)
+

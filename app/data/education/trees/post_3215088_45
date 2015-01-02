@@ -1,0 +1,12 @@
+det(bunch-2, A-1)
+root(ROOT-0, bunch-2)
+prep(bunch-2, of-3)
+amod(campers-5, lively-4)
+pobj(of-3, campers-5)
+nsubj(made-7, that-6)
+rcmod(campers-5, made-7)
+poss(urlLink-11, my-8)
+nn(urlLink-11, day-9)
+nn(urlLink-11, urlLink-10)
+dobj(made-7, urlLink-11)
+

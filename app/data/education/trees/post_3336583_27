@@ -1,0 +1,6 @@
+root(ROOT-0, urlLink-1)
+dobj(urlLink-1, Pam-2)
+conj(Pam-2, Cora-4)
+cc(Pam-2, and-6)
+conj(Pam-2, Brandon-7)
+

@@ -1,0 +1,21 @@
+root(ROOT-0, ok-1)
+
+prep(trying-4, as-1)
+pobj(as-1, i-2)
+aux(trying-4, was-3)
+root(ROOT-0, trying-4)
+aux(link-6, to-5)
+xcomp(trying-4, link-6)
+poss(frenz-8, my-7)
+poss(bloggie-10, frenz-8)
+possessive(frenz-8, 's-9)
+nsubj(trying-4, bloggie-10)
+prep(trying-4, to-11)
+pobj(to-11, mine-12)
+advmod(trying-4, again-13)
+
+nn(yang-2, zhen-1)
+nsubj(came-3, yang-2)
+root(ROOT-0, came-3)
+prep(came-3, online-4)
+

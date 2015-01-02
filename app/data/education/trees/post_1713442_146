@@ -1,0 +1,22 @@
+nn(Year-3, Happy-1)
+nn(Year-3, New-2)
+root(ROOT-0, Year-3)
+
+nsubj(wish-2, I-1)
+root(ROOT-0, wish-2)
+dobj(wish-2, you-3)
+cc(wish-2, and-4)
+det(you-6, those-5)
+nsubj(love-7, you-6)
+conj(wish-2, love-7)
+det(year-10, a-8)
+amod(year-10, great-9)
+tmod(love-7, year-10)
+aux(come-12, to-11)
+vmod(year-10, come-12)
+
+nsubj(fun-4, 2004-1)
+aux(fun-4, should-2)
+cop(fun-4, be-3)
+root(ROOT-0, fun-4)
+

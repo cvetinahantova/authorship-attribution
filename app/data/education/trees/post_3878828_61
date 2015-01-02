@@ -1,0 +1,7 @@
+amod(\-2, Italian-1)
+root(ROOT-0, \-2)
+amod(restaurant-4, Japanese-3)
+dep(\-2, restaurant-4)
+nn(urlLink-6, urlLink-5)
+dep(\-2, urlLink-6)
+

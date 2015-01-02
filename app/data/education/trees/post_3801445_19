@@ -1,0 +1,9 @@
+nsubjpass(covered-6, urlLink-1)
+det(tree-3, This-2)
+dep(urlLink-1, tree-3)
+auxpass(covered-6, was-4)
+advmod(covered-6, completely-5)
+root(ROOT-0, covered-6)
+prep(covered-6, in-7)
+pobj(in-7, fungi-8)
+

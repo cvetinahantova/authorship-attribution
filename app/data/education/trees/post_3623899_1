@@ -1,0 +1,12 @@
+nsubj(sad-4, I-1)
+cop(sad-4, 'm-2)
+advmod(sad-4, so-3)
+root(ROOT-0, sad-4)
+
+nsubj(*-2, missed-1)
+root(ROOT-0, *-2)
+dobj(*-2, him-3)
+dep(much-6, *-4)
+advmod(much-6, so-5)
+dep(*-2, much-6)
+

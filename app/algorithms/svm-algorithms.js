@@ -1,7 +1,8 @@
 var nodesvm = require('node-svm');
 
+var fs = require('fs');
+
 var nfzAlg = require('./nfz-algorithms');
-var nlpAlg = require('./nlp-algorithms');
 var snGrams = require('./snGrams-algorithms');
 
 var FeatureSet = require('../models/FeatureSet.js');
@@ -13,21 +14,25 @@ var svmTrain = function (data, done) {
 
     var svm = new nodesvm.CSVC({
         kernelType: nodesvm.KernelTypes.RBF,
-        gamma: [8, 2, 1],
-        C: [0.5, 2, 8, 10],
+//        degree: [2, 3, 4],
+        gamma: [2, 5], //0.5
+//        r: [0.125, 0.5, 2],
+        C: [2, 5], //2
         nFold: 3,
-        normalize: false,
-        reduce: false, // default value
+        normalize: true,
+        cacheSize: 3500, // MB
+        reduce: false, // default value - true
         retainedVariance: 0.99 // default value
     });
     svm.on('training-progressed', function (progressRate, remainingTime){
         console.log('%d% - %s remaining...', progressRate * 100, hd(remainingTime));
     });
-//    svm.once('dataset-reduced', function(oldDim, newDim, retainedVar){
-//        console.log('Dataset dimensions reduced from %d to %d features using PCA.', oldDim, newDim);
-//        console.log('%d% of the variance have been retained.', retainedVar* 100);
-//    });
+    svm.once('dataset-reduced', function(oldDim, newDim, retainedVar){
+        console.log('Dataset dimensions reduced from %d to %d features using PCA.', oldDim, newDim);
+        console.log('%d% of the variance have been retained.', retainedVar* 100);
+    });
     svm.once('trained', function(report){
+
         console.log('SVM trained. report :\n%s', JSON.stringify(report, null, '\t'));
         console.log('Total training time : %s', hd(new Date() - start));
 
@@ -38,7 +43,7 @@ var svmTrain = function (data, done) {
 //
 //        });
 
-        done(report);
+        done(report, svm);
     });
     console.log('Start training. May take a while...');
     svm.train(data);
@@ -47,6 +52,7 @@ var svmTrain = function (data, done) {
 module.exports.svmTrain = svmTrain;
 
 module.exports.svmNFZ = function(directory, done) {
+    console.log("Construct all feature sets for directory " + directory);
     nfzAlg.constructAllFeatureSets(directory, function(data){
         svmTrain(data, function(report) {
             done(report);
@@ -82,7 +88,7 @@ module.exports.svmSNgrams = function(directory, done){
     snGrams.parseAllDependencyTrees(directory, function(features){
 
         var parsedFeatures = features.map(function(feature){
-            var author = null;
+
             if(feature[1] == "H")
                 feature[1] = 1;
             else if(feature[1] == "J"){

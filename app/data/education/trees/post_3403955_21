@@ -1,0 +1,11 @@
+root(ROOT-0, urlLink-1)
+dobj(urlLink-1, Indiglo-2)
+mark(kind-9, because-4)
+nsubj(kind-9, that-5)
+cop(kind-9, is-6)
+det(kind-9, the-7)
+amod(kind-9, coolest-8)
+advcl(urlLink-1, kind-9)
+prep(kind-9, of-10)
+pobj(of-10, light-11)
+

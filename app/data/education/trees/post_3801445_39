@@ -1,0 +1,13 @@
+root(ROOT-0, urlLink-1)
+dobj(urlLink-1, One-2)
+prep(One-2, of-3)
+det(Wolsan-5, the-4)
+pobj(of-3, Wolsan-5)
+nsubj(think-8, I-7)
+dep(One-2, think-8)
+dep(One-2, temples-10)
+prep(temples-10, in-11)
+nn(urlLink-14, Namhansansong-12)
+nn(urlLink-14, park-13)
+pobj(in-11, urlLink-14)
+

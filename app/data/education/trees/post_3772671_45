@@ -1,0 +1,18 @@
+root(ROOT-0, urlLink-1)
+dobj(urlLink-1, Waterfall-2)
+cc(Waterfall-2, and-3)
+conj(Waterfall-2, lake-4)
+prep(urlLink-1, in-5)
+nn(Virginia-7, West-6)
+pobj(in-5, Virginia-7)
+
+mark(look-3, If-1)
+nsubj(look-3, you-2)
+advcl(see-8, look-3)
+advmod(look-3, closely-4)
+nsubj(see-8, you-6)
+aux(see-8, can-7)
+root(ROOT-0, see-8)
+nn(swimming-10, Moritz-9)
+dobj(see-8, swimming-10)
+

@@ -1,0 +1,10 @@
+root(ROOT-0, urlLink-1)
+appos(urlLink-1, NathanNewman.org-2)
+dep(urlLink-1, News-4)
+cc(News-4, and-5)
+conj(News-4, Views-6)
+nn(Qaeda-11, Bush-8)
+nn(Qaeda-11, Fought-9)
+nn(Qaeda-11, Al-10)
+dep(News-4, Qaeda-11)
+

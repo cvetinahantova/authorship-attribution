@@ -1,0 +1,6 @@
+nsubj(NERD-5, Jolanda-1)
+cop(NERD-5, is-2)
+predet(NERD-5, such-3)
+det(NERD-5, a-4)
+root(ROOT-0, NERD-5)
+

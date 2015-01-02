@@ -1,0 +1,8 @@
+root(ROOT-0, urlLink-1)
+nsubj(met-3, I-2)
+ccomp(urlLink-1, met-3)
+det(Aussie-7, this-4)
+advmod(tall-6, really-5)
+amod(Aussie-7, tall-6)
+dobj(met-3, Aussie-7)
+

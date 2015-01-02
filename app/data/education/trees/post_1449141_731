@@ -1,0 +1,17 @@
+nn(Cockburn-3, urlLink-1)
+nn(Cockburn-3, Alexander-2)
+root(ROOT-0, Cockburn-3)
+aux(Gone-7, Has-5)
+nsubj(Gone-7, Bush-6)
+dep(Cockburn-3, Gone-7)
+prep(Gone-7, Over-8)
+det(Edge-10, the-9)
+pobj(Over-8, Edge-10)
+
+nsubj(imploding-6, Looks-1)
+prep(Looks-1, like-2)
+pobj(like-2, Bush-3)
+amod(Bush-3, many-4)
+aux(imploding-6, be-5)
+root(ROOT-0, imploding-6)
+

@@ -1,0 +1,10 @@
+root(ROOT-0, urlLink-1)
+dobj(urlLink-1, Reject-2)
+det(Administration-5, the-3)
+nn(Administration-5, Bush-4)
+poss(Bill-9, Administration-5)
+possessive(Administration-5, 's-6)
+nn(Bill-9, Dangerous-7)
+nn(Bill-9, Energy-8)
+nsubj(urlLink-1, Bill-9)
+

@@ -1,0 +1,11 @@
+amod(Evidence-3, urlLink-1)
+amod(Evidence-3, New-2)
+root(ROOT-0, Evidence-3)
+nsubj('d-7, U.S.-5)
+advmod('d-7, OK-6)
+dep(Evidence-3, 'd-7)
+poss(War-12, Argentina-8)
+possessive(Argentina-8, 's-9)
+nn(War-12, Dirty-11)
+dobj('d-7, War-12)
+

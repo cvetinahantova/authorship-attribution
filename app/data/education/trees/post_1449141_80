@@ -1,0 +1,12 @@
+root(ROOT-0, urlLink-1)
+nn(MRI-7, BBC-2)
+nn(MRI-7, NEWS-3)
+nn(MRI-7, |-4)
+nn(MRI-7, Health-5)
+nn(MRI-7, |-6)
+nsubj(scans-8, MRI-7)
+ccomp(urlLink-1, scans-8)
+ccomp(scans-8, spot-10)
+amod(dementia-12, future-11)
+dobj(spot-10, dementia-12)
+

@@ -1,0 +1,7 @@
+nsubj(filled-3, I-1)
+advmod(filled-3, finally-2)
+root(ROOT-0, filled-3)
+poss(profile-6, our-4)
+amod(profile-6, my-5)
+dobj(filled-3, profile-6)
+

@@ -1,0 +1,17 @@
+nn(sesak-2, tanya-1)
+root(ROOT-0, sesak-2)
+amod(sunyi-5, pedih-4)
+dep(sesak-2, sunyi-5)
+nn(cinta-13, dingin-7)
+nn(cinta-13, ah-8)
+dep(cinta-13, mengapa-10)
+nn(cinta-13, kau-11)
+nn(cinta-13, disini-12)
+dep(sunyi-5, cinta-13)
+
+nsubj(kau-2, mengapa-1)
+root(ROOT-0, kau-2)
+amod(erat-5, memelukku-3)
+amod(erat-5, begitu-4)
+dobj(kau-2, erat-5)
+

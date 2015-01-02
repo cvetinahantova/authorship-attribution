@@ -1,0 +1,8 @@
+nn(tatemono-2, Takai-1)
+root(ROOT-0, tatemono-2)
+prep(tatemono-2, from-4)
+nn(urlLink-8, Keio-5)
+nn(urlLink-8, Plaza-6)
+nn(urlLink-8, urlLink-7)
+pobj(from-4, urlLink-8)
+

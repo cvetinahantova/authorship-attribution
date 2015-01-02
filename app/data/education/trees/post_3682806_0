@@ -1,0 +1,9 @@
+root(ROOT-0, and-1)
+prep(and-1, by-2)
+amod(I-6, un-humanitarin-4)
+pobj(by-2, I-6)
+advmod(certainly-8, most-7)
+advmod(meant-9, certainly-8)
+vmod(I-6, meant-9)
+dobj(meant-9, inhumanitarian-11)
+

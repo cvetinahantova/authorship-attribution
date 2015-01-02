@@ -1,0 +1,13 @@
+nsubj(viewed-8, Ricefield-1)
+vmod(Ricefield-1, called-3)
+det(tanbo-5, a-4)
+dobj(called-3, tanbo-5)
+advmod(viewed-8, as-7)
+root(ROOT-0, viewed-8)
+prep(viewed-8, from-9)
+det(graveyard-11, the-10)
+pobj(from-9, graveyard-11)
+
+nn(urlLink-2, urlLink-1)
+root(ROOT-0, urlLink-2)
+

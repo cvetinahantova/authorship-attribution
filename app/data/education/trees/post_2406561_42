@@ -1,0 +1,12 @@
+nsubj(fucking-2, I-1)
+root(ROOT-0, fucking-2)
+nn(cramps-4, hate-3)
+dobj(fucking-2, cramps-4)
+
+root(ROOT-0, Especially-1)
+advmod(OVER-6, when-2)
+poss(period-4, my-3)
+nsubj(OVER-6, period-4)
+cop(OVER-6, is-5)
+dep(Especially-1, OVER-6)
+

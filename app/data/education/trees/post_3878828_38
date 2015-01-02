@@ -1,0 +1,6 @@
+det(urlLink-4, The-1)
+amod(urlLink-4, other-2)
+nn(urlLink-4, side-3)
+nsubj(urlLink-5, urlLink-4)
+root(ROOT-0, urlLink-5)
+

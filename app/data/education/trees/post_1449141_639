@@ -1,0 +1,11 @@
+root(ROOT-0, urlLink-1)
+nn(Project-4, National-2)
+nn(Project-4, Priorities-3)
+dobj(urlLink-1, Project-4)
+advmod(Go-10, Where-6)
+aux(Go-10, Do-7)
+poss(Taxes-9, Your-8)
+nsubj(Go-10, Taxes-9)
+dep(Project-4, Go-10)
+dobj(Go-10, 2004-11)
+

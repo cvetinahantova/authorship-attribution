@@ -1,0 +1,11 @@
+amod(fortune-2, Todays-1)
+root(ROOT-0, fortune-2)
+poss(first-5, Our-4)
+dep(fortune-2, first-5)
+cc(first-5, and-6)
+amod(love-8, last-7)
+conj(first-5, love-8)
+rcmod(first-5, is-9)
+
+root(ROOT-0, self-love-1)
+

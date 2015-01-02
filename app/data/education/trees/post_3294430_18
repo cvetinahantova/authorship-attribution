@@ -1,0 +1,8 @@
+root(ROOT-0, urlLink-1)
+det(copyright-5, an-2)
+amod(copyright-5, unlikely-3)
+nn(copyright-5, shiai-4)
+dobj(urlLink-1, copyright-5)
+nn(moritsugui-7, @katsumoto-6)
+nsubj(urlLink-1, moritsugui-7)
+

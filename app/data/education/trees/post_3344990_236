@@ -1,0 +1,12 @@
+root(ROOT-0, urlLink-1)
+dobj(urlLink-1, Jeremy-2)
+cc(Jeremy-2, and-3)
+poss(Kacee-6, his-4)
+nn(Kacee-6, date-5)
+conj(Jeremy-2, Kacee-6)
+prep(urlLink-1, at-7)
+det(Prom-10, the-8)
+num(Prom-10, 2004-9)
+pobj(at-7, Prom-10)
+dep(urlLink-1, urlLink-12)
+

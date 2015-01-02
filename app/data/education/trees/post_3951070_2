@@ -1,0 +1,11 @@
+nn(Rugby-2, urlLink-1)
+root(ROOT-0, Rugby-2)
+auxpass(made-8, is-4)
+advmod(made-8, definitely-5)
+det(game-7, a-6)
+dobj(made-8, game-7)
+dep(Rugby-2, made-8)
+prep(made-8, in-9)
+nn(urlLink-11, heaven-10)
+pobj(in-9, urlLink-11)
+

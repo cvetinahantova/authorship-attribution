@@ -1,0 +1,7 @@
+nsubj(band-5, oasis-1)
+cop(band-5, is-2)
+det(band-5, the-3)
+amod(band-5, greatest-4)
+root(ROOT-0, band-5)
+advmod(band-5, ever-6)
+

@@ -1,0 +1,10 @@
+dep(gon-4, What-1)
+aux(gon-4, am-2)
+nsubj(gon-4, i-3)
+root(ROOT-0, gon-4)
+aux(do-6, na-5)
+xcomp(gon-4, do-6)
+num(oh-8, ???-7)
+npadvmod(no-9, oh-8)
+dep(do-6, no-9)
+

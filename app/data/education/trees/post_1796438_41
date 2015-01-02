@@ -1,0 +1,8 @@
+num(Hours-2, 12-1)
+nsubj(Oh-5, Hours-2)
+cc(Hours-2, and-3)
+conj(Hours-2, Counting-4)
+root(ROOT-0, Oh-5)
+
+root(ROOT-0, Shit-1)
+

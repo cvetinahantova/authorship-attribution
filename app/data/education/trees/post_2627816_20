@@ -1,0 +1,21 @@
+nn(GovGaming-2, GovGaming-1)
+nsubj(dead-6, GovGaming-2)
+aux(dead-6, has-3)
+cop(dead-6, been-4)
+advmod(dead-6, really-5)
+root(ROOT-0, dead-6)
+advmod(dead-6, lately-7)
+
+dep(reminder-6, So-1)
+nsubj(reminder-6, here-2)
+cop(reminder-6, is-3)
+advmod(reminder-6, just-4)
+det(reminder-6, a-5)
+root(ROOT-0, reminder-6)
+aux(visit-8, to-7)
+vmod(reminder-6, visit-8)
+dobj(visit-8, GG-9)
+
+nn(GovGaming-2, urlLink-1)
+root(ROOT-0, GovGaming-2)
+

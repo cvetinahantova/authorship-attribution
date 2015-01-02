@@ -1,0 +1,22 @@
+root(ROOT-0, Hiya-1)
+
+expl(posts-7, There-1)
+auxpass(posts-7, 's-2)
+cop(posts-7, been-3)
+det(posts-7, a-4)
+amod(posts-7, few-5)
+amod(posts-7, new-6)
+root(ROOT-0, posts-7)
+prep(posts-7, to-8)
+det(Board-11, the-9)
+nn(Board-11, Message-10)
+pobj(to-8, Board-11)
+prep(posts-7, over-12)
+det(days-16, the-13)
+amod(days-16, last-14)
+amod(days-16, few-15)
+pobj(over-12, days-16)
+
+root(ROOT-0, Enjoy-1)
+dep(Enjoy-1, o-3)
+

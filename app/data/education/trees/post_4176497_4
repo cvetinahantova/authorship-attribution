@@ -1,0 +1,11 @@
+root(ROOT-0, urlLink-1)
+expl(were-3, There-2)
+ccomp(urlLink-1, were-3)
+det(dozen-6, a-4)
+amod(dozen-6, good-5)
+nsubj(were-3, dozen-6)
+prep(dozen-6, of-7)
+det(shrines-10, these-8)
+amod(shrines-10, minor-type-9)
+pobj(of-7, shrines-10)
+

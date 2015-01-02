@@ -1,0 +1,16 @@
+nn(wards-3, urlLink-1)
+nn(wards-3, star-2)
+root(ROOT-0, wards-3)
+dep(wards-3, faith-5)
+vmod(faith-5, based-6)
+dobj(based-6, defense-7)
+
+root(ROOT-0, take-1)
+dobj(take-1, action-2)
+aux(stop-4, to-3)
+vmod(take-1, stop-4)
+det(fantasy-6, this-5)
+dobj(stop-4, fantasy-6)
+prep(fantasy-6, of-7)
+pobj(of-7, faith-8)
+

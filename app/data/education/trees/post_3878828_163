@@ -1,0 +1,9 @@
+det(view-2, A-1)
+npadvmod(out-3, view-2)
+advmod(from-4, out-3)
+root(ROOT-0, from-4)
+nn(urlLink-8, Hotaru-5)
+nn(urlLink-8, Bridge-6)
+nn(urlLink-8, urlLink-7)
+pobj(from-4, urlLink-8)
+

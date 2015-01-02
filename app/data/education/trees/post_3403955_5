@@ -1,0 +1,7 @@
+root(ROOT-0, urlLink-1)
+nn(urlLink-6, Gimmee-2)
+amod(urlLink-6, sime-3)
+nn(urlLink-6, leg-4)
+nn(urlLink-6, baby-5)
+nsubj(urlLink-1, urlLink-6)
+

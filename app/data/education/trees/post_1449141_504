@@ -1,0 +1,29 @@
+nn(Games-3, urlLink-1)
+nn(Games-3, Capital-2)
+nsubj(Kerry-5, Games-3)
+cop(Kerry-5, Is-4)
+root(ROOT-0, Kerry-5)
+vmod(Kerry-5, improving-6)
+advmod(enough-8, fast-7)
+advmod(improving-6, enough-8)
+
+aux(go-3, Will-1)
+nsubj(go-3, Edwards-2)
+root(ROOT-0, go-3)
+acomp(go-3, negative-4)
+
+cop(bipolar-3, Is-1)
+nsubj(bipolar-3, Dean-2)
+root(ROOT-0, bipolar-3)
+
+aux(click-4, Can-1)
+nsubj(click-4, Clark-2)
+advmod(click-4, ever-3)
+root(ROOT-0, click-4)
+
+cop(front-5, Is-1)
+nsubj(front-5, Sharpton-2)
+det(front-5, a-3)
+nn(front-5, GOP-4)
+root(ROOT-0, front-5)
+

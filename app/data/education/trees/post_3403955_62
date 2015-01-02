@@ -1,0 +1,11 @@
+root(ROOT-0, urlLink-1)
+dobj(urlLink-1, Abby-2)
+cc(Abby-2, and-3)
+conj(Abby-2, mommy-4)
+appos(mommy-4, april-6)
+det(Pretty-9, both-8)
+nsubj(urlLink-1, Pretty-9)
+prep(Pretty-9, in-10)
+amod(urlLink-12, pink-11)
+pobj(in-10, urlLink-12)
+

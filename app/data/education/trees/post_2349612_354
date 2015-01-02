@@ -1,0 +1,35 @@
+root(ROOT-0, so-1)
+nsubj(lara-4, what-2)
+cop(lara-4, 's-3)
+dep(so-1, lara-4)
+vmod(lara-4, been-5)
+advmod(been-5, up-6)
+prep(up-6, to-7)
+advmod(been-5, lately-8)
+prep(lara-4, besides-10)
+pcomp(besides-10, obsessing-11)
+prt(obsessing-11, over-12)
+advmod(go-21, how-13)
+csubj(go-21, meeting-14)
+det(friend-18, an-15)
+amod(friend-18, old-16)
+amod(friend-18, online-17)
+dobj(meeting-14, friend-18)
+aux(go-21, will-19)
+advmod(go-21, actually-20)
+ccomp(obsessing-11, go-21)
+prep(go-21, in-22)
+pobj(in-22, person-23)
+cc(obsessing-11, and-24)
+conj(obsessing-11, taking-25)
+dobj(taking-25, oodles-26)
+prep(oodles-26, of-27)
+amod(quizzes-29, online-28)
+pobj(of-27, quizzes-29)
+
+OpenJDK 64-Bit Server VM warning: INFO: os::commit_memory(0x00000007a4d87000, 196608, 0) failed; error='Cannot allocate memory' (errno=12)
+#
+# There is insufficient memory for the Java Runtime Environment to continue.
+# Native memory allocation (malloc) failed to allocate 196608 bytes for committing reserved memory.
+# An error report file with more information is saved as:
+# /home/cvetina/stanford-parser-full-2014-08-27/scripts/education/hs_err_pid3180.log

@@ -1,0 +1,18 @@
+amod(tryouts-2, Drumline-1)
+nsubj(are-3, tryouts-2)
+root(ROOT-0, are-3)
+tmod(are-3, tomorrow-4)
+cc(are-3, and-6)
+nsubj(sightreading-10, it-7)
+aux(sightreading-10, 's-8)
+advmod(sightreading-10, all-9)
+conj(are-3, sightreading-10)
+advmod(good-13, !!-11)
+neg(good-13, Not-12)
+acomp(sightreading-10, good-13)
+neg(good-16, not-15)
+dep(good-13, good-16)
+
+advmod(nerve-racking-2, Very-1)
+root(ROOT-0, nerve-racking-2)
+

@@ -1,0 +1,11 @@
+root(ROOT-0, urlLink-1)
+amod(stones-5, More-2)
+nn(stones-5, Buddhist-3)
+nn(stones-5, prayer-4)
+dobj(urlLink-1, stones-5)
+vmod(stones-5, seen-7)
+prep(seen-7, on-8)
+poss(hike-11, my-9)
+nn(hike-11, Wednesday-10)
+pobj(on-8, hike-11)
+

@@ -1,0 +1,15 @@
+nn(Ballmer-3, urlLink-1)
+nn(Ballmer-3, Steve-2)
+root(ROOT-0, Ballmer-3)
+nn(CEO-6, Microsoft-5)
+appos(Ballmer-3, CEO-6)
+
+det(guy-2, This-1)
+nsubj(makes-3, guy-2)
+root(ROOT-0, makes-3)
+nsubj(look-5, Dean-4)
+ccomp(makes-3, look-5)
+acomp(look-5, sedated-6)
+
+root(ROOT-0, Damn-1)
+

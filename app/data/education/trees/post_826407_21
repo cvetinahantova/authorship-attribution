@@ -1,0 +1,10 @@
+nn(School-2, Start-1)
+root(ROOT-0, School-2)
+det(week-4, this-3)
+dep(School-2, week-4)
+amod(School-2, excited-6)
+cc(excited-6, but-7)
+conj(excited-6, nervous-8)
+
+root(ROOT-0, hmmm-1)
+

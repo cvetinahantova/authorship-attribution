@@ -1,0 +1,12 @@
+nn(Mild-3, urlLink-1)
+nn(Mild-3, Entrez-2)
+nsubjpass(associated-7, Mild-3)
+amod(impairment-5, cognitive-4)
+dep(Mild-3, impairment-5)
+auxpass(associated-7, is-6)
+root(ROOT-0, associated-7)
+prep(associated-7, with-8)
+amod(symptoms-11, characteristic-9)
+amod(symptoms-11, neuropsychiatric-10)
+pobj(with-8, symptoms-11)
+

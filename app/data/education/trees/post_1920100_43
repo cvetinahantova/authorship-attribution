@@ -1,0 +1,113 @@
+amod(God-5, strong-1)
+nn(God-5, >-2)
+nn(God-5, June-3)
+nn(God-5, 2nd-4)
+nsubj(Brought-6, God-5)
+root(ROOT-0, Brought-6)
+dobj(Brought-6, me-7)
+prep(Brought-6, into-8)
+det(world-10, this-9)
+pobj(into-8, world-10)
+
+nsubj(23-3, I-1)
+cop(23-3, am-2)
+root(ROOT-0, 23-3)
+advmod(23-3, now-4)
+
+nsubj(reasons-3, Top-1)
+num(Top-1, 23-2)
+root(ROOT-0, reasons-3)
+advmod(greatful-7, why-4)
+nsubj(greatful-7, I-5)
+cop(greatful-7, am-6)
+advcl(reasons-3, greatful-7)
+neg(order-10, no-9)
+appos(greatful-7, order-10)
+dep(greatful-7, 1-12)
+
+root(ROOT-0, God-1)
+dep(God-1, 2-2)
+
+nn(3-2, Health-1)
+root(ROOT-0, 3-2)
+
+root(ROOT-0, Family-1)
+num(Family-1, 4-2)
+
+root(ROOT-0, Sergio-1)
+num(Sergio-1, 5-2)
+
+nn(Family-2, Church-1)
+root(ROOT-0, Family-2)
+dep(Family-2, 6-3)
+
+root(ROOT-0, Friends-1)
+num(Friends-1, 7-2)
+
+root(ROOT-0, Sense-1)
+prep(Sense-1, of-2)
+number(8-4, Humor-3)
+pobj(of-2, 8-4)
+
+nn(Culture-2, My-1)
+root(ROOT-0, Culture-2)
+dep(Culture-2, 9-3)
+
+poss(career-2, My-1)
+root(ROOT-0, career-2)
+dep(career-2, 10-3)
+
+poss(nieces-2, My-1)
+root(ROOT-0, nieces-2)
+cc(nieces-2, and-3)
+conj(nieces-2, nephews-4)
+number(total-7, 11-6)
+dep(nieces-2, total-7)
+amod(nieces-2, 11-9)
+
+poss(car-2, My-1)
+root(ROOT-0, car-2)
+dep(car-2, 12-3)
+
+root(ROOT-0, Music-1)
+det(kinds-4, all-3)
+dep(13-6, kinds-4)
+dep(Music-1, 13-6)
+
+root(ROOT-0, Movies-1)
+num(Movies-1, 14-2)
+
+det(Bible-2, The-1)
+root(ROOT-0, Bible-2)
+dep(Bible-2, 15-3)
+
+root(ROOT-0, Technology-1)
+dep(Technology-1, 16-2)
+
+root(ROOT-0, Beaches-1)
+num(Beaches-1, 17-2)
+
+discourse(weather-2, Good-1)
+root(ROOT-0, weather-2)
+dobj(weather-2, 18-3)
+
+root(ROOT-0, Insurance-1)
+appos(Insurance-1, car-3)
+nn(dental-7, medical-5)
+dep(car-3, dental-7)
+dep(dental-7, etc.-9)
+amod(Insurance-1, 19-11)
+
+root(ROOT-0, Books-1)
+num(Books-1, 20-2)
+
+root(ROOT-0, Home-1)
+dep(Home-1, 21-2)
+
+nn(Moon-2, Sailor-1)
+root(ROOT-0, Moon-2)
+dep(Moon-2, 22-3)
+
+root(ROOT-0, Nature-1)
+num(Nature-1, 23-2)
+

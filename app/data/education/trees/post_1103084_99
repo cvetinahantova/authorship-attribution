@@ -1,0 +1,11 @@
+root(ROOT-0, drowning-1)
+
+nsubj(half-assed-2, -LSB--1)
+root(ROOT-0, half-assed-2)
+xcomp(half-assed-2, choke-3)
+
+root(ROOT-0, gurgle-1)
+
+nn(-RSB--2, sputter-1)
+root(ROOT-0, -RSB--2)
+

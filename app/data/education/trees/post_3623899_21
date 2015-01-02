@@ -1,0 +1,133 @@
+root(ROOT-0, Hello-1)
+
+root(ROOT-0, nonnoo-1)
+dep(nonnoo-1, hi-2)
+
+nsubj(betta-3, That-1)
+cop(betta-3, 's-2)
+root(ROOT-0, betta-3)
+
+nsubj(yo-2, or-1)
+root(ROOT-0, yo-2)
+
+root(ROOT-0, nah-1)
+
+nsubj(me-4, that-1)
+cop(me-4, 's-2)
+neg(me-4, not-3)
+root(ROOT-0, me-4)
+advmod(me-4, at-5)
+pobj(at-5, all-6)
+
+advmod(thank-3, Well-1)
+nsubj(thank-3, all-2)
+root(ROOT-0, thank-3)
+prep(thank-3, to-4)
+pobj(to-4, jess-5)
+
+root(ROOT-0, Tat-1)
+nsubj(got-4, I-2)
+aux(got-4, 've-3)
+ccomp(Tat-1, got-4)
+det(blog-6, a-5)
+dobj(got-4, blog-6)
+
+amod(cool-2, kinda-1)
+root(ROOT-0, cool-2)
+
+nsubj(tokin-2, im-1)
+root(ROOT-0, tokin-2)
+prep(tokin-2, to-3)
+pobj(to-3, myself-4)
+
+nsubj(wan-2, i-1)
+root(ROOT-0, wan-2)
+aux(give-4, na-3)
+xcomp(wan-2, give-4)
+det(shoutout-6, a-5)
+dobj(give-4, shoutout-6)
+aux(jess-8, to-7)
+vmod(shoutout-6, jess-8)
+nn(MUCH-13, THANK-10)
+nn(MUCH-13, U-11)
+nn(MUCH-13, SO-12)
+dep(jess-8, MUCH-13)
+
+advmod(happy-2, So-1)
+root(ROOT-0, happy-2)
+mark(found-5, that-3)
+nsubj(found-5, ive-4)
+dep(happy-2, found-5)
+dobj(found-5, most-6)
+prep(most-6, of-7)
+poss(pals-11, my-8)
+amod(pals-11, primary-9)
+nn(pals-11, school-10)
+pobj(of-7, pals-11)
+
+advmod(teo-3, Especially-1)
+nn(teo-3, Jessica-2)
+root(ROOT-0, teo-3)
+amod(yee-5, kiat-4)
+dep(teo-3, yee-5)
+
+root(ROOT-0, ahh-1)
+
+root(ROOT-0, feels-1)
+advmod(good-3, so-2)
+dep(feels-1, good-3)
+
+nsubjpass(found-3, she-1)
+auxpass(found-3, 's-2)
+root(ROOT-0, found-3)
+
+root(ROOT-0, atlast-1)
+
+root(ROOT-0, Missed-1)
+dep(Missed-1, her-2)
+
+advmod(found-6, Well-1)
+advmod(found-6, now-2)
+det(i-4, that-3)
+nsubj(found-6, i-4)
+aux(found-6, 've-5)
+ccomp(need-10, found-6)
+dobj(found-6, her-7)
+nsubj(need-10, i-9)
+root(ROOT-0, need-10)
+neg(need-10, not-11)
+dep(need-10, worry-12)
+
+dep(u-5, thnk-1)
+nn(friendster-3, u-2)
+dobj(thnk-1, friendster-3)
+root(ROOT-0, u-5)
+rcmod(u-5, did-6)
+det(job-9, a-7)
+amod(job-9, great-8)
+dobj(did-6, job-9)
+
+root(ROOT-0, k.-1)
+
+nn(stop-3, i-1)
+nn(stop-3, beta-2)
+nsubj(fer-5, stop-3)
+advmod(fer-5, here-4)
+root(ROOT-0, fer-5)
+tmod(fer-5, today-6)
+
+nsubj(continue-2, ill-1)
+root(ROOT-0, continue-2)
+tmod(continue-2, tomorrow-3)
+
+amod(nite-2, gd-1)
+root(ROOT-0, nite-2)
+
+nsubj(er-2, to-1)
+root(ROOT-0, er-2)
+
+root(ROOT-0, evryne-1)
+
+nn(!!-2, tata-1)
+root(ROOT-0, !!-2)
+

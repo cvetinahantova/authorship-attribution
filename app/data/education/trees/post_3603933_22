@@ -1,0 +1,16 @@
+root(ROOT-0, urlLink-1)
+poss(students-3, My-2)
+dep(urlLink-1, students-3)
+dep(urlLink-1, Taylor-5)
+cc(Taylor-5, and-6)
+conj(Taylor-5, Hudson-7)
+
+nsubj(fallen-4, I-1)
+aux(fallen-4, have-2)
+advmod(fallen-4, already-3)
+root(ROOT-0, fallen-4)
+prep(fallen-4, in-5)
+pobj(in-5, love-6)
+prep(fallen-4, with-7)
+pobj(with-7, them-8)
+

@@ -1,0 +1,8 @@
+root(ROOT-0, urlLink-1)
+xcomp(urlLink-1, Jumping-2)
+prep(Jumping-2, into-3)
+nn(Lake-5, Ross-4)
+pobj(into-3, Lake-5)
+nn(urlLink-8, WA-7)
+appos(Lake-5, urlLink-8)
+

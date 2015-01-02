@@ -1,0 +1,15 @@
+nsubj(urlLink-2, Check-1)
+root(ROOT-0, urlLink-2)
+dobj(urlLink-2, this-3)
+prt(urlLink-2, out-4)
+
+nsubj(lady-6, Shara-1)
+cop(lady-6, is-2)
+predet(lady-6, such-3)
+det(lady-6, a-4)
+amod(lady-6, talented-5)
+root(ROOT-0, lady-6)
+
+nsubj(cried-2, I-1)
+root(ROOT-0, cried-2)
+

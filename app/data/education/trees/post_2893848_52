@@ -1,0 +1,28 @@
+nsubj(urlLink-3, Check-1)
+advmod(urlLink-3, out-2)
+root(ROOT-0, urlLink-3)
+num(Words-5, 1000-4)
+dobj(urlLink-3, Words-5)
+
+nsubj(idea-5, It-1)
+cop(idea-5, 's-2)
+det(idea-5, a-3)
+amod(idea-5, neat-4)
+root(ROOT-0, idea-5)
+
+nsubjpass(encouraged-4, I-1)
+aux(encouraged-4, 've-2)
+auxpass(encouraged-4, been-3)
+root(ROOT-0, encouraged-4)
+aux(submit-6, to-5)
+ccomp(encouraged-4, submit-6)
+cc(submit-6, and-7)
+aux(encourage-9, to-8)
+conj(submit-6, encourage-9)
+dobj(encourage-9, others-10)
+aux(submit-12, to-11)
+xcomp(encourage-9, submit-12)
+
+advmod(submit-2, So-1)
+root(ROOT-0, submit-2)
+

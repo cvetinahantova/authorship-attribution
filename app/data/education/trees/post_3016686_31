@@ -1,0 +1,12 @@
+nn(urlLink-3, Jimmy-1)
+nn(urlLink-3, Somerville-2)
+nsubj(is-4, urlLink-3)
+root(ROOT-0, is-4)
+advmod(too-6, back-5)
+advmod(is-4, too-6)
+cc(too-6, but-8)
+advmod(in-10, only-9)
+conj(too-6, in-10)
+nn(?!-12, Germany-11)
+pobj(in-10, ?!-12)
+

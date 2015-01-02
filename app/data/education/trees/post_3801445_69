@@ -1,0 +1,17 @@
+nsubj(quit-6, urlLink-1)
+amod(man-4, Hey-3)
+dep(urlLink-1, man-4)
+root(ROOT-0, quit-6)
+xcomp(quit-6, riding-7)
+poss(ass-9, my-8)
+dobj(riding-7, ass-9)
+
+cc(urlLink-12, or-1)
+nn(you-6, Wow-4)
+nsubj(urlLink-12, you-6)
+dep(a-8, have-7)
+prep(you-6, a-8)
+dep(a-8, small-9)
+dep(you-6, ass-10)
+root(ROOT-0, urlLink-12)
+

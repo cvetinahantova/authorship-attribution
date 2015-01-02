@@ -1,0 +1,7 @@
+root(ROOT-0, urlLink-1)
+nn(Joe-3, King-2)
+dobj(urlLink-1, Joe-3)
+prep(Joe-3, at-4)
+nn(Castle-6, Linderhof-5)
+pobj(at-4, Castle-6)
+

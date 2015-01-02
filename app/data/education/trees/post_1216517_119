@@ -1,0 +1,26 @@
+nsubj(drank-2, I-1)
+root(ROOT-0, drank-2)
+det(lot-4, a-3)
+dobj(drank-2, lot-4)
+prep(lot-4, of-5)
+pobj(of-5, coffee-6)
+tmod(drank-2, yesterday-7)
+cc(drank-2, and-8)
+conj(drank-2, had-9)
+aux(pee-11, to-10)
+xcomp(had-9, pee-11)
+
+dep(la-2, la-1)
+root(ROOT-0, la-2)
+pobj(la-2, la-3)
+
+nsubj(wish-2, i-1)
+root(ROOT-0, wish-2)
+nsubj(belly-5, i-3)
+aux(belly-5, could-4)
+ccomp(wish-2, belly-5)
+dobj(belly-5, dance-6)
+
+root(ROOT-0, stop-1)
+dobj(stop-1, sign-2)
+

@@ -1,0 +1,12 @@
+nn(Columnist-3, urlLink-1)
+nn(Columnist-3, Op-Ed-2)
+root(ROOT-0, Columnist-3)
+det(Health-6, The-5)
+dep(Columnist-3, Health-6)
+prep(Health-6, of-7)
+pobj(of-7, Nations-8)
+det(Health-12, The-11)
+dep(Health-6, Health-12)
+prep(Health-12, of-13)
+pobj(of-13, Nations-14)
+

@@ -1,0 +1,18 @@
+root(ROOT-0, urlLink-1)
+det(view-3, A-2)
+dobj(urlLink-1, view-3)
+prep(view-3, of-4)
+pobj(of-4, one-5)
+prep(view-3, of-6)
+det(peaks-9, the-7)
+amod(peaks-9, various-8)
+pobj(of-6, peaks-9)
+prep(peaks-9, of-10)
+det(wall-12, the-11)
+pobj(of-10, wall-12)
+
+root(ROOT-0, Jeanette-1)
+dep(Jeanette-1, looking-3)
+advmod(intrepid-5, very-4)
+acomp(looking-3, intrepid-5)
+

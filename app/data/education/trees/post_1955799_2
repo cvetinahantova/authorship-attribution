@@ -1,0 +1,23 @@
+root(ROOT-0, Wanted-1)
+aux(write-3, to-2)
+xcomp(Wanted-1, write-3)
+dobj(write-3, something-4)
+tmod(write-3, today-5)
+
+nsubj('m-2, I-1)
+root(ROOT-0, 'm-2)
+prep('m-2, at-3)
+det(loss-5, a-4)
+pobj(at-3, loss-5)
+prep(loss-5, for-6)
+pobj(for-6, words-7)
+
+root(ROOT-0, Visit-1)
+poss(forum-3, my-2)
+nsubj(urlLink-4, forum-3)
+ccomp(Visit-1, urlLink-4)
+det(Art-6, The-5)
+dobj(urlLink-4, Art-6)
+prep(Art-6, of-7)
+pobj(of-7, Chill-8)
+

@@ -1,0 +1,20 @@
+nsubj(goes-2, Drifter-1)
+root(ROOT-0, goes-2)
+prt(goes-2, about-3)
+prep(goes-2, without-4)
+poss(collar-6, his-5)
+pobj(without-4, collar-6)
+
+nsubj(thrown-6, I-1)
+advmod(thrown-6, too-3)
+aux(thrown-6, have-5)
+root(ROOT-0, thrown-6)
+dobj(thrown-6, mine-7)
+prt(thrown-6, off-8)
+
+nsubj(naked-3, These-1)
+cop(naked-3, are-2)
+root(ROOT-0, naked-3)
+nn(days-6, halycon-5)
+tmod(naked-3, days-6)
+

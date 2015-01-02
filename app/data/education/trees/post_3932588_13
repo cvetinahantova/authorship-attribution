@@ -1,0 +1,18 @@
+root(ROOT-0, Thank-1)
+nsubj(Bonnie-3, you-2)
+xcomp(Thank-1, Bonnie-3)
+
+nn(Bonnie-3, urlLink-1)
+nn(Bonnie-3, Mentor-2)
+nsubj(uploaded-10, Bonnie-3)
+vmod(Bonnie-3, Leading-4)
+dobj(Leading-4, us-5)
+prep(Leading-4, in-6)
+nn(Stretch-8, Pre-run-7)
+pobj(in-6, Stretch-8)
+advmod(uploaded-10, Originally-9)
+root(ROOT-0, uploaded-10)
+prep(uploaded-10, by-11)
+nn(StepupMaryKay-13, urlLink-12)
+pobj(by-11, StepupMaryKay-13)
+

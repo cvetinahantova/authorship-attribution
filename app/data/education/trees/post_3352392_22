@@ -1,0 +1,7 @@
+nn(viewing-4, urlLink-1)
+nn(viewing-4, Cherry-2)
+nn(viewing-4, Blossom-3)
+root(ROOT-0, viewing-4)
+nn(Japan-8, Kyoto-6)
+appos(viewing-4, Japan-8)
+

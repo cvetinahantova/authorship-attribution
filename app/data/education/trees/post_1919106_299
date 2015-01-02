@@ -1,0 +1,12 @@
+nsubj(something-4, urlLink-1)
+advmod(something-4, Here-2)
+cop(something-4, 's-3)
+root(ROOT-0, something-4)
+prep(something-4, for-5)
+nn(fans-8, Fark-6)
+nn(fans-8, photoshop-7)
+pobj(for-5, fans-8)
+cc(fans-8, and-9)
+conj(fans-8, haters-10)
+advmod(something-4, alike-11)
+

@@ -1,0 +1,13 @@
+root(ROOT-0, urlLink-1)
+poss(lives-3, Whose-2)
+nsubj(disrupt-6, lives-3)
+aux(disrupt-6, will-4)
+advmod(disrupt-6, I69/269-5)
+rcmod(urlLink-1, disrupt-6)
+
+amod(lives-4, Whose-3)
+nsubj(disrupt-7, lives-4)
+aux(disrupt-7, will-5)
+advmod(disrupt-7, I69/269-6)
+root(ROOT-0, disrupt-7)
+

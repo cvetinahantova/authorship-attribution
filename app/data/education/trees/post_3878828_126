@@ -1,0 +1,19 @@
+root(ROOT-0, Wearing-1)
+poss(High-spirited-5, my-2)
+nn(High-spirited-5, Punch-4)
+dobj(Wearing-1, High-spirited-5)
+cc(High-spirited-5, and-6)
+nn(shirt-10, Funky-7)
+nn(shirt-10, music-8)
+conj(High-spirited-5, shirt-10)
+
+nsubj(pink-5, It-1)
+cop(pink-5, s-3)
+advmod(pink-5, very-4)
+root(ROOT-0, pink-5)
+cc(pink-5, and-6)
+conj(pink-5, girly-7)
+
+nn(urlLink-2, urlLink-1)
+root(ROOT-0, urlLink-2)
+

@@ -1,0 +1,12 @@
+nn(Hee-2, urlLink-1)
+nsubj(hee-3, Hee-2)
+root(ROOT-0, hee-3)
+
+nsubj(picture-3, funny-2)
+root(ROOT-0, picture-3)
+
+root(ROOT-0, Posted-1)
+prep(Posted-1, by-2)
+nn(Hello-4, urlLink-3)
+pobj(by-2, Hello-4)
+

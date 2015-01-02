@@ -1,0 +1,8 @@
+root(ROOT-0, urlLink-1)
+nn(Enrich-5, Medicare-2)
+nn(Enrich-5, Bill-3)
+nn(Enrich-5, Would-4)
+dobj(urlLink-1, Enrich-5)
+nsubj(urlLink-1, Companies-6)
+appos(Companies-6, washingtonpost.com-8)
+

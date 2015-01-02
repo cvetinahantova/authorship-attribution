@@ -1,0 +1,7 @@
+nn(Therapeutic-2, urlLink-1)
+nsubj(approaches-3, Therapeutic-2)
+root(ROOT-0, approaches-3)
+prep(approaches-3, to-4)
+amod(diseases-6, protein-misfolding-5)
+pobj(to-4, diseases-6)
+

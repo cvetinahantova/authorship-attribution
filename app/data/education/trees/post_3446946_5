@@ -1,0 +1,12 @@
+nsubj(learn-2, Go-1)
+root(ROOT-0, learn-2)
+nsubj(urlLink-4, yourself-3)
+ccomp(learn-2, urlLink-4)
+dobj(urlLink-4, something-5)
+
+root(ROOT-0, Have-1)
+det(nosh-3, a-2)
+dobj(Have-1, nosh-3)
+prep(nosh-3, of-4)
+pobj(of-4, cheesecake-5)
+

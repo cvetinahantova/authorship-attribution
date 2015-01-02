@@ -1,0 +1,12 @@
+tmod(sent-5, Today-1)
+nsubjpass(sent-5, I-2)
+auxpass(sent-5, was-3)
+neg(sent-5, not-4)
+root(ROOT-0, sent-5)
+prt(sent-5, up-6)
+det(river-8, the-7)
+dobj(sent-5, river-8)
+prep(sent-5, without-9)
+det(wombat-11, a-10)
+pobj(without-9, wombat-11)
+

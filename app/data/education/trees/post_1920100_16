@@ -1,0 +1,10 @@
+advmod(guard-6, Above-2)
+advmod(Above-2, all-3)
+advmod(Above-2, else-4)
+root(ROOT-0, guard-6)
+poss(heart-8, your-7)
+dobj(guard-6, heart-8)
+
+number(4:23-3, Proverbs-2)
+root(ROOT-0, 4:23-3)
+

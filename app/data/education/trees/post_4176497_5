@@ -1,0 +1,18 @@
+nsubj(forgot-6, urlLink-1)
+advmod(forgot-6, Just-2)
+prep(forgot-6, in-3)
+pobj(in-3, case-4)
+nsubj(forgot-6, you-5)
+root(ROOT-0, forgot-6)
+det(country-8, what-7)
+pobj(in-11, country-8)
+nsubj('m-10, I-9)
+ccomp(forgot-6, 'm-10)
+prep('m-10, in-11)
+
+advmod(are-4, Also-1)
+nsubj(are-4, mountains-3)
+root(ROOT-0, are-4)
+advmod(are-4, everywhere-5)
+advmod(are-4, here-6)
+

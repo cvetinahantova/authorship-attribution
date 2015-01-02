@@ -1,0 +1,16 @@
+cop(decision-7, Is-1)
+nsubj(decision-7, that-2)
+advmod(decision-7, really-3)
+det(decision-7, a-4)
+amod(decision-7, urlLink-5)
+amod(decision-7, wise-6)
+root(ROOT-0, decision-7)
+
+advmod(act-4, How-1)
+aux(act-4, will-2)
+nsubj(act-4, they-3)
+root(ROOT-0, act-4)
+advmod(wins-9, when-5)
+nsubj(wins-9, Assmaster-7)
+advcl(act-4, wins-9)
+

@@ -1,0 +1,10 @@
+nn(trees-2, Pine-1)
+nsubj(graceful-5, trees-2)
+cop(graceful-5, are-3)
+advmod(graceful-5, more-4)
+root(ROOT-0, graceful-5)
+advmod(graceful-5, here-6)
+
+nn(urlLink-2, urlLink-1)
+root(ROOT-0, urlLink-2)
+

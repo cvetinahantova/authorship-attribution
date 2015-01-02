@@ -1,0 +1,17 @@
+discourse(lookie-3, Hey-1)
+root(ROOT-0, lookie-3)
+dep(lookie-3, here-4)
+det(question-8, a-6)
+amod(question-8, new-7)
+dep(lookie-3, question-8)
+prep(question-8, for-9)
+det(week-12, a-10)
+amod(week-12, new-11)
+pobj(for-9, week-12)
+
+root(ROOT-0, urlLink-1)
+dobj(urlLink-1, Question-2)
+prep(Question-2, of-3)
+det(Week-5, the-4)
+pobj(of-3, Week-5)
+

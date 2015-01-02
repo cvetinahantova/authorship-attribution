@@ -1,0 +1,16 @@
+root(ROOT-0, urlLink-1)
+nsubj(brother-6, This-2)
+cop(brother-6, is-3)
+poss(brother-6, my-4)
+amod(brother-6, oldest-5)
+ccomp(urlLink-1, brother-6)
+appos(brother-6, John-7)
+cc(brother-6, and-8)
+poss(bride-11, his-9)
+amod(bride-11, lovely-10)
+conj(brother-6, bride-11)
+appos(bride-11, Sarah-12)
+
+nsubj(2004-2, January-1)
+root(ROOT-0, 2004-2)
+

@@ -1,0 +1,8 @@
+root(ROOT-0, View-1)
+prep(View-1, under-2)
+det(umbrella-4, an-3)
+pobj(under-2, umbrella-4)
+
+nn(urlLink-2, urlLink-1)
+root(ROOT-0, urlLink-2)
+

@@ -1,0 +1,12 @@
+advmod(blow-6, Sometimes-1)
+det(spaces-4, the-2)
+amod(spaces-4, sacred-3)
+nsubj(blow-6, spaces-4)
+aux(blow-6, will-5)
+root(ROOT-0, blow-6)
+nsubj(hollow-8, you-7)
+xcomp(blow-6, hollow-8)
+dep(blow-6, walk-10)
+advmod(unscathed-12, away-11)
+acomp(walk-10, unscathed-12)
+

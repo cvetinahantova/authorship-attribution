@@ -1,0 +1,5 @@
+root(ROOT-0, urlLink-1)
+nn(Covers-3, Album-2)
+dobj(urlLink-1, Covers-3)
+advmod(urlLink-1, Ever-4)
+

@@ -1,0 +1,11 @@
+nsubj(feel-2, I-1)
+root(ROOT-0, feel-2)
+advmod(feel-2, so-3)
+csubj(elaborate-8, blah-5)
+aux(elaborate-8, may-7)
+parataxis(feel-2, elaborate-8)
+prep(elaborate-8, at-9)
+det(date-12, a-10)
+amod(date-12, later-11)
+pobj(at-9, date-12)
+

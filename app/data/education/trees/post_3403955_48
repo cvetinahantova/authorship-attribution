@@ -1,0 +1,15 @@
+root(ROOT-0, urlLink-1)
+dobj(urlLink-1, Yakob-2)
+advmod(grow-9, When-4)
+aux(grow-9, did-5)
+det(guy-8, the-6)
+amod(guy-8, new-7)
+nsubj(grow-9, guy-8)
+dep(Yakob-2, grow-9)
+prt(grow-9, up-10)
+
+nsubj(love-2, I-1)
+root(ROOT-0, love-2)
+nsubj(yakob-4, you-3)
+xcomp(love-2, yakob-4)
+

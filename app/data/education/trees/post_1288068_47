@@ -1,0 +1,18 @@
+cc(buy-7, and-2)
+poss(boyfriend-5, your-3)
+nn(boyfriend-5, urlLink-4)
+conj(buy-7, boyfriend-5)
+aux(buy-7, might-6)
+root(ROOT-0, buy-7)
+nsubj(one-9, you-8)
+xcomp(buy-7, one-9)
+prep(one-9, of-10)
+pobj(of-10, urlLink-11)
+dep(urlLink-11, these-12)
+advmod(buy-7, instead-13)
+
+root(ROOT-0, YIPPEE-1)
+
+nn(J-2, xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx-1)
+root(ROOT-0, J-2)
+

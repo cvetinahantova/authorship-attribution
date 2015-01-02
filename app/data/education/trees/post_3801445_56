@@ -1,0 +1,10 @@
+root(ROOT-0, urlLink-1)
+dobj(urlLink-1, Me-2)
+cc(urlLink-1, and-3)
+conj(urlLink-1, Heracles-4)
+dobj(Heracles-4, class-5)
+prep(Heracles-4, at-6)
+det(Park-9, the-7)
+nn(Park-9, Olympic-8)
+pobj(at-6, Park-9)
+

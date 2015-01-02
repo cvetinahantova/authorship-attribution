@@ -1,0 +1,5 @@
+root(ROOT-0, urlLink-1)
+nn(urlLink-4, Mary-2)
+amod(urlLink-4, inShinjuku-3)
+dobj(urlLink-1, urlLink-4)
+

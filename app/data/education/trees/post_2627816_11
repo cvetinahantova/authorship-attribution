@@ -1,0 +1,22 @@
+nn(Gaming-2, GK-1)
+nsubj(got-3, Gaming-2)
+root(ROOT-0, got-3)
+det(system-6, a-4)
+nn(system-6, battle-5)
+dobj(got-3, system-6)
+
+nn(Gamer4Life-3, Yay-1)
+nn(Gamer4Life-3, !!!-2)
+nsubj(nice-5, Gamer4Life-3)
+cop(nice-5, was-4)
+root(ROOT-0, nice-5)
+advmod(nice-5, enough-6)
+aux(pay-8, to-7)
+xcomp(nice-5, pay-8)
+dobj(pay-8, $-9)
+num($-9, 15-10)
+prep($-9, for-11)
+pobj(for-11, it-12)
+advmod(pay-8, too-13)
+
+

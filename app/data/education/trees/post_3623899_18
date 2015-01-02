@@ -1,0 +1,5 @@
+nsubj(urlLink-4, Pretty-1)
+prep(Pretty-1, in-2)
+pobj(in-2, Pink-3)
+root(ROOT-0, urlLink-4)
+

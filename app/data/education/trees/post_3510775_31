@@ -1,0 +1,12 @@
+amod(eating-6, Silent-1)
+nn(eating-6, morning-2)
+nn(eating-6, sun-3)
+nn(eating-6, Quiet-4)
+nn(eating-6, dog-5)
+root(ROOT-0, eating-6)
+det(Shrieking-9, the-7)
+nn(Shrieking-9, grass-8)
+dep(eating-6, Shrieking-9)
+prep(Shrieking-9, of-10)
+pobj(of-10, blackbirds-11)
+

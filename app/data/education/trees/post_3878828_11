@@ -1,0 +1,10 @@
+nsubj(wonder-2, I-1)
+root(ROOT-0, wonder-2)
+dobj(thinking-6, what-3)
+nsubj(thinking-6, John-4)
+aux(thinking-6, is-5)
+ccomp(wonder-2, thinking-6)
+
+nn(urlLink-2, urlLink-1)
+root(ROOT-0, urlLink-2)
+

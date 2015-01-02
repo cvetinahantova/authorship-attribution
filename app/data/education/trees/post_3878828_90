@@ -1,0 +1,15 @@
+advmod(seen-8, Sorry-1)
+nsubj(seen-8, Ya-3)
+vmod(Ya-3, ll-5)
+aux(seen-8, have-6)
+advmod(seen-8, probly-7)
+root(ROOT-0, seen-8)
+advmod(seen-8, enough-9)
+prep(enough-9, of-10)
+pobj(of-10, me-11)
+prep(seen-8, by-12)
+pobj(by-12, now-13)
+
+nn(urlLink-2, urlLink-1)
+root(ROOT-0, urlLink-2)
+

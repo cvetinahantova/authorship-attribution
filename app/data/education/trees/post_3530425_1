@@ -1,0 +1,10 @@
+discourse(made-6, Hey-1)
+poss(blog-4, my-3)
+nsubj(made-6, blog-4)
+advmod(made-6, finally-5)
+root(ROOT-0, made-6)
+dobj(made-6, Google-7)
+
+root(ROOT-0, Yay-1)
+dobj(Yay-1, me-2)
+

@@ -1,0 +1,13 @@
+det(buddha-3, A-1)
+amod(buddha-3, cool-2)
+root(ROOT-0, buddha-3)
+vmod(buddha-3, carving-4)
+
+nsubj(looks-2, He-1)
+root(ROOT-0, looks-2)
+advmod(peaceful-4, very-3)
+acomp(looks-2, peaceful-4)
+
+nn(urlLink-2, urlLink-1)
+root(ROOT-0, urlLink-2)
+

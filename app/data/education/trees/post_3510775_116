@@ -1,0 +1,14 @@
+root(ROOT-0, Kensho-1)
+
+root(ROOT-0, Who-1)
+cop(Who-1, is-2)
+nsubj(Who-1, he-3)
+cc(Who-1, and-4)
+dep(want-8, what-5)
+aux(want-8, does-6)
+nsubj(want-8, he-7)
+conj(Who-1, want-8)
+dobj(want-8, me-9)
+aux(see-11, to-10)
+xcomp(want-8, see-11)
+

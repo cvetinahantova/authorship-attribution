@@ -1,0 +1,8 @@
+root(ROOT-0, urlLink-1)
+det(Picture-4, The-2)
+nn(Picture-4, Perfect-3)
+dobj(urlLink-1, Picture-4)
+prep(Picture-4, of-5)
+nn(urlLink-7, Venice-6)
+pobj(of-5, urlLink-7)
+

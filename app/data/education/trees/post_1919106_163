@@ -1,0 +1,10 @@
+nsubj(urlLink-9, Ok-1)
+nsubj(Thanks-7, this-3)
+cop(Thanks-7, is-4)
+advmod(Thanks-7, just-5)
+amod(Thanks-7, lovely-6)
+parataxis(urlLink-9, Thanks-7)
+root(ROOT-0, urlLink-9)
+nn(Block-11, Chopping-10)
+dobj(urlLink-9, Block-11)
+

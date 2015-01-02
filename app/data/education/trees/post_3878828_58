@@ -1,0 +1,14 @@
+nsubj(is-2, This-1)
+root(ROOT-0, is-2)
+dobj(thinks-5, what-3)
+nsubj(thinks-5, Nicole-4)
+ccomp(is-2, thinks-5)
+prep(thinks-5, of-6)
+nsubj(taking-8, me-7)
+pcomp(of-6, taking-8)
+poss(picture-10, her-9)
+dobj(taking-8, picture-10)
+
+nn(urlLink-2, urlLink-1)
+root(ROOT-0, urlLink-2)
+

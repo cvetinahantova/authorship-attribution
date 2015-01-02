@@ -1,0 +1,13 @@
+nn(commercialappeal.com-2, urlLink-1)
+root(ROOT-0, commercialappeal.com-2)
+nn(TN-6, Memphis-4)
+nsubj(lose-10, TN-6)
+amod(Schools-9, Local-8)
+dep(TN-6, Schools-9)
+dep(commercialappeal.com-2, lose-10)
+mark(reap-13, as-11)
+nsubj(reap-13, developers-12)
+advcl(lose-10, reap-13)
+amod(profits-15, enormouse-14)
+dobj(reap-13, profits-15)
+

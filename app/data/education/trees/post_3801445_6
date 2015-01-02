@@ -1,0 +1,5 @@
+root(ROOT-0, urlLink-1)
+det(mushroom-4, A-2)
+amod(mushroom-4, colourful-3)
+dobj(urlLink-1, mushroom-4)
+

@@ -1,0 +1,11 @@
+root(ROOT-0, urlLink-1)
+dobj(urlLink-1, Yahoo-2)
+
+root(ROOT-0, News-1)
+nn(Tops-5, National-3)
+nn(Tops-5, Debt-4)
+dep(Trillion-8, Tops-5)
+amod(Trillion-8, $-6)
+number($-6, 7-7)
+dep(News-1, Trillion-8)
+

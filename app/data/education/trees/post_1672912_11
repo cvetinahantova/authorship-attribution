@@ -1,0 +1,13 @@
+tmod(go-6, Today-1)
+nsubj(go-6, I-3)
+aux(go-6, did-4)
+neg(go-6, not-5)
+root(ROOT-0, go-6)
+dobj(go-6, medieval-7)
+prep(go-6, on-8)
+det(zombie-11, a-9)
+amod(zombie-11, fake-10)
+poss(rear-end-13, zombie-11)
+possessive(zombie-11, 's-12)
+pobj(on-8, rear-end-13)
+

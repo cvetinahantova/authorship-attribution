@@ -1,0 +1,7 @@
+root(ROOT-0, yEEEE-1)
+dep(yEEEE-1, Haw-3)
+
+nsubjpass(done-4, i-2)
+auxpass(done-4, 'm-3)
+root(ROOT-0, done-4)
+

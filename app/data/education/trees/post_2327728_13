@@ -1,0 +1,23 @@
+root(ROOT-0, oh-1)
+poss(god-3, my-2)
+dobj(oh-1, god-3)
+
+nsubj(sent-2, I-1)
+root(ROOT-0, sent-2)
+dobj(sent-2, it-3)
+prep(sent-2, in-4)
+
+advmod(this-3, How-1)
+cop(this-3, is-2)
+csubj(insane-13, this-3)
+vmod(this-3, going-4)
+aux(work-6, to-5)
+xcomp(going-4, work-6)
+prt(work-6, out-7)
+xcomp(work-6, ????!!!-8)
+dobj(????!!!-8, I-9)
+dep(????!!!-8, *-10)
+cop(insane-13, am-11)
+advmod(insane-13, *-12)
+root(ROOT-0, insane-13)
+

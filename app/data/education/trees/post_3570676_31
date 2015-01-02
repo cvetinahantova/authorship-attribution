@@ -1,0 +1,10 @@
+nsubj(created-3, I-1)
+advmod(created-3, just-2)
+root(ROOT-0, created-3)
+det(blog-5, a-4)
+dobj(created-3, blog-5)
+cc(created-3, and-6)
+nsubj(easy-9, it-7)
+cop(easy-9, was-8)
+conj(created-3, easy-9)
+

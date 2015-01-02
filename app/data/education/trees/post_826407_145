@@ -1,0 +1,11 @@
+aux(get-4, Can-1)
+nsubj(get-4, anything-2)
+advmod(get-4, really-3)
+root(ROOT-0, get-4)
+det(cooler-6, any-5)
+dobj(get-4, cooler-6)
+prep(get-4, than-7)
+nn(Ferdinand-10, urlLink-8)
+nn(Ferdinand-10, Franz-9)
+pobj(than-7, Ferdinand-10)
+

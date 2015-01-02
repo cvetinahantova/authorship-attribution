@@ -1,0 +1,18 @@
+root(ROOT-0, urlLink-1)
+nn(Tired-4, FREE-2)
+nn(Tired-4, FONTS-3)
+dobj(urlLink-1, Tired-4)
+prep(Tired-4, of-5)
+det(fonts-8, the-6)
+amod(fonts-8, usual-7)
+pobj(of-5, fonts-8)
+
+root(ROOT-0, Download-1)
+det(urlLink-5, the-2)
+amod(urlLink-5, perfect-3)
+nn(urlLink-5, fonts-4)
+dobj(Download-1, urlLink-5)
+advmod(Download-1, here-6)
+prep(Download-1, for-7)
+pobj(for-7, free-8)
+

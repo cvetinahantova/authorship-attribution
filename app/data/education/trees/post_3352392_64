@@ -1,0 +1,6 @@
+root(ROOT-0, urlLink-1)
+dep(urlLink-1, Built-2)
+prep(Built-2, for-3)
+nn(urlLink-5, contemplation-4)
+pobj(for-3, urlLink-5)
+

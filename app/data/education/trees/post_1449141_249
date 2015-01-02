@@ -1,0 +1,9 @@
+root(ROOT-0, urlLink-1)
+det(Letter-4, An-2)
+nn(Letter-4, Open-3)
+dobj(urlLink-1, Letter-4)
+prep(urlLink-1, to-5)
+nn(Kucinich-8, Congressman-6)
+nn(Kucinich-8, Dennis-7)
+pobj(to-5, Kucinich-8)
+

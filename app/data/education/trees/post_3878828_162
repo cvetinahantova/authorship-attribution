@@ -1,0 +1,9 @@
+det(view-2, A-1)
+root(ROOT-0, view-2)
+prep(view-2, from-3)
+det(bridge-5, the-4)
+pobj(from-3, bridge-5)
+
+nn(urlLink-2, urlLink-1)
+root(ROOT-0, urlLink-2)
+

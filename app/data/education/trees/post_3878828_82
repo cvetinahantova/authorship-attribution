@@ -1,0 +1,9 @@
+nsubj(won-2, Bryce-1)
+root(ROOT-0, won-2)
+amod(place-4, first-3)
+dobj(won-2, place-4)
+prep(won-2, with-5)
+nn(urlLink-8, Porshe-6)
+nn(urlLink-8, urlLink-7)
+pobj(with-5, urlLink-8)
+

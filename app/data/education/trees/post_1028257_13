@@ -1,0 +1,12 @@
+root(ROOT-0, urlLink-1)
+dobj(urlLink-1, Courtesy-2)
+prep(Courtesy-2, of-3)
+nn(Sheets-5, Stevan-4)
+pobj(of-3, Sheets-5)
+dep(Courtesy-2, @-6)
+nn(www.stevansheets.com-8, urlLink-7)
+nsubj(urlLink-1, www.stevansheets.com-8)
+det(sp-12, All-10)
+amod(sp-12, apologies-11)
+appos(www.stevansheets.com-8, sp-12)
+

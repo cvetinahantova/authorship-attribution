@@ -1,0 +1,15 @@
+nsubj(announce-2, Scientists-1)
+root(ROOT-0, announce-2)
+amod(clothes-5, urlLink-3)
+amod(clothes-5, self-cleaning-4)
+dobj(announce-2, clothes-5)
+
+nsubj(welcome-6, I-1)
+prep(welcome-6, for-3)
+pobj(for-3, one-4)
+root(ROOT-0, welcome-6)
+poss(overlords-10, our-7)
+amod(overlords-10, new-8)
+nn(overlords-10, textile-9)
+dobj(welcome-6, overlords-10)
+

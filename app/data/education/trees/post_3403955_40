@@ -1,0 +1,6 @@
+nsubj(Is-2, urlLink-1)
+root(ROOT-0, Is-2)
+mark(dancing-4, that-3)
+ccomp(Is-2, dancing-4)
+dobj(dancing-4, James-5)
+

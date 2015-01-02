@@ -1,0 +1,6 @@
+det(urlLink-4, Another-2)
+amod(urlLink-4, on-line-3)
+nsubj(orgasm-5, urlLink-4)
+root(ROOT-0, orgasm-5)
+dobj(orgasm-5, simulator-6)
+

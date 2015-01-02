@@ -1,0 +1,8 @@
+root(ROOT-0, urlLink-1)
+dobj(let-5, What-2)
+aux(let-5, did-3)
+nsubj(let-5, you-4)
+dep(urlLink-1, let-5)
+nsubj(do-7, Joel-6)
+ccomp(let-5, do-7)
+

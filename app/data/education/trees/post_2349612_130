@@ -1,0 +1,9 @@
+poss(neck-2, my-1)
+nsubj(hurts-3, neck-2)
+root(ROOT-0, hurts-3)
+nsubj(want-6, i-5)
+parataxis(hurts-3, want-6)
+det(rub-9, a-7)
+amod(rub-9, back-8)
+dobj(want-6, rub-9)
+

@@ -1,0 +1,13 @@
+root(ROOT-0, urlLink-1)
+dobj(urlLink-1, TomPaine.com-2)
+det(Citizens-5, A-4)
+poss(Movement-8, Citizens-5)
+nn(Movement-8, Independence-7)
+dep(TomPaine.com-2, Movement-8)
+det(little-10, A-9)
+npadvmod(late-11, little-10)
+amod(Movement-8, late-11)
+cc(late-11, but-12)
+advmod(important-14, still-13)
+conj(late-11, important-14)
+

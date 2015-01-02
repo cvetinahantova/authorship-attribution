@@ -1,0 +1,8 @@
+det(mania-3, The-1)
+nn(mania-3, metal-2)
+nsubj(born-5, mania-3)
+advmod(born-5, surely-4)
+root(ROOT-0, born-5)
+prep(born-5, in-6)
+pobj(in-6, Taiwan-7)
+

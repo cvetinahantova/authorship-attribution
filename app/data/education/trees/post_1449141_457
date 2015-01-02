@@ -1,0 +1,10 @@
+nn(AlterNet-2, urlLink-1)
+root(ROOT-0, AlterNet-2)
+aux(Follow-6, Will-4)
+nsubj(Follow-6, We-5)
+dep(AlterNet-2, Follow-6)
+dobj(Follow-6, Bush-7)
+prep(Follow-6, to-8)
+nn(America-10, Wal-Mart-9)
+pobj(to-8, America-10)
+

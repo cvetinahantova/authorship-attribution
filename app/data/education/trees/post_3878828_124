@@ -1,0 +1,9 @@
+root(ROOT-0, Onigiriman-1)
+
+nsubj(delicious-5, I-2)
+cop(delicious-5, m-4)
+root(ROOT-0, delicious-5)
+
+nn(urlLink-2, urlLink-1)
+root(ROOT-0, urlLink-2)
+

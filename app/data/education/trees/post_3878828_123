@@ -1,0 +1,18 @@
+poss(purchase-5, My-1)
+amod(purchase-5, Hyaku-en-2)
+nn(purchase-5, store-3)
+nn(purchase-5, favorite-4)
+root(ROOT-0, purchase-5)
+det(mug-9, the-7)
+nn(mug-9, Miffy-8)
+dep(purchase-5, mug-9)
+
+advmod(cute-5, Now-1)
+poss(coffee-3, my-2)
+nsubj(cute-5, coffee-3)
+cop(cute-5, is-4)
+root(ROOT-0, cute-5)
+
+nn(urlLink-2, urlLink-1)
+root(ROOT-0, urlLink-2)
+

@@ -1,0 +1,18 @@
+advmod(read-6, wel-1)
+nsubj(read-6, this-2)
+cop(read-6, is-3)
+det(read-6, a-4)
+amod(read-6, great-5)
+root(ROOT-0, read-6)
+
+root(ROOT-0, v-1)
+dobj(v-1, entertainin-2)
+
+amod(sum-2, mayb-1)
+nsubjpass(invited-7, sum-2)
+advmod(ppl-4, more-3)
+amod(sum-2, ppl-4)
+aux(invited-7, should-5)
+auxpass(invited-7, be-6)
+root(ROOT-0, invited-7)
+

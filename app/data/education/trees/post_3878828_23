@@ -1,0 +1,7 @@
+root(ROOT-0, In-1)
+det(udon-ya-3, the-2)
+pobj(In-1, udon-ya-3)
+
+nn(urlLink-2, urlLink-1)
+root(ROOT-0, urlLink-2)
+

@@ -1,0 +1,6 @@
+discourse(yeah-2, Oh-1)
+ccomp(Happy-4, yeah-2)
+root(ROOT-0, Happy-4)
+nn(!!!!!!!!!-6, Halloween-5)
+nsubj(Happy-4, !!!!!!!!!-6)
+

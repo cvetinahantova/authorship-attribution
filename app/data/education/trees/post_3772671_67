@@ -1,0 +1,6 @@
+root(ROOT-0, urlLink-1)
+cc(another-4, And-2)
+dep(another-4, yet-3)
+dep(urlLink-1, another-4)
+dep(urlLink-1, urlLink-6)
+

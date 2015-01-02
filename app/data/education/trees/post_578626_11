@@ -1,0 +1,16 @@
+root(ROOT-0, urlLink-1)
+dobj(urlLink-1, Eric-2)
+prep(Eric-2, on-3)
+det(floor-5, the-4)
+pobj(on-3, floor-5)
+
+poss(somebody-3, My-1)
+nn(somebody-3, GOD-2)
+nsubj(pointing-5, somebody-3)
+aux(pointing-5, is-4)
+root(ROOT-0, pointing-5)
+det(camera-7, a-6)
+dobj(pointing-5, camera-7)
+prep(pointing-5, at-8)
+pobj(at-8, me-9)
+

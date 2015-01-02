@@ -1,0 +1,7 @@
+root(ROOT-0, urlLink-1)
+dobj(urlLink-1, Lucy-2)
+prep(Lucy-2, on-3)
+nn(patrol-6, morning-4)
+amod(patrol-6, canine-5)
+pobj(on-3, patrol-6)
+

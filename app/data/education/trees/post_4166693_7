@@ -1,0 +1,15 @@
+poss(computer-2, My-1)
+nsubjpass(fixed-4, computer-2)
+auxpass(fixed-4, is-3)
+root(ROOT-0, fixed-4)
+
+advmod(email-4, Now-1)
+nsubj(email-4, I-2)
+aux(email-4, have-3)
+root(ROOT-0, email-4)
+prep(email-4, at-5)
+pobj(at-5, work-6)
+advmod(email-4, again-7)
+
+root(ROOT-0, Yay-1)
+

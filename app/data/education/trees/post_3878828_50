@@ -1,0 +1,14 @@
+nsubj(says-5, Everyone-1)
+prep(Everyone-1, at-2)
+det(office-4, the-3)
+pobj(at-2, office-4)
+root(ROOT-0, says-5)
+det(one-7, this-6)
+nsubj(ii-10, one-7)
+cop(ii-10, is-8)
+nn(ii-10, kakko-9)
+ccomp(says-5, ii-10)
+
+nn(urlLink-2, urlLink-1)
+root(ROOT-0, urlLink-2)
+

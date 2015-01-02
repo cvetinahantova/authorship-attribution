@@ -1,0 +1,9 @@
+nsubj(likes-2, Nicole-1)
+root(ROOT-0, likes-2)
+det(urlLink-8, this-3)
+mwe(than-5, better-4)
+quantmod(sushi-6, than-5)
+num(urlLink-8, sushi-6)
+nn(urlLink-8, urlLink-7)
+dobj(likes-2, urlLink-8)
+

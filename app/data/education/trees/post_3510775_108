@@ -1,0 +1,14 @@
+nsubj(me-3, It-1)
+cop(me-3, 's-2)
+root(ROOT-0, me-3)
+
+nsubj(boss-4, I-1)
+cop(boss-4, 'm-2)
+det(boss-4, the-3)
+root(ROOT-0, boss-4)
+nn(Life-6, !!-5)
+nsubj(is-7, Life-6)
+rcmod(boss-4, is-7)
+advmod(is-7, so-8)
+advmod(is-7, lively-10)
+

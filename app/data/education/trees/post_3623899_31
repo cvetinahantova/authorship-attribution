@@ -1,0 +1,15 @@
+root(ROOT-0, SORRY-1)
+dep(SORRY-1, KESHAN-2)
+
+nsubj(keep-5, i-1)
+advmod(keep-5, just-2)
+aux(keep-5, ca-3)
+neg(keep-5, n't-4)
+root(ROOT-0, keep-5)
+poss(fingers-7, my-6)
+dobj(keep-5, fingers-7)
+prep(keep-5, off-8)
+det(keyboard-10, the-9)
+pobj(off-8, keyboard-10)
+
+

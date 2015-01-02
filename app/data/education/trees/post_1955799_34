@@ -1,0 +1,22 @@
+nsubj(working-3, I-1)
+aux(working-3, 'm-2)
+root(ROOT-0, working-3)
+prep(working-3, on-4)
+pobj(on-4, changes-5)
+prep(changes-5, for-6)
+det(Zone-9, The-7)
+nn(Zone-9, Comfort-8)
+pobj(for-6, Zone-9)
+
+nsubj(please-4, Bear-1)
+prep(Bear-1, with-2)
+pobj(with-2, me-3)
+root(ROOT-0, please-4)
+
+nsubj(work-4, It-1)
+cop(work-4, 's-2)
+det(work-4, a-3)
+root(ROOT-0, work-4)
+prep(work-4, in-5)
+pobj(in-5, progress-6)
+

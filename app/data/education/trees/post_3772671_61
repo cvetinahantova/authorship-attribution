@@ -1,0 +1,11 @@
+root(ROOT-0, urlLink-1)
+nn(Marie-3, Lake-2)
+dobj(urlLink-1, Marie-3)
+prep(Marie-3, at-4)
+det(top-6, the-5)
+pobj(at-4, top-6)
+prep(top-6, of-7)
+det(Mountains-10, the-8)
+nn(Mountains-10, Snow-9)
+pobj(of-7, Mountains-10)
+

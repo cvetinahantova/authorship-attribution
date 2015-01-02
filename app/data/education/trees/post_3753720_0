@@ -1,0 +1,18 @@
+root(ROOT-0, Coming-1)
+dep(Coming-1, soon-2)
+
+nsubj(posting-4, I-1)
+aux(posting-4, will-2)
+aux(posting-4, be-3)
+root(ROOT-0, posting-4)
+dobj(posting-4, pictures-5)
+mark(take-8, that-6)
+nsubj(take-8, I-7)
+ccomp(posting-4, take-8)
+prep(take-8, with-9)
+poss(A80-13, my-10)
+nn(A80-13, Canon-11)
+nn(A80-13, PowerShot-12)
+pobj(with-9, A80-13)
+advmod(take-8, here-14)
+

@@ -1,0 +1,12 @@
+root(ROOT-0, urlLink-1)
+nsubjpass(Called-5, It-2)
+auxpass(Called-5, 's-3)
+neg(Called-5, Not-4)
+ccomp(urlLink-1, Called-5)
+det(Car-9, a-6)
+amod(Car-9, Smart-8)
+dobj(Called-5, Car-9)
+prep(Car-9, for-11)
+nn(urlLink-13, Nothin-12)
+pobj(for-11, urlLink-13)
+

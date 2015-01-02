@@ -1,0 +1,9 @@
+amod(Look-2, urlLink-1)
+root(ROOT-0, Look-2)
+
+nsubj(Man-5, he-1)
+cop(Man-5, 's-2)
+det(Man-5, a-3)
+nn(Man-5, standing-4)
+root(ROOT-0, Man-5)
+

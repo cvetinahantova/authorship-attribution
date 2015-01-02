@@ -1,0 +1,7 @@
+root(ROOT-0, urlLink-1)
+xcomp(urlLink-1, Rebuilding-2)
+prep(Rebuilding-2, in-3)
+pobj(in-3, Baghdad-4)
+nn(Kelly-6, Kathy-5)
+nsubj(urlLink-1, Kelly-6)
+

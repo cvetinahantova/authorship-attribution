@@ -1,0 +1,15 @@
+nsubj(does-2, Wht-1)
+root(ROOT-0, does-2)
+nsubj(mean-4, FHM-3)
+ccomp(does-2, mean-4)
+
+root(ROOT-0, Famous-1)
+amod(Models-3, hot-2)
+nsubj(Famous-1, Models-3)
+cc(Models-3, or-4)
+nn(ing-7, F-5)
+nn(ing-7, ***-6)
+conj(Models-3, ing-7)
+nn(Models-9, Hot-8)
+dep(Famous-1, Models-9)
+

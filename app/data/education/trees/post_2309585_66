@@ -1,0 +1,9 @@
+det(kind-2, What-1)
+dep(are-5, kind-2)
+prep(kind-2, of-3)
+pobj(of-3, disease-4)
+root(ROOT-0, are-5)
+nsubj(are-5, you-6)
+
+root(ROOT-0, Heather-1)
+

@@ -1,0 +1,37 @@
+root(ROOT-0, thinking-1)
+advmod(thinking-1, about-2)
+amod(parenting-5, public-4)
+dep(thinking-1, parenting-5)
+
+root(ROOT-0, testimony-2)
+
+nsubj(stamped-3, Quality-2)
+root(ROOT-0, stamped-3)
+dobj(stamped-3, all-4)
+prep(all-4, over-5)
+pobj(over-5, it-6)
+
+nsubj(image-3, corporate-1)
+root(ROOT-0, image-3)
+
+nn(statements-2, mission-1)
+root(ROOT-0, statements-2)
+
+nn(stickers-2, bumper-1)
+root(ROOT-0, stickers-2)
+
+amod(ambiguity-2, strategic-1)
+root(ROOT-0, ambiguity-2)
+
+det(one-2, the-1)
+root(ROOT-0, one-2)
+cc(one-2, and-3)
+det(many-5, the-4)
+conj(one-2, many-5)
+
+amod(rhetorical-2, being-1)
+root(ROOT-0, rhetorical-2)
+punct(rhetorical-2, /-3)
+cop(authentic-5, being-4)
+dep(rhetorical-2, authentic-5)
+

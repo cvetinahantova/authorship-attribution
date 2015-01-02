@@ -1,0 +1,9 @@
+root(ROOT-0, urlLink-1)
+dep(urlLink-1, Annie-2)
+cc(Annie-2, and-3)
+conj(Annie-2, Cristo-4)
+cop(cute-10, are-7)
+neg(cute-10, n't-8)
+npadvmod(cute-10, they-9)
+dep(urlLink-1, cute-10)
+

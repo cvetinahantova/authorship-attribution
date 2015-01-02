@@ -1,0 +1,11 @@
+nsubj(one-5, This-1)
+aux(one-5, would-2)
+cop(one-5, be-3)
+det(one-5, the-4)
+root(ROOT-0, one-5)
+prep(one-5, for-6)
+pobj(for-6, it-7)
+nn(RedXHosting.com-12, Courtesy-10)
+nn(RedXHosting.com-12, urlLink-11)
+appos(one-5, RedXHosting.com-12)
+

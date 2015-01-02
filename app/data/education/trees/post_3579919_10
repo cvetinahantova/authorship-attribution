@@ -1,0 +1,5 @@
+root(ROOT-0, urlLink-1)
+dep(urlLink-1, Before-2)
+det(Haircut-4, the-3)
+pobj(Before-2, Haircut-4)
+

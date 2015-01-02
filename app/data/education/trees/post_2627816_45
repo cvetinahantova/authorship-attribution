@@ -1,0 +1,16 @@
+nsubj(over-4, School-1)
+cop(over-4, is-2)
+advmod(over-4, almost-3)
+root(ROOT-0, over-4)
+
+quantmod(6-2, Only-1)
+num(days-4, 6-2)
+amod(days-4, more-3)
+nsubj(left-7, days-4)
+prep(days-4, of-5)
+pobj(of-5, school-6)
+root(ROOT-0, left-7)
+
+nn(!!!-2, Yay-1)
+root(ROOT-0, !!!-2)
+

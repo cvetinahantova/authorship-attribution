@@ -1,0 +1,12 @@
+nsubj(called-2, Nikki-1)
+root(ROOT-0, called-2)
+
+nsubjpass(shot-3, Josiah-1)
+auxpass(shot-3, was-2)
+root(ROOT-0, shot-3)
+prep(shot-3, in-4)
+det(head-6, the-5)
+pobj(in-4, head-6)
+nsubj(said-10, nuff-9)
+parataxis(shot-3, said-10)
+

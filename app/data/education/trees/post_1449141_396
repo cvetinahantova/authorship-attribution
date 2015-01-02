@@ -1,0 +1,9 @@
+nn(StarNewsOnline.com-2, urlLink-1)
+root(ROOT-0, StarNewsOnline.com-2)
+det(Voice-5, The-4)
+dep(StarNewsOnline.com-2, Voice-5)
+prep(Voice-5, of-6)
+nn(Carolina-9, Southeastern-7)
+nn(Carolina-9, North-8)
+pobj(of-6, Carolina-9)
+

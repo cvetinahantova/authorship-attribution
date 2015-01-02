@@ -1,0 +1,13 @@
+root(ROOT-0, Read-1)
+det(urlLink-4, the-2)
+nn(urlLink-4, story-3)
+dobj(Read-1, urlLink-4)
+advmod(Read-1, here-5)
+
+root(ROOT-0, Thanks-2)
+prep(Thanks-2, to-3)
+nn(Pinky-5, Queen-4)
+pobj(to-3, Pinky-5)
+cc(Pinky-5, and-6)
+conj(Pinky-5, Fark.com-7)
+

@@ -1,0 +1,11 @@
+nsubj(infinity-3, I-1)
+cop(infinity-3, am-2)
+root(ROOT-0, infinity-3)
+nsubj(worship-6, You-4)
+aux(worship-6, may-5)
+ccomp(infinity-3, worship-6)
+dobj(worship-6, me-7)
+cc(worship-6, but-9)
+conj(worship-6, from-10)
+pobj(from-10, afar-11)
+

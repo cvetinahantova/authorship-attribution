@@ -1,0 +1,52 @@
+nsubj(losing-3, i-1)
+aux(losing-3, am-2)
+root(ROOT-0, losing-3)
+poss(mind-5, my-4)
+dobj(losing-3, mind-5)
+
+amod(mom-7, i-1)
+nn(mom-7, ma-2)
+amod(mom-7, lost.bill-3)
+nn(mom-7, move-4)
+nn(mom-7, dout-5)
+nn(mom-7, cus-6)
+nsubj(n-11, mom-7)
+cop(n-11, was-8)
+advmod(n-11, still-9)
+nn(n-11, smokin-10)
+root(ROOT-0, n-11)
+vmod(n-11, lieing-12)
+prep(lieing-12, about-13)
+pobj(about-13, it-14)
+
+nsubj(knew-2, i-1)
+root(ROOT-0, knew-2)
+
+nsubj(knew-3, i-1)
+advmod(knew-3, always-2)
+root(ROOT-0, knew-3)
+
+advmod(black-6, also-1)
+poss(hair-4, my-3)
+nsubj(black-6, hair-4)
+cop(black-6, is-5)
+root(ROOT-0, black-6)
+
+nn(dad-2, and-1)
+nsubj(hes-6, dad-2)
+advmod(hes-6, well-4)
+root(ROOT-0, hes-6)
+acomp(hes-6, ressurected-8)
+
+nsubjpass(lost-3, i-1)
+auxpass(lost-3, am-2)
+root(ROOT-0, lost-3)
+
+advmod(am-2, where-1)
+root(ROOT-0, am-2)
+nsubj(am-2, i-3)
+
+nn(kd-3, xo-1)
+nn(kd-3, ~-2)
+root(ROOT-0, kd-3)
+

@@ -1,0 +1,12 @@
+dep(history-6, urlLink-1)
+dep(history-6, Entrez-PubMed-2)
+amod(history-6, Natural-5)
+root(ROOT-0, history-6)
+prep(history-6, of-7)
+amod(decline-9, cognitive-8)
+pobj(of-7, decline-9)
+prep(history-6, in-10)
+det(old-13, the-11)
+amod(old-13, old-12)
+pobj(in-10, old-13)
+

@@ -1,0 +1,21 @@
+root(ROOT-0, urlLink-1)
+nn(Neurol-3, Arch-2)
+dobj(urlLink-1, Neurol-3)
+
+num(Dec-2, 2003-1)
+root(ROOT-0, Dec-2)
+dep(Dec-2, 60-4)
+appos(60-4, 12-6)
+num(-12-9, :1707-8)
+dep(60-4, -12-9)
+
+nn(Articles-2, Related-1)
+root(ROOT-0, Articles-2)
+appos(Articles-2, Stroke-4)
+cc(Stroke-4, and-5)
+det(risk-7, the-6)
+conj(Stroke-4, risk-7)
+prep(risk-7, of-8)
+nn(disease-10, Alzheimer-9)
+pobj(of-8, disease-10)
+

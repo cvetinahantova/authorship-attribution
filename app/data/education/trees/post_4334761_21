@@ -1,0 +1,19 @@
+dep(feel-4, thats-1)
+advmod(feel-4, how-2)
+nsubj(feel-4, i-3)
+root(ROOT-0, feel-4)
+prep(feel-4, about-5)
+poss(dad-7, my-6)
+pobj(about-5, dad-7)
+
+advmod(deep-2, pretty-1)
+root(ROOT-0, deep-2)
+mark(know-6, if-4)
+nsubj(know-6, you-5)
+dep(deep-2, know-6)
+dobj(know-6, me-7)
+
+nn(kd-3, xo-1)
+nn(kd-3, ~-2)
+root(ROOT-0, kd-3)
+

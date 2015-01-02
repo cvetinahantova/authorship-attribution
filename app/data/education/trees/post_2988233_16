@@ -1,0 +1,8 @@
+root(ROOT-0, Ahhhh-1)
+nn(Clapton-3, Eric-2)
+dobj(Ahhhh-1, Clapton-3)
+nsubj(look-7, you-6)
+dep(Clapton-3, look-7)
+amod(tonight-9, Wonderful-8)
+tmod(look-7, tonight-9)
+

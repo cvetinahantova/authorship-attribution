@@ -1,0 +1,9 @@
+nsubj(ask-4, urlLink-1)
+aux(ask-4, Do-2)
+neg(ask-4, n't-3)
+root(ROOT-0, ask-4)
+nsubj(hangs-7, this-6)
+parataxis(ask-4, hangs-7)
+prep(hangs-7, in-8)
+pobj(in-8, Wa-Bar-9)
+

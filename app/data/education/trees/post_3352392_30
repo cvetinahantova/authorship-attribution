@@ -1,0 +1,6 @@
+root(ROOT-0, urlLink-1)
+prep(urlLink-1, on-2)
+nn(urlLink-5, Mount-3)
+nn(urlLink-5, Yoshino-4)
+pobj(on-2, urlLink-5)
+

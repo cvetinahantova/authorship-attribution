@@ -1,0 +1,17 @@
+nsubj(funny-4, It-1)
+cop(funny-4, was-2)
+advmod(funny-4, definitely-3)
+root(ROOT-0, funny-4)
+dep(funny-4, though-6)
+neg(funny-9, not-7)
+advmod(funny-9, hillariously-8)
+dep(funny-4, funny-9)
+
+det(note-3, A-1)
+amod(note-3, bright-2)
+root(ROOT-0, note-3)
+prep(note-3, on-4)
+det(day-7, a-5)
+amod(day-7, gloomy-6)
+pobj(on-4, day-7)
+

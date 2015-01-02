@@ -1,0 +1,9 @@
+nsubj(have-2, I-1)
+root(ROOT-0, have-2)
+nn(heart-4, SERIOUS-3)
+dobj(have-2, heart-4)
+amod(today-6, burn-5)
+tmod(have-2, today-6)
+
+root(ROOT-0, Yuck-1)
+

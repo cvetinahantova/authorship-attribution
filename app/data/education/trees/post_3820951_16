@@ -1,0 +1,15 @@
+nsubj(think-2, i-1)
+root(ROOT-0, think-2)
+poss(mom-4, my-3)
+nsubj(hoping-7, mom-4)
+aux(hoping-7, 's-5)
+advmod(hoping-7, secretly-6)
+ccomp(think-2, hoping-7)
+aux(grandma-11, to-8)
+cop(grandma-11, be-9)
+det(grandma-11, a-10)
+xcomp(hoping-7, grandma-11)
+advmod(grandma-11, soon-12)
+
+root(ROOT-0, yikes-1)
+

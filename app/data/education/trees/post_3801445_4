@@ -1,0 +1,8 @@
+root(ROOT-0, urlLink-1)
+dobj(urlLink-1, Oooh-2)
+
+det(terrain-2, The-1)
+nsubj(becomes-3, terrain-2)
+root(ROOT-0, becomes-3)
+xcomp(becomes-3, rocky-4)
+

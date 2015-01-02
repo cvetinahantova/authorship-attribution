@@ -1,0 +1,10 @@
+nsubj(think-6, Look-1)
+prep(Look-1, at-2)
+det(picture.I-5, this-3)
+amod(picture.I-5, terrific-4)
+pobj(at-2, picture.I-5)
+root(ROOT-0, think-6)
+nsubj(gorgeous.Wonderful-9, its-7)
+advmod(gorgeous.Wonderful-9, absolutely-8)
+xcomp(think-6, gorgeous.Wonderful-9)
+

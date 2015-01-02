@@ -1,0 +1,12 @@
+root(ROOT-0, urlLink-1)
+det(Voice-4, The-2)
+nn(Voice-4, Village-3)
+dep(urlLink-1, Voice-4)
+dep(urlLink-1, Features-6)
+dep(Features-6, Attention-8)
+nn(Voters-11, Wal-Mart-10)
+appos(Attention-8, Voters-11)
+prep(Voters-11, by-12)
+nn(Perlstein-14, Rick-13)
+pobj(by-12, Perlstein-14)
+

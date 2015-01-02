@@ -1,0 +1,9 @@
+nsubj(Did-2, urlLink-1)
+root(ROOT-0, Did-2)
+nsubj(get-4, you-3)
+ccomp(Did-2, get-4)
+det(memo-6, the-5)
+dep(Kevin-8, memo-6)
+advmod(Kevin-8, now-7)
+dep(get-4, Kevin-8)
+

@@ -1,0 +1,12 @@
+nn(REALLY-3, urlLink-1)
+nn(REALLY-3, Christina-2)
+nsubj(had-4, REALLY-3)
+root(ROOT-0, had-4)
+aux(go-6, to-5)
+xcomp(had-4, go-6)
+advmod(go-6, badly-7)
+advmod(urlLink-13, quite-9)
+det(splash-back-11, the-10)
+dep(urlLink-13, splash-back-11)
+parataxis(had-4, urlLink-13)
+

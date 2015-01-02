@@ -1,0 +1,38 @@
+nsubj(write-4, I-1)
+aux(write-4, ca-2)
+neg(write-4, n't-3)
+root(ROOT-0, write-4)
+dobj(write-4, tonight-5)
+dep(write-4, have-7)
+det(song-9, a-8)
+dobj(have-7, song-9)
+vmod(song-9, going-10)
+prep(going-10, through-11)
+poss(head-13, my-12)
+pobj(through-11, head-13)
+cc(write-4, and-14)
+nsubj(thing-19, it-15)
+cop(thing-19, 's-16)
+det(thing-19, the-17)
+amod(thing-19, only-18)
+conj(write-4, thing-19)
+nsubj(think-22, I-20)
+aux(think-22, can-21)
+rcmod(thing-19, think-22)
+prt(think-22, about-23)
+
+csubj(get-5, Wishing-1)
+poss(man-3, my-2)
+dobj(Wishing-1, man-3)
+aux(get-5, would-4)
+root(ROOT-0, get-5)
+dep(get-5, off-6)
+poss(computer-8, his-7)
+pobj(off-6, computer-8)
+
+OpenJDK 64-Bit Server VM warning: INFO: os::commit_memory(0x000000077fd50000, 591368192, 0) failed; error='Cannot allocate memory' (errno=12)
+#
+# There is insufficient memory for the Java Runtime Environment to continue.
+# Native memory allocation (malloc) failed to allocate 591368192 bytes for committing reserved memory.
+# An error report file with more information is saved as:
+# /home/cvetina/stanford-parser-full-2014-08-27/scripts/education/hs_err_pid10938.log

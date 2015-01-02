@@ -1,0 +1,11 @@
+amod(dictionaries-5, urlLink-1)
+nn(dictionaries-5, Merriam-Webster-2)
+nn(dictionaries-5, OnLine-3)
+nn(dictionaries-5, Paper-4)
+nsubj(become-9, dictionaries-5)
+cc(dictionaries-5, and-6)
+conj(dictionaries-5, Thesauruses-7)
+aux(become-9, have-8)
+root(ROOT-0, become-9)
+acomp(become-9, obsolete-10)
+

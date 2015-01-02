@@ -1,0 +1,17 @@
+root(ROOT-0, Meet-1)
+det(Meat-3, the-2)
+nsubj(tour-7, Meat-3)
+det(tour-7, A-4)
+amod(tour-7, comprehensive-5)
+nn(tour-7, photo-6)
+xcomp(Meet-1, tour-7)
+prep(tour-7, of-8)
+amod(cuts-11, urlLink-9)
+amod(cuts-11, cold-10)
+pobj(of-8, cuts-11)
+
+nsubj(urlLink-3, Via-2)
+root(ROOT-0, urlLink-3)
+det(Sneeze-5, The-4)
+dobj(urlLink-3, Sneeze-5)
+

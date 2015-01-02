@@ -1,0 +1,11 @@
+nsubj(know-4, i-1)
+aux(know-4, do-2)
+neg(know-4, n't-3)
+root(ROOT-0, know-4)
+mark(working-9, if-5)
+poss(blog-7, my-6)
+nsubj(working-9, blog-7)
+aux(working-9, is-8)
+advcl(know-4, working-9)
+advmod(working-9, anymore-10)
+

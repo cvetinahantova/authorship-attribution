@@ -1,0 +1,17 @@
+num(%-2, 18.75-1)
+nsubj(owns-5, %-2)
+poss(weblog-4, My-3)
+dep(%-2, weblog-4)
+root(ROOT-0, owns-5)
+num(%-7, 18.75-6)
+dobj(owns-5, %-7)
+prep(%-7, of-8)
+pobj(of-8, me-9)
+
+nsubj(Does-2, urlLink-1)
+root(ROOT-0, Does-2)
+poss(weblog-4, your-3)
+nsubj(own-5, weblog-4)
+ccomp(Does-2, own-5)
+dobj(own-5, you-6)
+

@@ -1,0 +1,6 @@
+nsubj(ASSHOLE/BITCH-5, I-1)
+cop(ASSHOLE/BITCH-5, AM-2)
+number(%-4, 20-3)
+amod(ASSHOLE/BITCH-5, %-4)
+root(ROOT-0, ASSHOLE/BITCH-5)
+

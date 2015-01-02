@@ -1,0 +1,9 @@
+nn(Joe-2, urlLink-1)
+poss(therapy-4, Joe-2)
+possessive(Joe-2, 's-3)
+nsubj(continues-5, therapy-4)
+root(ROOT-0, continues-5)
+prep(continues-5, atop-6)
+det(Zugspitz-8, the-7)
+pobj(atop-6, Zugspitz-8)
+

@@ -1,0 +1,13 @@
+root(ROOT-0, urlLink-1)
+advmod(standard-3, Double-2)
+dobj(urlLink-1, standard-3)
+nsubj(economy-8, It-4)
+cop(economy-8, 's-5)
+det(economy-8, the-6)
+amod(economy-8, global-7)
+rcmod(standard-3, economy-8)
+amod(economy-8, stupid-10)
+tmod(urlLink-1, October-14)
+num(October-14, 31-15)
+num(October-14, 2003-17)
+

@@ -1,0 +1,13 @@
+root(ROOT-0, thouroghly-1)
+vmod(thouroghly-1, enjoying-2)
+poss(family-5, my-3)
+amod(family-5, wonderful-4)
+dobj(enjoying-2, family-5)
+cc(family-5, and-6)
+det(time-8, some-7)
+conj(family-5, time-8)
+prep(enjoying-2, with-9)
+pobj(with-9, them-10)
+
+root(ROOT-0, Ahhhhh-1)
+

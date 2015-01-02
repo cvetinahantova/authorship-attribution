@@ -1,0 +1,5 @@
+root(ROOT-0, is-2)
+dep(beautiful-4, a-3)
+dep(is-2, beautiful-4)
+nsubj(beautiful-4, thing-5)
+

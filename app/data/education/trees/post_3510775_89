@@ -1,0 +1,18 @@
+nsubj(seems-4, It-2)
+advmod(seems-4, only-3)
+root(ROOT-0, seems-4)
+advmod(seems-4, kinky-5)
+det(time-8, the-6)
+amod(time-8, first-7)
+xcomp(seems-4, time-8)
+
+npadvmod(down-2, 4-1)
+advmod(go-6, down-2)
+nsubj(go-6, 2-4)
+prep(2-4, to-5)
+root(ROOT-0, go-6)
+
+nsubj(miscounted-2, I-1)
+root(ROOT-0, miscounted-2)
+advmod(miscounted-2, before-3)
+

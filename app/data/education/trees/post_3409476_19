@@ -1,0 +1,103 @@
+root(ROOT-0, GOLD-1)
+
+root(ROOT-0, GOLD-1)
+
+root(ROOT-0, GOLD-1)
+
+root(ROOT-0, GOLD-1)
+
+root(ROOT-0, GOLD-1)
+
+root(ROOT-0, GOLD-1)
+
+root(ROOT-0, GOLD-1)
+
+root(ROOT-0, GOLD-1)
+
+root(ROOT-0, GOLD-1)
+
+root(ROOT-0, GOLD-1)
+
+root(ROOT-0, GOLD-1)
+
+root(ROOT-0, GOLD-1)
+
+root(ROOT-0, GOLD-1)
+
+root(ROOT-0, GOLD-1)
+
+root(ROOT-0, GOLD-1)
+
+root(ROOT-0, GOLD-1)
+
+nsubj(called-2, Adam-1)
+root(ROOT-0, called-2)
+dobj(called-2, me-3)
+det(while-6, a-4)
+amod(while-6, little-5)
+tmod(called-2, while-6)
+advmod(while-6, ago-7)
+cc(called-2, and-8)
+conj(called-2, let-9)
+nsubj(know-11, me-10)
+ccomp(let-9, know-11)
+nsubj(went-13, they-12)
+ccomp(know-11, went-13)
+dobj(went-13, undefeated-14)
+cc(went-13, and-15)
+aux(receive-17, will-16)
+conj(went-13, receive-17)
+det(medal-20, the-18)
+nn(medal-20, Gold-19)
+dobj(receive-17, medal-20)
+prep(receive-17, at-21)
+det(closing-23, the-22)
+pobj(at-21, closing-23)
+amod(tonight-25, ceremonies-24)
+tmod(receive-17, tonight-25)
+
+nsubj(landed-4, I-1)
+aux(landed-4, have-2)
+advmod(landed-4, just-3)
+root(ROOT-0, landed-4)
+prt(landed-4, back-5)
+prep(landed-4, on-6)
+pobj(on-6, Earth-7)
+nsubj(have-10, but-9)
+dep(landed-4, have-10)
+advmod(have-10, yet-11)
+aux(stop-13, to-12)
+xcomp(have-10, stop-13)
+xcomp(stop-13, crying-14)
+dep(landed-4, so-16)
+nsubj(took-18, it-17)
+parataxis(landed-4, took-18)
+dobj(took-18, me-19)
+det(time-21, some-20)
+tmod(took-18, time-21)
+aux(get-23, to-22)
+vmod(took-18, get-23)
+det(post-25, this-24)
+dobj(get-23, post-25)
+prt(get-23, up-26)
+
+nsubj(sent-4, Erika-1)
+advmod(nicely-3, very-2)
+advmod(sent-4, nicely-3)
+root(ROOT-0, sent-4)
+iobj(sent-4, me-5)
+dobj(sent-4, training-6)
+prep(training-6, on-7)
+pobj(on-7, pictures-8)
+advmod(soon-11, so-9)
+advmod(soon-11, as-10)
+advmod(pictures-8, soon-11)
+mark(get-14, as-12)
+nsubj(get-14, I-13)
+ccomp(soon-11, get-14)
+dobj(get-14, some-15)
+nsubj(be-18, they-16)
+aux(be-18, will-17)
+rcmod(some-15, be-18)
+advmod(be-18, up-19)
+

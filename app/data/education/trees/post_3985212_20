@@ -1,0 +1,31 @@
+nsubj(official-3, It-1)
+cop(official-3, 's-2)
+root(ROOT-0, official-3)
+
+nsubj(Teacher-8, I-1)
+cop(Teacher-8, 'm-2)
+advmod(Teacher-8, now-3)
+det(Teacher-8, a-4)
+nn(Teacher-8, Junior-5)
+nn(Teacher-8, High-6)
+nn(Teacher-8, Choir-7)
+root(ROOT-0, Teacher-8)
+
+nsubj(crazy-5, I-1)
+cop(crazy-5, 'm-2)
+advmod(crazy-5, also-3)
+advmod(crazy-5, officially-4)
+root(ROOT-0, crazy-5)
+advmod(crazy-5, now-6)
+
+root(ROOT-0, lol-1)
+
+nsubj(y'-2, Thought-1)
+root(ROOT-0, y'-2)
+nsubj(like-5, all-3)
+aux(like-5, would-4)
+ccomp(y'-2, like-5)
+aux(know-7, to-6)
+xcomp(like-5, know-7)
+dobj(know-7, !!!!-8)
+

@@ -1,0 +1,18 @@
+nsubj(listening-3, I-1)
+aux(listening-3, 'm-2)
+root(ROOT-0, listening-3)
+prep(listening-3, to-4)
+nn(Baseball-6, Gamecock-5)
+pobj(to-4, Baseball-6)
+dep(Baseball-6, CWS-8)
+num(CWS-8, 2004-9)
+
+nsubj(Vaterstag-3, Manana-1)
+cop(Vaterstag-3, is-2)
+root(ROOT-0, Vaterstag-3)
+vmod(Vaterstag-3, got-5)
+aux(get-7, to-6)
+xcomp(got-5, get-7)
+nn(something-9, pop-8)
+dobj(get-7, something-9)
+

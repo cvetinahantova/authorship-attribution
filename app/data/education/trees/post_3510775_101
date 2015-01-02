@@ -1,0 +1,9 @@
+ccomp(sluts-9, Do-2)
+nn(others-4, unto-3)
+dobj(Do-2, others-4)
+nsubj(sluts-9, Verbs-7)
+root(ROOT-0, sluts-9)
+dobj(sluts-9, embryos-11)
+amod(interpretations-14, many-13)
+dep(embryos-11, interpretations-14)
+

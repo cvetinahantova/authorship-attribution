@@ -1,0 +1,8 @@
+root(ROOT-0, urlLink-1)
+nn(Sarah-4, Big-2)
+nn(Sarah-4, Sister-3)
+dobj(urlLink-1, Sarah-4)
+cc(Sarah-4, and-5)
+nn(Alex-7, Baby-6)
+conj(Sarah-4, Alex-7)
+

@@ -1,0 +1,87 @@
+root(ROOT-0, yo-1)
+appos(yo-1, yo-3)
+appos(yo-1, yo-5)
+poss(babies-8, my-7)
+appos(yo-1, babies-8)
+
+nsubj(saw-2, I-1)
+root(ROOT-0, saw-2)
+dobj(saw-2, fireworks-3)
+det(day-6, the-4)
+amod(day-6, other-5)
+tmod(saw-2, day-6)
+
+root(ROOT-0, went-1)
+aux(newport-3, to-2)
+xcomp(went-1, newport-3)
+dobj(newport-3, beach-4)
+prep(newport-3, on-5)
+det(4th-7, the-6)
+pobj(on-5, 4th-7)
+
+amod(waves-2, big-1)
+root(ROOT-0, waves-2)
+
+nsubj(tried-2, they-1)
+root(ROOT-0, tried-2)
+xcomp(tried-2, killing-3)
+dobj(killing-3, me-4)
+
+nsubj(ran-2, i-1)
+root(ROOT-0, ran-2)
+prt(ran-2, away-3)
+
+det(sun-2, the-1)
+nsubj(got-3, sun-2)
+root(ROOT-0, got-3)
+dobj(got-3, me-4)
+
+nsubj(burned-2, it-1)
+root(ROOT-0, burned-2)
+dobj(burned-2, me-3)
+
+nsubj(cried-2, i-1)
+root(ROOT-0, cried-2)
+
+root(ROOT-0, poop-1)
+prep(poop-1, on-2)
+det(sun-4, the-3)
+pobj(on-2, sun-4)
+
+nsubj(movie-6, T3-1)
+cop(movie-6, is-2)
+det(movie-6, the-3)
+advmod(amazing-5, most-4)
+amod(movie-6, amazing-5)
+root(ROOT-0, movie-6)
+advmod(made-8, ever-7)
+vmod(movie-6, made-8)
+
+nsubj(gold-4, Arnold-1)
+cop(gold-4, is-2)
+amod(gold-4, comidic-3)
+root(ROOT-0, gold-4)
+
+nsubj(vote-3, I-1)
+aux(vote-3, will-2)
+root(ROOT-0, vote-3)
+prep(vote-3, for-4)
+pobj(for-4, him-5)
+
+root(ROOT-0, Swartzenegger-1)
+prep(Swartzenegger-1, for-2)
+nn(Govenor-4, California-3)
+pobj(for-2, Govenor-4)
+
+root(ROOT-0, talk-2)
+prep(talk-2, to-3)
+det(Ba-ba-ba-7, the-4)
+nn(Ba-ba-ba-7, hand-5)
+pobj(to-3, Ba-ba-ba-7)
+advmod(talk-2, BOOYAH-9)
+
+nsubj(man-4, He-1)
+cop(man-4, is-2)
+det(man-4, the-3)
+root(ROOT-0, man-4)
+

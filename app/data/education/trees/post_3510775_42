@@ -1,0 +1,12 @@
+amod(tree-2, Heaven-spanning-1)
+nsubj(see-9, tree-2)
+amod(rocks-5, ivy-covered-4)
+conj(tree-2, rocks-5)
+cc(tree-2, and-6)
+conj(tree-2, ferns-7)
+root(ROOT-0, see-9)
+nsubj(steal-11, me-10)
+ccomp(see-9, steal-11)
+poss(words-13, your-12)
+dobj(steal-11, words-13)
+

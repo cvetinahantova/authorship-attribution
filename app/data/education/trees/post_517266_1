@@ -1,0 +1,17 @@
+nn(Indiana-3, Angola-1)
+root(ROOT-0, Indiana-3)
+dep(Indiana-3, Speaking-5)
+prep(Speaking-5, at-6)
+nn(School-9, Angola-7)
+nn(School-9, High-8)
+pobj(at-6, School-9)
+cc(School-9, and-10)
+nn(University-12, Tri-State-11)
+conj(School-9, University-12)
+
+root(ROOT-0, Great-1)
+dep(Great-1, audiences-2)
+cc(audiences-2, and-3)
+amod(day-5, great-4)
+conj(audiences-2, day-5)
+

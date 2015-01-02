@@ -1,0 +1,13 @@
+advmod(want-2, just-1)
+root(ROOT-0, want-2)
+aux(squeeze-4, to-3)
+xcomp(want-2, squeeze-4)
+det(boy-7, the-5)
+amod(boy-7, fat-6)
+poss(cheeks-9, boy-7)
+possessive(boy-7, 's-8)
+nsubj(want-2, cheeks-9)
+nn(urlLink-13, hahaha-11)
+nn(urlLink-13, urlLink-12)
+dep(cheeks-9, urlLink-13)
+

@@ -1,0 +1,8 @@
+root(ROOT-0, Mary-1)
+prep(Mary-1, on-2)
+det(urlLink-7, the-3)
+amod(urlLink-7, first-4)
+nn(urlLink-7, night-5)
+nn(urlLink-7, urlLink-6)
+pobj(on-2, urlLink-7)
+

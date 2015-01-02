@@ -1,0 +1,8 @@
+root(ROOT-0, urlLink-1)
+prep(urlLink-1, On-2)
+det(Boardwalk-4, the-3)
+pobj(On-2, Boardwalk-4)
+prep(urlLink-1, at-5)
+nn(Lopez-7, Puerto-6)
+pobj(at-5, Lopez-7)
+

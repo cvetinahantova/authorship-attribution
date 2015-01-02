@@ -1,0 +1,13 @@
+poss(NA-4, KESHAN-1)
+possessive(KESHAN-1, 'S-2)
+nn(NA-4, GON-3)
+nsubj(GET-5, NA-4)
+root(ROOT-0, GET-5)
+det(KICK-7, A-6)
+dobj(GET-5, KICK-7)
+prep(KICK-7, IN-8)
+poss(urlLink-12, HIS-9)
+nn(urlLink-12, BUTT-10)
+nn(urlLink-12, !!!-11)
+pobj(IN-8, urlLink-12)
+

@@ -1,0 +1,11 @@
+root(ROOT-0, urlLink-1)
+xcomp(urlLink-1, Look-2)
+amod(cowboy-4, naked-3)
+nsubj(wearing-7, cowboy-4)
+aux(wearing-7, is-5)
+advmod(wearing-7, actually-6)
+ccomp(Look-2, wearing-7)
+dobj(wearing-7, clothes-8)
+num(urlLink-10, !!!-9)
+nsubj(urlLink-1, urlLink-10)
+

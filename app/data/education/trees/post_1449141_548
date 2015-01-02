@@ -1,0 +1,6 @@
+root(ROOT-0, urlLink-1)
+xcomp(urlLink-1, Thank-2)
+dobj(Thank-2, you-3)
+num(greenspan-5, alan-4)
+nsubj(urlLink-1, greenspan-5)
+

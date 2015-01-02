@@ -1,0 +1,7 @@
+nsubj(is-2, This-1)
+root(ROOT-0, is-2)
+aux(relax-4, to-3)
+xcomp(is-2, relax-4)
+poss(mind-6, my-5)
+dobj(relax-4, mind-6)
+

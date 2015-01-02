@@ -1,0 +1,10 @@
+nn(taiko-2, Yukata-1)
+nsubj(drummers-3, taiko-2)
+root(ROOT-0, drummers-3)
+prep(drummers-3, at-4)
+det(arcade-6, the-5)
+pobj(at-4, arcade-6)
+
+nn(urlLink-2, urlLink-1)
+root(ROOT-0, urlLink-2)
+

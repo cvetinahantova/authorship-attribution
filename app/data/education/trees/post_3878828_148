@@ -1,0 +1,11 @@
+amod(Birthday-2, Happy-1)
+root(ROOT-0, Birthday-2)
+appos(Birthday-2, Phil-3)
+
+nsubj(miss-2, I-1)
+root(ROOT-0, miss-2)
+dobj(miss-2, you-3)
+
+nn(urlLink-2, urlLink-1)
+root(ROOT-0, urlLink-2)
+

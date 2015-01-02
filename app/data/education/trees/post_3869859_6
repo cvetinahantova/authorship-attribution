@@ -1,0 +1,8 @@
+nn(chai-3, urlLink-1)
+nn(chai-3, Iced-2)
+nsubj(yum-10, chai-3)
+det(way-7, the-5)
+amod(way-7, natural-6)
+appos(chai-3, way-7)
+root(ROOT-0, yum-10)
+

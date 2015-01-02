@@ -1,0 +1,12 @@
+nsubj(abstract-6, haiku-1)
+cop(abstract-6, is-2)
+advmod(abstract-6, ok-3)
+det(bit-5, a-4)
+npadvmod(abstract-6, bit-5)
+root(ROOT-0, abstract-6)
+dep(abstract-6, tough-8)
+aux(read-10, to-9)
+xcomp(abstract-6, read-10)
+amod(butterflies-12, falling-11)
+dobj(read-10, butterflies-12)
+

@@ -1,0 +1,15 @@
+root(ROOT-0, urlLink-1)
+det(geese-3, Some-2)
+dobj(urlLink-1, geese-3)
+nsubj(shot-5, I-4)
+dep(urlLink-1, shot-5)
+det(morning-7, this-6)
+tmod(shot-5, morning-7)
+
+prep(not-5, With-1)
+det(camera-3, the-2)
+pobj(With-1, camera-3)
+root(ROOT-0, not-5)
+det(gun-7, a-6)
+dep(not-5, gun-7)
+

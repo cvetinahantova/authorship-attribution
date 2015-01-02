@@ -1,0 +1,9 @@
+root(ROOT-0, Tomodachi-1)
+prep(Tomodachi-1, in-2)
+det(lights-4, the-3)
+pobj(in-2, lights-4)
+prep(Tomodachi-1, of-5)
+nn(urlLink-8, Tokyo-6)
+nn(urlLink-8, urlLink-7)
+pobj(of-5, urlLink-8)
+

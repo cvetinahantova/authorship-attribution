@@ -1,0 +1,13 @@
+nsubj(crash-2, Waves-1)
+root(ROOT-0, crash-2)
+advmod(crash-2, bitterly-3)
+xcomp(crash-2, Biting-5)
+advmod(Biting-5, harshly-6)
+prep(Biting-5, at-7)
+det(shore-9, the-8)
+pobj(at-7, shore-9)
+nn(moves-12, Joy-11)
+dep(shore-9, moves-12)
+vmod(moves-12, washed-14)
+prt(washed-14, away-15)
+

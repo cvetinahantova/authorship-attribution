@@ -1,0 +1,12 @@
+root(ROOT-0, bleaughxz-1)
+nsubj(harm-6, what-3)
+cop(harm-6, 's-4)
+det(harm-6, the-5)
+dep(bleaughxz-1, harm-6)
+prep(harm-6, of-7)
+pcomp(of-7, adding-8)
+det(entry-10, another-9)
+dobj(adding-8, entry-10)
+
+root(ROOT-0, hehe-1)
+

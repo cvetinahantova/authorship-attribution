@@ -1,0 +1,9 @@
+root(ROOT-0, urlLink-1)
+nn(Depiction-5, Yakuza-2)
+nn(Depiction-5, urlLink-3)
+nn(Depiction-5, ヤクザ-4)
+dobj(urlLink-1, Depiction-5)
+prep(Depiction-5, of-6)
+amod(mafia-8, Japanese-7)
+pobj(of-6, mafia-8)
+

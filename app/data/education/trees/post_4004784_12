@@ -1,0 +1,13 @@
+nn(posts-2, Nobody-1)
+nsubj(!!!!-4, posts-2)
+advmod(!!!!-4, anymore-3)
+root(ROOT-0, !!!!-4)
+dobj(!!!!-4, :--LRB--5)
+advmod(week-10, How-6)
+cop(week-10, is-7)
+poss(week-10, everyone-8)
+possessive(everyone-8, 's-9)
+dep(!!!!-4, week-10)
+dep(week-10, going-11)
+dobj(going-11, ?!-12)
+

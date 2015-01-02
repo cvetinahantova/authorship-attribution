@@ -1,0 +1,17 @@
+nsubj(Me-4, urlLink-1)
+advmod(Me-4, Here-2)
+cop(Me-4, is-3)
+root(ROOT-0, Me-4)
+cc(Me-4, and-5)
+conj(Me-4, Antisana-6)
+advmod(Me-4, again-7)
+
+prep(tried-5, Its-1)
+det(one-3, the-2)
+pobj(Its-1, one-3)
+nsubj(tried-5, I-4)
+root(ROOT-0, tried-5)
+aux(post-7, to-6)
+xcomp(tried-5, post-7)
+advmod(post-7, before-8)
+

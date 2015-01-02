@@ -1,0 +1,8 @@
+advmod(sick-2, so-1)
+root(ROOT-0, sick-2)
+prep(sick-2, of-3)
+pcomp(of-3, packing-4)
+nsubj(puke-7, I-5)
+aux(puke-7, could-6)
+ccomp(packing-4, puke-7)
+

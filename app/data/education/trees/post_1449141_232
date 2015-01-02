@@ -1,0 +1,23 @@
+advmod(Should-2, urlLink-1)
+root(ROOT-0, Should-2)
+det(Run-6, the-3)
+nn(Run-6, Green-4)
+nn(Run-6, Party-5)
+nsubj(Should-2, Run-6)
+det(Candidate-9, a-7)
+nn(Candidate-9, Presidential-8)
+dep(Should-2, Candidate-9)
+prep(Candidate-9, in-10)
+pobj(in-10, 2004-11)
+
+root(ROOT-0, NO-1)
+
+dep(Must-2, Greens-1)
+root(ROOT-0, Must-2)
+advmod(Away-4, Back-3)
+advmod(Must-2, Away-4)
+prep(Must-2, from-5)
+pobj(from-5, 04-6)
+nn(Campaign-8, Presidential-7)
+nsubj(Must-2, Campaign-8)
+

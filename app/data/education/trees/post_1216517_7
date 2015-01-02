@@ -1,0 +1,5 @@
+root(ROOT-0, urlLink-1)
+nsubj(scary-4, This-2)
+cop(scary-4, is-3)
+ccomp(urlLink-1, scary-4)
+

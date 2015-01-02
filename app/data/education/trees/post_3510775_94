@@ -1,0 +1,8 @@
+root(ROOT-0, trickle-1)
+amod(stains-4, current-2)
+nn(stains-4, rain-3)
+dobj(trickle-1, stains-4)
+prep(trickle-1, on-5)
+poss(chest-7, your-6)
+pobj(on-5, chest-7)
+

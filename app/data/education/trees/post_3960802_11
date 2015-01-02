@@ -1,0 +1,9 @@
+nn(lovedog06-3, urlLink-1)
+nn(lovedog06-3, urlLink-2)
+nsubj(uploaded-5, lovedog06-3)
+advmod(uploaded-5, Originally-4)
+root(ROOT-0, uploaded-5)
+prep(uploaded-5, by-6)
+nn(tamaki-8, urlLink-7)
+pobj(by-6, tamaki-8)
+

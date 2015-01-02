@@ -1,0 +1,4 @@
+root(ROOT-0, Blog-1)
+nn(Open-3, Now-2)
+dep(Blog-1, Open-3)
+

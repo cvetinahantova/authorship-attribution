@@ -1,0 +1,11 @@
+nn(power-5, urlLink-1)
+nn(power-5, George-2)
+nn(power-5, Monbiot-3)
+nn(power-5, Coporate-4)
+root(ROOT-0, power-5)
+prep(power-5, On-7)
+det(Edge-9, the-8)
+pobj(On-7, Edge-9)
+prep(Edge-9, of-10)
+pobj(of-10, Lunacy-11)
+

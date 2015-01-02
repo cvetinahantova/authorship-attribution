@@ -1,0 +1,11 @@
+nsubj(have-2, I-1)
+root(ROOT-0, have-2)
+det(thing-5, another-3)
+nn(thing-5, blogger-4)
+dobj(have-2, thing-5)
+
+poss(http://bob4eva.blogspot.com/-4, It-1)
+possessive(It-1, 's-2)
+nn(http://bob4eva.blogspot.com/-4, urlLink-3)
+root(ROOT-0, http://bob4eva.blogspot.com/-4)
+

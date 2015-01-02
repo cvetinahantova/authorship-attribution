@@ -1,0 +1,6 @@
+root(ROOT-0, urlLink-1)
+det(urlLink-6, The-2)
+amod(urlLink-6, BEFORE-3)
+nn(urlLink-6, picture-4)
+dobj(urlLink-1, urlLink-6)
+

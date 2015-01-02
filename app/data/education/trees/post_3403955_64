@@ -1,0 +1,10 @@
+root(ROOT-0, urlLink-1)
+dobj(urlLink-1, Sarah-2)
+det(camera-4, the-3)
+nsubj(is-5, camera-4)
+rcmod(Sarah-2, is-5)
+prep(is-5, over-6)
+advmod(urlLink-9, here-7)
+amod(urlLink-9, !!!-8)
+pobj(over-6, urlLink-9)
+

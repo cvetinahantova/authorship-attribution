@@ -1,0 +1,13 @@
+advcl(understand-12, posted-1)
+prep(posted-1, by-2)
+pobj(by-2, lara-3)
+num(urlLink-6, =-RRB--4)
+amod(urlLink-6, @-5)
+nsubj(posted-1, urlLink-6)
+num(urlLink-6, 2:00-7)
+nn(i-9, AM-8)
+nsubj(understand-12, i-9)
+aux(understand-12, do-10)
+neg(understand-12, n't-11)
+root(ROOT-0, understand-12)
+

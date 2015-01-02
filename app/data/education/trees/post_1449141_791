@@ -1,0 +1,11 @@
+root(ROOT-0, urlLink-1)
+amod(change-3, Regime-2)
+dobj(urlLink-1, change-3)
+prep(change-3, in-4)
+pobj(in-4, Iran-5)
+advmod(urlLink-1, now-6)
+prep(urlLink-1, in-7)
+nn(sights-10, Bush-8)
+nn(sights-10, s-9)
+pobj(in-7, sights-10)
+

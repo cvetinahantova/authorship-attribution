@@ -1,0 +1,8 @@
+root(ROOT-0, Speaking-1)
+prep(Speaking-1, of-2)
+poss(dogs-7, Derbyshire-3)
+possessive(Derbyshire-3, 's-4)
+nn(dogs-7, urlLink-5)
+nn(dogs-7, police-6)
+pobj(of-2, dogs-7)
+

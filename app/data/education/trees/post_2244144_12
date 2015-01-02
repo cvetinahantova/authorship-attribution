@@ -1,0 +1,17 @@
+det(trend-4, The-1)
+amod(trend-4, new-2)
+nn(trend-4, fashion-3)
+root(ROOT-0, trend-4)
+nn(skinbags-7, urlLink-6)
+appos(trend-4, skinbags-7)
+
+advmod(feel-3, Now-1)
+nsubj(feel-3, I-2)
+root(ROOT-0, feel-3)
+acomp(feel-3, glad-4)
+prep(glad-4, for-5)
+pcomp(for-5, having-6)
+neg(sense-9, no-7)
+nn(sense-9, fashion-8)
+dobj(having-6, sense-9)
+

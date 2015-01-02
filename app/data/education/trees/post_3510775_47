@@ -1,0 +1,9 @@
+det(essay-4, An-1)
+amod(essay-4, excellent-2)
+amod(essay-4, Thoreau-3)
+root(ROOT-0, essay-4)
+
+nsubj(America-3, This-1)
+cop(America-3, is-2)
+root(ROOT-0, America-3)
+

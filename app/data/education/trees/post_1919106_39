@@ -1,0 +1,7 @@
+nn(Cash-3, Dead-1)
+nn(Cash-3, Johnny-2)
+nsubjpass(urlLink-5, Cash-3)
+auxpass(urlLink-5, is-4)
+root(ROOT-0, urlLink-5)
+xcomp(urlLink-5, dead-6)
+

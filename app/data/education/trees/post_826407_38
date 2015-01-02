@@ -1,0 +1,18 @@
+root(ROOT-0, Had-1)
+det(clean-4, a-2)
+amod(clean-4, quick-3)
+dobj(Had-1, clean-4)
+mark(supposed-8, while-5)
+nsubjpass(supposed-8, I-6)
+auxpass(supposed-8, 'm-7)
+advcl(Had-1, supposed-8)
+aux(marking-11, to-9)
+aux(marking-11, be-10)
+xcomp(supposed-8, marking-11)
+
+root(ROOT-0, Looks-1)
+det(bit-3, a-2)
+dep(better-4, bit-3)
+dobj(Looks-1, better-4)
+advmod(Looks-1, now-5)
+

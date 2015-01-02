@@ -1,0 +1,20 @@
+root(ROOT-0, Hey-1)
+
+root(ROOT-0, Check-1)
+prt(Check-1, out-2)
+poss(question-5, my-3)
+amod(question-5, random-4)
+dobj(Check-1, question-5)
+prep(question-5, on-6)
+poss(profile-8, my-7)
+pobj(on-6, profile-8)
+nsubj(awesome-12, it-10)
+cop(awesome-12, 's-11)
+parataxis(Check-1, awesome-12)
+
+nsubj(love-2, I-1)
+root(ROOT-0, love-2)
+nsubj(much-5, it-3)
+advmod(much-5, soooo-4)
+xcomp(love-2, much-5)
+

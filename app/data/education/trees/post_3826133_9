@@ -1,0 +1,22 @@
+nsubj(love-2, I-1)
+root(ROOT-0, love-2)
+dobj(love-2, nerds-3)
+
+nsubj(sexy-2, Something-1)
+root(ROOT-0, sexy-2)
+prep(sexy-2, about-3)
+pobj(about-3, them-4)
+
+nsubj(one-4, This-1)
+advmod(one-4, maybe-2)
+cop(one-4, be-3)
+dep(seen-12, one-4)
+prep(one-4, of-5)
+det(strips-9, the-6)
+amod(strips-9, best-7)
+amod(strips-9, online-8)
+pobj(of-5, strips-9)
+nsubj(seen-12, I-10)
+aux(seen-12, 've-11)
+root(ROOT-0, seen-12)
+

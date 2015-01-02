@@ -1,0 +1,9 @@
+root(ROOT-0, urlLink-1)
+nn(stones-4, Buddhist-2)
+nn(stones-4, prayer-3)
+dobj(urlLink-1, stones-4)
+mark(told-9, so-6)
+nsubjpass(told-9, I-7)
+auxpass(told-9, 'm-8)
+dep(stones-4, told-9)
+

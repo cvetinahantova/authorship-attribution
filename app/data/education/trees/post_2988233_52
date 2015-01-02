@@ -1,0 +1,11 @@
+nn(urlLink-2, urlLink-1)
+nsubj(you-6, urlLink-2)
+nsubj(smilie-4, What-3)
+rcmod(urlLink-2, smilie-4)
+cop(you-6, are-5)
+root(ROOT-0, you-6)
+
+root(ROOT-0, Take-1)
+det(test-3, the-2)
+dobj(Take-1, test-3)
+

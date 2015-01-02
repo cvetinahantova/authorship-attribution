@@ -1,0 +1,21 @@
+advmod(Canada-3, Why-1)
+nn(Canada-3, Drag-2)
+root(ROOT-0, Canada-3)
+prep(Canada-3, into-4)
+pobj(into-4, This-5)
+
+det(week-2, This-1)
+poss(installment-4, week-2)
+possessive(week-2, 's-3)
+root(ROOT-0, installment-4)
+prep(installment-4, of-5)
+nn(inexplicable-7, urlLink-6)
+pobj(of-5, inexplicable-7)
+amod(shit-9, crazy-8)
+amod(installment-4, shit-9)
+
+nsubj(urlLink-3, Via-2)
+root(ROOT-0, urlLink-3)
+det(Presurfer-5, The-4)
+dobj(urlLink-3, Presurfer-5)
+

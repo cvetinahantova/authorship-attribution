@@ -1,0 +1,6 @@
+root(ROOT-0, urlLink-1)
+dobj(urlLink-1, Karina-2)
+prep(Karina-2, in-3)
+nn(urlLink-5, Britain-4)
+pobj(in-3, urlLink-5)
+

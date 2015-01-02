@@ -1,0 +1,16 @@
+cc(uneven-13, Yet-1)
+det(creation-5, another-2)
+amod(creation-5, great-3)
+nn(creation-5, Hannah-4)
+nsubj(uneven-13, creation-5)
+nsubj(uneven-13, it-7)
+cop(uneven-13, 's-8)
+advmod(uneven-13, just-9)
+det(uneven-13, the-10)
+amod(uneven-13, slightest-11)
+nn(uneven-13, bit-12)
+root(ROOT-0, uneven-13)
+
+nn(urlLink-2, urlLink-1)
+root(ROOT-0, urlLink-2)
+

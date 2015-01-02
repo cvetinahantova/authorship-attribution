@@ -1,0 +1,7 @@
+det(urlLink-5, A-1)
+amod(urlLink-5, real-2)
+nn(urlLink-5, Tokyo-3)
+nn(urlLink-5, gaurdman-4)
+nsubj(urlLink-6, urlLink-5)
+root(ROOT-0, urlLink-6)
+

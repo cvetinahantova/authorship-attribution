@@ -1,0 +1,11 @@
+tmod(boomshakalalalalawhoopwhoopdeedoo-5, Today-1)
+nsubj(boomshakalalalalawhoopwhoopdeedoo-5, I-2)
+aux(boomshakalalalalawhoopwhoopdeedoo-5, did-3)
+neg(boomshakalalalalawhoopwhoopdeedoo-5, n't-4)
+root(ROOT-0, boomshakalalalalawhoopwhoopdeedoo-5)
+advmod(until-8, at-6)
+pobj(at-6, least-7)
+prep(boomshakalalalalawhoopwhoopdeedoo-5, until-8)
+amod(hour-10, happy-9)
+pobj(until-8, hour-10)
+

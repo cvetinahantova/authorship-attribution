@@ -1,0 +1,8 @@
+prep(bored-8, At-1)
+det(centre-4, the-2)
+nn(centre-4, call-3)
+pobj(At-1, centre-4)
+advmod(bored-8, again-5)
+dep(again-5, today-6)
+root(ROOT-0, bored-8)
+

@@ -1,0 +1,6 @@
+root(ROOT-0, urlLink-1)
+dobj(urlLink-1, Snorkeling-2)
+prep(Snorkeling-2, in-3)
+nn(urlLink-5, Mallorca-4)
+pobj(in-3, urlLink-5)
+

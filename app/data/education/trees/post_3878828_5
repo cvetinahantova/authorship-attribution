@@ -1,0 +1,9 @@
+num(eleven-2, Seven-1)
+nsubj(big-4, eleven-2)
+cop(big-4, is-3)
+root(ROOT-0, big-4)
+prep(big-4, in-5)
+nn(urlLink-8, Tokyo-6)
+nn(urlLink-8, urlLink-7)
+pobj(in-5, urlLink-8)
+

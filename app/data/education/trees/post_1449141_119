@@ -1,0 +1,12 @@
+nn(baltimoresun.com-2, urlLink-1)
+root(ROOT-0, baltimoresun.com-2)
+amod(seniors-5, More-4)
+nsubj(relying-7, seniors-5)
+aux(relying-7, are-6)
+dep(baltimoresun.com-2, relying-7)
+prep(relying-7, on-8)
+pobj(on-8, one-9)
+dep(one-9, another-10)
+prep(relying-7, for-11)
+pobj(for-11, help-12)
+

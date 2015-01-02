@@ -1,0 +1,7 @@
+root(ROOT-0, urlLink-1)
+det(temple-3, Another-2)
+dobj(urlLink-1, temple-3)
+prep(urlLink-1, at-4)
+nn(park-6, Namhansansong-5)
+pobj(at-4, park-6)
+

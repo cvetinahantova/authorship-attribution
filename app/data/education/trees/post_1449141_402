@@ -1,0 +1,12 @@
+nn(Gays-2, urlLink-1)
+nsubj(Says-9, Gays-2)
+aux(Says-9, Have-3)
+advmod(Says-9, Right-4)
+prep(Right-4, to-5)
+nn(SJC-8, Marry-6)
+pobj(to-5, SJC-8)
+root(ROOT-0, Says-9)
+prep(Says-9, in-10)
+nn(Ruling-12, Historic-11)
+pobj(in-10, Ruling-12)
+

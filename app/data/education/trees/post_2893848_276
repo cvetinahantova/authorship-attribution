@@ -1,0 +1,13 @@
+root(ROOT-0, urlLink-1)
+nsubj(creepy-4, This-2)
+cop(creepy-4, is-3)
+rcmod(urlLink-1, creepy-4)
+det(trappings-7, the-6)
+dep(urlLink-1, trappings-7)
+prep(trappings-7, of-8)
+pobj(of-8, intimacy-9)
+prep(intimacy-9, without-10)
+det(intimacy-12, the-11)
+pobj(without-10, intimacy-12)
+advmod(intimacy-12, itself-13)
+

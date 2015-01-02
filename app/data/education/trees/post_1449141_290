@@ -1,0 +1,9 @@
+nsubj(begin-8, urlLink-1)
+vmod(urlLink-1, Selling-2)
+nn(Short-4, Dean-3)
+nsubj(debate-7, Short-4)
+dep(debate-7, Let-5)
+det(debate-7, the-6)
+ccomp(Selling-2, debate-7)
+root(ROOT-0, begin-8)
+

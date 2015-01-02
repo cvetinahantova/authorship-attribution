@@ -1,0 +1,5 @@
+root(ROOT-0, check-1)
+prt(check-1, out-2)
+nn(Bryson-4, Bill-3)
+dobj(check-1, Bryson-4)
+

@@ -1,0 +1,14 @@
+root(ROOT-0, urlLink-1)
+dobj(urlLink-1, Hangin-2)
+prep(urlLink-1, with-4)
+det(girls-6, the-5)
+pobj(with-4, girls-6)
+
+root(ROOT-0, Thanks-1)
+prep(Thanks-1, to-2)
+pobj(to-2, Nancy-3)
+prep(Thanks-1, for-4)
+det(pic-7, this-5)
+amod(pic-7, nice-6)
+pobj(for-4, pic-7)
+

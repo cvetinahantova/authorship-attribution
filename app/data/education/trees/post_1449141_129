@@ -1,0 +1,12 @@
+root(ROOT-0, urlLink-1)
+nn(PubMed-3, Entrez-2)
+nsubj(urlLink-1, PubMed-3)
+nn(Alzheimer-7, Early-onset-6)
+nsubj(disease-8, Alzheimer-7)
+ccomp(urlLink-1, disease-8)
+advmod(appropriate-14, when-10)
+cop(appropriate-14, is-11)
+amod(testing-13, genetic-12)
+nsubj(appropriate-14, testing-13)
+parataxis(disease-8, appropriate-14)
+

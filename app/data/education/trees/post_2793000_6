@@ -1,0 +1,16 @@
+det(forces-2, The-1)
+nsubj(urlLink-9, forces-2)
+prep(forces-2, of-3)
+amod(command-5, evil-4)
+pobj(of-3, command-5)
+nsubj(click-8, you-6)
+aux(click-8, to-7)
+rcmod(command-5, click-8)
+root(ROOT-0, urlLink-9)
+advmod(urlLink-9, here-10)
+
+advmod(funny-2, Really-1)
+amod(spoof-4, funny-2)
+amod(spoof-4, Matrix-3)
+root(ROOT-0, spoof-4)
+

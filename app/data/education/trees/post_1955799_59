@@ -1,0 +1,23 @@
+nsubj(glad-3, I-1)
+cop(glad-3, 'm-2)
+root(ROOT-0, glad-3)
+nsubj('m-5, I-4)
+ccomp(glad-3, 'm-5)
+advmod('m-5, back-6)
+prep(back-6, to-7)
+pcomp(to-7, writing-8)
+advmod(writing-8, regularly-9)
+
+nsubj(needed-2, I-1)
+root(ROOT-0, needed-2)
+aux(clear-4, to-3)
+xcomp(needed-2, clear-4)
+det(air-6, the-5)
+dobj(clear-4, air-6)
+advmod(clear-4, first-7)
+
+advmod(feel-3, Makes-1)
+nsubj(feel-3, me-2)
+root(ROOT-0, feel-3)
+acomp(feel-3, good-4)
+

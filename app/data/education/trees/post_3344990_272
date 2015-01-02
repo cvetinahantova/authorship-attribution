@@ -1,0 +1,23 @@
+root(ROOT-0, urlLink-1)
+det(product-4, The-2)
+amod(product-4, finished-3)
+dobj(urlLink-1, product-4)
+
+advmod(yummy-2, Yummy-1)
+root(ROOT-0, yummy-2)
+prep(yummy-2, for-3)
+poss(tummies-5, our-4)
+pobj(for-3, tummies-5)
+
+root(ROOT-0, LOL-1)
+poss(dont-8, Its-3)
+advmod(nice-5, so-4)
+amod(dont-8, nice-5)
+dep(nice-5, looking-6)
+dobj(looking-6, you-7)
+nsubj(want-9, dont-8)
+dep(LOL-1, want-9)
+aux(eat-11, to-10)
+xcomp(want-9, eat-11)
+dobj(eat-11, it-12)
+

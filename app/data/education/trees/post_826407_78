@@ -1,0 +1,10 @@
+nsubj(photos-4, here-1)
+cop(photos-4, are-2)
+det(photos-4, some-3)
+root(ROOT-0, photos-4)
+prep(photos-4, of-5)
+poss(holiday-7, my-6)
+pobj(of-5, holiday-7)
+prep(holiday-7, in-8)
+pobj(in-8, Wales-9)
+

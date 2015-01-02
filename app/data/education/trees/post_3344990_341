@@ -1,0 +1,11 @@
+root(ROOT-0, urlLink-1)
+amod(angle-3, Different-2)
+dobj(urlLink-1, angle-3)
+prep(angle-3, of-4)
+nn(house-6, boat-5)
+pobj(of-4, house-6)
+prep(house-6, on-7)
+nn(urlLink-10, Lake-8)
+nn(urlLink-10, Logan-9)
+pobj(on-7, urlLink-10)
+

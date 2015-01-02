@@ -1,0 +1,22 @@
+root(ROOT-0, urlLink-1)
+amod(birthday-4, Happy-2)
+amod(birthday-4, late-3)
+dobj(urlLink-1, birthday-4)
+
+nsubj(forgot-2, I-1)
+root(ROOT-0, forgot-2)
+mark(was-8, that-3)
+nn(Amber-5, urlLink-4)
+poss(birthday-7, Amber-5)
+possessive(Amber-5, 's-6)
+nsubj(was-8, birthday-7)
+ccomp(forgot-2, was-8)
+prep(was-8, on-9)
+pobj(on-9, Tuesday-10)
+
+advmod(Amber-6, So-1)
+amod(birthday-5, happy-3)
+amod(birthday-5, late-4)
+nsubj(Amber-6, birthday-5)
+root(ROOT-0, Amber-6)
+

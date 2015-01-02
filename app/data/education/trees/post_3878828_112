@@ -1,0 +1,22 @@
+root(ROOT-0, Colorful-1)
+nn(collection-3, flower-2)
+dobj(Colorful-1, collection-3)
+
+nsubj(had-2, I-1)
+root(ROOT-0, had-2)
+aux(hop-4, to-3)
+xcomp(had-2, hop-4)
+prt(hop-4, off-5)
+poss(bike-7, my-6)
+dobj(hop-4, bike-7)
+cc(hop-4, and-8)
+conj(hop-4, go-9)
+xcomp(go-9, take-10)
+det(pic-12, a-11)
+dobj(take-10, pic-12)
+prep(pic-12, of-13)
+pobj(of-13, them-14)
+
+nn(urlLink-2, urlLink-1)
+root(ROOT-0, urlLink-2)
+

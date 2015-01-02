@@ -1,0 +1,9 @@
+advmod(word-3, Still-1)
+neg(word-3, no-2)
+root(ROOT-0, word-3)
+
+nsubj(hating-3, I-1)
+aux(hating-3, 'm-2)
+root(ROOT-0, hating-3)
+dobj(hating-3, this-4)
+

@@ -1,0 +1,20 @@
+root(ROOT-0, View-1)
+prep(View-1, of-2)
+det(graveyard-4, the-3)
+pobj(of-2, graveyard-4)
+
+nsubj(s-3, It-1)
+root(ROOT-0, s-3)
+dep(up-5, way-4)
+advmod(s-3, up-5)
+prep(s-3, on-6)
+det(hill-8, a-7)
+pobj(on-6, hill-8)
+cc(s-3, and-9)
+conj(s-3, overlooks-10)
+amod(ricefields-12, several-11)
+dobj(overlooks-10, ricefields-12)
+
+nn(urlLink-2, urlLink-1)
+root(ROOT-0, urlLink-2)
+

@@ -1,0 +1,6 @@
+root(ROOT-0, Happier-1)
+det(urlLink-5, this-2)
+nn(urlLink-5, time-3)
+nn(urlLink-5, urlLink-4)
+dobj(Happier-1, urlLink-5)
+

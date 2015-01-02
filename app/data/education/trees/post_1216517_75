@@ -1,0 +1,14 @@
+poss(car-2, my-1)
+nsubj(died-3, car-2)
+root(ROOT-0, died-3)
+advmod(died-3, again-4)
+
+root(ROOT-0, look-1)
+prep(look-1, at-2)
+det(picture-4, this-3)
+pobj(at-2, picture-4)
+
+nsubj(funny-3, it-1)
+cop(funny-3, is-2)
+root(ROOT-0, funny-3)
+

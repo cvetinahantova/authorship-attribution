@@ -1,0 +1,12 @@
+root(ROOT-0, urlLink-1)
+amod(picture-3, recent-2)
+dobj(urlLink-1, picture-3)
+prep(picture-3, of-4)
+poss(bro-7, my-5)
+amod(bro-7, little-6)
+pobj(of-4, bro-7)
+
+advmod(menacing-2, pretty-1)
+dep(huh-4, menacing-2)
+root(ROOT-0, huh-4)
+

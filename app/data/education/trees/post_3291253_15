@@ -1,0 +1,7 @@
+root(ROOT-0, urlLink-1)
+nn(News-3, Google-2)
+dobj(urlLink-1, News-3)
+poss(page-6, My-4)
+amod(page-6, favourite-5)
+nsubj(urlLink-1, page-6)
+

@@ -1,0 +1,20 @@
+root(ROOT-0, Good-1)
+dep(Good-1, morning-2)
+
+nsubj(tho-6, I-1)
+cop(tho-6, 'm-2)
+amod(tho-6, tired-3)
+advmod(tho-6, even-5)
+root(ROOT-0, tho-6)
+nsubj(went-8, I-7)
+ccomp(tho-6, went-8)
+prep(went-8, to-9)
+pobj(to-9, bed-10)
+advmod(bed-10, early-11)
+
+nsubj(all-3, That-1)
+cop(all-3, is-2)
+root(ROOT-0, all-3)
+prep(all-3, for-4)
+pobj(for-4, now-5)
+

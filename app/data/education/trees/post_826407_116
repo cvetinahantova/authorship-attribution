@@ -1,0 +1,10 @@
+root(ROOT-0, Check-1)
+prt(Check-1, out-2)
+dobj(Check-1, Helen-3)
+cc(Helen-3, and-4)
+poss(site-9, my-5)
+amod(site-9, new-6)
+nn(site-9, urlLink-7)
+nn(site-9, fotopages-8)
+conj(Helen-3, site-9)
+

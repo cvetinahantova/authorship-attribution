@@ -1,0 +1,15 @@
+root(ROOT-0, urlLink-1)
+nsubj('s-3, What-2)
+dep(urlLink-1, 's-3)
+advmod('s-3, up-4)
+prep('s-3, with-5)
+pobj(with-5, blogging-6)
+cc('s-3, and-8)
+advmod(care-12, why-9)
+aux(care-12, should-10)
+nsubj(care-12, you-11)
+conj('s-3, care-12)
+
+root(ROOT-0, TechUpdate-2)
+dep(TechUpdate-2, ZDNet-4)
+

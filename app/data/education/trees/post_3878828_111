@@ -1,0 +1,11 @@
+root(ROOT-0, Sunflowers-1)
+prep(Sunflowers-1, in-2)
+det(garden-4, the-3)
+pobj(in-2, garden-4)
+prep(Sunflowers-1, by-5)
+poss(apartment-7, my-6)
+pobj(by-5, apartment-7)
+
+nn(urlLink-2, urlLink-1)
+root(ROOT-0, urlLink-2)
+

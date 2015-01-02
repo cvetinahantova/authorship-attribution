@@ -1,0 +1,12 @@
+nsubj(changed-2, I-1)
+root(ROOT-0, changed-2)
+det(name-5, the-3)
+nn(name-5, directory-4)
+dobj(changed-2, name-5)
+prep(changed-2, from-6)
+nn(Catalog-10, Alma-8)
+nn(Catalog-10, Online-9)
+pobj(from-6, Catalog-10)
+prep(changed-2, to-12)
+pobj(to-12, catalog-14)
+

@@ -1,0 +1,14 @@
+root(ROOT-0, hey-1)
+
+dep(dieing-4, sooooooooooooooo-1)
+dep(dieing-4, boring-2)
+root(ROOT-0, dieing-4)
+dep(dieing-4, plz-6)
+appos(plz-6, sum-8)
+num(sum-8, 1-9)
+prep(sum-8, save-10)
+pobj(save-10, me-11)
+nn(kd-15, xo-13)
+nn(kd-15, ~-14)
+dep(dieing-4, kd-15)
+

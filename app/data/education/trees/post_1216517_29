@@ -1,0 +1,10 @@
+root(ROOT-0, BREAKING-1)
+dobj(BREAKING-1, NEWS-2)
+discourse(urlLink-6, oh-3)
+dep(oh-3, man-5)
+dep(BREAKING-1, urlLink-6)
+nsubj(good-10, this-7)
+cop(good-10, is-8)
+advmod(good-10, really-9)
+ccomp(urlLink-6, good-10)
+

@@ -1,0 +1,34 @@
+nsubj(raining-3, It-1)
+aux(raining-3, 's-2)
+root(ROOT-0, raining-3)
+advmod(raining-3, again-4)
+
+nsubj(sets-3, It-1)
+advmod(sets-3, always-2)
+root(ROOT-0, sets-3)
+dobj(sets-3, me-4)
+prep(sets-3, in-5)
+det(tone-8, a-6)
+amod(tone-8, moody-7)
+pobj(in-5, tone-8)
+
+root(ROOT-0, Damn-1)
+dobj(Damn-1, it-2)
+
+root(ROOT-0, Puts-1)
+dobj(Puts-1, me-2)
+prep(Puts-1, in-3)
+predet(tone-7, such-4)
+det(tone-7, a-5)
+amod(tone-7, low-6)
+pobj(in-3, tone-7)
+
+amod(job-2, Damn-1)
+root(ROOT-0, job-2)
+
+neg(sex-2, No-1)
+root(ROOT-0, sex-2)
+dep(sex-2, too-3)
+
+root(ROOT-0, Fuck-1)
+

@@ -1,0 +1,17 @@
+root(ROOT-0, well-1)
+neg(walkin-4, not-3)
+dep(well-1, walkin-4)
+nn(se-6, per-5)
+dep(walkin-4, se-6)
+dep(se-6, yet-7)
+cc(well-1, but-9)
+nsubj('m-11, i-10)
+conj(well-1, 'm-11)
+advmod('m-11, here-12)
+
+OpenJDK 64-Bit Server VM warning: INFO: os::commit_memory(0x000000078caae000, 734887936, 0) failed; error='Cannot allocate memory' (errno=12)
+#
+# There is insufficient memory for the Java Runtime Environment to continue.
+# Native memory allocation (malloc) failed to allocate 734887936 bytes for committing reserved memory.
+# An error report file with more information is saved as:
+# /home/cvetina/stanford-parser-full-2014-08-27/scripts/education/hs_err_pid3143.log

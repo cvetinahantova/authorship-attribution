@@ -1,0 +1,10 @@
+aux(turn-3, Can-1)
+nsubj(turn-3, you-2)
+root(ROOT-0, turn-3)
+det(face-5, this-4)
+dobj(turn-3, face-5)
+prt(turn-3, down-6)
+
+nn(urlLink-2, urlLink-1)
+root(ROOT-0, urlLink-2)
+

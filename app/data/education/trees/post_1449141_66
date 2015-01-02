@@ -1,0 +1,11 @@
+root(ROOT-0, urlLink-1)
+amod(outcomes-3, Clinical-2)
+dobj(urlLink-1, outcomes-3)
+prep(outcomes-3, of-4)
+pobj(of-4, possible-5)
+prep(possible-5, versus-6)
+amod(Alzheimer-8, probable-7)
+poss(disease-10, Alzheimer-8)
+possessive(Alzheimer-8, 's-9)
+pobj(versus-6, disease-10)
+

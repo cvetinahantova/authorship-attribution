@@ -1,0 +1,13 @@
+vmod(have-11, Changed-1)
+det(music-3, the-2)
+dobj(Changed-1, music-3)
+det(days-6, some-5)
+nsubj(have-11, days-6)
+nsubj(got-9, you-7)
+advmod(got-9, just-8)
+rcmod(days-6, got-9)
+dobj(got-9, ta-10)
+root(ROOT-0, have-11)
+det(Skynard-13, some-12)
+dobj(have-11, Skynard-13)
+

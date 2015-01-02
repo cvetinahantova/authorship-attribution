@@ -1,0 +1,9 @@
+nn(Square-6, Me-1)
+cc(Me-1, and-2)
+conj(Me-1, Nicole-3)
+nn(Square-6, Shinjuku-4)
+nn(Square-6, Times-5)
+nsubj(urlLink-7, Square-6)
+root(ROOT-0, urlLink-7)
+dobj(urlLink-7, urlLink-8)
+

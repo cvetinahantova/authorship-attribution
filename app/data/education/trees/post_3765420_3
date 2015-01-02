@@ -1,0 +1,11 @@
+nsubj(went-10, boring-1)
+vmod(boring-1, went-3)
+prep(went-3, to-4)
+pobj(to-4, school-5)
+tmod(school-5, today-6)
+advmod(school-5, then-8)
+root(ROOT-0, went-10)
+dep(kedah-12, to-11)
+dep(went-10, kedah-12)
+dep(kedah-12, boring-14)
+

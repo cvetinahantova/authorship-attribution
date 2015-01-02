@@ -1,0 +1,24 @@
+nsubj(forgot-2, I-1)
+root(ROOT-0, forgot-2)
+aux(add-4, to-3)
+xcomp(forgot-2, add-4)
+mark(got-7, that-5)
+nsubj(got-7, I-6)
+ccomp(add-4, got-7)
+amod(shampoo-9, new-8)
+dobj(got-7, shampoo-9)
+advmod(got-7, too-11)
+
+nsubj(smells-2, It-1)
+root(ROOT-0, smells-2)
+acomp(smells-2, good-3)
+
+root(ROOT-0, Yes-1)
+
+nn(Music-2, Current-1)
+root(ROOT-0, Music-2)
+dep(Music-2, Haddaway-4)
+nsubj(Love-8, What-6)
+cop(Love-8, Is-7)
+dep(Haddaway-4, Love-8)
+

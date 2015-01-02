@@ -1,0 +1,11 @@
+root(ROOT-0, urlLink-1)
+dep(urlLink-1, Wow-2)
+
+nsubj(melons-2, Pure-1)
+root(ROOT-0, melons-2)
+prep(melons-2, with-3)
+neg(meat-5, no-4)
+pobj(with-3, meat-5)
+
+root(ROOT-0, Yummy-1)
+

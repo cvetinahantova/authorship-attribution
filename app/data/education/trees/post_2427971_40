@@ -1,0 +1,10 @@
+root(ROOT-0, dunno-1)
+advmod(got-4, how-2)
+nsubj(got-4, this-3)
+ccomp(dunno-1, got-4)
+advmod(got-4, here-5)
+advmod(ignor-8, just-7)
+ccomp(got-4, ignor-8)
+dobj(ignor-8, it-9)
+dep(dunno-1, P-11)
+

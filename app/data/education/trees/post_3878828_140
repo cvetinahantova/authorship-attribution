@@ -1,0 +1,12 @@
+dep(if-2, What-1)
+root(ROOT-0, if-2)
+poss(TV-4, your-3)
+dep(if-2, TV-4)
+amod(TV-4, remote-5)
+vmod(TV-4, looked-6)
+prep(looked-6, like-7)
+pobj(like-7, this-8)
+
+nn(urlLink-2, urlLink-1)
+root(ROOT-0, urlLink-2)
+

@@ -1,0 +1,12 @@
+root(ROOT-0, Count-2)
+poss(blessings-4, your-3)
+dobj(Count-2, blessings-4)
+det(day-6, each-5)
+dep(blessings-4, day-6)
+cc(Count-2, and-7)
+conj(Count-2, expand-8)
+dobj(expand-8, them-9)
+prep(them-9, by-10)
+nn(others-12, blessing-11)
+pobj(by-10, others-12)
+

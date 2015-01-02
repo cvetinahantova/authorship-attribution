@@ -1,0 +1,9 @@
+discourse(have-4, Yes-1)
+nsubj(have-4, I-3)
+root(ROOT-0, have-4)
+neg(life-6, no-5)
+dobj(have-4, life-6)
+
+nn(^-2, ^-1)
+root(ROOT-0, ^-2)
+

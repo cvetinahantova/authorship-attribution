@@ -1,0 +1,13 @@
+nn(Bono-2, urlLink-1)
+nsubj(listens-3, Bono-2)
+root(ROOT-0, listens-3)
+prep(listens-3, from-4)
+det(floor-7, the-5)
+nn(floor-7, convention-6)
+pobj(from-4, floor-7)
+mark(speaks-11, as-8)
+nn(Angelou-10, Maya-9)
+nsubj(speaks-11, Angelou-10)
+advcl(listens-3, speaks-11)
+tmod(speaks-11, Tuesday-12)
+

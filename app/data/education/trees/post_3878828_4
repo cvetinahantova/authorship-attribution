@@ -1,0 +1,9 @@
+det(urlLink-8, A-1)
+amod(urlLink-8, menyu-2)
+prep(menyu-2, at-3)
+det(urlLink-7, a-4)
+nn(urlLink-7, ramen-5)
+nn(urlLink-7, shop-6)
+pobj(at-3, urlLink-7)
+root(ROOT-0, urlLink-8)
+

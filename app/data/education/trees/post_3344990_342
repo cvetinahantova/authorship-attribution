@@ -1,0 +1,8 @@
+root(ROOT-0, urlLink-1)
+det(shot-3, Another-2)
+dobj(urlLink-1, shot-3)
+prep(shot-3, of-4)
+nn(urlLink-7, Lake-5)
+nn(urlLink-7, Logan-6)
+pobj(of-4, urlLink-7)
+

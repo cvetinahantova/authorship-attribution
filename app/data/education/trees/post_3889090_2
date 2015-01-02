@@ -1,0 +1,15 @@
+nsubj(spent-2, I-1)
+root(ROOT-0, spent-2)
+det(evening-4, the-3)
+dobj(spent-2, evening-4)
+vmod(evening-4, looking-5)
+prep(looking-5, at-6)
+pobj(at-6, porn-7)
+
+nsubj(hate-2, I-1)
+root(ROOT-0, hate-2)
+det(state-4, this-3)
+dobj(hate-2, state-4)
+prep(state-4, of-5)
+pobj(of-5, affairs-6)
+

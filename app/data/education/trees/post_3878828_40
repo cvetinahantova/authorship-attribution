@@ -1,0 +1,8 @@
+nsubj(urlLink-7, Tokyo-1)
+cop(urlLink-7, is-2)
+det(urlLink-7, a-3)
+amod(urlLink-7, big-4)
+nn(urlLink-7, city-5)
+nn(urlLink-7, urlLink-6)
+root(ROOT-0, urlLink-7)
+

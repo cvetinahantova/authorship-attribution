@@ -1,0 +1,15 @@
+nn(Entrez-PubMed-2, urlLink-1)
+root(ROOT-0, Entrez-PubMed-2)
+dep(Entrez-PubMed-2, Diet-5)
+cc(Diet-5, and-6)
+conj(Diet-5, risk-7)
+prep(risk-7, of-8)
+pobj(of-8, dementia-9)
+dep(Diet-5, Does-11)
+amod(matter-13, fat-12)
+dep(Does-11, matter-13)
+
+nsubj(Study-4, The-2)
+advmod(Study-4, Rotterdam-3)
+root(ROOT-0, Study-4)
+

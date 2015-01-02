@@ -1,0 +1,7 @@
+root(ROOT-0, urlLink-1)
+det(size-3, The-2)
+dobj(urlLink-1, size-3)
+prep(size-3, of-4)
+num(tile-6, one-5)
+pobj(of-4, tile-6)
+

@@ -1,0 +1,23 @@
+nsubjpass(obsessed-4, I-1)
+auxpass(obsessed-4, 'm-2)
+advmod(obsessed-4, seriously-3)
+root(ROOT-0, obsessed-4)
+prep(obsessed-4, with-5)
+det(song-7, this-6)
+pobj(with-5, song-7)
+
+root(ROOT-0, Paint-2)
+det(Silence-4, the-3)
+dobj(Paint-2, Silence-4)
+prep(Paint-2, by-6)
+pobj(by-6, South-7)
+
+root(ROOT-0, Download-1)
+dobj(Download-1, it-2)
+advmod(Download-1, now-3)
+
+root(ROOT-0, As-1)
+pcomp(As-1, in-2)
+det(second-4, this-3)
+pobj(in-2, second-4)
+

@@ -1,0 +1,7 @@
+nn(Cool-2, urlLink-1)
+root(ROOT-0, Cool-2)
+det(site-7, a-4)
+nn(site-7, Kubrick-5)
+nn(site-7, urlLink-6)
+appos(Cool-2, site-7)
+

@@ -1,0 +1,14 @@
+root(ROOT-0, See-1)
+det(clouds-4, the-2)
+nn(clouds-4, august-3)
+dobj(See-1, clouds-4)
+amod(sky-7, blue-purple-6)
+dep(See-1, sky-7)
+
+nsubj(used-2, Dragonflies-1)
+root(ROOT-0, used-2)
+aux(land-4, to-3)
+xcomp(used-2, land-4)
+advmod(there-6, right-5)
+advmod(land-4, there-6)
+

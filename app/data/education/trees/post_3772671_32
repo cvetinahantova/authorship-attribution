@@ -1,0 +1,7 @@
+root(ROOT-0, urlLink-1)
+discourse(urlLink-1, Hello-2)
+prep(urlLink-1, from-3)
+nn(urlLink-6, Walla-4)
+nn(urlLink-6, Walla-5)
+pobj(from-3, urlLink-6)
+

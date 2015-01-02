@@ -1,0 +1,18 @@
+nsubj(posted-3, Should-1)
+aux(posted-3, have-2)
+root(ROOT-0, posted-3)
+advmod(posted-3, sooner-4)
+
+nsubj(slowpoke-5, I-1)
+cop(slowpoke-5, 'm-2)
+predet(slowpoke-5, such-3)
+det(slowpoke-5, a-4)
+root(ROOT-0, slowpoke-5)
+
+advmod(have-3, LOL-1)
+nsubj(have-3, I-2)
+root(ROOT-0, have-3)
+advmod(have-3, much-4)
+aux(do-6, to-5)
+xcomp(have-3, do-6)
+

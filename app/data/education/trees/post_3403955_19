@@ -1,0 +1,14 @@
+nsubj(trouble-5, urlLink-1)
+det(man-3, This-2)
+dep(urlLink-1, man-3)
+cop(trouble-5, is-4)
+root(ROOT-0, trouble-5)
+
+aux(get-3, Do-1)
+neg(get-3, not-2)
+root(ROOT-0, get-3)
+prep(get-3, on-4)
+poss(side-7, his-5)
+amod(side-7, bad-6)
+pobj(on-4, side-7)
+

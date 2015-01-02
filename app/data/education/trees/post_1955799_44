@@ -1,0 +1,7 @@
+amod(birthday-2, Happy-1)
+root(ROOT-0, birthday-2)
+prep(birthday-2, to-3)
+pobj(to-3, me-4)
+nn(LOL-6, !!!!!!!!!!-5)
+dep(birthday-2, LOL-6)
+

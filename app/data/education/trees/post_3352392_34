@@ -1,0 +1,6 @@
+root(ROOT-0, urlLink-1)
+nn(urlLink-5, Footbridge-2)
+nn(urlLink-5, entrance-3)
+nn(urlLink-5, view-4)
+dobj(urlLink-1, urlLink-5)
+

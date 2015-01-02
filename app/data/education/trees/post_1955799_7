@@ -1,0 +1,21 @@
+nsubj(doing-3, Creativity-1)
+aux(doing-3, is-2)
+root(ROOT-0, doing-3)
+det(thing-6, that-4)
+nn(thing-6, off/on-5)
+dobj(doing-3, thing-6)
+
+root(ROOT-0, LOL-1)
+
+nsubj(organize-7, All-1)
+nsubj(wanted-3, I-2)
+rcmod(All-1, wanted-3)
+aux(do-5, to-4)
+xcomp(wanted-3, do-5)
+aux(organize-7, is-6)
+root(ROOT-0, organize-7)
+dobj(organize-7, some-8)
+prep(some-8, of-9)
+poss(thoughts-11, my-10)
+pobj(of-9, thoughts-11)
+

@@ -1,0 +1,9 @@
+nsubj(change-2, Things-1)
+root(ROOT-0, change-2)
+xcomp(change-2, and-3)
+dep(and-3, apparently-4)
+
+advmod(do-2, so-1)
+root(ROOT-0, do-2)
+dobj(do-2, people-3)
+

@@ -1,0 +1,10 @@
+root(ROOT-0, urlLink-1)
+det(conservatives-6, The-2)
+amod(conservatives-6, American-3)
+amod(conservatives-6, Conservative-4)
+amod(conservatives-6, more-5)
+dobj(urlLink-1, conservatives-6)
+prep(urlLink-1, against-7)
+det(war-9, the-8)
+pobj(against-7, war-9)
+

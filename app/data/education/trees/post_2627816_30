@@ -1,0 +1,12 @@
+nsubj(post-3, I-1)
+advmod(post-3, first-2)
+root(ROOT-0, post-3)
+prep(post-3, in-4)
+det(time-7, a-5)
+nn(time-7, LONG-6)
+pobj(in-4, time-7)
+
+nsubj(HI-2, So-1)
+root(ROOT-0, HI-2)
+dep(HI-2, !!!!-3)
+

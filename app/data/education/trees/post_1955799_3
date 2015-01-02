@@ -1,0 +1,14 @@
+nsubj(glad-3, I-1)
+cop(glad-3, 'm-2)
+root(ROOT-0, glad-3)
+det(day-5, this-4)
+nsubj(over-8, day-5)
+cop(over-8, is-6)
+advmod(over-8, almost-7)
+ccomp(glad-3, over-8)
+
+nsubj(feels-2, It-1)
+root(ROOT-0, feels-2)
+advmod(blah-4, so-3)
+acomp(feels-2, blah-4)
+

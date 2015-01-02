@@ -1,0 +1,8 @@
+nsubj(here-3, I-1)
+cop(here-3, 'm-2)
+root(ROOT-0, here-3)
+amod(here-3, sick-5)
+amod(here-3, alive-7)
+cc(here-3, but-9)
+conj(here-3, here-10)
+

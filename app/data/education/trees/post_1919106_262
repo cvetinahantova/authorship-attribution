@@ -1,0 +1,13 @@
+nsubj(post-5, This-1)
+cop(post-5, is-2)
+det(post-5, a-3)
+nn(post-5, test-4)
+root(ROOT-0, post-5)
+prep(post-5, from-6)
+pobj(from-6, urlLink-7)
+det(thing-13, a-9)
+amod(thing-13, fancy-10)
+nn(thing-13, photo-11)
+nn(thing-13, sharing-12)
+appos(urlLink-7, thing-13)
+

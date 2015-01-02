@@ -1,0 +1,6 @@
+root(ROOT-0, Sky-1)
+prep(Sky-1, over-2)
+nn(urlLink-5, Tokyo-3)
+nn(urlLink-5, urlLink-4)
+pobj(over-2, urlLink-5)
+

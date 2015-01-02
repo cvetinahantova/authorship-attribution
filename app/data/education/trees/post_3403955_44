@@ -1,0 +1,10 @@
+nn(Hee-2, urlLink-1)
+nsubj(hee-3, Hee-2)
+root(ROOT-0, hee-3)
+
+nn(Has-2, Ben-1)
+root(ROOT-0, Has-2)
+det(urlLink-5, a-3)
+amod(urlLink-5, secret-4)
+dep(Has-2, urlLink-5)
+

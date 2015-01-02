@@ -1,0 +1,11 @@
+cc(get-5, and-1)
+advmod(get-5, then-2)
+det(gang-4, the-3)
+nsubj(get-5, gang-4)
+dep(crazy-7, get-5)
+cop(crazy-7, 's-6)
+root(ROOT-0, crazy-7)
+num(urlLink-10, !!!-8)
+nn(urlLink-10, urlLink-9)
+nsubj(crazy-7, urlLink-10)
+

@@ -1,0 +1,25 @@
+poss(toilet-2, My-1)
+nsubj(handle-3, toilet-2)
+root(ROOT-0, handle-3)
+
+det(kanji-3, The-1)
+amod(kanji-3, top-2)
+nsubj(sho-6, kanji-3)
+cop(sho-6, is-4)
+root(ROOT-0, sho-6)
+nsubj(means-9, which-8)
+rcmod(sho-6, means-9)
+acomp(means-9, small-10)
+
+det(kanji-3, The-1)
+amod(kanji-3, bottom-2)
+nsubj(dai-6, kanji-3)
+cop(dai-6, is-4)
+root(ROOT-0, dai-6)
+nsubj(grand/big-10, which-8)
+aux(grand/big-10, is-9)
+rcmod(dai-6, grand/big-10)
+
+nn(urlLink-2, urlLink-1)
+root(ROOT-0, urlLink-2)
+

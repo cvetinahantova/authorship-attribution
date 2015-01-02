@@ -1,0 +1,1 @@
+If you change the "name" of a page in the CMS (thus, the url), it doesn't update the subpages with the new url, so you end up with dead links in the bread crumb.

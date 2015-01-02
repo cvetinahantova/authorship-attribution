@@ -1,0 +1,8 @@
+root(ROOT-0, urlLink-1)
+ccomp(urlLink-1, Guess-2)
+det(school-4, which-3)
+dobj(is-6, school-4)
+nsubj(is-6, this-5)
+ccomp(Guess-2, is-6)
+dep(urlLink-1, urlLink-8)
+

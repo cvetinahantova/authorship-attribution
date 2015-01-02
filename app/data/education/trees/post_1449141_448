@@ -1,0 +1,12 @@
+root(ROOT-0, urlLink-1)
+prep(urlLink-1, From-2)
+pobj(From-2, Baghdad-3)
+det(kelly-9, A-5)
+nn(kelly-9, Better-6)
+nn(kelly-9, World-7)
+nn(kelly-9, Kathy-8)
+nsubj(writes-10, kelly-9)
+ccomp(urlLink-1, writes-10)
+prep(writes-10, from-11)
+pobj(from-11, Baghdad-12)
+

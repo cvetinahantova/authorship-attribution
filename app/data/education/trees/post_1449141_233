@@ -1,0 +1,13 @@
+root(ROOT-0, urlLink-1)
+dobj(urlLink-1, Bush-2)
+det(Rainforest-5, the-4)
+conj(Bush-2, Rainforest-5)
+cc(Bush-2, and-6)
+det(Pipeline-9, a-7)
+nn(Pipeline-9, Gas-8)
+conj(Bush-2, Pipeline-9)
+prep(urlLink-1, to-10)
+pobj(to-10, Enrich-11)
+poss(Friends-13, His-12)
+nsubj(urlLink-1, Friends-13)
+

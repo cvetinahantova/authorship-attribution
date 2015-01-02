@@ -1,0 +1,18 @@
+nn(peeps-2, Dear-1)
+nsubj(Expect-4, peeps-2)
+root(ROOT-0, Expect-4)
+aux(see-6, to-5)
+xcomp(Expect-4, see-6)
+det(wave-9, a-7)
+amod(wave-9, huge-8)
+dobj(see-6, wave-9)
+prep(wave-9, of-10)
+pobj(of-10, posts-11)
+prep(posts-11, in-12)
+det(days/weeks/month-15, the-13)
+amod(days/weeks/month-15, coming-14)
+pobj(in-12, days/weeks/month-15)
+
+root(ROOT-0, Love-1)
+appos(Love-1, Andy-3)
+

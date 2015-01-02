@@ -1,0 +1,11 @@
+root(ROOT-0, urlLink-1)
+det(statue-4, A-2)
+amod(statue-4, cool-3)
+dobj(urlLink-1, statue-4)
+prep(urlLink-1, at-5)
+det(urlLink-10, the-6)
+nn(urlLink-10, Olympic-7)
+nn(urlLink-10, Park-8)
+nn(urlLink-10, Museum-9)
+pobj(at-5, urlLink-10)
+

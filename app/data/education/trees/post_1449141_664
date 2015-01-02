@@ -1,0 +1,12 @@
+root(ROOT-0, urlLink-1)
+nn(LEGACY-3, POISONOUS-2)
+nsubj(legacy-7, LEGACY-3)
+det(legacy-7, the-4)
+nn(legacy-7, US-5)
+amod(legacy-7, nuclear-6)
+xcomp(urlLink-1, legacy-7)
+prep(legacy-7, in-8)
+pobj(in-8, Iraq-9)
+cc(Iraq-9, and-10)
+conj(Iraq-9, serbia-11)
+

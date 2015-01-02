@@ -1,0 +1,12 @@
+root(ROOT-0, urlLink-1)
+nsubj(have-5, I-2)
+aux(have-5, do-3)
+neg(have-5, n't-4)
+dep(urlLink-1, have-5)
+det(chin-8, a-6)
+amod(chin-8, double-7)
+dobj(have-5, chin-8)
+nsubj(swear-11, I-10)
+parataxis(have-5, swear-11)
+dobj(swear-11, urlLink-13)
+

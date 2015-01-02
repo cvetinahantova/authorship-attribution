@@ -1,0 +1,10 @@
+root(ROOT-0, urlLink-1)
+dobj(urlLink-1, TOMPAINE.com-2)
+nn(Shooters-5, Crooked-4)
+dep(TOMPAINE.com-2, Shooters-5)
+advmod(Administration-10, How-6)
+nsubj(Administration-10, Competent-7)
+cop(Administration-10, is-8)
+det(Administration-10, this-9)
+dep(Shooters-5, Administration-10)
+

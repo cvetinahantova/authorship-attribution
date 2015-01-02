@@ -1,0 +1,1 @@
+We need a mechanism that safeguards against uploading a new file of the same name as a previously entered one. Currently, if an image is uploaded to the CMS, it saves over a previous image of the same name, with no alerts or safeguards. As our repository grows, this is going to become increasingly more of a problem.

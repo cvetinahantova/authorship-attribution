@@ -1,0 +1,10 @@
+amod(Participants-4, urlLink-1)
+nn(Participants-4, Maryknoll-2)
+nn(Participants-4, Teacher-3)
+nsubj(uploaded-6, Participants-4)
+advmod(uploaded-6, Originally-5)
+root(ROOT-0, uploaded-6)
+prep(uploaded-6, by-7)
+nn(Kimberlysooninchina-9, urlLink-8)
+pobj(by-7, Kimberlysooninchina-9)
+

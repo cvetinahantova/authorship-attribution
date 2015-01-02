@@ -1,0 +1,11 @@
+nsubj(sucks-2, school-1)
+root(ROOT-0, sucks-2)
+
+nsubj(avoid-3, people-1)
+aux(avoid-3, should-2)
+root(ROOT-0, avoid-3)
+dobj(avoid-3, school-4)
+prep(avoid-3, at-5)
+det(costs-7, all-6)
+pobj(at-5, costs-7)
+

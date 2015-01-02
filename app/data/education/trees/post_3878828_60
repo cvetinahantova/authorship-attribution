@@ -1,0 +1,9 @@
+amod(tastes-3, Italian-1)
+nn(tastes-3, food-2)
+root(ROOT-0, tastes-3)
+dep(tastes-3, better-4)
+prep(better-4, in-5)
+nn(urlLink-8, Japan-6)
+nn(urlLink-8, urlLink-7)
+pobj(in-5, urlLink-8)
+

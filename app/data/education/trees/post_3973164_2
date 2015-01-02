@@ -1,0 +1,28 @@
+nsubj(Texans-5, People-1)
+prep(People-1, from-2)
+pobj(from-2, Texas-3)
+cop(Texans-5, are-4)
+root(ROOT-0, Texans-5)
+cc(Texans-5, and-7)
+nsubj(Michiganders-12, people-8)
+prep(people-8, from-9)
+pobj(from-9, Michigan-10)
+cop(Michiganders-12, are-11)
+conj(Texans-5, Michiganders-12)
+dep(Michiganders-12, are-14)
+nsubj(are-14, people-15)
+prep(people-15, from-16)
+nn(Delawegians-18, Delaware-17)
+pobj(from-16, Delawegians-18)
+
+dobj(called-6, What-1)
+auxpass(called-6, are-2)
+nsubjpass(called-6, people-3)
+prep(people-3, from-4)
+pobj(from-4, Illinios-5)
+root(ROOT-0, called-6)
+
+root(ROOT-0, Idaho-1)
+
+root(ROOT-0, Iowa-1)
+

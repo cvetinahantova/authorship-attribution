@@ -1,0 +1,13 @@
+advmod(say-5, well-1)
+nsubj(say-5, what-2)
+aux(say-5, can-3)
+advmod(say-5, i-4)
+root(ROOT-0, say-5)
+
+nsubjpass(hit-4, i-2)
+auxpass(hit-4, was-3)
+root(ROOT-0, hit-4)
+prep(hit-4, by-5)
+det(shoe-7, a-6)
+pobj(by-5, shoe-7)
+

@@ -1,0 +1,12 @@
+det(place-2, this-1)
+nsubj(cool-5, place-2)
+cop(cool-5, is-3)
+advmod(cool-5, pretty-4)
+root(ROOT-0, cool-5)
+xcomp(cool-5, http://www.gohomeproductions.co.uk/-6)
+dobj(http://www.gohomeproductions.co.uk/-6, i-7)
+prep(http://www.gohomeproductions.co.uk/-6, like-8)
+det(number-11, the-9)
+amod(number-11, jimi/beyonce-10)
+pobj(like-8, number-11)
+

@@ -1,0 +1,8 @@
+root(ROOT-0, is-1)
+advmod(love-4, why-2)
+nsubj(love-4, I-3)
+advcl(is-1, love-4)
+det(internet-7, the-5)
+nn(internet-7, urlLink-6)
+dobj(love-4, internet-7)
+

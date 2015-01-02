@@ -1,0 +1,23 @@
+root(ROOT-0, hey-1)
+poss(dad-4, my-3)
+nsubj(sent-5, dad-4)
+dep(hey-1, sent-5)
+iobj(sent-5, me-6)
+det(email-8, an-7)
+dobj(sent-5, email-8)
+
+nsubj(geuss-2, i-1)
+root(ROOT-0, geuss-2)
+dobj(geuss-2, hes-3)
+neg(dead-5, not-4)
+amod(hes-3, dead-5)
+
+amod(thinki-2, i-1)
+nsubj(like-3, thinki-2)
+root(ROOT-0, like-3)
+nsubj(hes-7, him-4)
+dep(hes-7, better-5)
+advmod(hes-7, when-6)
+xcomp(like-3, hes-7)
+acomp(hes-7, alive-8)
+

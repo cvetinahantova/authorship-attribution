@@ -1,0 +1,10 @@
+nn(Kim-2, urlLink-1)
+nsubj(uploaded-6, Kim-2)
+prep(Kim-2, in-3)
+pobj(in-3, Hollywood-4)
+advmod(uploaded-6, Originally-5)
+root(ROOT-0, uploaded-6)
+prep(uploaded-6, by-7)
+nn(Kimberlysooninchina-9, urlLink-8)
+pobj(by-7, Kimberlysooninchina-9)
+

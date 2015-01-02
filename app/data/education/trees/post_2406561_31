@@ -1,0 +1,17 @@
+dep(*-3, *-1)
+punct(*-3, cough-2)
+root(ROOT-0, *-3)
+dep(sick-6, Am-4)
+advmod(sick-6, so-5)
+dobj(*-3, sick-6)
+
+root(ROOT-0, Dying-1)
+
+nn(Effy-3, Yay-1)
+nsubj(loves-4, Effy-3)
+root(ROOT-0, loves-4)
+dobj(loves-4, me-5)
+
+det(end-2, The-1)
+root(ROOT-0, end-2)
+

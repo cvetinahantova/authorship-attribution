@@ -1,0 +1,17 @@
+root(ROOT-0, Indy-1)
+dep(Indy-1, Going-3)
+prep(Going-3, to-4)
+nn(Cheese-7, Chuck-5)
+nn(Cheese-7, E-6)
+pobj(to-4, Cheese-7)
+prep(Cheese-7, with-8)
+det(girls-10, the-9)
+pobj(with-8, girls-10)
+nn(Judy-13, Judy-12)
+conj(girls-10, Judy-13)
+cc(girls-10, and-14)
+nn(Lou-16, Lucy-15)
+conj(girls-10, Lou-16)
+
+root(ROOT-0, Perfect-1)
+

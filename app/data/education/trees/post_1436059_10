@@ -1,0 +1,23 @@
+discourse(TOMORROW-10, Oh-1)
+prep(TOMORROW-10, by-3)
+det(way-5, the-4)
+pobj(by-3, way-5)
+nn(TOMORROW-10, MY-7)
+nn(TOMORROW-10, BIRTHDAY-8)
+nn(TOMORROW-10, IS-9)
+root(ROOT-0, TOMORROW-10)
+
+root(ROOT-0, YAY-1)
+
+nsubj(14-4, I-1)
+aux(14-4, 'LL-2)
+cop(14-4, BE-3)
+root(ROOT-0, 14-4)
+
+nn(!!!-6, AND-1)
+nn(!!!-6, NO-2)
+nn(!!!-6, CLOSER-3)
+nn(!!!-6, TO-4)
+nn(!!!-6, DRIVING-5)
+root(ROOT-0, !!!-6)
+

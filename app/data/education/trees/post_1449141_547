@@ -1,0 +1,7 @@
+nn(Cheney-2, urlLink-1)
+root(ROOT-0, Cheney-2)
+det(Thief-5, The-4)
+dep(Cheney-2, Thief-5)
+prep(Thief-5, of-6)
+pobj(of-6, Baghdad-7)
+

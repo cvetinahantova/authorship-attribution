@@ -1,0 +1,10 @@
+root(ROOT-0, Countdown-1)
+amod(days-4, 307-3)
+dep(Countdown-1, days-4)
+nsubj(dicks-10, LJ-5)
+cc(LJ-5, and-6)
+conj(LJ-5, AIM-7)
+aux(dicks-10, are-8)
+aux(dicks-10, being-9)
+rcmod(days-4, dicks-10)
+

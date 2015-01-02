@@ -1,0 +1,10 @@
+nsubj(reserved-2, Very-1)
+root(ROOT-0, reserved-2)
+dobj(reserved-2, ladies-3)
+prep(reserved-2, on-4)
+det(train-6, the-5)
+pobj(on-4, train-6)
+
+nn(urlLink-2, urlLink-1)
+root(ROOT-0, urlLink-2)
+

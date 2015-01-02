@@ -1,0 +1,360 @@
+root(ROOT-0, Assuming-1)
+mark(trolling-5, that-2)
+nsubj(trolling-5, users-3)
+aux(trolling-5, are-4)
+ccomp(Assuming-1, trolling-5)
+prep(trolling-5, in-6)
+pobj(in-6, blogspot.com-7)
+mark(using-10, while-9)
+advcl(results-23, using-10)
+det(results-14, the-11)
+amod(results-14, whole-12)
+nn(results-14, internet-13)
+dobj(using-10, results-14)
+prep(using-10, in-15)
+det(number-18, a-16)
+amod(number-18, larger-17)
+pobj(in-15, number-18)
+prep(number-18, of-19)
+pobj(of-19, users-20)
+nsubj(results-23, it-21)
+advmod(results-23, also-22)
+parataxis(Assuming-1, results-23)
+prep(results-23, in-24)
+det(probability-28, a-25)
+advmod(worse-27, much-26)
+amod(probability-28, worse-27)
+pobj(in-24, probability-28)
+
+det(odds-3, The-1)
+amod(odds-3, best-2)
+nsubj(result-4, odds-3)
+root(ROOT-0, result-4)
+prep(result-4, from-5)
+pcomp(from-5, focusing-6)
+prep(focusing-6, on-7)
+pobj(on-7, people-8)
+nsubj(searching-11, who-9)
+aux(searching-11, are-10)
+rcmod(people-8, searching-11)
+prep(searching-11, in-12)
+det(format-15, the-13)
+amod(format-15, http://______________.blogspot.com/-14)
+pobj(in-12, format-15)
+
+mark(assume-3, If-1)
+nsubj(assume-3, we-2)
+root(ROOT-0, assume-3)
+mark(choose-8, that-4)
+amod(people-6, most-5)
+nsubj(choose-8, people-6)
+aux(choose-8, will-7)
+ccomp(assume-3, choose-8)
+amod(addresses-10, blog-9)
+dobj(choose-8, addresses-10)
+mark(-LRB--29, that-11)
+nsubj(-LRB--29, number-12)
+prep(number-12, from-13)
+num(characters-15, 5-15-14)
+pobj(from-13, characters-15)
+advmod(odds-18, then-16)
+det(odds-18, the-17)
+dep(characters-15, odds-18)
+mark(find-24, that-19)
+det(user-22, any-20)
+num(user-22, one-21)
+nsubj(find-24, user-22)
+aux(find-24, will-23)
+ccomp(odds-18, find-24)
+det(blog-26, this-25)
+dobj(find-24, blog-26)
+aux(-LRB--29, are-27)
+dobj(-LRB--29, 1-30)
+punct(assume-3, /-31)
+dobj(-LRB--32, 26-34)
+
+nsubj(21-2, /-1)
+root(ROOT-0, 21-2)
+
+root(ROOT-0, +-1)
+dobj(+-1, 26-3)
+
+nn(!-3, /-1)
+nn(!-3, 20-2)
+
+root(ROOT-0, +-1)
+dobj(+-1, 26-3)
+
+nsubj(!-3, /-1)
+num(/-1, 19-2)
+
+root(ROOT-0, +-1)
+dobj(+-1, 26-3)
+
+nsubj(!-3, /-1)
+num(/-1, 18-2)
+
+root(ROOT-0, +-1)
+dobj(+-1, 26-3)
+
+nsubj(!-3, /-1)
+num(/-1, 17-2)
+
+root(ROOT-0, +-1)
+dobj(+-1, 26-3)
+
+nsubj(!-3, /-1)
+num(/-1, 16-2)
+
+root(ROOT-0, +-1)
+dobj(+-1, 26-3)
+
+nsubj(!-3, /-1)
+num(/-1, 15-2)
+
+root(ROOT-0, +-1)
+dobj(+-1, 26-3)
+
+nsubj(!-3, /-1)
+num(/-1, 14-2)
+
+root(ROOT-0, +-1)
+dobj(+-1, 26-3)
+
+nsubj(!-3, /-1)
+num(/-1, 13-2)
+
+root(ROOT-0, +-1)
+dobj(+-1, 26-3)
+
+nsubj(!-3, /-1)
+num(/-1, 12-2)
+
+root(ROOT-0, +-1)
+dobj(+-1, 26-3)
+
+punct(-RRB--6, /-1)
+nn(-RRB--5, 11-2)
+
+root(ROOT-0, Therefore-1)
+det(odds-4, the-2)
+amod(odds-4, raw-3)
+dobj(Therefore-1, odds-4)
+prep(odds-4, of-5)
+nn(finding-7, anyone-6)
+pobj(of-5, finding-7)
+det(blog-9, this-8)
+dep(finding-7, blog-9)
+dep(blog-9, are-10)
+dep(odds-4, Number-13)
+prep(Number-13, of-14)
+pobj(of-14, users-15)
+nn(Avg-19, *-17)
+dep(odds-4, Avg-19)
+
+nsubj(visited-4, number-1)
+prep(number-1, of-2)
+pobj(of-2, blogs-3)
+root(ROOT-0, visited-4)
+dep(-LRB--10, *-6)
+nsubj(-LRB--10, 1-8)
+advmod(-LRB--10, /-9)
+dobj(-LRB--10, 26-12)
+
+nsubj(21-2, /-1)
+root(ROOT-0, 21-2)
+
+root(ROOT-0, +-1)
+dobj(+-1, 26-3)
+
+nn(!-3, /-1)
+nn(!-3, 20-2)
+
+root(ROOT-0, +-1)
+dobj(+-1, 26-3)
+
+nsubj(!-3, /-1)
+num(/-1, 19-2)
+
+root(ROOT-0, +-1)
+dobj(+-1, 26-3)
+
+nsubj(!-3, /-1)
+num(/-1, 18-2)
+
+root(ROOT-0, +-1)
+dobj(+-1, 26-3)
+
+nsubj(!-3, /-1)
+num(/-1, 17-2)
+
+root(ROOT-0, +-1)
+dobj(+-1, 26-3)
+
+nsubj(!-3, /-1)
+num(/-1, 16-2)
+
+root(ROOT-0, +-1)
+dobj(+-1, 26-3)
+
+nsubj(!-3, /-1)
+num(/-1, 15-2)
+
+root(ROOT-0, +-1)
+dobj(+-1, 26-3)
+
+nsubj(!-3, /-1)
+num(/-1, 14-2)
+
+root(ROOT-0, +-1)
+dobj(+-1, 26-3)
+
+nsubj(!-3, /-1)
+num(/-1, 13-2)
+
+root(ROOT-0, +-1)
+dobj(+-1, 26-3)
+
+nsubj(!-3, /-1)
+num(/-1, 12-2)
+
+root(ROOT-0, +-1)
+dobj(+-1, 26-3)
+
+punct(-RRB--6, /-1)
+nn(-RRB--5, 11-2)
+
+cc(attract-5, But-1)
+nsubj(attract-5, blogs-3)
+aux(attract-5, will-4)
+root(ROOT-0, attract-5)
+dobj(attract-5, viewers-6)
+prep(viewers-6, in-7)
+amod(proportion-9, direct-8)
+pobj(in-7, proportion-9)
+prep(attract-5, to-10)
+poss(popularity-13, their-11)
+amod(popularity-13, current-12)
+pobj(to-10, popularity-13)
+
+nsubj(estimate-3, I-1)
+aux(estimate-3, would-2)
+root(ROOT-0, estimate-3)
+mark(are-16, that-4)
+det(blog-6, any-5)
+nsubj(are-16, blog-6)
+neg(in-9, not-7)
+advmod(in-9, already-8)
+prep(blog-6, in-9)
+det(%-13, the-10)
+amod(%-13, top-11)
+num(%-13, 10-12)
+pobj(in-9, %-13)
+prep(%-13, of-14)
+pobj(of-14, popularity-15)
+ccomp(estimate-3, are-16)
+ccomp(are-16, have-17)
+det(probability-20, a-18)
+nn(probability-20, finding-19)
+dobj(have-17, probability-20)
+nsubjpass(approximated-24, that-21)
+auxpass(approximated-24, is-22)
+advmod(approximated-24, best-23)
+rcmod(probability-20, approximated-24)
+prep(approximated-24, by-25)
+det(square-27, the-26)
+pobj(by-25, square-27)
+prep(square-27, of-28)
+det(value-30, the-29)
+pobj(of-28, value-30)
+mark(listed-33, that-31)
+auxpass(listed-33, is-32)
+ccomp(have-17, listed-33)
+prep(listed-33, above-34)
+
+root(ROOT-0, Therefore-1)
+det(final-3, the-2)
+dep(Therefore-1, final-3)
+dep(final-3, probablity-4)
+rcmod(probablity-4, is-5)
+nn(users-11, Number-9)
+amod(users-11, of-10)
+dep(probablity-4, users-11)
+nn(Avg-15, *-13)
+dep(final-3, Avg-15)
+
+nsubj(visited-4, number-1)
+prep(number-1, of-2)
+pobj(of-2, blogs-3)
+root(ROOT-0, visited-4)
+dep(-LRB--10, *-6)
+nsubj(-LRB--10, 1-8)
+advmod(-LRB--10, /-9)
+dobj(-LRB--10, 26-12)
+
+nsubj(21-2, /-1)
+root(ROOT-0, 21-2)
+
+root(ROOT-0, +-1)
+dobj(+-1, 26-3)
+
+nn(!-3, /-1)
+nn(!-3, 20-2)
+
+root(ROOT-0, +-1)
+dobj(+-1, 26-3)
+
+nsubj(!-3, /-1)
+num(/-1, 19-2)
+
+root(ROOT-0, +-1)
+dobj(+-1, 26-3)
+
+nsubj(!-3, /-1)
+num(/-1, 18-2)
+
+root(ROOT-0, +-1)
+dobj(+-1, 26-3)
+
+nsubj(!-3, /-1)
+num(/-1, 17-2)
+
+root(ROOT-0, +-1)
+dobj(+-1, 26-3)
+
+nsubj(!-3, /-1)
+num(/-1, 16-2)
+
+root(ROOT-0, +-1)
+dobj(+-1, 26-3)
+
+nsubj(!-3, /-1)
+num(/-1, 15-2)
+
+root(ROOT-0, +-1)
+dobj(+-1, 26-3)
+
+nsubj(!-3, /-1)
+num(/-1, 14-2)
+
+root(ROOT-0, +-1)
+dobj(+-1, 26-3)
+
+nsubj(!-3, /-1)
+num(/-1, 13-2)
+
+root(ROOT-0, +-1)
+dobj(+-1, 26-3)
+
+nsubj(!-3, /-1)
+num(/-1, 12-2)
+
+root(ROOT-0, +-1)
+dobj(+-1, 26-3)
+
+nn(-RRB--5, /-1)
+nn(-RRB--5, 11-2)
+
+root(ROOT-0, ^-1)
+num(^-1, 2-2)
+

@@ -1,0 +1,9 @@
+root(ROOT-0, urlLink-1)
+det(parade-3, The-2)
+nsubj(had-4, parade-3)
+ccomp(urlLink-1, had-4)
+det(band-7, a-5)
+amod(band-7, marching-6)
+dobj(had-4, band-7)
+dep(band-7, urlLink-9)
+

@@ -1,0 +1,8 @@
+root(ROOT-0, urlLink-1)
+prep(urlLink-1, In-2)
+det(Discharge-7, These-3)
+nn(Discharge-7, Times-4)
+nn(Discharge-7, |-5)
+nn(Discharge-7, Dishonorable-6)
+pobj(In-2, Discharge-7)
+

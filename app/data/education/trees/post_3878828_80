@@ -1,0 +1,8 @@
+det(park-2, The-1)
+root(ROOT-0, park-2)
+prep(park-2, in-3)
+pobj(in-3, Oshima-4)
+
+nn(urlLink-2, urlLink-1)
+root(ROOT-0, urlLink-2)
+

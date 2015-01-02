@@ -1,0 +1,10 @@
+root(ROOT-0, urlLink-1)
+nsubj(urlLink-1, Kutner-2)
+punct(Op-ed-4, /-3)
+dep(Kutner-2, Op-ed-4)
+punct(Op-ed-4, /-5)
+det(act-8, The-6)
+amod(act-8, privileged-7)
+dep(Kutner-2, act-8)
+vmod(act-8, worried-9)
+

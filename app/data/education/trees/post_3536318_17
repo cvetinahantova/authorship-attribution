@@ -1,0 +1,16 @@
+nn(All-3, urlLink-1)
+nn(All-3, Rodeohead-2)
+nsubj(LOVE-10, All-3)
+nsubj(Radiohead-5, you-4)
+rcmod(All-3, Radiohead-5)
+dobj(Radiohead-5, fans-6)
+prt(Radiohead-5, out-7)
+advmod(Radiohead-5, there-8)
+aux(LOVE-10, will-9)
+root(ROOT-0, LOVE-10)
+dobj(LOVE-10, this-11)
+
+nn(Yeeeehaww-3, Enjoy-1)
+nn(Yeeeehaww-3, !!-2)
+root(ROOT-0, Yeeeehaww-3)
+

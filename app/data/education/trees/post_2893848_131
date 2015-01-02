@@ -1,0 +1,11 @@
+det(shit-6, Some-1)
+amod(shit-6, more-2)
+nn(shit-6, urlLink-3)
+amod(shit-6, inexplicable-4)
+amod(shit-6, crazy-5)
+root(ROOT-0, shit-6)
+prep(shit-6, via-8)
+nn(Presurfer-11, urlLink-9)
+nn(Presurfer-11, The-10)
+pobj(via-8, Presurfer-11)
+

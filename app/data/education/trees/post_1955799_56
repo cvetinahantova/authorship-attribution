@@ -1,0 +1,6 @@
+nn(Crhistmas-2, Merry-1)
+root(ROOT-0, Crhistmas-2)
+prep(Crhistmas-2, to-3)
+det(!!!!!-5, all-4)
+pobj(to-3, !!!!!-5)
+

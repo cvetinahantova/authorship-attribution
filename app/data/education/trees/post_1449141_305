@@ -1,0 +1,11 @@
+root(ROOT-0, urlLink-1)
+nn(Halliburton-4, Bechtel-2)
+nsubj(get-5, Halliburton-4)
+ccomp(urlLink-1, get-5)
+amod(deals-8, bigger-6)
+nn(deals-8, Iraq-7)
+dobj(get-5, deals-8)
+dep(deals-8, Aug.-10)
+num(Aug.-10, 28-11)
+num(Aug.-10, 2003-13)
+

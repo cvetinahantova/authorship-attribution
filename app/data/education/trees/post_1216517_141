@@ -1,0 +1,29 @@
+nsubj(BAD-ASS-2, AMERICAN-1)
+root(ROOT-0, BAD-ASS-2)
+dobj(BAD-ASS-2, I-3)
+prep(BAD-ASS-2, like-4)
+det(pictures-6, these-5)
+pobj(like-4, pictures-6)
+
+root(ROOT-0, HA-1)
+
+root(ROOT-0, HAAAA-1)
+
+nsubj(!!!!-2, AUGHHH-1)
+dep(appeared-6, !!!!-2)
+det(picture-5, The-3)
+amod(picture-5, above-4)
+dobj(!!!!-2, picture-5)
+root(ROOT-0, appeared-6)
+prep(appeared-6, in-7)
+pobj(in-7, Time-8)
+nsubj(appeared-6, magazine-9)
+appos(magazine-9, January-11)
+num(January-11, 12-12)
+num(January-11, 2004-14)
+appos(January-11, page-16)
+num(page-16, 35-17)
+
+amod(times-2, Good-1)
+root(ROOT-0, times-2)
+

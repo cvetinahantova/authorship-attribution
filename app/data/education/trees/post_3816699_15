@@ -1,0 +1,6 @@
+det(people-2, Some-1)
+nsubj(know-5, people-2)
+advmod(dont-4, just-3)
+amod(people-2, dont-4)
+root(ROOT-0, know-5)
+

@@ -1,0 +1,7 @@
+root(ROOT-0, urlLink-1)
+nn(Protesters-6, Police-2)
+nn(Protesters-6, Gas-3)
+nn(Protesters-6, Miami-4)
+nn(Protesters-6, Trade-5)
+nsubj(urlLink-1, Protesters-6)
+

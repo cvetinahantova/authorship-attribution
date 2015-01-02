@@ -1,0 +1,9 @@
+root(ROOT-0, urlLink-1)
+dobj(urlLink-1, BOY-2)
+nsubj(want-4, I-3)
+rcmod(BOY-2, want-4)
+det(urlLink-8, those-5)
+nn(urlLink-8, shoes-6)
+nn(urlLink-8, !!!-7)
+dobj(want-4, urlLink-8)
+

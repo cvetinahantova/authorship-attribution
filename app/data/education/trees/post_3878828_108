@@ -1,0 +1,10 @@
+root(ROOT-0, On-1)
+det(train-3, the-2)
+pobj(On-1, train-3)
+prep(train-3, in-4)
+nn(city-6, Niigata-5)
+pobj(in-4, city-6)
+
+nn(urlLink-2, urlLink-1)
+root(ROOT-0, urlLink-2)
+

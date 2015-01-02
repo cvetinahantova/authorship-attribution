@@ -1,0 +1,17 @@
+nn(Brown-2, Alton-1)
+poss(Pasta-6, Brown-2)
+possessive(Brown-2, 's-3)
+nn(Pasta-6, urlLink-4)
+nn(Pasta-6, Eggplant-5)
+nsubj(YUM-9, Pasta-6)
+cop(YUM-9, is-7)
+advmod(YUM-9, so-8)
+root(ROOT-0, YUM-9)
+
+nsubj(recommend-3, I-1)
+advmod(recommend-3, hightly-2)
+root(ROOT-0, recommend-3)
+dobj(recommend-3, it-4)
+prep(recommend-3, to-5)
+pobj(to-5, others-6)
+

@@ -1,0 +1,6 @@
+root(ROOT-0, Check-1)
+prt(Check-1, out-2)
+dobj(Check-1, urlLink-3)
+nn(Forums-5, Delphi-4)
+nsubj(Check-1, Forums-5)
+

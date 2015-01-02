@@ -1,0 +1,48 @@
+nsubj(wanting-3, I-1)
+aux(wanting-3, 'm-2)
+root(ROOT-0, wanting-3)
+aux(get-5, to-4)
+xcomp(wanting-3, get-5)
+prt(get-5, out-6)
+
+nsubj(eats-2, It-1)
+root(ROOT-0, eats-2)
+prep(eats-2, at-3)
+pobj(at-3, me-4)
+tmod(eats-2, everyday-5)
+cc(eats-2, and-6)
+nsubj(control-10, I-7)
+aux(control-10, ca-8)
+neg(control-10, n't-9)
+conj(eats-2, control-10)
+dobj(control-10, it-11)
+
+nsubj(rapes-2, It-1)
+root(ROOT-0, rapes-2)
+dobj(rapes-2, everything-3)
+prt(rapes-2, away-4)
+prep(rapes-2, from-5)
+pobj(from-5, me-6)
+cc(rapes-2, and-7)
+nsubj(tired-10, I-8)
+cop(tired-10, am-9)
+conj(rapes-2, tired-10)
+prep(tired-10, of-11)
+pcomp(of-11, fighting-12)
+prep(fighting-12, for-13)
+poss(sanity-15, my-14)
+pobj(for-13, sanity-15)
+
+nsubj(love-2, I-1)
+root(ROOT-0, love-2)
+nsubj(much-6, you-3)
+det(much-6, all-4)
+advmod(much-6, very-5)
+xcomp(love-2, much-6)
+
+OpenJDK 64-Bit Server VM warning: INFO: os::commit_memory(0x0000000792caf000, 803459072, 0) failed; error='Cannot allocate memory' (errno=12)
+#
+# There is insufficient memory for the Java Runtime Environment to continue.
+# Native memory allocation (malloc) failed to allocate 803459072 bytes for committing reserved memory.
+# An error report file with more information is saved as:
+# /home/cvetina/stanford-parser-full-2014-08-27/scripts/education/hs_err_pid13478.log

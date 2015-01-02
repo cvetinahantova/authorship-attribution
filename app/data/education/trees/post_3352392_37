@@ -1,0 +1,12 @@
+root(ROOT-0, urlLink-1)
+dobj(urlLink-1, Locale-2)
+prep(Locale-2, of-3)
+det(Moé-7, the-4)
+nn(Moé-7, film-5)
+nn(Moé-7, urlLink-6)
+pobj(of-3, Moé-7)
+neg(urlLink-11, No-8)
+nn(urlLink-11, Suzaku-9)
+nn(urlLink-11, 萌の朱雀-10)
+nsubj(urlLink-1, urlLink-11)
+

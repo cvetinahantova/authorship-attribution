@@ -1,0 +1,13 @@
+advmod(reside-4, Where-1)
+aux(reside-4, does-2)
+nsubj(reside-4, harmony-3)
+root(ROOT-0, reside-4)
+
+amod(roots-2, Tangled-1)
+root(ROOT-0, roots-2)
+appos(roots-2, ice-melts-4)
+det(lover-7, a-6)
+poss(embrace-9, lover-7)
+possessive(lover-7, 's-8)
+appos(ice-melts-4, embrace-9)
+

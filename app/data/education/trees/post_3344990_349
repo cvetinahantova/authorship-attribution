@@ -1,0 +1,11 @@
+root(ROOT-0, urlLink-1)
+nn(board-4, Dry-2)
+nn(board-4, Marker-3)
+dobj(urlLink-1, board-4)
+prep(board-4, at-5)
+pobj(at-5, front-6)
+prep(front-6, of-7)
+amod(classroom-9, new-8)
+pobj(of-7, classroom-9)
+dep(urlLink-1, urlLink-11)
+

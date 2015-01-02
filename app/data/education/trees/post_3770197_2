@@ -1,0 +1,7 @@
+nsubj(LOVE-2, I-1)
+root(ROOT-0, LOVE-2)
+dobj(LOVE-2, YOU-3)
+
+nn(urlLink-2, urlLink-1)
+root(ROOT-0, urlLink-2)
+

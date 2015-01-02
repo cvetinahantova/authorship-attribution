@@ -1,0 +1,12 @@
+root(ROOT-0, urlLink-1)
+dobj(urlLink-1, MSNBC-2)
+det(Roots-5, The-4)
+dep(MSNBC-2, Roots-5)
+prep(Roots-5, of-6)
+amod(news-9, Torture-7)
+nn(news-9, mainstream-8)
+pobj(of-6, news-9)
+vmod(news-9, covering-10)
+det(scandel-12, the-11)
+dobj(covering-10, scandel-12)
+

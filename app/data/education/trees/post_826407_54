@@ -1,0 +1,7 @@
+advmod(go-6, Only-1)
+num(lessons-4, Eight-2)
+amod(lessons-4, more-3)
+nsubj(go-6, lessons-4)
+advmod(go-6, too-5)
+root(ROOT-0, go-6)
+

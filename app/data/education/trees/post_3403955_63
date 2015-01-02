@@ -1,0 +1,13 @@
+root(ROOT-0, urlLink-1)
+dobj(urlLink-1, Maggie-2)
+cc(urlLink-1, and-3)
+conj(urlLink-1, yefferey-4)
+dobj(yefferey-4, all-5)
+vmod(all-5, grown-6)
+prt(grown-6, up-7)
+
+nsubj(y-3, Aren-1)
+root(ROOT-0, y-3)
+nsubj(cute-5, they-4)
+xcomp(y-3, cute-5)
+

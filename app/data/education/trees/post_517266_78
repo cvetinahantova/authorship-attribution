@@ -1,0 +1,13 @@
+root(ROOT-0, Indy-1)
+nn(Win-4, Colts-3)
+dep(Indy-1, Win-4)
+prep(Win-4, in-5)
+nn(City-7, Kansas-6)
+pobj(in-5, City-7)
+
+nn(England-2, New-1)
+nsubj(come-6, England-2)
+advmod(we-5, here-4)
+nsubj(come-6, we-5)
+root(ROOT-0, come-6)
+

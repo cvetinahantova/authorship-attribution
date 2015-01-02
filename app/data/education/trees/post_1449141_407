@@ -1,0 +1,7 @@
+nn(AlterNet-2, urlLink-1)
+root(ROOT-0, AlterNet-2)
+dep(AlterNet-2, Economics-4)
+prep(Economics-4, For-5)
+amod(People-7, Real-6)
+pobj(For-5, People-7)
+

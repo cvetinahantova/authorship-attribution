@@ -1,0 +1,13 @@
+nn(truck-4, ant-1)
+nn(truck-4, bite-2)
+nn(truck-4, garbage-3)
+root(ROOT-0, truck-4)
+amod(memory-10, blue-5)
+nn(memory-10, jay-6)
+nn(memory-10, call-7)
+amod(memory-10, silent-8)
+nn(memory-10, screaming-9)
+dep(truck-4, memory-10)
+prep(memory-10, of-11)
+pobj(of-11, her-12)
+

@@ -1,0 +1,17 @@
+nsubj(Check-2, urlLink-1)
+root(ROOT-0, Check-2)
+prt(Check-2, out-3)
+det(carpet-6, the-4)
+amod(carpet-6, shag-5)
+dobj(Check-2, carpet-6)
+prep(carpet-6, on-7)
+det(caterpillar-9, this-8)
+pobj(on-7, caterpillar-9)
+
+advmod('s-5, Dude-1)
+det(70-4, the-3)
+nsubj('s-5, 70-4)
+root(ROOT-0, 's-5)
+dep('s-5, are-6)
+nsubj(are-6, OVER-7)
+

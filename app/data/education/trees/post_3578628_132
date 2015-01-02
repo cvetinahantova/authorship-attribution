@@ -1,0 +1,12 @@
+root(ROOT-0, Help-1)
+rcmod(Help-1, control-2)
+det(population-5, the-3)
+amod(population-5, pet-4)
+dobj(control-2, population-5)
+dep(Help-1, have-7)
+poss(pets-9, your-8)
+dobj(have-7, pets-9)
+dep(have-7, spaded-10)
+cc(spaded-10, or-11)
+conj(spaded-10, neutered-12)
+

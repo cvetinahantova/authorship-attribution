@@ -1,0 +1,5 @@
+nn(Lights-2, Pretty-1)
+nsubj(urlLink-3, Lights-2)
+root(ROOT-0, urlLink-3)
+dobj(urlLink-3, urlLink-4)
+

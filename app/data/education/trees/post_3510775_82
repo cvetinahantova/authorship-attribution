@@ -1,0 +1,14 @@
+nn(sunroof-3, downpour-1)
+amod(sunroof-3, open-2)
+nsubj(RUN-10, sunroof-3)
+vmod(sunroof-3, soaking-4)
+acomp(soaking-4, wet-5)
+advmod(RUN-10, now-6)
+cop(RUN-10, 's-7)
+poss(RUN-10, my-8)
+nn(RUN-10, chance-9)
+root(ROOT-0, RUN-10)
+
+amod(laughter-2, pure-1)
+root(ROOT-0, laughter-2)
+

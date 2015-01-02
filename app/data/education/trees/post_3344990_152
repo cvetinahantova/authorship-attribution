@@ -1,0 +1,12 @@
+nn(Moffitt-2, Jeremy-1)
+root(ROOT-0, Moffitt-2)
+prep(Moffitt-2, with-3)
+poss(Tuba-5, his-4)
+pobj(with-3, Tuba-5)
+prep(Moffitt-2, in-6)
+poss(jacket-9, his-7)
+amod(jacket-9, senior-8)
+pobj(in-6, jacket-9)
+prep(Moffitt-2, in-10)
+pobj(in-10, 2004-11)
+

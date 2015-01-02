@@ -1,0 +1,9 @@
+root(ROOT-0, Visit-1)
+nn(Blogskins-3, urlLink-2)
+dobj(Visit-1, Blogskins-3)
+aux(spiff-5, to-4)
+xcomp(Visit-1, spiff-5)
+prt(spiff-5, up-6)
+poss(blogg-8, your-7)
+dobj(spiff-5, blogg-8)
+

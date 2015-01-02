@@ -1,0 +1,11 @@
+nsubj(with-7, Grace-1)
+conj(Grace-1, Steph-3)
+cc(Grace-1, and-5)
+conj(Grace-1, Katie-6)
+root(ROOT-0, with-7)
+det(Guard-9, a-8)
+pobj(with-7, Guard-9)
+
+nn(urlLink-2, urlLink-1)
+root(ROOT-0, urlLink-2)
+

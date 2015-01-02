@@ -1,0 +1,10 @@
+nsubj(looking-4, Here-1)
+aux(looking-4, s-3)
+root(ROOT-0, looking-4)
+prep(looking-4, at-5)
+pobj(at-5, you-6)
+advmod(looking-4, babe-7)
+
+nn(urlLink-2, urlLink-1)
+root(ROOT-0, urlLink-2)
+

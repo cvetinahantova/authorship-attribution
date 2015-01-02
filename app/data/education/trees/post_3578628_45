@@ -1,0 +1,13 @@
+nn(Babe-2, urlLink-1)
+nsubjpass(seen-11, Babe-2)
+prep(Babe-2, of-3)
+det(Taylor-8, the-4)
+nn(Taylor-8, Week-5)
+nn(Taylor-8, Christine-7)
+pobj(of-3, Taylor-8)
+aux(seen-11, can-9)
+auxpass(seen-11, be-10)
+root(ROOT-0, seen-11)
+prep(seen-11, in-12)
+pobj(in-12, Dodgeball-13)
+

@@ -1,0 +1,11 @@
+dep(am-4, urlLink-1)
+advmod(urlLink-1, Here-2)
+nsubj(am-4, I-3)
+root(ROOT-0, am-4)
+
+nsubj(taken-2, Photo-1)
+root(ROOT-0, taken-2)
+prep(taken-2, in-3)
+poss(office-5, my-4)
+pobj(in-3, office-5)
+

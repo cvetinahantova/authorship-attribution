@@ -1,0 +1,18 @@
+nn(Contractopoly-2, urlLink-1)
+root(ROOT-0, Contractopoly-2)
+nn(Progress-7, Center-4)
+amod(Progress-7, for-5)
+nn(Progress-7, American-6)
+nsubj(Play-8, Progress-7)
+dep(Contractopoly-2, Play-8)
+det(game-10, the-9)
+nsubj(Iraq-12, game-10)
+nn(Iraq-12, Rebuild-11)
+xcomp(Play-8, Iraq-12)
+
+root(ROOT-0, Win-1)
+dobj(Win-1, Billions-2)
+
+nn(Contractopoly-2, Play-1)
+root(ROOT-0, Contractopoly-2)
+

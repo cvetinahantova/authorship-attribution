@@ -1,0 +1,8 @@
+root(ROOT-0, urlLink-1)
+det(cute-4, Another-2)
+advmod(cute-4, too-3)
+dobj(urlLink-1, cute-4)
+appos(cute-4, Joey-6)
+cc(Joey-6, and-7)
+conj(Joey-6, Rick-8)
+

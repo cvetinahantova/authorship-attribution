@@ -1,0 +1,13 @@
+root(ROOT-0, urlLink-1)
+nn(Trainer-5, Performa-2)
+num(Trainer-5, 545E-3)
+nn(Trainer-5, Elliptical-4)
+dobj(urlLink-1, Trainer-5)
+vmod(Trainer-5, purchased-6)
+prep(purchased-6, from-7)
+pobj(from-7, Goodwill-8)
+prep(purchased-6, for-9)
+pobj(for-9, $-10)
+num($-10, 4.99-11)
+vmod($-10, urlLink-12)
+

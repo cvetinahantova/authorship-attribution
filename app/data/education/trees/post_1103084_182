@@ -1,0 +1,33 @@
+
+prep(...-6, on-1)
+pobj(on-1, simmmer-2)
+
+advmod(y'-4, alls-1)
+advmod(y'-4, well-2)
+root(ROOT-0, y'-4)
+dobj(y'-4, all-5)
+
+nsubj(travelling-4, i-1)
+aux(travelling-4, 'm-2)
+advmod(travelling-4, just-3)
+root(ROOT-0, travelling-4)
+prep(travelling-4, for-5)
+det(days-9, the-6)
+amod(days-9, next-7)
+num(days-9, six-8)
+pobj(for-5, days-9)
+
+det(burner-3, the-1)
+amod(burner-3, back-2)
+nsubj(resume-5, burner-3)
+aux(resume-5, will-4)
+root(ROOT-0, resume-5)
+poss(cookin-9, its-6)
+advmod(scheduled-8, regularly-7)
+amod(cookin-9, scheduled-8)
+dobj(resume-5, cookin-9)
+prep(resume-5, next-11)
+pobj(next-11, monday-12)
+cc(monday-12, or-13)
+conj(monday-12, tuesday-14)
+

@@ -1,0 +1,36 @@
+nsubj(decided-2, =-RRB--1)
+root(ROOT-0, decided-2)
+aux(get-4, to-3)
+xcomp(decided-2, get-4)
+det(blog-7, a-5)
+amod(blog-7, new-6)
+dobj(get-4, blog-7)
+
+det(new-3, a-1)
+amod(new-3, fresh-2)
+nsubj(start-4, new-3)
+root(ROOT-0, start-4)
+
+nsubj(start-3, I-1)
+aux(start-3, 'll-2)
+root(ROOT-0, start-3)
+xcomp(start-3, using-4)
+det(tml-7, this-5)
+amod(tml-7, blog-6)
+dobj(using-4, tml-7)
+
+nn(Hopey-2, :-RRB--1)
+nsubj(visit-6, Hopey-2)
+nsubj(peeps-4, you-3)
+rcmod(Hopey-2, peeps-4)
+aux(visit-6, will-5)
+root(ROOT-0, visit-6)
+dobj(visit-6, me-7)
+advmod(too-9, here-8)
+advmod(visit-6, too-9)
+
+root(ROOT-0, take-1)
+dobj(take-1, care-2)
+
+root(ROOT-0, nites-1)
+

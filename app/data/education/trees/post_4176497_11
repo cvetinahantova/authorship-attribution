@@ -1,0 +1,12 @@
+root(ROOT-0, urlLink-1)
+dobj(urlLink-1, Bridge-2)
+prep(Bridge-2, over-3)
+amod(waters-5, sacred-4)
+pobj(over-3, waters-5)
+
+root(ROOT-0, Greg-1)
+cc(Greg-1, and-2)
+conj(Greg-1, Lisa-3)
+prep(Greg-1, in-4)
+pobj(in-4, foreground-5)
+

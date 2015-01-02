@@ -1,0 +1,8 @@
+root(ROOT-0, Cupcakes-1)
+prep(Cupcakes-1, from-2)
+det(urlLink-7, the-3)
+nn(urlLink-7, urlLink-4)
+nn(urlLink-7, Cupcake-5)
+nn(urlLink-7, Shoppe-6)
+pobj(from-2, urlLink-7)
+

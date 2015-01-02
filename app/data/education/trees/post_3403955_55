@@ -1,0 +1,7 @@
+nn(Bryan-3, urlLink-1)
+nn(Bryan-3, Hippie-2)
+root(ROOT-0, Bryan-3)
+det(urlLink-7, all-5)
+amod(urlLink-7, smiles-6)
+dep(Bryan-3, urlLink-7)
+

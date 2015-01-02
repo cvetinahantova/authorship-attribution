@@ -1,0 +1,11 @@
+root(ROOT-0, urlLink-1)
+nn(Disease-6, Diet-2)
+cc(Disease-6, and-3)
+conj(Disease-6, Alzheimer-4)
+possessive(Alzheimer-4, 's-5)
+dobj(urlLink-1, Disease-6)
+dobj(Shows-11, What-8)
+det(Evidence-10, the-9)
+nsubj(Shows-11, Evidence-10)
+rcmod(Disease-6, Shows-11)
+

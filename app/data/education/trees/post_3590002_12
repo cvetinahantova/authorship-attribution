@@ -1,0 +1,10 @@
+nn(classroom-2, urlLink-1)
+nsubj(urlLink-11, classroom-2)
+mark(seen-5, as-4)
+dep(classroom-2, seen-5)
+prep(seen-5, from-6)
+poss(desk-9, teacher-7)
+possessive(teacher-7, 's-8)
+pobj(from-6, desk-9)
+root(ROOT-0, urlLink-11)
+

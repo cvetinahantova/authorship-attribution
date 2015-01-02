@@ -1,0 +1,13 @@
+root(ROOT-0, urlLink-1)
+nsubj(need-9, Haiti-2)
+advmod(chaos-4, More-3)
+dep(need-9, chaos-4)
+prep(chaos-4, more-5)
+nn(Questions-7, questions-6)
+pobj(more-5, Questions-7)
+nsubj(need-9, that-8)
+xcomp(urlLink-1, need-9)
+aux(ansnwered-12, to-10)
+auxpass(ansnwered-12, be-11)
+xcomp(need-9, ansnwered-12)
+

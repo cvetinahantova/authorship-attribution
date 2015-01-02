@@ -1,0 +1,6 @@
+root(ROOT-0, urlLink-1)
+dobj(urlLink-1, Thought-2)
+prep(Thought-2, for-3)
+det(day-5, the-4)
+pobj(for-3, day-5)
+

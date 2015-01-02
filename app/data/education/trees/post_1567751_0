@@ -1,0 +1,6 @@
+nsubj(trying-3, I-1)
+aux(trying-3, am-2)
+root(ROOT-0, trying-3)
+dobj(trying-3, this-4)
+prt(trying-3, out-5)
+

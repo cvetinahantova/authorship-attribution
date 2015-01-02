@@ -1,0 +1,14 @@
+root(ROOT-0, Flowers-1)
+prep(Flowers-1, on-2)
+poss(home-5, my-3)
+nn(home-5, way-4)
+pobj(on-2, home-5)
+advmod(home-5, just-7)
+prep(Flowers-1, near-8)
+det(station-11, the-9)
+nn(station-11, train-10)
+pobj(near-8, station-11)
+
+nn(urlLink-2, urlLink-1)
+root(ROOT-0, urlLink-2)
+

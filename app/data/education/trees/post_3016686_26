@@ -1,0 +1,22 @@
+nn(Magazine-2, Q-1)
+nsubj(has-3, Magazine-2)
+root(ROOT-0, has-3)
+det(database-5, a-4)
+dobj(has-3, database-5)
+prep(database-5, of-6)
+nn(reviews-8, record-7)
+pobj(of-6, reviews-8)
+prep(reviews-8, online-9)
+dep(online-9, now-10)
+
+nsubj(good-4, It-1)
+cop(good-4, 's-2)
+advmod(good-4, pretty-3)
+root(ROOT-0, good-4)
+
+nsubj(darklings-6, Access-1)
+nsubj(urlLink-3, it-2)
+parataxis(darklings-6, urlLink-3)
+advmod(urlLink-3, here-4)
+root(ROOT-0, darklings-6)
+

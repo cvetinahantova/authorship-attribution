@@ -1,0 +1,13 @@
+root(ROOT-0, urlLink-1)
+dobj(urlLink-1, Picture-2)
+vmod(Picture-2, taken-3)
+prep(taken-3, of-4)
+pobj(of-4, Katy-5)
+cc(Katy-5, and-6)
+conj(Katy-5, I-7)
+tmod(taken-3, tonight-8)
+prep(taken-3, with-9)
+det(urlLink-13, the-10)
+nn(urlLink-13, webcam-11)
+pobj(with-9, urlLink-13)
+

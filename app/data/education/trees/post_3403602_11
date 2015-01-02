@@ -1,0 +1,52 @@
+nsubj(fucking-2, You-1)
+root(ROOT-0, fucking-2)
+dobj(fucking-2, fuck-3)
+
+nn(ALESSA-6, Stupid-1)
+nn(ALESSA-6, Fucker-2)
+nn(ALESSA-6, DIE-3)
+nn(ALESSA-6, !!!-4)
+nn(ALESSA-6, xox-5)
+nsubj(Fuck-10, ALESSA-6)
+cc(ALESSA-6, &-7)
+nn(P.S.-9, SCOTTY-8)
+conj(ALESSA-6, P.S.-9)
+root(ROOT-0, Fuck-10)
+dobj(Fuck-10, you-11)
+
+discourse(Kiss-2, Please-1)
+root(ROOT-0, Kiss-2)
+poss(Ass-6, My-3)
+nn(Ass-6, Fucking-4)
+nn(Ass-6, Homosexual-5)
+dobj(Kiss-2, Ass-6)
+
+root(ROOT-0, You-1)
+nn(Son-3, Ugly-2)
+dep(Of-4, Son-3)
+dep(You-1, Of-4)
+det(Bitch-6, A-5)
+pobj(Of-4, Bitch-6)
+
+nsubj(Am-2, I-1)
+root(ROOT-0, Am-2)
+xcomp(Am-2, Going-3)
+aux(Castrate-5, To-4)
+xcomp(Going-3, Castrate-5)
+dobj(Castrate-5, You-6)
+prep(Castrate-5, With-8)
+det(Chainsaw-11, A-9)
+nn(Chainsaw-11, Rusty-10)
+pobj(With-8, Chainsaw-11)
+
+root(ROOT-0, BZZRRT-1)
+
+nn(MMKAY-2, DIE-1)
+root(ROOT-0, MMKAY-2)
+
+nsubj(Arent-3, Delicious-2)
+root(ROOT-0, Arent-3)
+dobj(Arent-3, They-4)
+
+dep(-RRB--2, :D-1)
+

@@ -1,0 +1,9 @@
+root(ROOT-0, urlLink-1)
+dobj(urlLink-1, Thousands-2)
+prep(Thousands-2, of-3)
+pobj(of-3, Doctors-4)
+nn(Plan-8, Endorse-5)
+nn(Plan-8, Universal-6)
+nn(Plan-8, Health-7)
+nsubj(urlLink-1, Plan-8)
+

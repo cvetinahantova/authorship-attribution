@@ -1,0 +1,151 @@
+nsubj(feel-2, I-1)
+dep(Tomorrow-7, feel-2)
+advmod(tired-4, so-3)
+acomp(feel-2, tired-4)
+root(ROOT-0, Tomorrow-7)
+dep(Tomorrow-7, is-8)
+poss(birthday-10, my-9)
+nsubj(is-8, birthday-10)
+nsubj(love-14, you-11)
+aux(love-14, should-12)
+advmod(love-14, all-13)
+rcmod(birthday-10, love-14)
+dobj(love-14, me-15)
+nsubj(bleh-23, I-18)
+aux(bleh-23, 'll-19)
+cop(bleh-23, be-20)
+amod(bleh-23, sixteen-21)
+amod(bleh-23, !!!!!!!!!!-22)
+parataxis(love-14, bleh-23)
+
+
+
+dep(...-10, *-5)
+nsubjpass(...-10, I-6)
+auxpass(...-10, am-7)
+
+
+
+
+
+
+dep(Really-8, *-7)
+dep(...-4, Really-8)
+
+
+
+
+
+
+dep(Really-6, *-5)
+dep(...-3, Really-6)
+
+
+
+
+
+
+dep(Really-8, *-7)
+dep(...-4, Really-8)
+
+
+
+
+
+dep(Really-6, *-5)
+dep(...-3, Really-6)
+
+
+
+
+
+
+dep(Really-8, *-7)
+dep(...-4, Really-8)
+
+
+
+
+
+dep(Bored-6, *-5)
+dep(...-3, Bored-6)
+
+
+
+
+
+
+dep(Trust-8, *-7)
+dep(me-9, Trust-8)
+dep(...-4, me-9)
+
+
+
+
+
+dep(You-6, *-5)
+dep(Have-7, You-6)
+dep(...-3, Have-7)
+
+
+
+
+
+
+dep(Idea-9, *-7)
+neg(Idea-9, No-8)
+dep(...-4, Idea-9)
+
+
+
+
+
+dep(Bored-7, *-5)
+nn(Bored-7, How-6)
+dep(...-3, Bored-7)
+
+
+
+
+
+
+dep(Person-9, *-7)
+det(Person-9, A-8)
+dep(...-4, Person-9)
+
+
+
+
+
+dep(Get-7, *-5)
+nn(Get-7, Can-6)
+dep(...-3, Get-7)
+
+
+
+
+
+
+dep(When-9, *-7)
+advmod(When-9, Especially-8)
+dep(...-4, When-9)
+
+
+
+
+
+dep(...-10, *-5)
+nsubjpass(...-10, They-6)
+auxpass(...-10, Are-7)
+
+
+
+
+
+
+dep(Tired-9, *-7)
+nn(Tired-9, Really-8)
+dep(...-4, Tired-9)
+
+
+

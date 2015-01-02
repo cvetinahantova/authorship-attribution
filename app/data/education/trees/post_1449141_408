@@ -1,0 +1,9 @@
+nn(AlterNet-2, urlLink-1)
+root(ROOT-0, AlterNet-2)
+dep(AlterNet-2, Dispatches-4)
+prep(Dispatches-4, from-5)
+poss(Lines-9, Wal-Mart-6)
+possessive(Wal-Mart-6, 's-7)
+nn(Lines-9, Front-8)
+pobj(from-5, Lines-9)
+

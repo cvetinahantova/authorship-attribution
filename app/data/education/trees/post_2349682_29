@@ -1,0 +1,13 @@
+prep(had-7, Your-1)
+det(thing-4, the-2)
+amod(thing-4, best-3)
+pobj(Your-1, thing-4)
+nsubj(had-7, I-5)
+advmod(had-7, ever-6)
+root(ROOT-0, had-7)
+det(thing-10, the-8)
+amod(thing-10, only-9)
+dobj(had-7, thing-10)
+nsubj(need-12, I-11)
+rcmod(thing-10, need-12)
+

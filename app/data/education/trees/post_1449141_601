@@ -1,0 +1,11 @@
+root(ROOT-0, urlLink-1)
+dobj(urlLink-1, TOMPAINE.com-2)
+nn(War-5, Hiding-4)
+poss(families-9, War-5)
+possessive(War-5, 's-6)
+amod(families-9, Toll-7)
+amod(families-9, military-8)
+nsubj(speak-10, families-9)
+dep(TOMPAINE.com-2, speak-10)
+prt(speak-10, out-11)
+

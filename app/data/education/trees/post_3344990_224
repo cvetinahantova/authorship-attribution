@@ -1,0 +1,12 @@
+root(ROOT-0, urlLink-1)
+nn(Matthew-3, Justin-2)
+dobj(urlLink-1, Matthew-3)
+cc(Matthew-3, and-4)
+conj(Matthew-3, one-5)
+prep(one-5, of-6)
+poss(Awards-9, his-7)
+nn(Awards-9, Awanna-8)
+pobj(of-6, Awards-9)
+num(urlLink-11, 2004-10)
+nsubj(urlLink-1, urlLink-11)
+

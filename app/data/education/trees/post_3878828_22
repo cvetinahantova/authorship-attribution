@@ -1,0 +1,5 @@
+det(urlLink-3, An-1)
+nn(urlLink-3, Irishman-2)
+nsubj(urlLink-4, urlLink-3)
+root(ROOT-0, urlLink-4)
+

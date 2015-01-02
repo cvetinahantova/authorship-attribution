@@ -1,0 +1,10 @@
+aux(decided-3, Have-1)
+neg(decided-3, n't-2)
+root(ROOT-0, decided-3)
+dobj(think-6, what-4)
+nsubj(think-6, I-5)
+ccomp(decided-3, think-6)
+prep(think-6, about-7)
+pobj(about-7, it-8)
+advmod(think-6, yet-9)
+

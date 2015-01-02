@@ -1,0 +1,13 @@
+nn(story-4, Great-1)
+nn(story-4, Chicago-2)
+nn(story-4, Tribune-3)
+nsubj(divides-8, story-4)
+prep(story-4, on-5)
+det(factional-7, the-6)
+pobj(on-5, factional-7)
+root(ROOT-0, divides-8)
+prep(divides-8, in-9)
+det(GOP-12, the-10)
+nn(GOP-12, Illinois-11)
+pobj(in-9, GOP-12)
+

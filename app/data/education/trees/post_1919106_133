@@ -1,0 +1,15 @@
+advmod(urlLink-7, Anatomy-1)
+prep(urlLink-7, of-2)
+det(fart-4, a-3)
+pobj(of-2, fart-4)
+advmod(urlLink-7, Yes-5)
+root(ROOT-0, urlLink-7)
+mark('s-9, that-8)
+ccomp(urlLink-7, 's-9)
+dobj(said-12, what-10)
+nsubj(said-12, I-11)
+ccomp('s-9, said-12)
+
+root(ROOT-0, With-1)
+pobj(With-1, pictures-2)
+

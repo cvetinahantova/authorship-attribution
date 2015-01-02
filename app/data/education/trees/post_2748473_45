@@ -1,0 +1,20 @@
+ccomp(freaked-6, urlLink-1)
+amod(Yeah-3, http://www.optillusions.com/dp/1-41.htm-2)
+dobj(urlLink-1, Yeah-3)
+nsubj(freaked-6, this-5)
+root(ROOT-0, freaked-6)
+dobj(freaked-6, me-7)
+prt(freaked-6, out-8)
+
+root(ROOT-0, Love-1)
+nsubj(all-3, you-2)
+xcomp(Love-1, all-3)
+
+root(ROOT-0, Gim-1)
+nsubj(call-4, me-2)
+det(call-4, a-3)
+xcomp(Gim-1, call-4)
+prep(call-4, for-5)
+nn(weekend-7, tha-6)
+pobj(for-5, weekend-7)
+

@@ -1,0 +1,12 @@
+nsubj(know-2, I-1)
+root(ROOT-0, know-2)
+nsubj(beat-5, I-3)
+aux(beat-5, can-4)
+ccomp(know-2, beat-5)
+dobj(beat-5, you-6)
+prep(beat-5, at-7)
+nn(Euchre-9, computer-8)
+pobj(at-7, Euchre-9)
+cc(Euchre-9, and-10)
+conj(Euchre-9, cribbage-11)
+

@@ -1,0 +1,12 @@
+nsubj(Kim-2, urlLink-1)
+root(ROOT-0, Kim-2)
+det(picture-4, the-3)
+dobj(Kim-2, picture-4)
+prep(picture-4, of-5)
+pobj(of-5, style-6)
+cc(style-6, and-7)
+conj(style-6, grace-8)
+prep(Kim-2, on-9)
+nn(skates-11, roller-10)
+pobj(on-9, skates-11)
+

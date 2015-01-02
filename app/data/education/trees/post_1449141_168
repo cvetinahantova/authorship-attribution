@@ -1,0 +1,12 @@
+root(ROOT-0, Talk-1)
+prep(Talk-1, about-2)
+det(picture-4, a-3)
+pobj(about-2, picture-4)
+nsubj(worth-7, that-5)
+cop(worth-7, is-6)
+rcmod(picture-4, worth-7)
+quantmod(million-9, a-8)
+num(words/dollars/jobs-10, million-9)
+dep(worth-7, words/dollars/jobs-10)
+dep(Talk-1, http://www.bushwatch.com/deficit.jpg-12)
+

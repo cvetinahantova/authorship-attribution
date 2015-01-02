@@ -1,0 +1,10 @@
+nsubj(made-2, I-1)
+root(ROOT-0, made-2)
+det(lasagne-4, a-3)
+dobj(made-2, lasagne-4)
+tmod(made-2, yesterday-5)
+
+nsubj(all-3, That-1)
+cop(all-3, is-2)
+root(ROOT-0, all-3)
+

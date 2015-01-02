@@ -1,0 +1,6 @@
+root(ROOT-0, Retreat-1)
+prep(Retreat-1, at-2)
+nn(Update-5, Palm-3)
+nn(Update-5, Springs-4)
+pobj(at-2, Update-5)
+

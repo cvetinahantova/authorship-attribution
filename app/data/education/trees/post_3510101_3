@@ -1,0 +1,24 @@
+nsubj(Dot-3, This-1)
+cop(Dot-3, is-2)
+root(ROOT-0, Dot-3)
+vmod(Dot-3, looking-5)
+prt(looking-5, up-6)
+prep(looking-5, at-7)
+poss(masters-9, her-8)
+pobj(at-7, masters-9)
+
+root(ROOT-0, lol-1)
+
+nsubj(looking-3, Dot-1)
+aux(looking-3, is-2)
+root(ROOT-0, looking-3)
+prt(looking-3, up-4)
+prep(looking-3, at-5)
+pobj(at-5, Hannah-6)
+cc(Hannah-6, and-7)
+poss(friend-9, her-8)
+conj(Hannah-6, friend-9)
+
+nn(urlLink-2, urlLink-1)
+root(ROOT-0, urlLink-2)
+

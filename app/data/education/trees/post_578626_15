@@ -1,0 +1,6 @@
+root(ROOT-0, urlLink-1)
+nsubj(love-3, I-2)
+ccomp(urlLink-1, love-3)
+det(guys-5, these-4)
+dobj(love-3, guys-5)
+

@@ -1,0 +1,16 @@
+nn(Retreat-4, urlLink-1)
+nn(Retreat-4, US-2)
+nn(Retreat-4, Officials-3)
+root(ROOT-0, Retreat-4)
+nn(Subpoenas-7, Withdraw-6)
+dep(Retreat-4, Subpoenas-7)
+prep(Subpoenas-7, on-8)
+nn(Blinked-14, Iowa-9)
+nn(Blinked-14, Peace-10)
+nn(Blinked-14, Activists-11)
+nn(Blinked-14, The-12)
+nn(Blinked-14, Govt-13)
+pobj(on-8, Blinked-14)
+
+root(ROOT-0, yes-1)
+

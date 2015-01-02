@@ -1,0 +1,11 @@
+nsubj(wanted-3, Hello-1)
+advmod(wanted-3, Just-2)
+root(ROOT-0, wanted-3)
+aux(say-5, to-4)
+xcomp(wanted-3, say-5)
+nsubj(post-11, This-7)
+cop(post-11, is-8)
+det(post-11, the-9)
+amod(post-11, 96th-10)
+parataxis(wanted-3, post-11)
+

@@ -1,0 +1,15 @@
+det(Riot-5, The-1)
+amod(Riot-5, new-2)
+nn(Riot-5, CD-3)
+nn(Riot-5, urlLink-4)
+nsubj(hear-10, Riot-5)
+prep(Riot-5, on-6)
+det(Street-9, an-7)
+amod(Street-9, Empty-8)
+pobj(on-6, Street-9)
+root(ROOT-0, hear-10)
+dobj(hear-10, it-11)
+
+root(ROOT-0, dig-1)
+dobj(dig-1, it-2)
+

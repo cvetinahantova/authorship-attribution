@@ -1,0 +1,22 @@
+root(ROOT-0, Made-1)
+prep(Made-1, from-2)
+number(%-4, 100-3)
+amod(fibers-6, %-4)
+amod(fibers-6, recycled-5)
+pobj(from-2, fibers-6)
+
+root(ROOT-0, Minimum-1)
+number(%-3, 40-2)
+amod(material-5, %-3)
+amod(material-5, post-consumer-4)
+dobj(Minimum-1, material-5)
+
+neg(bleach-2, No-1)
+nsubjpass(used-4, bleach-2)
+auxpass(used-4, was-3)
+root(ROOT-0, used-4)
+aux(make-6, to-5)
+xcomp(used-4, make-6)
+det(napkin-8, this-7)
+dobj(make-6, napkin-8)
+

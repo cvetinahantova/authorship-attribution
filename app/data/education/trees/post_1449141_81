@@ -1,0 +1,8 @@
+root(ROOT-0, urlLink-1)
+nn(Helpful-3, Memantine-2)
+dobj(urlLink-1, Helpful-3)
+prep(Helpful-3, in-4)
+poss(Disease-7, Alzheimer-5)
+possessive(Alzheimer-5, 's-6)
+pobj(in-4, Disease-7)
+

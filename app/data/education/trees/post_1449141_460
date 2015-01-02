@@ -1,0 +1,13 @@
+root(ROOT-0, urlLink-1)
+dobj(urlLink-1, Center-2)
+prep(Center-2, for-3)
+nn(Economic-12, American-4)
+nn(Economic-12, Progress-5)
+nn(History-8, Heed-7)
+poss(Lessons-10, History-8)
+possessive(History-8, 's-9)
+dep(Economic-12, Lessons-10)
+pobj(for-3, Economic-12)
+nn(matters-14, stability-13)
+nsubj(urlLink-1, matters-14)
+

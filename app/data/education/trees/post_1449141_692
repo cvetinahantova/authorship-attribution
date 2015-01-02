@@ -1,0 +1,34 @@
+root(ROOT-0, urlLink-1)
+dobj(urlLink-1, CorpWatch.org-2)
+
+
+root(ROOT-0, Press-1)
+
+
+root(ROOT-0, CorpWatch-1)
+
+
+root(ROOT-0, Releases-1)
+
+
+nn(Launched-5, New-1)
+nn(Launched-5, War-2)
+nn(Launched-5, Profiteer-3)
+nn(Launched-5, Website-4)
+root(ROOT-0, Launched-5)
+prep(Launched-5, on-6)
+pobj(on-6, Anniversary-7)
+prep(Launched-5, of-8)
+nn(Examine-11, Iraq-9)
+nn(Examine-11, Invasion-10)
+pobj(of-8, Examine-11)
+det(Complex-15, the-12)
+nn(Complex-15, Military-13)
+nn(Complex-15, Industrial-14)
+dep(Examine-11, Complex-15)
+prep(Launched-5, from-16)
+det(creators-18, the-17)
+pobj(from-16, creators-18)
+prep(creators-18, of-19)
+pobj(of-19, corpwatch-20)
+

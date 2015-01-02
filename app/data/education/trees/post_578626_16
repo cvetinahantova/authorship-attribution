@@ -1,0 +1,7 @@
+root(ROOT-0, urlLink-1)
+nsubj(cute-6, They-2)
+cop(cute-6, 're-3)
+advmod(cute-6, just-4)
+advmod(cute-6, so-5)
+ccomp(urlLink-1, cute-6)
+

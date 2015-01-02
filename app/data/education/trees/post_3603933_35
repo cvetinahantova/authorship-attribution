@@ -1,0 +1,7 @@
+root(ROOT-0, urlLink-1)
+dobj(urlLink-1, Checkin-2)
+prt(urlLink-1, out-3)
+det(crop-6, the-4)
+nn(crop-6, wine-5)
+nsubj(urlLink-1, crop-6)
+

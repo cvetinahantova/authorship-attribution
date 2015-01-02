@@ -1,0 +1,13 @@
+root(ROOT-0, urlLink-1)
+advmod(urlLink-1, Now-2)
+nsubj(know-4, I-3)
+ccomp(urlLink-1, know-4)
+dobj(want-7, what-5)
+nsubj(want-7, I-6)
+ccomp(know-4, want-7)
+prep(want-7, for-8)
+pobj(for-8, Christmas-9)
+det(year-11, this-10)
+dep(Christmas-9, year-11)
+dep(urlLink-1, urlLink-13)
+

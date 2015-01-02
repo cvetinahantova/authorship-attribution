@@ -1,0 +1,13 @@
+root(ROOT-0, urlLink-1)
+det(Himself-10, The-2)
+nn(Himself-10, Onion-3)
+nn(Himself-10, |-4)
+nn(Himself-10, Fed-Up-5)
+nn(Himself-10, Cheney-6)
+nn(Himself-10, Enters-7)
+nn(Himself-10, Presidential-8)
+nn(Himself-10, Race-9)
+nsubj(funny-12, Himself-10)
+advmod(funny-12, Too-11)
+xcomp(urlLink-1, funny-12)
+

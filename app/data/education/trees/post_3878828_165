@@ -1,0 +1,21 @@
+root(ROOT-0, Look-1)
+nsubj(outhouse-6, it-2)
+cop(outhouse-6, s-4)
+det(outhouse-6, an-5)
+ccomp(Look-1, outhouse-6)
+prep(outhouse-6, in-7)
+pobj(in-7, Japan-8)
+
+root(ROOT-0, Well-1)
+det(one-5, a-2)
+amod(one-5, modern-3)
+nn(one-5, day-4)
+dep(Well-1, one-5)
+prep(one-5, in-6)
+det(park-9, the-7)
+amod(park-9, firefly-8)
+pobj(in-6, park-9)
+
+nn(urlLink-2, urlLink-1)
+root(ROOT-0, urlLink-2)
+

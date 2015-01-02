@@ -1,0 +1,13 @@
+nsubj(be-3, everyone-1)
+aux(be-3, will-2)
+root(ROOT-0, be-3)
+prep(be-3, aboard-4)
+det(train-7, the-5)
+amod(train-7, blogging-6)
+pobj(aboard-4, train-7)
+
+nn(Moore-3, urlLink-1)
+nn(Moore-3, Michael-2)
+nsubj(joins-4, Moore-3)
+root(ROOT-0, joins-4)
+

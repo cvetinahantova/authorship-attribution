@@ -1,0 +1,28 @@
+poss(picture-3, My-1)
+amod(picture-3, first-2)
+nsubj(post-4, picture-3)
+root(ROOT-0, post-4)
+
+root(ROOT-0, Ha-1)
+
+nsubj(GENIUS-4, I-1)
+cop(GENIUS-4, am-2)
+det(GENIUS-4, a-3)
+root(ROOT-0, GENIUS-4)
+
+det(web-literate-3, The-2)
+nsubj(feel-5, web-literate-3)
+aux(feel-5, should-4)
+root(ROOT-0, feel-5)
+acomp(feel-5, free-6)
+neg(scoff-9, not-7)
+aux(scoff-9, to-8)
+dep(free-6, scoff-9)
+
+nsubj(have-3, We-1)
+advmod(have-3, all-2)
+root(ROOT-0, have-3)
+aux(start-5, to-4)
+xcomp(have-3, start-5)
+advmod(start-5, somewhere-6)
+

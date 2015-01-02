@@ -1,0 +1,10 @@
+root(ROOT-0, urlLink-1)
+nsubj(man-5, Jimmy-2)
+cop(man-5, is-3)
+det(man-5, the-4)
+ccomp(urlLink-1, man-5)
+num(urlLink-9, !!-6)
+nn(urlLink-9, NWRLLC-7)
+num(urlLink-9, '03-8)
+nsubj(urlLink-1, urlLink-9)
+

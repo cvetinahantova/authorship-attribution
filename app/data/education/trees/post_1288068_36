@@ -1,0 +1,9 @@
+dep(laughter-3, *-1)
+dep(laughter-3, maniacal-2)
+root(ROOT-0, laughter-3)
+amod(slams-7, *-4)
+amod(slams-7, *-5)
+nn(slams-7, door-6)
+dobj(laughter-3, slams-7)
+dep(laughter-3, *-8)
+

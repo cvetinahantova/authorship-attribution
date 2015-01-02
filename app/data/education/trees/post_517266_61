@@ -1,0 +1,12 @@
+dep(Enjoyed-3, Indy-1)
+root(ROOT-0, Enjoyed-3)
+det(Christmas-6, a-4)
+amod(Christmas-6, wonderful-5)
+dobj(Enjoyed-3, Christmas-6)
+prep(Enjoyed-3, with-7)
+det(family-10, the-8)
+amod(family-10, entire-9)
+pobj(with-7, family-10)
+
+root(ROOT-0, Perfect-1)
+

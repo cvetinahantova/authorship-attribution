@@ -1,0 +1,11 @@
+nsubj(weekend-5, It-1)
+cop(weekend-5, is-2)
+advmod(weekend-5, almost-3)
+det(weekend-5, the-4)
+root(ROOT-0, weekend-5)
+
+nsubj(wait-4, I-1)
+aux(wait-4, ca-2)
+neg(wait-4, n't-3)
+root(ROOT-0, wait-4)
+

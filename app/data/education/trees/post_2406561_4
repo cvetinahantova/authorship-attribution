@@ -1,0 +1,9 @@
+root(ROOT-0, Blog-1)
+
+root(ROOT-0, Right-1)
+dep(Right-1, writing-3)
+prt(writing-3, down-4)
+dobj(writing-3, thoughts-5)
+
+root(ROOT-0, Check-1)
+

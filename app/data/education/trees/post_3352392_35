@@ -1,0 +1,5 @@
+root(ROOT-0, urlLink-1)
+nn(urlLink-4, Dorogawa-2)
+amod(urlLink-4, footbridge-3)
+dobj(urlLink-1, urlLink-4)
+

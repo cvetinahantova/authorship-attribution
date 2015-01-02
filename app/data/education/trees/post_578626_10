@@ -1,0 +1,9 @@
+root(ROOT-0, urlLink-1)
+dobj(urlLink-1, Me-2)
+cc(Me-2, and-3)
+conj(Me-2, Eric-4)
+det(months-7, a-5)
+amod(months-7, couple-6)
+npadvmod(ago-8, months-7)
+advmod(urlLink-1, ago-8)
+

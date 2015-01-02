@@ -1,0 +1,11 @@
+nsubj(shown-4, Andy-1)
+aux(shown-4, has-2)
+advmod(shown-4, just-3)
+root(ROOT-0, shown-4)
+nsubj(urlLink-6, me-5)
+ccomp(shown-4, urlLink-6)
+nn(huh-10, homestarrunner-7)
+nn(huh-10, huh-8)
+nn(huh-10, huh-9)
+dobj(urlLink-6, huh-10)
+

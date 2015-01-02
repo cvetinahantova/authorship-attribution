@@ -1,0 +1,13 @@
+nn(sienes-2, Las-1)
+root(ROOT-0, sienes-2)
+nn(viva-8, templo-4)
+nn(viva-8, de-5)
+nn(viva-8, mi-6)
+nn(viva-8, consciencia-7)
+appos(sienes-2, viva-8)
+nn(vas-12, ¿-10)
+nn(vas-12, la-11)
+dep(sienes-2, vas-12)
+det(robar-14, a-13)
+dep(vas-12, robar-14)
+

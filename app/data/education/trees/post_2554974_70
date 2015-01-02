@@ -1,0 +1,112 @@
+amod(guys-2, Hey-1)
+root(ROOT-0, guys-2)
+
+advmod(sch-3, now-1)
+advmod(sch-3, in-2)
+root(ROOT-0, sch-3)
+
+poss(com-3, my-1)
+nn(com-3, home-2)
+nsubj(kinda-5, com-3)
+cop(kinda-5, is-4)
+root(ROOT-0, kinda-5)
+vmod(kinda-5, busted-6)
+
+aux(access-3, ca-1)
+neg(access-3, n't-2)
+root(ROOT-0, access-3)
+poss(blog-5, my-4)
+dobj(access-3, blog-5)
+prep(access-3, from-6)
+dep(from-6, dere-7)
+
+root(ROOT-0, dunno-1)
+dep(dunno-1, why-2)
+
+amod(crazy-2, kinda-1)
+root(ROOT-0, crazy-2)
+
+csubj(ta-2, got-1)
+root(ROOT-0, ta-2)
+xcomp(ta-2, go-3)
+amod(places-5, other-4)
+dobj(go-3, places-5)
+dep(go-3, 2-6)
+dep(2-6, blog-7)
+dep(2-6, now-8)
+
+root(ROOT-0, haha-1)
+
+root(ROOT-0, ok-1)
+dep(ok-1, well-2)
+
+nsubjpass(pleasent-4, Life-1)
+aux(pleasent-4, has-2)
+auxpass(pleasent-4, been-3)
+root(ROOT-0, pleasent-4)
+advmod(far-6, so-5)
+dep(pleasent-4, far-6)
+
+nn(muscical-4, Watched-1)
+nn(muscical-4, e-2)
+nn(muscical-4, sch-3)
+root(ROOT-0, muscical-4)
+prep(muscical-4, at-5)
+pobj(at-5, cheverons-6)
+advmod(sat-8, last-7)
+vmod(cheverons-6, sat-8)
+
+nsubj(gd-4, it-1)
+cop(gd-4, was-2)
+advmod(gd-4, particularly-3)
+root(ROOT-0, gd-4)
+
+det(actress-2, An-1)
+nsubj(caught-4, actress-2)
+advmod(caught-4, particularly-3)
+root(ROOT-0, caught-4)
+poss(eye-6, my-5)
+dobj(caught-4, eye-6)
+
+root(ROOT-0, Shahani-1)
+dep(Shahani-1, if-3)
+nn(diz-6, ur-4)
+nn(diz-6, reading-5)
+pobj(if-3, diz-6)
+
+nsubj(congrats-2, haha-1)
+root(ROOT-0, congrats-2)
+
+nsubj(great-3, u-1)
+cop(great-3, were-2)
+root(ROOT-0, great-3)
+
+root(ROOT-0, haha-1)
+
+nsubj(got-2, ok-1)
+root(ROOT-0, got-2)
+nsubj(log-4, ta-3)
+ccomp(got-2, log-4)
+prt(log-4, off-5)
+advmod(log-4, now-6)
+
+dep(pple-3, 2-1)
+nsubj(pple-3, many-2)
+root(ROOT-0, pple-3)
+advmod(2-5, here-4)
+dep(pple-3, 2-5)
+dep(2-5, blog-6)
+advmod(blog-6, already-7)
+
+nsubj(breathing-3, Najib-1)
+aux(breathing-3, is-2)
+root(ROOT-0, breathing-3)
+prep(breathing-3, down-4)
+poss(back-6, my-5)
+dep(down-4, back-6)
+dep(back-6, now-7)
+
+root(ROOT-0, Rock-1)
+prep(Rock-1, On-2)
+pobj(On-2, guys-3)
+

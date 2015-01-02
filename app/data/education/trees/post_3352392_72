@@ -1,0 +1,12 @@
+nn(mask-3, urlLink-1)
+nn(mask-3, Noh-2)
+root(ROOT-0, mask-3)
+cc(mask-3, or-5)
+det(face-8, the-7)
+conj(mask-3, face-8)
+prep(face-8, of-9)
+det(urlLink-13, the-10)
+amod(urlLink-13, blog-11)
+nn(urlLink-13, troll-12)
+pobj(of-9, urlLink-13)
+

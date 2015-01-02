@@ -1,0 +1,8 @@
+poss(pen-2, my-1)
+root(ROOT-0, pen-2)
+poss(leaf-5, your-3)
+amod(leaf-5, clean-4)
+dep(pen-2, leaf-5)
+amod(composition-7, future-6)
+dep(pen-2, composition-7)
+

@@ -1,0 +1,8 @@
+root(ROOT-0, urlLink-1)
+amod(jobs-3, White-collar-2)
+dobj(urlLink-1, jobs-3)
+xcomp(urlLink-1, moving-4)
+advmod(moving-4, abroad-5)
+nn(csmonitor.com-7, |-6)
+nsubj(urlLink-1, csmonitor.com-7)
+

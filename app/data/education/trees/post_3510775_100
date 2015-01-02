@@ -1,0 +1,12 @@
+nsubj(has-2, Earth-1)
+root(ROOT-0, has-2)
+amod(allure-4, less-3)
+dobj(has-2, allure-4)
+prep(has-2, to-5)
+det(chandeliers-8, these-6)
+amod(chandeliers-8, mid-air-7)
+pobj(to-5, chandeliers-8)
+prep(chandeliers-8, than-9)
+amod(women-11, long-dressed-10)
+pobj(than-9, women-11)
+

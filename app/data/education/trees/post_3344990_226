@@ -1,0 +1,12 @@
+nn(Dolly-2, urlLink-1)
+nsubj(program-8, Dolly-2)
+cc(Dolly-2, &-3)
+nn(Satterfield-5, Dave-4)
+conj(Dolly-2, Satterfield-5)
+prep(Dolly-2, at-6)
+pobj(at-6, Awanas-7)
+root(ROOT-0, program-8)
+xcomp(program-8, handing-9)
+prt(handing-9, out-10)
+dobj(handing-9, awards-11)
+

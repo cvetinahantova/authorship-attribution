@@ -1,0 +1,9 @@
+det(moustache-3, A-1)
+nn(moustache-3, milk-2)
+root(ROOT-0, moustache-3)
+cc(more-5, and-4)
+num(moustache-3, more-5)
+
+nn(urlLink-2, urlLink-1)
+root(ROOT-0, urlLink-2)
+
