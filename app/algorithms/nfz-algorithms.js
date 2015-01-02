@@ -1,8 +1,9 @@
 var WordFrequency = require('../models/WordFrequency.js');
-var Feature = require('../models/FeatureSet.js');
+var FeatureSet = require('../models/FeatureSet.js');
 
 var nlpAlg = require("./nlp-algorithms");
 var fs = require("fs");
+var fileUtils = require('../utils/files-utils');
 
 var config = require('./config');
 
@@ -125,7 +126,7 @@ var NFZPartition = function(tokenizedText, wordFrequencies, partitionFunction){
     return [naturalFrequencyZones, wordNormalizedOccurrences];
 }
 
-module.exports.constructFeatureSet = function(filename, done){
+var constructFeatureSet = function(filename, done){
     console.log('constructFeatureSet ' + filename);
     fs.readFile(filename, "utf8", function(err, data){
 
@@ -165,5 +166,36 @@ module.exports.constructFeatureSet = function(filename, done){
         else{
             done(err, null);
         }
+    });
+}
+module.exports.constructFeatureSet = constructFeatureSet;
+
+module.exports.constructAllFeatureSets = function(directory, done){
+    var documents = [];
+
+    fileUtils.convertAuthorsFileToDictionary(directory + '/authors', function(authors){
+
+        fileUtils.traverse(directory, function(file, callback){
+
+            constructFeatureSet(directory + '/' + file, function(err, featureSet){
+                if(err){
+                    console.log(err);
+                }
+                else {
+                    var features = new FeatureSet();
+                    features._id = file;
+                    features.features = featureSet;
+                    features.author = authors[file];
+
+                    FeatureSet.create(features);
+
+                    documents.push([featureSet, authors[file]]);
+                }
+                callback();
+            });
+
+        }, function(){
+                done(documents);
+        });
     });
 }
